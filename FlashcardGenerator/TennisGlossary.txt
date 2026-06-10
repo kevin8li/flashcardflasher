@@ -1,0 +1,76 @@
+Unit Tennis | Mandarin | Pinyin | Type | English
+Unit Tennis | 网球 | wǎng qiú | n. | Tennis
+Unit Tennis | 网球运动员 | wǎng qiú yùn dòng yuán | n. | Tennis player
+Unit Tennis | 网球教练 | wǎng qiú jiào liàn | n. | Tennis coach
+Unit Tennis | 网球场 | wǎng qiú chǎng | n. | Tennis court
+Unit Tennis | 网球拍 | wǎng qiú pāi | n. | Tennis racket
+Unit Tennis | 网球发球机 | wǎng qiú fā qiú jī | n. | Tennis machine
+Unit Tennis | 网球机器人 | wǎng qiú jī qì rén | n. | Tennis robot
+Unit Tennis | 智能网球发球机 | zhì néng wǎng qiú fā qiú jī | n. | Smart tennis machine
+Unit Tennis | 发球 | fā qiú | v./n. | Serve
+Unit Tennis | 第一发球 | dì yī fā qiú | n. | First serve
+Unit Tennis | 第二发球 | dì èr fā qiú | n. | Second serve
+Unit Tennis | 正手 | zhèng shǒu | n. | Forehand
+Unit Tennis | 反手 | fǎn shǒu | n. | Backhand
+Unit Tennis | 截击 | jié jī | v./n. | Volley
+Unit Tennis | 上旋球 | shàng xuán qiú | n. | Topspin
+Unit Tennis | 下旋球 | xià xuán qiú | n. | Backspin / Slice
+Unit Tennis | 平击球 | píng jī qiú | n. | Flat shot
+Unit Tennis | 对打 | duì dǎ | v./n. | Rally
+Unit Tennis | 步伐 | bù fá | n. | Footwork
+Unit Tennis | 比赛模拟 | bǐ sài mó nǐ | n. | Match simulation
+Unit Tennis | 训练练习 | xùn liàn liàn xí | n. | Training drill
+Unit Tennis | 球速 | qiú sù | n. | Ball speed
+Unit Tennis | 旋转 | xuán zhuǎn | n. | Ball spin
+Unit Tennis | AI 智能训练 | AI zhì néng xùn liàn | n. | AI-powered training
+Unit Tennis | 机器人技术 | jī qì rén jì shù | n. | Robotics
+Unit Tennis | 体育科技 | tǐ yù kē jì | n. | Sports technology
+Unit Tennis | 自动化 | zì dòng huà | n. | Automation
+Unit Tennis | 手机应用控制 | shǒu jī yìng yòng kòng zhì | n. | Mobile app control
+Unit Tennis | 自定义击球 | zì dìng yì jī qiú | n. | Shot customization
+Unit Tennis | 表现追踪 | biǎo xiàn zhuī zōng | n. | Performance tracking
+Unit Tennis | 数据分析 | shù jù fēn xī | n. | Analytics
+Unit Tennis | 商业拓展 | shāng yè tuò zhǎn | n. | Business development
+Unit Tennis | 市场拓展 | shì chǎng tuò zhǎn | n. | Market expansion
+Unit Tennis | 客户增长 | kè hù zēng zhǎng | n. | Client growth
+Unit Tennis | 合作伙伴关系 | hé zuò huǒ bàn guān xì | n. | Partnership
+Unit Tennis | 品牌发展 | pǐn pái fā zhǎn | n. | Brand growth
+Unit Tennis | 美国市场 | Měi guó shì chǎng | n. | American market
+Unit Tennis | 西方市场 | xī fāng shì chǎng | n. | Western market
+Unit Tennis | 市场战略 | shì chǎng zhàn lüè | n. | Market strategy
+Unit Tennis | 增长战略 | zēng zhǎng zhàn lüè | n. | Growth strategy
+Unit Tennis | 品牌定位 | pǐn pái dìng wèi | n. | Brand positioning
+Unit Tennis | 众筹 | zhòng chóu | n. | Crowdfunding
+Unit Tennis | 众筹活动 | zhòng chóu huó dòng | n. | Crowdfunding campaign
+Unit Tennis | 产品发布 | chǎn pǐn fā bù | n. | Product launch
+Unit Tennis | 早鸟价格 | zǎo niǎo jià gé | n. | Early bird pricing
+Unit Tennis | 支持者 | zhī chí zhě | n. | Backer
+Unit Tennis | 众筹目标金额 | zhòng chóu mù biāo jīn é | n. | Funding goal
+Unit Tennis | 延伸目标 | yán shēn mù biāo | n. | Stretch goal
+Unit Tennis | 预购 | yù gòu | v./n. | Pre-order
+Unit Tennis | 产品原型 | chǎn pǐn yuán xíng | n. | Product prototype
+Unit Tennis | 大规模生产 | dà guī mó shēng chǎn | n. | Mass production
+Unit Tennis | 制造 | zhì zào | v./n. | Manufacturing
+Unit Tennis | 供应链 | gōng yìng liàn | n. | Supply chain
+Unit Tennis | 全球运输 | quán qiú yùn shū | n. | Global shipping
+Unit Tennis | 产品演示 | chǎn pǐn yǎn shì | n. | Product demo
+Unit Tennis | 营销活动 | yíng xiāo huó dòng | n. | Marketing campaign
+Unit Tennis | 品牌知名度 | pǐn pái zhī míng dù | n. | Brand awareness
+Unit Tennis | 网红营销 | wǎng hóng yíng xiāo | n. | Influencer marketing
+Unit Tennis | 社区互动 | shè qū hù dòng | n. | Community engagement
+Unit Tennis | 用户反馈 | yòng hù fǎn kuì | n. | User feedback
+Unit Tennis | 产品评测 | chǎn pǐn píng cè | n. | Product review
+Unit Tennis | 智能体育科技 | zhì néng tǐ yù kē jì | n. | Smart sports technology
+Unit Tennis | AI 网球训练系统 | AI wǎng qiú xùn liàn xì tǒng | n. | AI tennis trainer
+Unit Tennis | 便携式网球发球机 | biàn xié shì wǎng qiú fā qiú jī | n. | Portable tennis machine
+Unit Tennis | 个性化训练 | gè xìng huà xùn liàn | n. | Personalized training
+Unit Tennis | 客户获取 | kè hù huò qǔ | n. | Customer acquisition
+Unit Tennis | 转化率 | zhuǎn huà lǜ | n. | Conversion rate
+Unit Tennis | 销售漏斗 | xiāo shòu lòu dǒu | n. | Sales funnel
+Unit Tennis | 上市战略 | shàng shì zhàn lüè | n. | Launch strategy
+Unit Tennis | 爆红 | bào hóng | v. | Go viral
+Unit Tennis | 产品生态系统 | chǎn pǐn shēng tài xì tǒng | n. | Product ecosystem
+Unit Tennis | 订阅平台 | dìng yuè píng tái | n. | Subscription platform
+Unit Tennis | 智能指导 | zhì néng zhǐ dǎo | n. | Smart coaching
+Unit Tennis | 表现提升 | biǎo xiàn tí shēng | n. | Performance improvement
+Unit Tennis | 运动员发展 | yùn dòng yuán fā zhǎn | n. | Athlete development

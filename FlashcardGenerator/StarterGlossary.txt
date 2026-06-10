@@ -1,0 +1,481 @@
+Word #|Unit|Chinese|Pinyin|Part of Speech|English Meaning|Example Chinese|Example Pinyin|Example English
+1|Unit 1|阿拉伯语|Ālābóyǔ|n.|Arabic (language)||Every next 60 words: Unit 3, Unit 4, etc. Word 121 starts Unit 3.
+2|Unit 1|哎|āi|int.|surprise/dissatisfaction||
+3|Unit 1|哎呀|āiyā|int.|surprise/impatience||
+4|Unit 1|哀求|āiqiú|v.|implore||
+5|Unit 1|挨家挨户|āijiā-āihù|adv.|from door to door||
+6|Unit 1|癌|ái|n.|cancer||
+7|Unit 1|癌症|áizhèng|n.|cancer||
+8|Unit 1|艾滋病|àizībìng|n.|AIDS||
+9|Unit 1|唉|āi|int.|sadness/regret||
+10|Unit 1|爱不释手|àibùshìshǒu|expr.|be fond of sth.||
+11|Unit 1|爱理不理|àilǐ-bùlǐ|expr.|be cool/standoffish||
+12|Unit 1|爱面子|ài miànzi|expr.|care about face||
+13|Unit 1|爱惜|àixī|v.|cherish||
+14|Unit 1|碍事|àishì|v.|be in the way||
+15|Unit 1|安定|āndìng|adj./v.|stable; stabilize||
+16|Unit 1|安抚|ānfǔ|v.|pacify||
+17|Unit 1|安眠药|ānmiányào|n.|sleeping pill||
+18|Unit 1|安宁|ānníng|adj.|peaceful||
+19|Unit 1|安稳|ānwěn|adj.|smooth and steady||
+20|Unit 1|安心|ānxīn|adj.|at ease||
+21|Unit 1|安逸|ānyì|adj.|easy and comfortable||
+22|Unit 1|按键|ànjiàn|n.|button/key||
+23|Unit 1|按理说|ànlǐ shuō|expr.|according to reason||
+24|Unit 1|按说|ànshuō|adv.|ordinarily||
+25|Unit 1|案件|ànjiàn|n.|law case||
+26|Unit 1|暗地里|àndìli|adv.|in secret||
+27|Unit 1|暗杀|ànshā|v.|assassinate||
+28|Unit 1|暗中|ànzhōng|adv.|secretly||
+29|Unit 1|昂贵|ángguì|adj.|expensive||
+30|Unit 1|凹|āo|adj.|concave||
+31|Unit 1|熬|áo|v.|endure; stew||
+32|Unit 1|熬夜|áoyè|v.|stay up late||
+33|Unit 1|傲|ào|adj.|proud||
+34|Unit 1|傲慢|àomàn|adj.|arrogant||
+35|Unit 1|奥秘|àomì|n.|mystery||
+36|Unit 1|奥运会|Àoyùnhuì|n.|Olympic Games||
+37|Unit 1|八卦|bāguà|n.|Eight Trigrams||
+38|Unit 1|巴不得|bābude|v.|be eager to||
+39|Unit 1|扒|bā|v.|pull down/push aside||
+40|Unit 1|芭蕾|bālěi|n.|ballet||
+41|Unit 1|把柄|bǎbǐng|n.|handle; excuse||
+42|Unit 1|把关|bǎguān|v.|check on||
+43|Unit 1|把手|bǎshou|n.|handle/knob||
+44|Unit 1|靶子|bǎzi|n.|target||
+45|Unit 1|坝|bà|n.|dam||
+46|Unit 1|罢免|bàmiǎn|v.|dismiss||
+47|Unit 1|罢休|bàxiū|v.|give up||
+48|Unit 1|霸占|bàzhàn|v.|forcibly occupy||
+49|Unit 1|掰|bāi|v.|break off with fingers||
+50|Unit 1|白白|báibái|adv.|in vain||
+51|Unit 1|百分比|bǎifēnbǐ|n.|percentage||
+52|Unit 1|百合|bǎihé|n.|lily||
+53|Unit 1|百科全书|bǎikē quánshū|n.|encyclopedia||
+54|Unit 1|柏树|bǎishù|n.|cypress||
+55|Unit 1|摆放|bǎifàng|v.|place/lay||
+56|Unit 1|摆平|bǎipíng|v.|treat fairly; handle||
+57|Unit 1|摆设|bǎishè|n.|ornament||
+58|Unit 1|拜会|bàihuì|v.|pay official call||
+59|Unit 1|拜见|bàijiàn|v.|pay formal visit||
+60|Unit 1|拜年|bài//nián|v.|pay New Year call||
+61|Unit 2|拜托|bàituō|v.|request sb. to do sth.||
+62|Unit 2|扳|bān|v.|pull; win back||
+63|Unit 2|颁布|bānbù|v.|promulgate||
+64|Unit 2|颁发|bānfā|v.|issue||
+65|Unit 2|颁奖|bānjiǎng|v.|give out an award||
+66|Unit 2|斑点|bāndiǎn|n.|speckle||
+67|Unit 2|搬迁|bānqiān|v.|relocate||
+68|Unit 2|板块|bǎnkuài|n.|section; plate||
+69|Unit 2|办不到|bànbudào|v.|can't do||
+70|Unit 2|半边天|bànbiāntiān|n.|half the sky||
+71|Unit 2|半场|bànchǎng|n.|half a game||
+72|Unit 2|半岛|bàndǎo|n.|peninsula||
+73|Unit 2|半路|bànlù|n.|half of the way||
+74|Unit 2|半数|bànshù|n.|half the number||
+75|Unit 2|半途而废|bàntú’érfèi|expr.|give up halfway||
+76|Unit 2|半信半疑|bànxìn-bànyí|expr.|not quite convinced||
+77|Unit 2|半真半假|bànzhēn-bànjiǎ|expr.|half true and half false||
+78|Unit 2|扮|bàn|v.|disguise oneself as||
+79|Unit 2|伴|bàn|v./n.|accompany; companion||
+80|Unit 2|伴侣|bànlǚ|n.|partner||
+81|Unit 2|伴随|bànsuí|v.|accompany; follow||
+82|Unit 2|伴奏|bànzòu|v.|accompany with music||
+83|Unit 2|拌|bàn|v.|mix||
+84|Unit 2|帮手|bāngshou|n.|helper||
+85|Unit 2|绑|bǎng|v.|bind||
+86|Unit 2|绑架|bǎngjià|v.|kidnap||
+87|Unit 2|榜样|bǎngyàng|n.|good example||
+88|Unit 2|棒球|bàngqiú|n.|baseball||
+89|Unit 2|磅|bàng|m./n.|pound; scales||
+90|Unit 2|包袱|bāofu|n.|mental burden||
+91|Unit 2|包容|bāoróng|v.|tolerate||
+92|Unit 2|包扎|bāozā|v.|bind up||
+93|Unit 2|剥|bāo/bō|v.|peel||
+94|Unit 2|煲|bāo|n./v.|cooking pot; cook slowly||
+95|Unit 2|饱和|bǎohé|v.|be saturated||
+96|Unit 2|饱满|bǎomǎn|adj.|full of||
+97|Unit 2|宝库|bǎokù|n.|treasury||
+98|Unit 2|宝藏|bǎozàng|n.|treasure||
+99|Unit 2|保管|bǎoguǎn|v./n.|take for safekeeping; storekeeper||
+100|Unit 2|保姆|bǎomǔ|n.|nanny||
+101|Unit 2|保暖|bǎonuǎn|v.|keep warm||
+102|Unit 2|保鲜|bǎoxiān|v.|keep fresh||
+103|Unit 2|保修|bǎoxiū|v.|guarantee free repair||
+104|Unit 2|保佑|bǎoyòu|v.|bless||
+105|Unit 2|保障|bǎozhàng|v./n.|guarantee; assurance||
+106|Unit 2|保质期|bǎozhìqī|n.|shelf life||
+107|Unit 2|保重|bǎozhòng|v.|take care of oneself||
+108|Unit 2|堡垒|bǎolěi|n.|fortress||
+109|Unit 2|报|bào|v.|report||
+110|Unit 2|报仇|bàochóu|v.|take revenge||
+111|Unit 2|报酬|bàochou|n.|remuneration||
+112|Unit 2|报废|bàofèi|v.|discard as useless||
+113|Unit 2|报复|bàofù|v.|retaliate||
+114|Unit 2|报社|bàoshè|n.|newspaper office||
+115|Unit 2|报亭|bàotíng|n.|news kiosk||
+116|Unit 2|报销|bàoxiāo|v.|submit expenses for reimbursement||
+117|Unit 2|抱负|bàofù|n.|ambition||
+118|Unit 2|豹|bào|n.|leopard||
+119|Unit 2|暴风骤雨|bàofēng-zhòuyǔ|n.|violent storm||
+120|Unit 2|暴利|bàolì|n.|sudden huge profits||
+121|Unit 3|暴躁|bàozào|adj.|irritable; bad-tempered||
+122|Unit 3|曝光|bàoguāng|v.|expose; make public||
+123|Unit 3|爆冷门|bào lěngmén|v.|produce an upset; unexpected result||
+124|Unit 3|爆满|bàomǎn|v.|be filled to capacity||
+125|Unit 3|爆竹|bàozhú|n.|firecracker||
+126|Unit 3|卑鄙|bēibǐ|adj.|base; mean; despicable||
+127|Unit 3|悲哀|bēi’āi|adj.|sorrowful; grieved||
+128|Unit 3|悲观|bēiguān|adj.|pessimistic||
+129|Unit 3|悲欢离合|bēihuānlíhé|idiom|joys and sorrows; vicissitudes of life||
+130|Unit 3|悲痛|bēitòng|adj.|grieved; sorrowful||
+131|Unit 3|碑|bēi|n.|stone tablet; stele||
+132|Unit 3|贝壳|bèiké|n.|shell||
+133|Unit 3|备课|bèikè|v.|prepare lessons||
+134|Unit 3|备受|bèishòu|v.|receive a great deal of||
+135|Unit 3|备用|bèiyòng|v./adj.|reserve; standby||
+136|Unit 3|背面|bèimiàn|n.|back side; reverse side||
+137|Unit 3|背叛|bèipàn|v.|betray||
+138|Unit 3|背诵|bèisòng|v.|recite from memory||
+139|Unit 3|被捕|bèibǔ|v.|be arrested||
+140|Unit 3|奔波|bēnbō|v.|rush about; bustle about||
+141|Unit 3|奔赴|bēnfù|v.|rush to; head for||
+142|Unit 3|本分|běnfèn|n./adj.|one's duty; honest and law-abiding||
+143|Unit 3|本能|běnnéng|n.|instinct||
+144|Unit 3|本钱|běnqián|n.|capital||
+145|Unit 3|本色|běnsè|n.|true qualities; natural character||
+146|Unit 3|本性|běnxìng|n.|innate nature||
+147|Unit 3|本意|běnyì|n.|original intention||
+148|Unit 3|本着|běnzhe|prep.|in line with; according to||
+149|Unit 3|奔|bēn|v.|head straight toward; approach||
+150|Unit 3|笨蛋|bèndàn|n.|idiot; fool||
+151|Unit 3|笨重|bènzhòng|adj.|heavy; cumbersome||
+152|Unit 3|崩溃|bēngkuì|v.|collapse; break down||
+153|Unit 3|绷|bēng|v.|pull tight; strain||
+154|Unit 3|绷带|bēngdài|n.|bandage||
+155|Unit 3|蹦|bèng|v.|jump; bounce||
+156|Unit 3|逼近|bījìn|v.|approach; press toward||
+157|Unit 3|逼迫|bīpò|v.|force; compel||
+158|Unit 3|逼真|bīzhēn|adj.|lifelike; vivid||
+159|Unit 3|鼻涕|bítì|n.|snot; nasal mucus||
+160|Unit 3|比比皆是|bǐbǐjiēshì|idiom|can be seen everywhere||
+161|Unit 3|比不上|bǐ bù shàng|v.|not as good as||
+162|Unit 3|比起|bǐqǐ|prep.|compared with||
+163|Unit 3|比试|bǐshì|v.|compete; have a match||
+164|Unit 3|比喻|bǐyù|n./v.|metaphor; compare||
+165|Unit 3|鄙视|bǐshì|v.|despise; look down on||
+166|Unit 3|必不可少|bìbùkěshǎo|adj.|absolutely necessary||
+167|Unit 3|必定|bìdìng|adv.|certainly; surely||
+168|Unit 3|碧绿|bìlǜ|adj.|dark green; emerald green||
+169|Unit 3|弊病|bìbìng|n.|drawback; malpractice||
+170|Unit 3|弊端|bìduān|n.|malpractice; abuse||
+171|Unit 3|壁画|bìhuà|n.|mural||
+172|Unit 3|避难|bìnàn|v.|take refuge||
+173|Unit 3|避暑|bìshǔ|v.|spend the summer away from heat||
+174|Unit 3|边疆|biānjiāng|n.|frontier region||
+175|Unit 3|边界|biānjiè|n.|boundary; border||
+176|Unit 3|边远|biānyuǎn|adj.|remote||
+177|Unit 3|编号|biānhào|n.|serial number||
+178|Unit 3|编剧|biānjù|n.|screenwriter||
+179|Unit 3|编排|biānpái|v.|arrange; choreograph||
+180|Unit 3|编写|biānxiě|v.|write; compile||
+181|Unit Business|阿里巴巴|Ālǐbābā|Proper Noun|Alibaba||
+182|Unit Business|集团|jítuán|n.|group company||
+183|Unit Business|创立|chuànglì|v.|found; establish||
+184|Unit Business|零售|língshòu|v./n.|retail||
+185|Unit Business|截至|jiézhì|prep.|up to; by (a specified time)||
+186|Unit Business|拥有|yōngyǒu|v.|possess; own||
+187|Unit Business|注册|zhùcè|v.|register||
+188|Unit Business|活跃|huóyuè|adj.|active||
+189|Unit Business|占据|zhànjù|v.|occupy; take up||
+190|Unit Business|市场份额|shìchǎng fèn’é|n.|market share||
+191|Unit Business|就业|jiùyè|v.|get a job; obtain employment||
+192|Unit Business|综合|zōnghé|adj.|comprehensive; integrated||
+193|Unit Business|消费者|xiāofèizhě|n.|consumer||
+194|Unit Business|保障|bǎozhàng|v.|guarantee; ensure||
+195|Unit Business|天猫商城|Tiānmāo Shāngchéng|Proper Noun|Tmall||
+196|Unit Business|聚划算|Jùhuásuàn|Proper Noun|Taobao group-purchase platform||
+197|Unit Business|团购|tuángòu|n.|group purchase||
+198|Unit Business|实惠|shíhuì|adj.|economical; affordable||
+199|Unit Business|奇迹|qíjì|n.|miracle||
+200|Unit Business|光棍儿|guānggùnr|n.|bachelor; unmarried man||
+201|Unit Business|狂欢节|kuánghuānjié|n.|carnival||
+202|Unit Business|交易额|jiāoyì’é|n.|turnover; trading volume||
+203|Unit Business|突破|tūpò|v.|break through; exceed||
+204|Unit Business|销售额|xiāoshòu’é|n.|sales volume||
+205|Unit Business|刷新|shuāxīn|v.|break (a record); refresh||
+206|Unit Business|纪录 / 记录|jìlù|n.|record||
+207|Unit Business|覆盖|fùgài|v.|cover; provide coverage||
+208|Unit Business|贡献|gòngxiàn|n./v.|contribution; contribute||
+209|Unit Business|奢侈品|shēchǐpǐn|n.|luxury goods||
+210|Unit Business|护肤品|hùfūpǐn|n.|skincare products||
+211|Unit Business|应有尽有|yīngyǒujìnyǒu|idiom|have everything one could need||
+212|Unit Business|全球化|quánqiúhuà|n.|globalization||
+213|Unit Business|互联网|hùliánwǎng|n.|internet||
+214|Unit Business|智慧|zhìhuì|n.|wisdom; intelligence||
+215|Unit Business|物流|wùliú|n.|logistics||
+216|Unit Business|升级|shēngjí|v.|upgrade||
+217|Unit Business|设备|shèbèi|n.|equipment; device||
+218|Unit Business|高铁|gāotiě|n.|high-speed rail; bullet train||
+219|Unit Business|仓库|cāngkù|n.|warehouse||
+220|Unit Business|包裹|bāoguǒ|n.|parcel; package||
+221|Unit Business|京东|Jīngdōng|Proper Noun|JD.com||
+222|Unit Business|数据|shùjù|n.|data||
+223|Unit Business|电子商务|diànzǐ shāngwù|n.|e-commerce||
+224|Unit Business|领域|lǐngyù|n.|field; domain||
+225|Unit Business|自营|zìyíng|v.|self-operated||
+226|Unit Business|运营|yùnyíng|v.|operate; run a business||
+227|Unit Business|模式|móshì|n.|pattern; model; mode||
+228|Unit Business|摊位|tānwèi|n.|stall; street vendor stand||
+229|Unit Business|忠诚度|zhōngchéngdù|n.|loyalty||
+230|Unit Business|一旦|yídàn|conj.|once; in case||
+231|Unit Business|谈判|tánpàn|v.|negotiate||
+232|Unit Business|效率|xiàolǜ|n.|efficiency||
+233|Unit Business|遥遥领先|yáoyáolǐngxiān|idiom|be far ahead; lead by a large margin||
+1201|Unit 21|腐败|fǔbài||corruption|政治腐败；腐败分子|zhèngzhì fǔbài; fǔbài fènzǐ|political corruption; corrupt elements
+1202|Unit 21|腐化|fǔhuà||corrupt; degenerate|生活腐化；思想腐化|shēnghuó fǔhuà; sīxiǎng fǔhuà|a decadent lifestyle; ideological corruption
+1203|Unit 21|腐烂|fǔlàn||rot|冷藏可以延缓水果腐烂。|lěngcáng kěyǐ yánhuǎn shuǐguǒ fǔlàn|Refrigeration can slow the rotting of fruit.
+1204|Unit 21|腐蚀|fǔshí||corrode|腐蚀金属；思想被腐蚀|fǔshí jīnshǔ; sīxiǎng bèi fǔshí|corrode metal; one's thinking becomes corrupted
+1205|Unit 21|腐朽|fǔxiǔ||rotten; decadent|腐朽的木头；腐朽的生活|fǔxiǔ de mùtou; fǔxiǔ de shēnghuó|rotten wood; decadent life
+1206|Unit 21|付费|fùfèi||pay a fee|付费内容；付费观看|fùfèi nèiróng; fùfèi guānkàn|paid content; pay-per-view
+1207|Unit 21|付款|fùkuǎn||make payment|现金付款；在哪儿付款|xiànjīn fùkuǎn; zài nǎr fùkuǎn|pay in cash; where do I pay?
+1208|Unit 21|负面|fùmiàn||negative|负面新闻；负面影响|fùmiàn xīnwén; fùmiàn yǐngxiǎng|negative news; negative impact
+1209|Unit 21|负有|fùyǒu||bear responsibility|父母对子女负有抚养义务。|fùmǔ duì zǐnǚ fùyǒu fǔyǎng yìwù|Parents have an obligation to raise their children.
+1210|Unit 21|附|fù||attach|最好在简历中附上照片。|zuìhǎo zài jiǎnlì zhōng fù shàng zhàopiàn|Attach a photo to your résumé.
+1211|Unit 21|附带|fùdài||attach; incidental|我给你这笔钱不附带任何条件。|wǒ gěi nǐ zhè bǐ qián bù fùdài rènhé tiáojiàn|This money comes with no conditions.
+1212|Unit 21|附和|fùhè||echo; agree|出声附和；附和别人的意见|chūshēng fùhè; fùhè biérén de yìjiàn|voice agreement; echo others' opinions
+1213|Unit 21|附加|fùjiā||add; append|附加条件；附加手续费|fùjiā tiáojiàn; fùjiā shǒuxùfèi|additional conditions; extra service fee
+1214|Unit 21|附属|fùshǔ||affiliated|这家医院附属于山东大学。|zhè jiā yīyuàn fùshǔ yú Shāndōng Dàxué|This hospital is affiliated with Shandong University.
+1215|Unit 21|赴|fù||go to; attend|赴京；赴会|fù jīng; fù huì|go to Beijing; attend a meeting
+1216|Unit 21|复查|fùchá||follow-up check|复查身体；去医院复查|fùchá shēntǐ; qù yīyuàn fùchá|re-examine one's health; go to the hospital for a follow-up
+1217|Unit 21|复发|fùfā||relapse|旧病复发；无复发可能|jiùbìng fùfā; wú fùfā kěnéng|an old illness relapses; no possibility of recurrence
+1218|Unit 21|复合|fùhé||compound|复合词；复合材料|fùhécí; fùhé cáiliào|compound word; composite material
+1219|Unit 21|复活|fùhuó||revive|复活全球经济活力|fùhuó quánqiú jīngjì huólì|revive global economic vitality
+1220|Unit 21|复兴|fùxīng||rejuvenate|民族复兴；文艺复兴|mínzú fùxīng; wényì fùxīng|national rejuvenation; Renaissance
+1221|Unit 21|复原|fùyuán||recover|被破坏的墙体已经无法复原了。|bèi pòhuài de qiángtǐ yǐjīng wúfǎ fùyuán le|The damaged wall can no longer be restored.
+1222|Unit 21|副作用|fùzuòyòng||side effect|这种药的副作用之一就是爱出汗。|zhè zhǒng yào de fùzuòyòng zhī yī jiù shì ài chūhàn|One side effect is excessive sweating.
+1223|Unit 21|赋予|fùyǔ||endow|赋予重任；赋予权利|fùyǔ zhòngrèn; fùyǔ quánlì|entrust an important task; grant rights
+1224|Unit 21|富含|fùhán||be rich in|富含水分；富含维生素|fùhán shuǐfèn; fùhán wéishēngsù|rich in water; rich in vitamins
+1225|Unit 21|富豪|fùháo||tycoon|大富豪；亿万富豪|dà fùháo; yìwàn fùháo|tycoon; billionaire
+1226|Unit 21|富强|fùqiáng||prosperous and strong|民族富强；使国家富强|mínzú fùqiáng; shǐ guójiā fùqiáng|national prosperity; strengthen the nation
+1227|Unit 21|富翁|fùwēng||millionaire|大富翁；精神富翁|dà fùwēng; jīngshén fùwēng|rich man; spiritually rich person
+1228|Unit 21|富裕|fùyù||affluent|生活富裕；富裕起来|shēnghuó fùyù; fùyù qǐlái|well-off life
+1229|Unit 21|富足|fùzú||abundant|富足的日子；富足的食品供应|fùzú de rìzi; fùzú de shípǐn gōngyìng|abundant life; abundant food supply
+1230|Unit 21|腹部|fùbù||abdomen|腹部肥胖；腹部疼痛|fùbù féipàng; fùbù téngtòng|abdominal obesity; abdominal pain
+1231|Unit 21|腹泻|fùxiè||diarrhea|引起腹泻；出现腹泻的症状|yǐnqǐ fùxiè; chūxiàn fùxiè de zhèngzhuàng|cause diarrhea; diarrhea symptoms
+1232|Unit 21|覆盖|fùgài||cover|覆盖范围；南极大陆长年覆盖着冰雪|fùgài fànwéi; nánjí dàlù chángnián fùgài zhe bīngxuě|coverage; Antarctica is covered by ice
+1233|Unit 21|该|gāi||this; the said|该校；该生|gāi xiào; gāi shēng|the school; the student
+1234|Unit 21|改版|gǎibǎn||revise edition|杂志改版；全面改版|zázhì gǎibǎn; quánmiàn gǎibǎn|magazine redesign
+1235|Unit 21|改编|gǎibiān||adapt|经过改编；把小说改编成电影|jīngguò gǎibiān; bǎ xiǎoshuō gǎibiān chéng diànyǐng|adapt a novel into a movie
+1236|Unit 21|改动|gǎidòng||change|改动了一些词；全面改动|gǎidòng le yìxiē cí; quánmiàn gǎidòng|made some changes
+1237|Unit 21|改革开放|gǎigé kāifàng||Reform and Opening-up|改革开放以来|gǎigé kāifàng yǐlái|since Reform and Opening-up
+1238|Unit 21|改良|gǎiliáng||improve|改良品种；改良制度|gǎiliáng pǐnzhǒng; gǎiliáng zhìdù|improve a variety; reform a system
+1239|Unit 21|改名|gǎimíng||rename|改名换姓；给……改名|gǎimíng huànxìng; gěi ... gǎimíng|change one's name
+1240|Unit 21|改日|gǎirì||another day|改日再来；改日邀请你|gǎirì zàilái; gǎirì yāoqǐng nǐ|come another day
+1241|Unit 21|改为|gǎiwéi||change to|喝咖啡改为喝茶；两年改为三年|hē kāfēi gǎiwéi hē chá; liǎng nián gǎiwéi sān nián|change from coffee to tea
+1242|Unit 21|改邪归正|gǎixié-guīzhèng||turn over a new leaf|他希望改邪归正，过安稳平静的生活。|tā xīwàng gǎixié-guīzhèng, guò ānwěn píngjìng de shēnghuó|He hopes to reform and live peacefully.
+1243|Unit 21|钙|gài||calcium|补钙；钙片|bǔ gài; gài piàn|supplement calcium; calcium tablets
+1244|Unit 21|盖子|gàizi||lid|瓶盖子；盖上盖子|píng gàizi; gài shàng gàizi|bottle cap; put the lid on
+1245|Unit 21|概况|gàikuàng||overview|中国概况；地理概况|Zhōngguó gàikuàng; dìlǐ gàikuàng|overview of China; geographic overview
+1246|Unit 21|概率|gàilǜ||probability|概率为零；赢的概率很大|gàilǜ wéi líng; yíng de gàilǜ hěn dà|probability is zero; high chance of winning
+1247|Unit 21|概论|gàilùn||introduction|《中国文学概论》|Zhōngguó Wénxué Gàilùn|Introduction to Chinese Literature
+1248|Unit 21|干戈|gāngē||warfare|干戈四起；大动干戈|gāngē sì qǐ; dà dòng gāngē|wars break out everywhere; resort to force
+1249|Unit 21|干旱|gānhàn||drought|干旱地区；干旱少雨|gānhàn dìqū; gānhàn shǎo yǔ|arid region; little rainfall
+1250|Unit 21|干燥|gānzào||dry|气候干燥；干燥的皮肤|qìhòu gānzào; gānzào de pífū|dry climate; dry skin
+1251|Unit 21|甘心|gānxīn||be willing|甘心做这件事；不拿到金牌决不甘心|gānxīn zuò zhè jiàn shì; bù nádào jīnpái jué bù gānxīn|willing to do it; won't be satisfied without gold
+1252|Unit 21|肝脏|gānzàng||liver|肝脏功能；检查肝脏|gānzàng gōngnéng; jiǎnchá gānzàng|liver function; examine the liver
+1253|Unit 21|尴尬|gāngà||awkward|表情尴尬；感到尴尬|biǎoqíng gāngà; gǎndào gāngà|awkward expression; feel embarrassed
+1254|Unit 21|赶赴|gǎnfù||rush to|赶赴现场；赶赴灾区|gǎnfù xiànchǎng; gǎnfù zāiqū|rush to the scene; rush to disaster area
+1255|Unit 21|赶往|gǎnwǎng||hurry to|赶往公司；赶往机场|gǎnwǎng gōngsī; gǎnwǎng jīchǎng|hurry to company; hurry to airport
+1256|Unit 21|敢情|gǎnqing||so it turns out|怪不得这么冷，敢情是下雪了。|guàibude zhème lěng, gǎnqing shì xiàxuě le|No wonder it's cold—it snowed.
+1257|Unit 21|感|gǎn||feeling|强烈的责任感；有安全感|qiángliè de zérèngǎn; yǒu ānquángǎn|sense of responsibility; sense of security
+1258|Unit 21|感触|gǎnchù||impression|看了这部电影，我很有感触。|kàn le zhè bù diànyǐng, wǒ hěn yǒu gǎnchù|The movie moved me deeply.
+1259|Unit 21|感恩|gǎn'ēn||be grateful|感恩不尽；不知感恩|gǎn'ēn bù jìn; bù zhī gǎn'ēn|deeply grateful; ungrateful
+1260|Unit 21|感激|gǎnjī||appreciate|很感激他；感激您给我的帮助|hěn gǎnjī tā; gǎnjī nín gěi wǒ de bāngzhù|appreciate him; thank you for your help
+1141|Unit 20|粪便|fènbiàn||excrement and urine|动物粪便；粪便经过发酵等程序可以成为肥料||
+1142|Unit 20|丰富多彩|fēngfù-duōcǎi||rich and varied|生活丰富多彩；丰富多彩的文化||
+1143|Unit 20|丰厚|fēnghòu||rich and generous|收入丰厚；丰厚的礼物||
+1144|Unit 20|丰满|fēngmǎn||plentiful; full|粮食丰满；羽毛丰满||
+1145|Unit 20|丰盛|fēngshèng||rich and abundant|丰盛的晚餐；丰盛的酒席||
+1146|Unit 20|丰硕|fēngshuò||plentiful and substantial|丰硕的果实；成果丰硕||
+1147|Unit 20|风波|fēngbō||disturbance|一场风波；政治风波||
+1148|Unit 20|风采|fēngcǎi||elegant demeanor|迷人的风采；风采动人||
+1149|Unit 20|风餐露宿|fēngcān-lùsù||live rough|风餐露宿的生活；常年风餐露宿||
+1150|Unit 20|风范|fēngfàn||style; bearing|大家风范；领袖风范||
+1151|Unit 20|风风雨雨|fēngfēngyǔyǔ||difficulties and hardships|经历风风雨雨；那些年的风风雨雨||
+1152|Unit 20|风和日丽|fēnghé-rìlì||warm and sunny|风和日丽的好天气||
+1153|Unit 20|风浪|fēnglàng||stormy waves|海上的风浪；人生的风浪||
+1154|Unit 20|风力|fēnglì||wind power|风力发电||
+1155|Unit 20|风流|fēngliú||distinguished and admirable|风流人物；风流才子||
+1156|Unit 20|风貌|fēngmào||scene; appearance|民间艺术的风貌；社会生活的新风貌||
+1157|Unit 20|风气|fēngqì||atmosphere|社会风气；不良风气||
+1158|Unit 20|风情|fēngqíng||local customs; charm|别有一番风情；南国风情||
+1159|Unit 20|风趣|fēngqù||flavor; wit|异国风趣；自然的风趣||
+1160|Unit 20|风沙|fēngshā||wind-borne sand|漫天风沙；挡住风沙||
+1161|Unit 20|风尚|fēngshàng||prevailing custom|社会风尚；流行风尚||
+1162|Unit 20|风水|fēngshuǐ||fengshui|看风水；风水宝地||
+1163|Unit 20|风味|fēngwèi||flavor|风味小吃；家乡风味||
+1164|Unit 20|风雨|fēngyǔ||trials and hardships|风雨大作；经历风雨||
+1165|Unit 20|风云|fēngyún||stormy situation|天有不测风云；风云突变||
+1166|Unit 20|风筝|fēngzheng||kite|放风筝；风筝线||
+1167|Unit 20|封顶|fēngdǐng||top out; cap|大楼封顶；奖金上不封顶||
+1168|Unit 20|封建|fēngjiàn||feudal|封建制度；封建社会||
+1169|Unit 20|封面|fēngmiàn||cover|书的封面；封面人物||
+1170|Unit 20|封锁|fēngsuǒ||blockade|封锁消息；经济封锁||
+1171|Unit 20|疯子|fēngzi||lunatic|一个疯子；像个疯子||
+1172|Unit 20|峰回路转|fēnghuí-lùzhuǎn||take a turn for the better|形势变化峰回路转||
+1173|Unit 20|蜂蜜|fēngmì||honey|蜂蜜水；蜂蜜蛋糕||
+1174|Unit 20|逢|féng||meet|相逢；生不逢时||
+1175|Unit 20|缝|féng||sew|缝衣服；缝伤口||
+1176|Unit 20|缝合|fénghé||suture|缝合伤口||
+1177|Unit 20|讽刺|fěngcì||satirize|讽刺画；讽刺别人||
+1178|Unit 20|凤凰|fènghuáng||phoenix|凤凰是传说中的动物||
+1179|Unit 20|缝|fèng||seam; crack|门缝；见缝插针||
+1180|Unit 20|否决|fǒujué||veto|被否决；全票否决||
+1181|Unit 20|孵化|fūhuà||hatch|人工孵化；孵化小鸡||
+1182|Unit 20|敷|fū||apply; be sufficient|敷药；外敷||
+1183|Unit 20|扶持|fúchí||support|扶持乡村小学建设；大力扶持中小型企业||
+1184|Unit 20|服饰|fúshì||dress; adornment|流行服饰；漂亮的服饰||
+1185|Unit 20|服务器|fúwùqì||server|通信服务器；租用网络服务器||
+1186|Unit 20|服用|fúyòng||take medicine|饭后服用；服用中药||
+1187|Unit 20|俘获|fúhuò||capture|俘获敌人；被俘获||
+1188|Unit 20|俘虏|fúlǔ||captive|交换俘虏；释放俘虏||
+1189|Unit 20|浮力|fúlì||buoyancy|海水的浮力比较大；依靠浮力||
+1190|Unit 20|浮现|fúxiàn||appear in one's mind|浮现在眼前；脸上浮现出笑容||
+1191|Unit 20|浮躁|fúzào||impetuous|浮躁不安；浮躁的心||
+1192|Unit 20|辐射|fúshè||radiate|核辐射；受到辐射||
+1193|Unit 20|福气|fúqì||good fortune|有福气；福气大||
+1194|Unit 20|抚摸|fǔmō||stroke|抚摸着孩子的脸；轻轻抚摸||
+1195|Unit 20|抚恤|fǔxù||console and compensate|抚恤金；抚恤受工伤的人员||
+1196|Unit 20|抚养|fǔyǎng||raise; bring up|抚养孩子长大成人；抚养子女||
+1197|Unit 20|抚养费|fǔyǎngfèi||maintenance|提供抚养费；子女抚养费||
+1198|Unit 20|斧子|fǔzi||axe|一把斧子；用斧子砍||
+1199|Unit 20|俯首|fǔshǒu||bow down; obey|俯首认罪；俯首听命||
+1200|Unit 20|辅导|fǔdǎo||tutor; guide|辅导作业；辅导功课||
+1021|Unit 18|发酵|fājiào|v.|ferment|发酵酒；发酵技术|fājiào jiǔ; fājiào jìshù|fermented wine; fermentation technology
+1022|Unit 18|发掘|fājué|v.|dig; explore|发掘古物；发掘人才|fājué gǔwù; fājué réncái|excavate antiquities; discover talent
+1023|Unit 18|发愣|fālèng|v.|be in a daze|整天发愣；你发什么愣啊|zhěngtiān fālèng; nǐ fā shénme lèng a|be in a daze all day; what are you staring at?
+1024|Unit 18|发脾气|fā píqi|v.|lose one's temper|大发脾气；想发脾气|dà fā píqi; xiǎng fā píqi|lose one's temper badly; feel like losing one's temper
+1025|Unit 18|发起人|fāqǐrén|n.|sponsor; initiator|活动发起人|huódòng fāqǐrén|event organizer
+1026|Unit 18|发热|fārè|v.|have a fever; generate heat|发光发热；额头发热|fāguāng fārè; étóu fārè|give off light and heat; forehead feels hot
+1027|Unit 18|发誓|fāshì|v.|swear|发誓报仇；发过誓|fāshì bàochóu; fā guò shì|swear revenge; have sworn an oath
+1028|Unit 18|发泄|fāxiè|v.|give vent to|发泄不满；发泄怒气|fāxiè bùmǎn; fāxiè nùqì|vent dissatisfaction; vent anger
+1029|Unit 18|发扬|fāyáng|v.|carry forward|发扬乐于助人的精神|fāyáng lèyú zhùrén de jīngshén|carry forward the spirit of helping others
+1030|Unit 18|发扬光大|fāyáng-guāngdà|v.|carry forward and develop|把中华传统文化发扬光大|bǎ Zhōnghuá chuántǒng wénhuà fāyáng guāngdà|carry forward and develop traditional Chinese culture
+1031|Unit 18|发育|fāyù|v.|grow; develop|发育良好；正常发育||
+1032|Unit 18|发源地|fāyuándì|n.|birthplace; source|文明的发源地；黄河的发源地||
+1033|Unit 18|发作|fāzuò|v.|break out|病情发作；药性发作||
+1034|Unit 18|阀门|fámén|n.|valve|打开阀门；控制阀门||
+1035|Unit 18|发型|fàxíng|n.|hairstyle|新发型；发型师||
+1036|Unit 18|帆|fān|n.|sail|船帆；一帆风顺||
+1037|Unit 18|帆船|fānchuán|n.|sailboat|帆船运动；帆船比赛||
+1038|Unit 18|翻番|fānfān|v.|double|速度翻番；收入翻番||
+1039|Unit 18|翻来覆去|fānlái-fùqù|v.|toss about; again and again|翻来覆去睡不着||
+1040|Unit 18|翻天覆地|fāntiān-fùdì|adj.|earth-shaking|翻天覆地的变化||
+1041|Unit 18|凡|fán|adv.|all; any|凡年满二十岁的学生都可以报名||
+1042|Unit 18|烦闷|fánmèn|adj.|moody|心情烦闷；烦闷极了||
+1043|Unit 18|烦恼|fánnǎo|adj./n.|annoyed; worries|十分烦恼；减轻烦恼||
+1044|Unit 18|烦躁|fánzào|adj.|fidgety|感到烦躁；烦躁不安||
+1045|Unit 18|繁华|fánhuá|adj.|thriving|繁华的城市；越来越繁华||
+1046|Unit 18|繁忙|fánmáng|adj.|busy|繁忙的生活；工作繁忙||
+1047|Unit 18|繁体字|fántǐzì|n.|traditional Chinese character|书写繁体字；使用繁体字||
+1048|Unit 18|繁重|fánzhòng|adj.|heavy; burdensome|任务繁重；繁重的劳动||
+1049|Unit 18|反驳|fǎnbó|v.|retort|反驳他的观点||
+1050|Unit 18|反差|fǎnchā|n.|contrast|明暗反差；前后反差很大||
+1051|Unit 18|反常|fǎncháng|adj.|abnormal|天气反常；态度反常|tiānqì fǎncháng; tàidù fǎncháng|abnormal weather; abnormal attitude
+1052|Unit 18|反倒|fǎndào|adv.|instead|他没感谢我，反倒埋怨我|tā méi gǎnxiè wǒ, fǎndào mányuàn wǒ|instead of thanking me, he blamed me
+1053|Unit 18|反感|fǎngǎn|v./adj.|antipathy|让人反感；对他的行为很反感|ràng rén fǎngǎn; duì tā de xíngwéi hěn fǎngǎn|annoying; strongly dislike his behavior
+1054|Unit 18|反过来|fǎn guò lái|adv.|conversely|反过来看；反过来说|fǎn guò lái kàn; fǎn guò lái shuō|look at it the other way; conversely speaking
+1055|Unit 18|反击|fǎnjī|v./n.|counterattack|反击战；有力反击|fǎnjī zhàn; yǒulì fǎnjī|counterattack battle; strong counterattack
+1056|Unit 18|反馈|fǎnkuì|n./v.|feedback|反馈信息；反馈给我们|fǎnkuì xìnxī; fǎnkuì gěi wǒmen|feedback information; give feedback to us
+1057|Unit 18|反面|fǎnmiàn|n.|reverse side|衣服的反面；硬币的正面和反面|yīfu de fǎnmiàn; yìngbì de zhèngmiàn hé fǎnmiàn|reverse side of clothing; heads and tails of a coin
+1058|Unit 18|反思|fǎnsī|v.|reflect|进行反思；反思自己|jìnxíng fǎnsī; fǎnsī zìjǐ|reflect; reflect on oneself
+1059|Unit 18|反弹|fǎntán|v./n.|rebound|价格反弹；股价反弹|jiàgé fǎntán; gǔjià fǎntán|price rebound; stock rebound
+1060|Unit 18|反省|fǎnxǐng|v.|introspect|停职反省；深刻反省|tíngzhí fǎnxǐng; shēnkè fǎnxǐng|suspend oneself for reflection; deeply introspect
+1061|Unit 18|返还|fǎnhuán|v.|return|及时返还；返还押金|jíshí fǎnhuán; fǎnhuán yājīn|return promptly; refund a deposit
+1062|Unit 18|犯愁|fànchóu|v.|worry|为学业犯愁；犯了愁|wèi xuéyè fànchóu; fàn le chóu|worry about studies; become worried
+1063|Unit 18|饭碗|fànwǎn|n.|rice bowl; job|买了几个新的饭碗；丢饭碗|mǎi le jǐ gè xīn de fànwǎn; diū fànwǎn|bought some new bowls; lose one's job
+1064|Unit 18|泛滥|fànlàn|v.|be in flood; run rampant|洪水泛滥；思想泛滥|hóngshuǐ fànlàn; sīxiǎng fànlàn|floods overflow; ideas run rampant
+1065|Unit 18|范畴|fànchóu|n.|category|经济范畴；语法范畴|jīngjì fànchóu; yǔfǎ fànchóu|economic category; grammatical category
+1066|Unit 18|贩卖|fànmài|v.|sell|贩卖水果；贩卖人口|fànmài shuǐguǒ; fànmài rénkǒu|sell fruit; traffic people
+1067|Unit 18|方方面面|fāngfāngmiànmiàn|n.|all aspects|生活的方方面面|shēnghuó de fāngfāngmiànmiàn|all aspects of life
+1068|Unit 18|方向盘|fāngxiàngpán|n.|steering wheel|掌握方向盘；抓住方向盘|zhǎngwò fāngxiàngpán; zhuāzhù fāngxiàngpán|hold the steering wheel
+1069|Unit 18|方言|fāngyán|n.|dialect|说方言；方言区|shuō fāngyán; fāngyán qū|speak a dialect; dialect region
+1070|Unit 18|防盗|fángdào|v./adj.|guard against theft|防火防盗；注意防盗|fánghuǒ fángdào; zhùyì fángdào|guard against fire and theft; pay attention to theft prevention
+1071|Unit 18|防盗门|fángdàomén|n.|anti-theft door|一扇防盗门；打开防盗门|yí shàn fángdàomén; dǎkāi fángdàomén|a security door; open the security door
+1072|Unit 18|防护|fánghù|v./n.|protect|做好防护；防护手套|zuò hǎo fánghù; fánghù shǒutào|take protective measures; protective gloves
+1073|Unit 18|防火墙|fánghuǒqiáng|n.|firewall|森林防火墙；安装防火墙|sēnlín fánghuǒqiáng; ānzhuāng fánghuǒqiáng|firebreak; install a firewall
+1074|Unit 18|防卫|fángwèi|v./n.|defend|正当防卫；防卫行为|zhèngdàng fángwèi; fángwèi xíngwéi|self-defense; defensive action
+1075|Unit 18|防汛|fángxùn|v./n.|prevent flooding|做好防汛工作|zuò hǎo fángxùn gōngzuò|do flood-prevention work well
+1076|Unit 18|防疫|fángyì|v./n.|prevent epidemics|防疫措施；防疫体系|fángyì cuòshī; fángyì tǐxì|epidemic-prevention measures; prevention system
+1077|Unit 18|防御|fángyù|v./n.|defend|积极防御；防御计划|jījí fángyù; fángyù jìhuà|active defense; defense plan
+1078|Unit 18|妨碍|fáng'ài|v.|hinder|妨碍工作；妨碍交通|fáng'ài gōngzuò; fáng'ài jiāotōng|hinder work; obstruct traffic
+1079|Unit 18|妨害|fánghài|v.|impair|妨害健康；妨害植物生长|fánghài jiànkāng; fánghài zhíwù shēngzhǎng|harm health; hinder plant growth
+1080|Unit 18|房地产|fángdìchǎn|n.|real estate|房地产行业；房地产公司|fángdìchǎn hángyè; fángdìchǎn gōngsī|real-estate industry; real-estate company
+1321|Unit 23|个头儿|gètóur|n.|size; height|他个头儿很高，适合打篮球。||He is very tall and is well suited for basketball.
+1322|Unit 23|各奔前程|gè bèn qián chéng|idiom|each pursues his own course|毕业以后，同学们都各奔前程了。||After graduation, the classmates all went their separate ways.
+1323|Unit 23|各式各样|gè shì gè yàng|idiom|of various kinds|商店里有各式各样的衣服。||The store has clothes of all kinds.
+1324|Unit 23|根基|gēnjī|n.|foundation|学习语言要打好根基。||To learn a language well, you must build a solid foundation.
+1325|Unit 23|根深蒂固|gēn shēn dì gù|adj.|ingrained|这种观念已经根深蒂固。||This idea has become deeply ingrained.
+1326|Unit 23|根源|gēnyuán|n.|root; origin|我们要找到问题的根源。||We need to find the root cause of the problem.
+1327|Unit 23|根治|gēnzhì|v.|cure once and for all|医生终于把他的病根治了。||The doctor finally cured his illness completely.
+1328|Unit 23|跟不上|gēn bu shàng|v.|fail to keep pace with|他走得太快，我跟不上。||He walks too fast and I can't keep up with him.
+1329|Unit 23|跟上|gēnshàng|v.|keep pace with|我们要努力跟上时代的步伐。||We should strive to keep up with the times.
+1330|Unit 23|跟踪|gēnzōng|v.|track; follow|警察正在跟踪嫌疑人。||The police are tracking the suspect.
+1331|Unit 23|更改|gēnggǎi|v.|alter; change|我们决定更改计划。||We decided to change the plan.
+1332|Unit 23|更衣室|gēngyīshì|n.|locker room|请到更衣室换衣服。||Please go to the locker room to change clothes.
+1333|Unit 23|耕地|gēngdì|n.|cultivated land|国家重视保护耕地。||The country places great importance on protecting farmland.
+1334|Unit 23|耿直|gěngzhí|adj.|upright; straightforward|他是个耿直的人。||He is an upright and straightforward person.
+1335|Unit 23|工地|gōngdì|n.|construction site|他在工地上工作。||He works at a construction site.
+1336|Unit 23|工会|gōnghuì|n.|labour union|他参加了工会活动。||He participated in union activities.
+1337|Unit 23|工科|gōngkē|n.|engineering major|他大学学的是工科。||He majored in engineering at university.
+1338|Unit 23|工商界|gōngshāngjiè|n.|business community|工商界人士参加了会议。||Members of the business community attended the meeting.
+1339|Unit 23|工序|gōngxù|n.|procedure; process|产品要经过多道工序。||The product must go through many production processes.
+1340|Unit 23|工整|gōngzhěng|adj.|neat|他的字写得很工整。||His handwriting is very neat.
+1341|Unit 23|工作量|gōngzuòliàng|n.|workload|最近工作量很大。||The workload has been heavy recently.
+1342|Unit 23|弓|gōng|n.|bow|他拉开弓准备射箭。||He drew the bow and prepared to shoot an arrow.
+1343|Unit 23|公安局|gōng'ānjú|n.|bureau of public security|他在公安局工作。||He works at the Public Security Bureau.
+1344|Unit 23|公车|gōngchē|n.|public vehicle|公司规定不能私用公车。||Company policy prohibits using official vehicles for personal matters.
+1345|Unit 23|公道|gōngdao|adj.|fair|他做事很公道。||He handles matters fairly.
+1346|Unit 23|公费|gōngfèi|n.|public expense|她获得了公费留学的机会。||She received an opportunity to study abroad at public expense.
+1347|Unit 23|公共场所|gōnggòng chǎngsuǒ|n.|public place|公共场所禁止吸烟。||Smoking is prohibited in public places.
+1348|Unit 23|公关|gōngguān|n.|public relations|她在公关部门工作。||She works in the public relations department.
+1349|Unit 23|公函|gōnghán|n.|official letter|公司收到了一封公函。||The company received an official letter.
+1350|Unit 23|公积金|gōngjījīn|n.|housing provident fund|我用公积金贷款买房。||I used a housing provident fund loan to buy a house.
+1351|Unit 23|公开信|gōngkāixìn|n.|open letter|学生们给校长写了一封公开信。||The students wrote an open letter to the principal.
+1352|Unit 23|公款|gōngkuǎn|n.|public fund|不能挪用公款。||Public funds must not be misappropriated.
+1353|Unit 23|公立|gōnglì|adj.|public|他在一所公立学校读书。||He studies at a public school.
+1354|Unit 23|公墓|gōngmù|n.|cemetery|他们把老人安葬在公墓里。||They buried the elderly man in a cemetery.
+1355|Unit 23|公仆|gōngpú|n.|public servant|公务员是人民的公仆。||Civil servants are servants of the people.
+1356|Unit 23|公顷|gōngqǐng|m.|hectare|一公顷等于一万平方米。||One hectare equals ten thousand square meters.
+1357|Unit 23|公然|gōngrán|adv.|openly|她公然反对经理的决定。||She openly opposed the manager's decision.
+1358|Unit 23|公示|gōngshì|v.|make known to the public|名单已经公示。||The list has been made public.
+1359|Unit 23|公事|gōngshì|n.|official business|他因公事出差去了。||He went on a business trip for official matters.
+1360|Unit 23|公务|gōngwù|n.|official affairs|他正在办理公务。||He is handling official affairs.
+1361|Unit 23|公益|gōngyì|n.|public welfare|那位明星热心公益。||That celebrity is enthusiastic about public welfare.
+1362|Unit 23|公益性|gōngyìxìng|n.|public welfare nature|这个项目具有很强的公益性。||This project has a strong public-welfare character.
+1363|Unit 23|公用|gōngyòng|v.|share; for public use|几家人公用一个厨房。||Several families share one kitchen.
+1364|Unit 23|公寓|gōngyù|n.|apartment|我们租了一套公寓。||We rented an apartment.
+1365|Unit 23|公约|gōngyuē|n.|convention; treaty|各国应遵守国际公约。||Countries should abide by international conventions.
+1366|Unit 23|公证|gōngzhèng|v.|notarize|这份文件需要公证。||This document needs to be notarized.
+1367|Unit 23|公职|gōngzhí|n.|official post|她毕业后担任公职。||She took up a government position after graduation.
+1368|Unit 23|功|gōng|n.|merit; achievement|这次成功他立了大功。||He made a great contribution to this success.
+1369|Unit 23|功臣|gōngchén|n.|hero; major contributor|他是公司的功臣。||He is a major contributor to the company.
+1370|Unit 23|功底|gōngdǐ|n.|foundation; basic training|他的中文功底很扎实。||His foundation in Chinese is very solid.
+1371|Unit 23|功劳|gōngláo|n.|credit|这件事成功了，大家都有功劳。||Everyone deserves credit for the success of this matter.
+1372|Unit 23|功力|gōnglì|n.|ability; skill|这位画家的功力很深。||This painter possesses remarkable skill.
+1373|Unit 23|功率|gōnglǜ|n.|power|这台电器的功率很大。||This appliance has high power consumption.
+1374|Unit 23|功效|gōngxiào|n.|effect; efficacy|医生正在研究新药的功效。||Doctors are studying the effectiveness of the new medicine.
+1375|Unit 23|攻|gōng|v.|attack|敌军开始攻城。||The enemy army began attacking the city.
+1376|Unit 23|攻读|gōngdú|v.|study assiduously|她正在攻读博士学位。||She is pursuing a doctoral degree.
+1377|Unit 23|攻关|gōngguān|v.|tackle a key problem|研究人员正在技术攻关。||Researchers are tackling a key technical problem.
+1378|Unit 23|供|gōng|v.|supply|这家工厂负责供电。||This factory supplies electricity.
+1379|Unit 23|供不应求|gōng bù yìng qiú|idiom|demand exceeds supply|新产品上市后供不应求。||The new product has been unable to meet demand since its release.
+1380|Unit 23|供暖|gōngnuǎn|v.|provide heating|北方冬天集中供暖。||Central heating is provided in northern China during winter.
+1387|Unit 24|共鸣|gòngmíng|v./n.|resonate; resonance|他的观点引起了大家的共鸣；这首歌让我产生了强烈共鸣|tā de guāndiǎn yǐnqǐ le dàjiā de gòngmíng; zhè shǒu gē ràng wǒ chǎnshēng le qiángliè gòngmíng|His viewpoint resonated with everyone; this song created a strong resonance in me.
+1398|Unit 24|构想|gòuxiǎng|v./n.|conceive; concept|他正在构想一个新的商业计划；这个构想很大胆|tā zhèngzài gòuxiǎng yí gè xīn de shāngyè jìhuà; zhège gòuxiǎng hěn dàdǎn|He is conceiving a new business plan; this concept is very bold.
+1404|Unit 24|孤立|gūlì|adj./v.|isolated; isolate|这座村庄非常孤立；他们不应该孤立这个学生|zhè zuò cūnzhuāng fēicháng gūlì; tāmen bù yīnggāi gūlì zhège xuésheng|This village is very isolated; they should not isolate this student.
+1419|Unit 24|骨折|gǔzhé|v./n.|fracture|他的右腿骨折了；医生说这是一次严重的骨折|tā de yòu tuǐ gǔzhé le; yīshēng shuō zhè shì yí cì yánzhòng de gǔzhé|His right leg was fractured; the doctor said this was a serious fracture.
+1421|Unit 24|鼓舞|gǔwǔ|v./adj.|inspire; encouraging|这个消息鼓舞了所有队员；这是一场令人鼓舞的胜利|zhège xiāoxi gǔwǔ le suǒyǒu duìyuán; zhè shì yì chǎng lìng rén gǔwǔ de shènglì|This news inspired all the team members; this was an encouraging victory.
+1424|Unit 24|故|gù|adv./conj.|deliberately; therefore|他故作镇定；天气不好，故比赛取消|tā gùzuò zhèndìng; tiānqì bù hǎo, gù bǐsài qǔxiāo|He deliberately pretended to be calm; the weather was bad, therefore the match was canceled.
+1428|Unit 24|顾虑|gùlǜ|n./v.|concern; consider|他心里有很多顾虑；做决定时要顾虑别人的感受|tā xīnli yǒu hěn duō gùlǜ; zuò juédìng shí yào gùlǜ biérén de gǎnshòu|He has many concerns; when making decisions, one should consider others' feelings.
