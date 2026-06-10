@@ -1,0 +1,60 @@
+1021|Unit 18|发酵|fājiào|v.|ferment|发酵酒；发酵技术|fājiào jiǔ; fājiào jìshù|fermented wine; fermentation technology
+1022|Unit 18|发掘|fājué|v.|dig; explore|发掘古物；发掘人才|fājué gǔwù; fājué réncái|excavate antiquities; discover talent
+1023|Unit 18|发愣|fālèng|v.|be in a daze|整天发愣；你发什么愣啊|zhěngtiān fālèng; nǐ fā shénme lèng a|be in a daze all day; what are you staring at?
+1024|Unit 18|发脾气|fā píqi|v.|lose one's temper|大发脾气；想发脾气|dà fā píqi; xiǎng fā píqi|lose one's temper badly; feel like losing one's temper
+1025|Unit 18|发起人|fāqǐrén|n.|sponsor; initiator|活动发起人|huódòng fāqǐrén|event organizer
+1026|Unit 18|发热|fārè|v.|have a fever; generate heat|发光发热；额头发热|fāguāng fārè; étóu fārè|give off light and heat; forehead feels hot
+1027|Unit 18|发誓|fāshì|v.|swear|发誓报仇；发过誓|fāshì bàochóu; fā guò shì|swear revenge; have sworn an oath
+1028|Unit 18|发泄|fāxiè|v.|give vent to|发泄不满；发泄怒气|fāxiè bùmǎn; fāxiè nùqì|vent dissatisfaction; vent anger
+1029|Unit 18|发扬|fāyáng|v.|carry forward|发扬乐于助人的精神|fāyáng lèyú zhùrén de jīngshén|carry forward the spirit of helping others
+1030|Unit 18|发扬光大|fāyáng-guāngdà|v.|carry forward and develop|把中华传统文化发扬光大|bǎ Zhōnghuá chuántǒng wénhuà fāyáng guāngdà|carry forward and develop traditional Chinese culture
+1031|Unit 18|发育|fāyù|v.|grow; develop|发育良好；正常发育||
+1032|Unit 18|发源地|fāyuándì|n.|birthplace; source|文明的发源地；黄河的发源地||
+1033|Unit 18|发作|fāzuò|v.|break out|病情发作；药性发作||
+1034|Unit 18|阀门|fámén|n.|valve|打开阀门；控制阀门||
+1035|Unit 18|发型|fàxíng|n.|hairstyle|新发型；发型师||
+1036|Unit 18|帆|fān|n.|sail|船帆；一帆风顺||
+1037|Unit 18|帆船|fānchuán|n.|sailboat|帆船运动；帆船比赛||
+1038|Unit 18|翻番|fānfān|v.|double|速度翻番；收入翻番||
+1039|Unit 18|翻来覆去|fānlái-fùqù|v.|toss about; again and again|翻来覆去睡不着||
+1040|Unit 18|翻天覆地|fāntiān-fùdì|adj.|earth-shaking|翻天覆地的变化||
+1041|Unit 18|凡|fán|adv.|all; any|凡年满二十岁的学生都可以报名||
+1042|Unit 18|烦闷|fánmèn|adj.|moody|心情烦闷；烦闷极了||
+1043|Unit 18|烦恼|fánnǎo|adj./n.|annoyed; worries|十分烦恼；减轻烦恼||
+1044|Unit 18|烦躁|fánzào|adj.|fidgety|感到烦躁；烦躁不安||
+1045|Unit 18|繁华|fánhuá|adj.|thriving|繁华的城市；越来越繁华||
+1046|Unit 18|繁忙|fánmáng|adj.|busy|繁忙的生活；工作繁忙||
+1047|Unit 18|繁体字|fántǐzì|n.|traditional Chinese character|书写繁体字；使用繁体字||
+1048|Unit 18|繁重|fánzhòng|adj.|heavy; burdensome|任务繁重；繁重的劳动||
+1049|Unit 18|反驳|fǎnbó|v.|retort|反驳他的观点||
+1050|Unit 18|反差|fǎnchā|n.|contrast|明暗反差；前后反差很大||
+1051|Unit 18|反常|fǎncháng|adj.|abnormal|天气反常；态度反常|tiānqì fǎncháng; tàidù fǎncháng|abnormal weather; abnormal attitude
+1052|Unit 18|反倒|fǎndào|adv.|instead|他没感谢我，反倒埋怨我|tā méi gǎnxiè wǒ, fǎndào mányuàn wǒ|instead of thanking me, he blamed me
+1053|Unit 18|反感|fǎngǎn|v./adj.|antipathy|让人反感；对他的行为很反感|ràng rén fǎngǎn; duì tā de xíngwéi hěn fǎngǎn|annoying; strongly dislike his behavior
+1054|Unit 18|反过来|fǎn guò lái|adv.|conversely|反过来看；反过来说|fǎn guò lái kàn; fǎn guò lái shuō|look at it the other way; conversely speaking
+1055|Unit 18|反击|fǎnjī|v./n.|counterattack|反击战；有力反击|fǎnjī zhàn; yǒulì fǎnjī|counterattack battle; strong counterattack
+1056|Unit 18|反馈|fǎnkuì|n./v.|feedback|反馈信息；反馈给我们|fǎnkuì xìnxī; fǎnkuì gěi wǒmen|feedback information; give feedback to us
+1057|Unit 18|反面|fǎnmiàn|n.|reverse side|衣服的反面；硬币的正面和反面|yīfu de fǎnmiàn; yìngbì de zhèngmiàn hé fǎnmiàn|reverse side of clothing; heads and tails of a coin
+1058|Unit 18|反思|fǎnsī|v.|reflect|进行反思；反思自己|jìnxíng fǎnsī; fǎnsī zìjǐ|reflect; reflect on oneself
+1059|Unit 18|反弹|fǎntán|v./n.|rebound|价格反弹；股价反弹|jiàgé fǎntán; gǔjià fǎntán|price rebound; stock rebound
+1060|Unit 18|反省|fǎnxǐng|v.|introspect|停职反省；深刻反省|tíngzhí fǎnxǐng; shēnkè fǎnxǐng|suspend oneself for reflection; deeply introspect
+1061|Unit 18|返还|fǎnhuán|v.|return|及时返还；返还押金|jíshí fǎnhuán; fǎnhuán yājīn|return promptly; refund a deposit
+1062|Unit 18|犯愁|fànchóu|v.|worry|为学业犯愁；犯了愁|wèi xuéyè fànchóu; fàn le chóu|worry about studies; become worried
+1063|Unit 18|饭碗|fànwǎn|n.|rice bowl; job|买了几个新的饭碗；丢饭碗|mǎi le jǐ gè xīn de fànwǎn; diū fànwǎn|bought some new bowls; lose one's job
+1064|Unit 18|泛滥|fànlàn|v.|be in flood; run rampant|洪水泛滥；思想泛滥|hóngshuǐ fànlàn; sīxiǎng fànlàn|floods overflow; ideas run rampant
+1065|Unit 18|范畴|fànchóu|n.|category|经济范畴；语法范畴|jīngjì fànchóu; yǔfǎ fànchóu|economic category; grammatical category
+1066|Unit 18|贩卖|fànmài|v.|sell|贩卖水果；贩卖人口|fànmài shuǐguǒ; fànmài rénkǒu|sell fruit; traffic people
+1067|Unit 18|方方面面|fāngfāngmiànmiàn|n.|all aspects|生活的方方面面|shēnghuó de fāngfāngmiànmiàn|all aspects of life
+1068|Unit 18|方向盘|fāngxiàngpán|n.|steering wheel|掌握方向盘；抓住方向盘|zhǎngwò fāngxiàngpán; zhuāzhù fāngxiàngpán|hold the steering wheel
+1069|Unit 18|方言|fāngyán|n.|dialect|说方言；方言区|shuō fāngyán; fāngyán qū|speak a dialect; dialect region
+1070|Unit 18|防盗|fángdào|v./adj.|guard against theft|防火防盗；注意防盗|fánghuǒ fángdào; zhùyì fángdào|guard against fire and theft; pay attention to theft prevention
+1071|Unit 18|防盗门|fángdàomén|n.|anti-theft door|一扇防盗门；打开防盗门|yí shàn fángdàomén; dǎkāi fángdàomén|a security door; open the security door
+1072|Unit 18|防护|fánghù|v./n.|protect|做好防护；防护手套|zuò hǎo fánghù; fánghù shǒutào|take protective measures; protective gloves
+1073|Unit 18|防火墙|fánghuǒqiáng|n.|firewall|森林防火墙；安装防火墙|sēnlín fánghuǒqiáng; ānzhuāng fánghuǒqiáng|firebreak; install a firewall
+1074|Unit 18|防卫|fángwèi|v./n.|defend|正当防卫；防卫行为|zhèngdàng fángwèi; fángwèi xíngwéi|self-defense; defensive action
+1075|Unit 18|防汛|fángxùn|v./n.|prevent flooding|做好防汛工作|zuò hǎo fángxùn gōngzuò|do flood-prevention work well
+1076|Unit 18|防疫|fángyì|v./n.|prevent epidemics|防疫措施；防疫体系|fángyì cuòshī; fángyì tǐxì|epidemic-prevention measures; prevention system
+1077|Unit 18|防御|fángyù|v./n.|defend|积极防御；防御计划|jījí fángyù; fángyù jìhuà|active defense; defense plan
+1078|Unit 18|妨碍|fáng'ài|v.|hinder|妨碍工作；妨碍交通|fáng'ài gōngzuò; fáng'ài jiāotōng|hinder work; obstruct traffic
+1079|Unit 18|妨害|fánghài|v.|impair|妨害健康；妨害植物生长|fánghài jiànkāng; fánghài zhíwù shēngzhǎng|harm health; hinder plant growth
+1080|Unit 18|房地产|fángdìchǎn|n.|real estate|房地产行业；房地产公司|fángdìchǎn hángyè; fángdìchǎn gōngsī|real-estate industry; real-estate company
