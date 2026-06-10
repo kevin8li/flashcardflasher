@@ -179,6 +179,66 @@ Word #|Unit|Chinese|Pinyin|Part of Speech|English Meaning|Example Chinese|Exampl
 178|Unit 3|编剧|biānjù|n.|screenwriter||
 179|Unit 3|编排|biānpái|v.|arrange; choreograph||
 180|Unit 3|编写|biānxiě|v.|write; compile||
+361|Unit 7|差错|chācuò|n.|error|做事不专心就容易出差错。|zuò shì bù zhuānxīn jiù róngyì chū chācuò.|If you do things without concentrating, mistakes are easy to make.
+362|Unit 7|差额|chā'é|n.|difference|贸易差额；补足差额|màoyì chā'é; bǔzú chā'é|trade difference; make up the difference
+363|Unit 7|插手|chāshǒu|v.|meddle in; lend a hand|这件事情你不要插手；我插不上手，帮不了你|zhè jiàn shìqing nǐ bú yào chāshǒu; wǒ chā bu shàng shǒu, bāng bù liǎo nǐ|Don't meddle in this matter; I can't get involved, so I can't help you
+364|Unit 7|插图|chātú|n.|illustration|彩色插图；插图丰富|cǎisè chātú; chātú fēngfù|color illustrations; rich in illustrations
+365|Unit 7|插嘴|chāzuǐ|v.|interrupt|别插嘴；插不上嘴|bié chāzuǐ; chā bu shàng zuǐ|don't interrupt; cannot get a word in
+366|Unit 7|茶道|chádào|n.|tea ceremony|懂茶道；学习茶道|dǒng chádào; xuéxí chádào|understand tea ceremony; study tea ceremony
+367|Unit 7|茶馆儿|cháguǎnr|n.|teahouse|一家茶馆儿；在茶馆儿里聊天儿|yì jiā cháguǎnr; zài cháguǎnr lǐ liáotiānr|a teahouse; chat in a teahouse
+368|Unit 7|查处|cháchǔ|v.|investigate and deal with accordingly|严格查处；查处侵权案件|yángé cháchǔ; cháchǔ qīnquán ànjiàn|strictly investigate and handle; investigate and handle infringement cases
+369|Unit 7|查明|chámíng|v.|find out|查明真相；查明原因|chámíng zhēnxiàng; chámíng yuányīn|find out the truth; find out the reason
+370|Unit 7|查找|cházhǎo|v.|look for|查找车主；查找资料|cházhǎo chēzhǔ; cházhǎo zīliào|look for the car owner; look for materials
+371|Unit 7|察觉|chájué|v.|become aware of|被人察觉；察觉到危险|bèi rén chájué; chájué dào wēixiǎn|be noticed by others; become aware of danger
+372|Unit 7|察看|chákàn|v.|watch; inspect|察看现场；察看动静|chákàn xiànchǎng; chákàn dòngjing|inspect the scene; watch for movement
+373|Unit 7|诧异|chàyì|adj.|surprised|十分诧异；感到诧异|shífēn chàyì; gǎndào chàyì|very surprised; feel surprised
+374|Unit 7|掺|chān|v.|mix|掺在一起；掺点儿水|chān zài yìqǐ; chān diǎnr shuǐ|mix together; add a little water
+375|Unit 7|搀|chān|v.|assist by the arm|搀着奶奶；搀进屋|chān zhe nǎinai; chān jìn wū|support grandma by the arm; help someone into the room
+376|Unit 7|馋|chán|adj./v.|greedy; desire a particular food|嘴馋；眼馋；馋奶茶；馋饺子|zuǐchán; yǎnchán; chán nǎichá; chán jiǎozi|gluttonous; envious; crave milk tea; crave dumplings
+377|Unit 7|禅杖|chánzhàng|n.|Buddhist monk's staff|一根禅杖；拄着禅杖|yì gēn chánzhàng; zhǔ zhe chánzhàng|a Buddhist monk's staff; lean on a monk's staff
+378|Unit 7|缠|chán|v.|twine; entangle|缠毛线；他最近工作缠身，连休息的时间也没有|chán máoxiàn; tā zuìjìn gōngzuò chánshēn, lián xiūxi de shíjiān yě méiyǒu|wind yarn; he has been tied up with work recently and has no time even to rest
+379|Unit 7|产|chǎn|v.|give birth to; yield; produce|她产下了一个男孩儿；这里产的花生味道很好|tā chǎnxià le yí ge nánháir; zhèlǐ chǎn de huāshēng wèidao hěn hǎo|She gave birth to a boy; the peanuts produced here taste very good
+380|Unit 7|产地|chǎndì|n.|place of origin|山东省是中国苹果的主要产地之一。|Shāndōng Shěng shì Zhōngguó píngguǒ de zhǔyào chǎndì zhī yī.|Shandong Province is one of China's main apple-producing areas.
+381|Unit 7|产物|chǎnwù|n.|product|自然产物；时代的产物|zìrán chǎnwù; shídài de chǎnwù|natural product; product of the times
+382|Unit 7|产值|chǎnzhí|n.|output value|工业产值；平均年产值|gōngyè chǎnzhí; píngjūn nián chǎnzhí|industrial output value; average annual output value
+383|Unit 7|铲|chǎn|v.|lift/move with a shovel|铲平；铲草|chǎnpíng; chǎn cǎo|level with a shovel; shovel grass
+384|Unit 7|铲子|chǎnzi|n.|shovel|一把铲子；用铲子挖|yì bǎ chǎnzi; yòng chǎnzi wā|a shovel; dig with a shovel
+385|Unit 7|阐述|chǎnshù|v.|elaborate|阐述观点；详细阐述|chǎnshù guāndiǎn; xiángxì chǎnshù|elaborate a viewpoint; explain in detail
+386|Unit 7|颤抖|chàndǒu|v.|tremble|冻得全身颤抖；树叶在风中颤抖；微微颤抖|dòng de quánshēn chàndǒu; shùyè zài fēng zhōng chàndǒu; wēiwēi chàndǒu|tremble all over from cold; leaves tremble in the wind; tremble slightly
+387|Unit 7|猖狂|chāngkuáng|adj.|fierce|猖狂的敌人；猖狂进攻|chāngkuáng de dírén; chāngkuáng jìngōng|fierce enemies; attack fiercely
+388|Unit 7|长达|chángdá|v.|lengthen out to|长达10年；长达35公里|chángdá shí nián; chángdá sānshíwǔ gōnglǐ|last as long as 10 years; extend as long as 35 kilometers
+389|Unit 7|长期以来|chángqī yǐlái|phrase|for a long time|长期以来的努力；长期以来一直坚持|chángqī yǐlái de nǔlì; chángqī yǐlái yìzhí jiānchí|long-term efforts; have persisted for a long time
+390|Unit 7|长效|chángxiào|n./adj.|lasting effect; long-lasting|这种药有长效；收到长效；长效药品；长效机制|zhè zhǒng yào yǒu chángxiào; shōudào chángxiào; chángxiào yàopǐn; chángxiào jīzhì|this medicine has a lasting effect; achieve lasting effect; long-lasting medicine; long-term mechanism
+391|Unit 7|长征|chángzhēng|n.|Long March|长征精神；长征路线|chángzhēng jīngshén; chángzhēng lùxiàn|Long March spirit; Long March route
+392|Unit 7|长足|chángzú|adj.|rapid; remarkable|长足的发展；长足的进步|chángzú de fāzhǎn; chángzú de jìnbù|rapid development; remarkable progress
+393|Unit 7|常理|chánglǐ|n.|convention|按常理；符合常理|àn chánglǐ; fúhé chánglǐ|according to common sense; conform to common sense
+394|Unit 7|常人|chángrén|n.|ordinary people|与常人不同；异于常人|yǔ chángrén bùtóng; yì yú chángrén|different from ordinary people; unlike ordinary people
+395|Unit 7|常态|chángtài|n.|normal behavior; normalcy|恢复常态；一反常态|huīfù chángtài; yì fǎn chángtài|return to normal; contrary to the usual state
+396|Unit 7|常温|chángwēn|n.|normal temperature|常温牛奶；常温下储存|chángwēn niúnǎi; chángwēn xià chǔcún|room-temperature milk; store at normal temperature
+397|Unit 7|偿还|chánghuán|v.|repay|及时偿还；偿还贷款|jíshí chánghuán; chánghuán dàikuǎn|repay promptly; repay a loan
+398|Unit 7|嫦娥|Cháng'é|n.|Chang'e|嫦娥的故事；嫦娥奔月|Cháng'é de gùshi; Cháng'é bēn yuè|the story of Chang'e; Chang'e flies to the moon
+399|Unit 7|厂家|chǎngjiā|n.|manufacturer|生产厂家；参展厂家|shēngchǎn chǎngjiā; cānzhǎn chǎngjiā|manufacturer; exhibiting manufacturer
+400|Unit 7|敞开|chǎngkāi|v.|open wide|敞开大门；敞开窗户|chǎngkāi dàmén; chǎngkāi chuānghu|open the gate wide; open the windows wide
+401|Unit 7|畅谈|chàngtán|v.|talk freely and cheerfully|和朋友畅谈；畅谈过去的生活|hé péngyou chàngtán; chàngtán guòqù de shēnghuó|talk freely with friends; talk freely about past life
+402|Unit 7|畅销|chàngxiāo|v.|sell well|畅销全国；畅销书|chàngxiāo quánguó; chàngxiāoshū|sell well nationwide; bestseller
+403|Unit 7|倡议|chàngyì|v./n.|propose; proposal|倡议向灾区捐款；倡议保护环境；提一个倡议；赞成他的倡议|chàngyì xiàng zāiqū juānkuǎn; chàngyì bǎohù huánjìng; tí yí ge chàngyì; zànchéng tā de chàngyì|propose donating to the disaster area; propose protecting the environment; make a proposal; support his proposal
+404|Unit 7|抄袭|chāoxí|v.|plagiarize|抄袭别人；抄袭他的作品|chāoxí biérén; chāoxí tā de zuòpǐn|plagiarize others; plagiarize his work
+405|Unit 7|钞票|chāopiào|n.|banknote|一张钞票；一百元一张的钞票|yì zhāng chāopiào; yì bǎi yuán yì zhāng de chāopiào|a banknote; a one-hundred-yuan banknote
+406|Unit 7|超标|chāobiāo|verb-object|exceed the standard|体重超标；超标收费|tǐzhòng chāobiāo; chāobiāo shōufèi|exceed the weight standard; charge above the standard
+407|Unit 7|超车|chāochē|verb-object|overtake other vehicles on the road|不准超车；弯道超车|bù zhǔn chāochē; wāndào chāochē|overtaking is not allowed; overtake on a curve
+408|Unit 7|超前|chāoqián|adj./v.|transcending the present; exceed predecessors|超前消费；超前教育；这是一个超前绝后的理论，它的提出会改变世界。|chāoqián xiāofèi; chāoqián jiàoyù; zhè shì yí ge chāoqián juéhòu de lǐlùn, tā de tíchū huì gǎibiàn shìjiè|consumption ahead of one's means; advanced education; this is an unprecedented theory, and its proposal will change the world
+409|Unit 7|超速|chāosù|v.|exceed the speed limit|超速开车；超速记录|chāosù kāichē; chāosù jìlù|drive over the speed limit; speeding record
+410|Unit 7|朝代|cháodài|n.|dynasty|朝代更替；中国古代的朝代|cháodài gēngtì; Zhōngguó gǔdài de cháodài|change of dynasties; dynasties of ancient China
+411|Unit 7|朝着|cháozhe|prep.|face; toward|朝着学校前进；朝着正确方向走|cháozhe xuéxiào qiánjìn; cháozhe zhèngquè fāngxiàng zǒu|advance toward the school; move in the correct direction
+412|Unit 7|嘲弄|cháonòng|v.|ridicule|不要嘲弄别人；故意嘲弄|bú yào cháonòng biérén; gùyì cháonòng|don't ridicule others; deliberately ridicule
+413|Unit 7|嘲笑|cháoxiào|v.|laugh at|怕别人嘲笑；受到嘲笑|pà biérén cháoxiào; shòudào cháoxiào|fear being laughed at by others; be laughed at
+414|Unit 7|吵嘴|chǎozuǐ|verb-object|quarrel|和他吵嘴；吵了几句嘴|hé tā chǎozuǐ; chǎo le jǐ jù zuǐ|quarrel with him; had a brief quarrel
+415|Unit 7|车道|chēdào|n.|vehicle lane|双向车道；快车道|shuāngxiàng chēdào; kuàichēdào|two-way lane; fast lane
+416|Unit 7|车祸|chēhuò|n.|traffic accident|一起车祸；发生车祸|yì qǐ chēhuò; fāshēng chēhuò|a traffic accident; a traffic accident occurs
+417|Unit 7|车间|chējiān|n.|workshop|生产车间；加工车间|shēngchǎn chējiān; jiāgōng chējiān|production workshop; processing workshop
+418|Unit 7|车轮|chēlún|n.|wheel|最早的汽车只有3个车轮；历史的车轮|zuìzǎo de qìchē zhǐ yǒu sān ge chēlún; lìshǐ de chēlún|the earliest cars had only three wheels; the wheel of history
+419|Unit 7|车速|chēsù|n.|speed of a vehicle|有车速限制；降低车速|yǒu chēsù xiànzhì; jiàngdī chēsù|there is a speed limit; reduce vehicle speed
+420|Unit 7|车位|chēwèi|n.|parking place|找不到车位；有空车位|zhǎo bú dào chēwèi; yǒu kōng chēwèi|cannot find a parking space; there is an empty parking space
 541|Unit 10|出毛病|chū máobing|verb-object|go wrong|电脑出毛病了；身体出了毛病|diànnǎo chū máobing le; shēntǐ chū le máobing|The computer went wrong; something went wrong with the body
 542|Unit 10|出难题|chū nántí|verb-object|put/pose a difficult question|给……出难题|gěi ... chū nántí|make things difficult for someone
 543|Unit 10|出人意料|chū rén yìliào|idiom|be beyond all expectations|这里的变化出人意料；出人意料的结果|zhèlǐ de biànhuà chū rén yìliào; chū rén yìliào de jiéguǒ|The changes here are unexpected; an unexpected result
