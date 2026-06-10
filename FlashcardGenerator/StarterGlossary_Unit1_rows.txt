@@ -1,0 +1,60 @@
+1|Unit 1|阿拉伯语|Ālābóyǔ|n.|Arabic (language)||Every next 60 words: Unit 3, Unit 4, etc. Word 121 starts Unit 3.
+2|Unit 1|哎|āi|int.|surprise/dissatisfaction||
+3|Unit 1|哎呀|āiyā|int.|surprise/impatience||
+4|Unit 1|哀求|āiqiú|v.|implore||
+5|Unit 1|挨家挨户|āijiā-āihù|adv.|from door to door||
+6|Unit 1|癌|ái|n.|cancer||
+7|Unit 1|癌症|áizhèng|n.|cancer||
+8|Unit 1|艾滋病|àizībìng|n.|AIDS||
+9|Unit 1|唉|āi|int.|sadness/regret||
+10|Unit 1|爱不释手|àibùshìshǒu|expr.|be fond of sth.||
+11|Unit 1|爱理不理|àilǐ-bùlǐ|expr.|be cool/standoffish||
+12|Unit 1|爱面子|ài miànzi|expr.|care about face||
+13|Unit 1|爱惜|àixī|v.|cherish||
+14|Unit 1|碍事|àishì|v.|be in the way||
+15|Unit 1|安定|āndìng|adj./v.|stable; stabilize||
+16|Unit 1|安抚|ānfǔ|v.|pacify||
+17|Unit 1|安眠药|ānmiányào|n.|sleeping pill||
+18|Unit 1|安宁|ānníng|adj.|peaceful||
+19|Unit 1|安稳|ānwěn|adj.|smooth and steady||
+20|Unit 1|安心|ānxīn|adj.|at ease||
+21|Unit 1|安逸|ānyì|adj.|easy and comfortable||
+22|Unit 1|按键|ànjiàn|n.|button/key||
+23|Unit 1|按理说|ànlǐ shuō|expr.|according to reason||
+24|Unit 1|按说|ànshuō|adv.|ordinarily||
+25|Unit 1|案件|ànjiàn|n.|law case||
+26|Unit 1|暗地里|àndìli|adv.|in secret||
+27|Unit 1|暗杀|ànshā|v.|assassinate||
+28|Unit 1|暗中|ànzhōng|adv.|secretly||
+29|Unit 1|昂贵|ángguì|adj.|expensive||
+30|Unit 1|凹|āo|adj.|concave||
+31|Unit 1|熬|áo|v.|endure; stew||
+32|Unit 1|熬夜|áoyè|v.|stay up late||
+33|Unit 1|傲|ào|adj.|proud||
+34|Unit 1|傲慢|àomàn|adj.|arrogant||
+35|Unit 1|奥秘|àomì|n.|mystery||
+36|Unit 1|奥运会|Àoyùnhuì|n.|Olympic Games||
+37|Unit 1|八卦|bāguà|n.|Eight Trigrams||
+38|Unit 1|巴不得|bābude|v.|be eager to||
+39|Unit 1|扒|bā|v.|pull down/push aside||
+40|Unit 1|芭蕾|bālěi|n.|ballet||
+41|Unit 1|把柄|bǎbǐng|n.|handle; excuse||
+42|Unit 1|把关|bǎguān|v.|check on||
+43|Unit 1|把手|bǎshou|n.|handle/knob||
+44|Unit 1|靶子|bǎzi|n.|target||
+45|Unit 1|坝|bà|n.|dam||
+46|Unit 1|罢免|bàmiǎn|v.|dismiss||
+47|Unit 1|罢休|bàxiū|v.|give up||
+48|Unit 1|霸占|bàzhàn|v.|forcibly occupy||
+49|Unit 1|掰|bāi|v.|break off with fingers||
+50|Unit 1|白白|báibái|adv.|in vain||
+51|Unit 1|百分比|bǎifēnbǐ|n.|percentage||
+52|Unit 1|百合|bǎihé|n.|lily||
+53|Unit 1|百科全书|bǎikē quánshū|n.|encyclopedia||
+54|Unit 1|柏树|bǎishù|n.|cypress||
+55|Unit 1|摆放|bǎifàng|v.|place/lay||
+56|Unit 1|摆平|bǎipíng|v.|treat fairly; handle||
+57|Unit 1|摆设|bǎishè|n.|ornament||
+58|Unit 1|拜会|bàihuì|v.|pay official call||
+59|Unit 1|拜见|bàijiàn|v.|pay formal visit||
+60|Unit 1|拜年|bài//nián|v.|pay New Year call||
