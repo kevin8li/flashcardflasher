@@ -179,6 +179,66 @@ Word #|Unit|Chinese|Pinyin|Part of Speech|English Meaning|Example Chinese|Exampl
 178|Unit 3|编剧|biānjù|n.|screenwriter||
 179|Unit 3|编排|biānpái|v.|arrange; choreograph||
 180|Unit 3|编写|biānxiě|v.|write; compile||
+541|Unit 10|出毛病|chū máobing|verb-object|go wrong|电脑出毛病了；身体出了毛病|diànnǎo chū máobing le; shēntǐ chū le máobing|The computer went wrong; something went wrong with the body
+542|Unit 10|出难题|chū nántí|verb-object|put/pose a difficult question|给……出难题|gěi ... chū nántí|make things difficult for someone
+543|Unit 10|出人意料|chū rén yìliào|idiom|be beyond all expectations|这里的变化出人意料；出人意料的结果|zhèlǐ de biànhuà chū rén yìliào; chū rén yìliào de jiéguǒ|The changes here are unexpected; an unexpected result
+544|Unit 10|出任|chūrèn|v.|take up the post of|出任校长；出任足球协会主席|chūrèn xiàozhǎng; chūrèn zúqiú xiéhuì zhǔxí|take up the post of principal; take up the post of football association chair
+545|Unit 10|出山|chūshān|verb-object|become an official; engage in a certain job|他这次担任篮球教练，已经是第二次出山了。|tā zhè cì dānrèn lánqiú jiàoliàn, yǐjīng shì dì èr cì chūshān le|This time serving as basketball coach is already his second time coming out to take a post.
+546|Unit 10|出身|chūshēn|v./n.|be derived from; background|出身于工人家庭；工人家庭出身；穷苦出身|chūshēn yú gōngrén jiātíng; gōngrén jiātíng chūshēn; qióngkǔ chūshēn|come from a worker's family; from a worker's family background; from a poor background
+547|Unit 10|出示|chūshì|v.|show|出示证件；出示一下儿车票|chūshì zhèngjiàn; chūshì yíxiàr chēpiào|show identification; show the ticket briefly
+548|Unit 10|出手|chūshǒu|verb-object|sell; produce; offer; start to take action|这批货急着出手；一出手就给了她3000块钱；多部门联合出手治理环境污染问题|zhè pī huò jízhe chūshǒu; yì chūshǒu jiù gěi le tā sānqiān kuài qián; duō bùmén liánhé chūshǒu zhìlǐ huánjìng wūrǎn wèntí|This batch of goods is being sold urgently; as soon as he acted he gave her 3000 yuan; several departments jointly took action to manage environmental pollution
+549|Unit 10|出头|chūtóu|verb-object|expose the top; take the lead; free oneself; be a little over|“申”和“甲”很像，但“申”的竖是出头的；我们学校的篮球协会是他出头做起来的；苦了这么多年，终于等到出头之日了；他今年30出头|"shēn" hé "jiǎ" hěn xiàng, dàn "shēn" de shù shì chūtóu de; wǒmen xuéxiào de lánqiú xiéhuì shì tā chūtóu zuò qǐlái de; kǔ le zhème duō nián, zhōngyú děng dào chūtóu zhī rì le; tā jīnnián sānshí chūtóu|"申" and "甲" look alike, but the vertical stroke in "申" sticks out; our school's basketball association was started with him taking the lead; after suffering so many years, the day of relief finally came; he is a little over thirty this year
+550|Unit 10|出土|chūtǔ|verb-object|be unearthed; come up out of the ground|出土文物；刚出土的小草|chūtǔ wénwù; gāng chūtǔ de xiǎocǎo|unearthed cultural relics; grass that has just come out of the ground
+551|Unit 10|出息|chūxi|n.|promise; prospects|他很有出息，从农村出来，靠自己一路读到了博士。|tā hěn yǒu chūxi, cóng nóngcūn chūlái, kào zìjǐ yílù dú dào le bóshì|He has great promise; he came from the countryside and studied all the way to a doctorate through his own efforts.
+552|Unit 10|出血|chūxiě|verb-object|bleed; pay/cough up|手指出血了；为了请朋友吃饭，他出了不少血|shǒuzhǐ chūxiě le; wèile qǐng péngyou chīfàn, tā chū le bù shǎo xiě|His finger is bleeding; to treat his friends to dinner, he spent quite a lot
+553|Unit 10|出演|chūyǎn|v.|play the role of|出演电影；出演话剧|chūyǎn diànyǐng; chūyǎn huàjù|act in a film; act in a play
+554|Unit 10|出洋相|chū yángxiàng|verb-object|make a fool of oneself|他喝醉以后，出了不少洋相。|tā hēzuì yǐhòu, chū le bù shǎo yángxiàng|After he got drunk, he made quite a fool of himself.
+555|Unit 10|出游|chūyóu|v.|travel|一起出游；出游路线|yìqǐ chūyóu; chūyóu lùxiàn|travel together; travel route
+556|Unit 10|出众|chūzhòng|adj.|outstanding|能力出众；成绩出众|nénglì chūzhòng; chéngjì chūzhòng|outstanding ability; outstanding grades
+557|Unit 10|出主意|chū zhǔyi|verb-object|offer advice|帮我出主意；出了一个好主意|bāng wǒ chū zhǔyi; chū le yí ge hǎo zhǔyi|help me come up with ideas; came up with a good idea
+558|Unit 10|出资|chūzī|v.|provide funds|出资购买；学校出资|chūzī gòumǎi; xuéxiào chūzī|provide funds to purchase; the school provides the funds
+559|Unit 10|出自|chūzì|v.|come from|出自这本书；出自他的设计|chūzì zhè běn shū; chūzì tā de shèjì|come from this book; come from his design
+560|Unit 10|出走|chūzǒu|v.|run away|离家出走；出走半年|líjiā chūzǒu; chūzǒu bànnián|run away from home; be gone for half a year
+561|Unit 10|初次|chūcì|n.|first time|初次见面；初次参加|chūcì jiànmiàn; chūcì cānjiā|first meeting; participate for the first time
+562|Unit 10|初衷|chūzhōng|n.|original intention|不改初衷；表明初衷|bù gǎi chūzhōng; biǎomíng chūzhōng|not change one's original intention; state one's original intention
+563|Unit 10|除此之外|chú cǐ zhī wài|phrase|in addition to this|除此之外，还……|chú cǐ zhī wài, hái ...|in addition to this, also ...
+564|Unit 10|除去|chúqù|v./prep.|get rid of; except for|除去杂草；除去水分；她除去上班，其他时间都在家|chúqù zácǎo; chúqù shuǐfèn; tā chúqù shàngbān, qítā shíjiān dōu zài jiā|remove weeds; remove moisture; except for going to work, she is at home the rest of the time
+565|Unit 10|除外|chúwài|v.|except|他除外，还有两个人；博物馆天天开放，星期一除外|tā chúwài, hái yǒu liǎng ge rén; bówùguǎn tiāntiān kāifàng, xīngqīyī chúwài|except for him, there are two other people; the museum is open every day except Monday
+566|Unit 10|处方|chǔfāng|v./n.|prescribe; prescription|不是医生，没有处方权；按处方抓药；开处方|bú shì yīshēng, méiyǒu chǔfāng quán; àn chǔfāng zhuāyào; kāi chǔfāng|not being a doctor, one has no right to prescribe; get medicine according to a prescription; write a prescription
+567|Unit 10|处境|chǔjìng|n.|situation|处境困难；处境危险|chǔjìng kùnnan; chǔjìng wēixiǎn|in a difficult situation; in a dangerous situation
+568|Unit 10|处置|chǔzhì|v.|handle; punish|合理处置；依法处置|hélǐ chǔzhì; yīfǎ chǔzhì|handle reasonably; handle according to law
+569|Unit 10|储备|chǔbèi|v./n.|reserve; reserves|储备过冬的粮食；储备药品；充足的储备；储备不足|chǔbèi guòdōng de liángshi; chǔbèi yàopǐn; chōngzú de chǔbèi; chǔbèi bùzú|store grain for the winter; reserve medicine; ample reserves; insufficient reserves
+570|Unit 10|储蓄|chǔxù|v./n.|save; savings|定期储蓄；活期储蓄；多年的储蓄；有不少储蓄|dìngqī chǔxù; huóqī chǔxù; duōnián de chǔxù; yǒu bù shǎo chǔxù|fixed-term savings; current savings; many years of savings; have quite a lot of savings
+571|Unit 10|触动|chùdòng|v.|touch; offend; stir up|触动了开关；触动他人利益；触动老人的心事|chùdòng le kāiguān; chùdòng tārén lìyì; chùdòng lǎorén de xīnshì|touched the switch; harmed others' interests; stirred up the old person's worries
+572|Unit 10|触犯|chùfàn|v.|offend; violate|触犯他人利益；触犯法律|chùfàn tārén lìyì; chùfàn fǎlǜ|offend others' interests; violate the law
+573|Unit 10|触觉|chùjué|n.|tactile sensation|依靠触觉；良好的触觉|yīkào chùjué; liánghǎo de chùjué|rely on touch; a good sense of touch
+574|Unit 10|触摸|chùmō|v.|touch|轻轻触摸；触摸伤口|qīngqīng chùmō; chùmō shāngkǒu|touch gently; touch the wound
+575|Unit 10|触目惊心|chùmù-jīngxīn|adj.|startling; shocking|触目惊心的场景；触目惊心的丑闻|chùmù-jīngxīn de chǎngjǐng; chùmù-jīngxīn de chǒuwén|a shocking scene; a shocking scandal
+576|Unit 10|揣|chuāi|v.|carry in one's clothes|揣在口袋里；揣在身上|chuāi zài kǒudài lǐ; chuāi zài shēnshang|carry in a pocket; carry on oneself
+577|Unit 10|揣测|chuǎicè|v.|conjecture|揣测意思；揣测了半天|chuǎicè yìsi; chuǎicè le bàntiān|guess the meaning; conjectured for a long time
+578|Unit 10|揣摩|chuǎimó|v.|speculate; ponder|仔细揣摩；揣摩不透|zǐxì chuǎimó; chuǎimó bù tòu|ponder carefully; be unable to figure out
+579|Unit 10|踹|chuài|v.|kick|踹门；踹不开|chuài mén; chuài bù kāi|kick the door; cannot kick it open
+580|Unit 10|川流不息|chuānliú-bùxī|idiom|flow past in an endless stream|汽车川流不息；行人川流不息|qìchē chuānliú-bùxī; xíngrén chuānliú-bùxī|cars flow past endlessly; pedestrians stream by endlessly
+581|Unit 10|穿过|chuānguò|v.|go through|穿过人群；穿过街道|chuānguò rénqún; chuānguò jiēdào|go through the crowd; cross the street
+582|Unit 10|穿小鞋|chuān xiǎoxié|verb-object|make things hard for someone|给……穿小鞋|gěi ... chuān xiǎoxié|make things hard for someone
+583|Unit 10|穿越|chuānyuè|v.|pass through|穿越沙漠；穿越边境|chuānyuè shāmò; chuānyuè biānjìng|cross the desert; cross the border
+584|Unit 10|穿着|chuānzhuó|n.|dress; apparel|穿着讲究；合适的穿着|chuānzhuó jiǎngjiu; héshì de chuānzhuó|particular about dress; suitable clothing
+585|Unit 10|传承|chuánchéng|v./n.|inherit and pass on; inheritance|传承下去；传承给下一代；文化传承；艺术传承|chuánchéng xiàqù; chuánchéng gěi xià yí dài; wénhuà chuánchéng; yìshù chuánchéng|pass it down; pass on to the next generation; cultural inheritance; artistic inheritance
+586|Unit 10|传奇|chuánqí|n.|legend|传奇故事；传奇人物|chuánqí gùshi; chuánqí rénwù|legendary story; legendary figure
+587|Unit 10|传染|chuánrǎn|v.|infect|传染性疾病；传染给别人|chuánrǎn xìng jíbìng; chuánrǎn gěi biérén|infectious disease; infect others
+588|Unit 10|传染病|chuánrǎnbìng|n.|infectious disease|传染病防治；得传染病|chuánrǎnbìng fángzhì; dé chuánrǎnbìng|prevention and treatment of infectious diseases; get an infectious disease
+589|Unit 10|传人|chuánrén|n.|disciple; offspring|功夫传人；学术传人|gōngfu chuánrén; xuéshù chuánrén|a successor in kung fu; an academic successor
+590|Unit 10|传授|chuánshòu|v.|teach|传授经验；这个技术是他父亲传授给他的|chuánshòu jīngyàn; zhè ge jìshù shì tā fùqin chuánshòu gěi tā de|pass on experience; this skill was taught to him by his father
+591|Unit 10|传闻|chuánwén|v./n.|it is said; hearsay|传闻他回国了；传闻不如亲见；据传闻；不要轻易相信传闻|chuánwén tā huíguó le; chuánwén bùrú qīnjiàn; jù chuánwén; bú yào qīngyì xiāngxìn chuánwén|it is said he returned to China; hearsay is not as good as seeing in person; according to hearsay; do not easily believe rumors
+592|Unit 10|船舶|chuánbó|n.|ships|制造船舶；船舶行业|zhìzào chuánbó; chuánbó hángyè|manufacture ships; ship industry
+593|Unit 10|船桨|chuánjiǎng|n.|oar|抓住船桨；划动船桨|zhuāzhù chuánjiǎng; huádòng chuánjiǎng|grab the oar; move the oar
+594|Unit 10|喘|chuǎn|v.|pant|喘口气；喘不过气|chuǎn kǒu qì; chuǎn bú guò qì|take a breath; be unable to catch one's breath
+595|Unit 10|喘息|chuǎnxī|v.|gasp for breath; have a breathing spell|喘息不止；一个喘息的机会|chuǎnxī bùzhǐ; yí ge chuǎnxī de jīhuì|gasp for breath without stopping; a chance to catch one's breath
+596|Unit 10|串门|chuànmén|verb-object|call on someone; drop in|老太太经常出去串门；到舅舅家串个门|lǎotàitai jīngcháng chūqù chuànmén; dào jiùjiu jiā chuàn ge mén|the old lady often goes out to visit neighbors; drop in at uncle's home
+597|Unit 10|创伤|chuāngshāng|n.|trauma|腿上的创伤；精神上的创伤|tuǐ shàng de chuāngshāng; jīngshén shàng de chuāngshāng|trauma on the leg; mental trauma
+598|Unit 10|床位|chuángwèi|n.|bed|宾馆的床位；医院床位|bīnguǎn de chuángwèi; yīyuàn chuángwèi|hotel bed; hospital bed
+599|Unit 10|创|chuàng|v.|create|初创；创纪录|chūchuàng; chuàng jìlù|newly established; set a record
+600|Unit 10|创始人|chuàngshǐrén|n.|founder|两位创始人；公司创始人|liǎng wèi chuàngshǐrén; gōngsī chuàngshǐrén|two founders; company founder
 1201|Unit 21|腐败|fǔbài||corruption|政治腐败；腐败分子|zhèngzhì fǔbài; fǔbài fènzǐ|political corruption; corrupt elements
 1202|Unit 21|腐化|fǔhuà||corrupt; degenerate|生活腐化；思想腐化|shēnghuó fǔhuà; sīxiǎng fǔhuà|a decadent lifestyle; ideological corruption
 1203|Unit 21|腐烂|fǔlàn||rot|冷藏可以延缓水果腐烂。|lěngcáng kěyǐ yánhuǎn shuǐguǒ fǔlàn|Refrigeration can slow the rotting of fruit.
