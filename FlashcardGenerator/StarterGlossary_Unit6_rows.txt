@@ -1,0 +1,60 @@
+301|Unit 6|不约而同|bùyuē'értóng|phrase|take identical action/view without previous consultation|不约而同地说；不约而同地笑了起来|bùyuē'értóng de shuō; bùyuē'értóng de xiào le qǐlái|say it without prior consultation; laugh at the same time without prior consultation
+302|Unit 6|不知|bùzhī|v.|not know|不知深浅；不知如何是好|bùzhī shēnqiǎn; bùzhī rúhé shì hǎo|not know the depth; not know what to do
+303|Unit 6|不知不觉|bùzhī-bùjué|phrase|unconsciously|不知不觉天黑了|bùzhī-bùjué tiān hēi le|before one knew it, it got dark
+304|Unit 6|不准|bù zhǔn|v.|forbid|不准拍照；不准抽烟|bù zhǔn pāizhào; bù zhǔn chōuyān|photography is not allowed; smoking is not allowed
+305|Unit 6|布局|bùjú|n./v.|distribution; lay out|房屋的布局；文章的布局；合理布局；认真布局|fángwū de bùjú; wénzhāng de bùjú; hélǐ bùjú; rènzhēn bùjú|layout of a house; structure of an article; arrange rationally; plan carefully
+306|Unit 6|步伐|bùfá|n.|step; pace|整齐的步伐；加快改革步伐|zhěngqí de bùfá; jiākuài gǎigé bùfá|orderly steps; quicken the pace of reform
+307|Unit 6|步入|bùrù|v.|step into|步入会议室；步入21世纪|bùrù huìyìshì; bùrù èrshíyī shìjì|step into the meeting room; enter the 21st century
+308|Unit 6|步骤|bùzhòu|n.|step|解决问题的步骤；常规步骤|jiějué wèntí de bùzhòu; chángguī bùzhòu|steps for solving a problem; regular steps
+309|Unit 6|部件|bùjiàn|n.|part; component|机器部件；重要部件；汉字“休”由“亻”和“木”两个部件组成|jīqì bùjiàn; zhòngyào bùjiàn; Hànzì “xiū” yóu “rén” hé “mù” liǎng ge bùjiàn zǔchéng|machine parts; important components; the Chinese character “休” is made of the two components “亻” and “木”
+310|Unit 6|部署|bùshǔ|v.|deploy|部署工作；部署计划|bùshǔ gōngzuò; bùshǔ jìhuà|deploy work; arrange a plan
+311|Unit 6|猜谜|cāi//mí|verb-object|guess a riddle|猜谜游戏；他让我猜个谜，我没猜出来|cāimí yóuxì; tā ràng wǒ cāi ge mí, wǒ méi cāi chūlái|riddle-guessing game; he asked me to guess a riddle, but I couldn't figure it out
+312|Unit 6|猜想|cāixiǎng|v.|suppose|大胆猜想；我猜想他和这件事有关|dàdǎn cāixiǎng; wǒ cāixiǎng tā hé zhè jiàn shì yǒuguān|make a bold supposition; I suppose he is connected to this matter
+313|Unit 6|才华|cáihuá|n.|talent|很有才华；才华出众|hěn yǒu cáihuá; cáihuá chūzhòng|very talented; outstanding talent
+314|Unit 6|财经|cáijīng|n.|finance and economy|财经新闻；财经专家|cáijīng xīnwén; cáijīng zhuānjiā|financial news; finance and economics expert
+315|Unit 6|财力|cáilì|n.|financial power|有财力；财力不足|yǒu cáilì; cáilì bùzú|have financial resources; insufficient financial resources
+316|Unit 6|财务|cáiwù|n.|financial affairs|财务人员；财务管理|cáiwù rényuán; cáiwù guǎnlǐ|financial staff; financial management
+317|Unit 6|财物|cáiwù|n.|property|个人财物；保管好财物|gèrén cáiwù; bǎoguǎn hǎo cáiwù|personal property; take good care of property
+318|Unit 6|财政|cáizhèng|n.|public finance|财政收入；财政危机|cáizhèng shōurù; cáizhèng wēijī|fiscal revenue; fiscal crisis
+319|Unit 6|裁|cái|v.|cut into parts; reduce; lay off|裁纸；裁人|cái zhǐ; cái rén|cut paper; lay off workers
+320|Unit 6|裁定|cáidìng|v.|pass a judgement; rule|法院做出裁定；裁定协议无效|fǎyuàn zuòchū cáidìng; cáidìng xiéyì wúxiào|the court makes a ruling; rule that the agreement is invalid
+321|Unit 6|裁决|cáijué|v.|rule; adjudicate|依法裁决；由……裁决|yīfǎ cáijué; yóu ... cáijué|rule according to law; be adjudicated by ...
+322|Unit 6|采|cǎi|v.|pick; mine; gather; select|采茶；采煤；采标本；采购|cǎi chá; cǎi méi; cǎi biāoběn; cǎigòu|pick tea; mine coal; collect specimens; purchase
+323|Unit 6|采集|cǎijí|v.|gather|采集信息；采集民歌|cǎijí xìnxī; cǎijí míngē|collect information; collect folk songs
+324|Unit 6|采矿|cǎi//kuàng|verb-object|mine|合法采矿；采矿业|héfǎ cǎikuàng; cǎikuàngyè|legal mining; mining industry
+325|Unit 6|彩电|cǎidiàn|n.|color TV set|一台彩电；买彩电|yì tái cǎidiàn; mǎi cǎidiàn|a color TV; buy a color TV
+326|Unit 6|彩虹|cǎihóng|n.|rainbow|一道彩虹；雨后出现了彩虹|yí dào cǎihóng; yǔ hòu chūxiàn le cǎihóng|a rainbow; a rainbow appeared after the rain
+327|Unit 6|彩霞|cǎixiá|n.|rosy clouds|美丽的彩霞；落日和彩霞构成了一幅美景|měilì de cǎixiá; luòrì hé cǎixiá gòuchéng le yì fú měijǐng|beautiful rosy clouds; the sunset and rosy clouds formed a beautiful scene
+328|Unit 6|菜市场|càishìchǎng|n.|food market|去菜市场买菜；大型菜市场|qù càishìchǎng mǎi cài; dàxíng càishìchǎng|go to the food market to buy vegetables; large food market
+329|Unit 6|参见|cānjiàn|v.|see also; pay one's respects to|参见第8页；参见国王|cānjiàn dì bā yè; cānjiàn guówáng|see page 8; pay respects to the king
+330|Unit 6|参军|cān//jūn|verb-object|join the army|参军一年了；去年参的军|cānjūn yì nián le; qùnián cān de jūn|has been in the army for one year; joined the army last year
+331|Unit 6|参谋|cānmóu|v./n.|give advice; staff officer; adviser|帮我参谋一下儿；参谋这件事该怎么办；他是我们部队的参谋；这次活动我给你当参谋|bāng wǒ cānmóu yíxiàr; cānmóu zhè jiàn shì gāi zěnme bàn; tā shì wǒmen bùduì de cānmóu; zhè cì huódòng wǒ gěi nǐ dāng cānmóu|help me think it over; advise what to do about this matter; he is a staff officer in our unit; I'll be your adviser for this event
+332|Unit 6|参照|cānzhào|v.|refer to as a model|参照原文；参照地图|cānzhào yuánwén; cānzhào dìtú|refer to the original text; refer to the map
+333|Unit 6|餐桌|cānzhuō|n.|dining table|放在餐桌上；清理餐桌|fàng zài cānzhuō shàng; qīnglǐ cānzhuō|put it on the dining table; clear the dining table
+334|Unit 6|残|cán|v.|be incomplete; make/become deficient|这部书很珍贵，可惜残了|zhè bù shū hěn zhēnguì, kěxī cán le|This book is very precious, but unfortunately it is incomplete.
+335|Unit 6|残留|cánliú|v.|be left over|农药残留；残留的信息|nóngyào cánliú; cánliú de xìnxī|pesticide residue; leftover information
+336|Unit 6|残缺|cánquē|v./adj.|be incomplete; incomplete|残缺的部分；残缺不全|cánquē de bùfen; cánquē bùquán|incomplete parts; incomplete and damaged
+337|Unit 6|残忍|cánrěn|adj.|cruel|对……残忍；非常残忍的手段|duì ... cánrěn; fēicháng cánrěn de shǒuduàn|cruel to ...; very cruel means
+338|Unit 6|惭愧|cánkuì|adj.|ashamed|感到惭愧；惭愧地低下头|gǎndào cánkuì; cánkuì de dīxià tóu|feel ashamed; lower one's head in shame
+339|Unit 6|惨白|cǎnbái|adj.|deathly pale; pale|脸色惨白；惨白的月光|liǎnsè cǎnbái; cǎnbái de yuèguāng|deathly pale complexion; pale moonlight
+340|Unit 6|惨痛|cǎntòng|adj.|bitter; painful|惨痛的教训；惨痛的回忆|cǎntòng de jiàoxun; cǎntòng de huíyì|painful lesson; bitter memory
+341|Unit 6|惨重|cǎnzhòng|adj.|heavy; grievous|损失惨重；付出惨重的代价|sǔnshī cǎnzhòng; fùchū cǎnzhòng de dàijià|suffer heavy losses; pay a heavy price
+342|Unit 6|灿烂|cànlàn|adj.|splendid|阳光灿烂；灿烂的笑容|yángguāng cànlàn; cànlàn de xiàoróng|brilliant sunshine; bright smile
+343|Unit 6|苍蝇|cāngying|n.|fly|一只苍蝇；打苍蝇|yì zhī cāngying; dǎ cāngying|a fly; swat flies
+344|Unit 6|沧桑|cāngsāng|n.|vicissitudes of life|饱经沧桑；人世沧桑|bǎojīng cāngsāng; rénshì cāngsāng|have experienced many vicissitudes; vicissitudes of human life
+345|Unit 6|舱|cāng|n.|cabin; hold|船舱；客舱；机舱|chuáncāng; kècāng; jīcāng|ship cabin; passenger cabin; aircraft cabin
+346|Unit 6|藏匿|cángnì|v.|hide out|藏匿起来；藏匿了很多天|cángnì qǐlái; cángnì le hěn duō tiān|hide away; hid for many days
+347|Unit 6|藏品|cángpǐn|n.|collection|珍贵的藏品；私人藏品|zhēnguì de cángpǐn; sīrén cángpǐn|precious collection; private collection
+348|Unit 6|藏身|cángshēn|v.|hide oneself|藏身处；无处藏身|cángshēn chù; wú chù cángshēn|hiding place; nowhere to hide
+349|Unit 6|操控|cāokòng|v.|control and manipulate|操控市场；操控股价|cāokòng shìchǎng; cāokòng gǔjià|manipulate the market; manipulate stock prices
+350|Unit 6|操劳|cāoláo|v.|work hard|日夜操劳；辛苦操劳|rìyè cāoláo; xīnkǔ cāoláo|work day and night; work hard and toil
+351|Unit 6|操心|cāo//xīn|verb-object|worry about|为工作操心；操心孩子；操不完的心|wèi gōngzuò cāoxīn; cāoxīn háizi; cāo bù wán de xīn|worry about work; worry about children; endless worries
+352|Unit 6|槽|cáo|n.|trough|水槽；过滤槽|shuǐcáo; guòlǜcáo|water trough; filter tank
+353|Unit 6|草案|cǎo'àn|n.|draft|法律草案；并购草案|fǎlǜ cǎo'àn; bìnggòu cǎo'àn|draft law; merger and acquisition draft
+354|Unit 6|草坪|cǎopíng|n.|lawn|一块草坪；在草坪上玩儿|yí kuài cǎopíng; zài cǎopíng shàng wánr|a patch of lawn; play on the lawn
+355|Unit 6|侧面|cèmiàn|n.|side aspect; flank|在大楼侧面；侧面了解|zài dàlóu cèmiàn; cèmiàn liǎojiě|at the side of the building; understand from the side
+356|Unit 6|侧重|cèzhòng|v.|focus on|侧重发展经济；侧重提升服务质量|cèzhòng fāzhǎn jīngjì; cèzhòng tíshēng fúwù zhìliàng|focus on developing the economy; focus on improving service quality
+357|Unit 6|测算|cèsuàn|v.|measure and calculate|反复测算；测算成本|fǎnfù cèsuàn; cèsuàn chéngběn|calculate repeatedly; calculate costs
+358|Unit 6|测验|cèyàn|v./n.|test|测验掌握情况；听力测验；测验的结果|cèyàn zhǎngwò qíngkuàng; tīnglì cèyàn; cèyàn de jiéguǒ|test mastery; listening test; test results
+359|Unit 6|层出不穷|céngchū-bùqióng|idiom|emerge in an endless stream|新事物层出不穷；层出不穷的新电影|xīn shìwù céngchū-bùqióng; céngchū-bùqióng de xīn diànyǐng|new things emerge endlessly; new movies appear one after another
+360|Unit 6|蹭|cèng|v.|rub; be smeared with; dillydally|手蹭破了；离那机器远点儿，别蹭上油；他的脚受伤了，只能一步一步慢慢往前蹭|shǒu cèng pò le; lí nà jīqì yuǎn diǎnr, bié cèng shàng yóu; tā de jiǎo shòushāng le, zhǐ néng yí bù yí bù mànmàn wǎng qián cèng|the hand got scraped; stay away from that machine, don't get oil smeared on you; his foot was injured, so he could only shuffle forward slowly
