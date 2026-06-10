@@ -179,59 +179,6 @@ Word #|Unit|Chinese|Pinyin|Part of Speech|English Meaning|Example Chinese|Exampl
 178|Unit 3|编剧|biānjù|n.|screenwriter||
 179|Unit 3|编排|biānpái|v.|arrange; choreograph||
 180|Unit 3|编写|biānxiě|v.|write; compile||
-181|Unit Business|阿里巴巴|Ālǐbābā|Proper Noun|Alibaba||
-182|Unit Business|集团|jítuán|n.|group company||
-183|Unit Business|创立|chuànglì|v.|found; establish||
-184|Unit Business|零售|língshòu|v./n.|retail||
-185|Unit Business|截至|jiézhì|prep.|up to; by (a specified time)||
-186|Unit Business|拥有|yōngyǒu|v.|possess; own||
-187|Unit Business|注册|zhùcè|v.|register||
-188|Unit Business|活跃|huóyuè|adj.|active||
-189|Unit Business|占据|zhànjù|v.|occupy; take up||
-190|Unit Business|市场份额|shìchǎng fèn’é|n.|market share||
-191|Unit Business|就业|jiùyè|v.|get a job; obtain employment||
-192|Unit Business|综合|zōnghé|adj.|comprehensive; integrated||
-193|Unit Business|消费者|xiāofèizhě|n.|consumer||
-194|Unit Business|保障|bǎozhàng|v.|guarantee; ensure||
-195|Unit Business|天猫商城|Tiānmāo Shāngchéng|Proper Noun|Tmall||
-196|Unit Business|聚划算|Jùhuásuàn|Proper Noun|Taobao group-purchase platform||
-197|Unit Business|团购|tuángòu|n.|group purchase||
-198|Unit Business|实惠|shíhuì|adj.|economical; affordable||
-199|Unit Business|奇迹|qíjì|n.|miracle||
-200|Unit Business|光棍儿|guānggùnr|n.|bachelor; unmarried man||
-201|Unit Business|狂欢节|kuánghuānjié|n.|carnival||
-202|Unit Business|交易额|jiāoyì’é|n.|turnover; trading volume||
-203|Unit Business|突破|tūpò|v.|break through; exceed||
-204|Unit Business|销售额|xiāoshòu’é|n.|sales volume||
-205|Unit Business|刷新|shuāxīn|v.|break (a record); refresh||
-206|Unit Business|纪录 / 记录|jìlù|n.|record||
-207|Unit Business|覆盖|fùgài|v.|cover; provide coverage||
-208|Unit Business|贡献|gòngxiàn|n./v.|contribution; contribute||
-209|Unit Business|奢侈品|shēchǐpǐn|n.|luxury goods||
-210|Unit Business|护肤品|hùfūpǐn|n.|skincare products||
-211|Unit Business|应有尽有|yīngyǒujìnyǒu|idiom|have everything one could need||
-212|Unit Business|全球化|quánqiúhuà|n.|globalization||
-213|Unit Business|互联网|hùliánwǎng|n.|internet||
-214|Unit Business|智慧|zhìhuì|n.|wisdom; intelligence||
-215|Unit Business|物流|wùliú|n.|logistics||
-216|Unit Business|升级|shēngjí|v.|upgrade||
-217|Unit Business|设备|shèbèi|n.|equipment; device||
-218|Unit Business|高铁|gāotiě|n.|high-speed rail; bullet train||
-219|Unit Business|仓库|cāngkù|n.|warehouse||
-220|Unit Business|包裹|bāoguǒ|n.|parcel; package||
-221|Unit Business|京东|Jīngdōng|Proper Noun|JD.com||
-222|Unit Business|数据|shùjù|n.|data||
-223|Unit Business|电子商务|diànzǐ shāngwù|n.|e-commerce||
-224|Unit Business|领域|lǐngyù|n.|field; domain||
-225|Unit Business|自营|zìyíng|v.|self-operated||
-226|Unit Business|运营|yùnyíng|v.|operate; run a business||
-227|Unit Business|模式|móshì|n.|pattern; model; mode||
-228|Unit Business|摊位|tānwèi|n.|stall; street vendor stand||
-229|Unit Business|忠诚度|zhōngchéngdù|n.|loyalty||
-230|Unit Business|一旦|yídàn|conj.|once; in case||
-231|Unit Business|谈判|tánpàn|v.|negotiate||
-232|Unit Business|效率|xiàolǜ|n.|efficiency||
-233|Unit Business|遥遥领先|yáoyáolǐngxiān|idiom|be far ahead; lead by a large margin||
 1201|Unit 21|腐败|fǔbài||corruption|政治腐败；腐败分子|zhèngzhì fǔbài; fǔbài fènzǐ|political corruption; corrupt elements
 1202|Unit 21|腐化|fǔhuà||corrupt; degenerate|生活腐化；思想腐化|shēnghuó fǔhuà; sīxiǎng fǔhuà|a decadent lifestyle; ideological corruption
 1203|Unit 21|腐烂|fǔlàn||rot|冷藏可以延缓水果腐烂。|lěngcáng kěyǐ yánhuǎn shuǐguǒ fǔlàn|Refrigeration can slow the rotting of fruit.

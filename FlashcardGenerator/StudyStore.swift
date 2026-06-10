@@ -8,7 +8,7 @@ final class StudyStore: ObservableObject {
   }
 
   private let storageKey = "flashcard_generator_terms_v1"
-  private static let bundledGlossaryResourceNames = ["StarterGlossary", "TennisGlossary"]
+  private static let bundledGlossaryResourceNames = ["StarterGlossary", "BusinessGlossary", "TennisGlossary"]
   private var isLoading = false
   private var hasPreparedInitialData = false
 
