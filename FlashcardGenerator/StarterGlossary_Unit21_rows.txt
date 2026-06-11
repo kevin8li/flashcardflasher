@@ -1,0 +1,60 @@
+1201|Unit 21|腐败|fǔbài||corruption|政治腐败；腐败分子|zhèngzhì fǔbài; fǔbài fènzǐ|political corruption; corrupt elements
+1202|Unit 21|腐化|fǔhuà||corrupt; degenerate|生活腐化；思想腐化|shēnghuó fǔhuà; sīxiǎng fǔhuà|a decadent lifestyle; ideological corruption
+1203|Unit 21|腐烂|fǔlàn||rot|冷藏可以延缓水果腐烂。|lěngcáng kěyǐ yánhuǎn shuǐguǒ fǔlàn|Refrigeration can slow the rotting of fruit.
+1204|Unit 21|腐蚀|fǔshí||corrode|腐蚀金属；思想被腐蚀|fǔshí jīnshǔ; sīxiǎng bèi fǔshí|corrode metal; one's thinking becomes corrupted
+1205|Unit 21|腐朽|fǔxiǔ||rotten; decadent|腐朽的木头；腐朽的生活|fǔxiǔ de mùtou; fǔxiǔ de shēnghuó|rotten wood; decadent life
+1206|Unit 21|付费|fùfèi||pay a fee|付费内容；付费观看|fùfèi nèiróng; fùfèi guānkàn|paid content; pay-per-view
+1207|Unit 21|付款|fùkuǎn||make payment|现金付款；在哪儿付款|xiànjīn fùkuǎn; zài nǎr fùkuǎn|pay in cash; where do I pay?
+1208|Unit 21|负面|fùmiàn||negative|负面新闻；负面影响|fùmiàn xīnwén; fùmiàn yǐngxiǎng|negative news; negative impact
+1209|Unit 21|负有|fùyǒu||bear responsibility|父母对子女负有抚养义务。|fùmǔ duì zǐnǚ fùyǒu fǔyǎng yìwù|Parents have an obligation to raise their children.
+1210|Unit 21|附|fù||attach|最好在简历中附上照片。|zuìhǎo zài jiǎnlì zhōng fù shàng zhàopiàn|Attach a photo to your résumé.
+1211|Unit 21|附带|fùdài||attach; incidental|我给你这笔钱不附带任何条件。|wǒ gěi nǐ zhè bǐ qián bù fùdài rènhé tiáojiàn|This money comes with no conditions.
+1212|Unit 21|附和|fùhè||echo; agree|出声附和；附和别人的意见|chūshēng fùhè; fùhè biérén de yìjiàn|voice agreement; echo others' opinions
+1213|Unit 21|附加|fùjiā||add; append|附加条件；附加手续费|fùjiā tiáojiàn; fùjiā shǒuxùfèi|additional conditions; extra service fee
+1214|Unit 21|附属|fùshǔ||affiliated|这家医院附属于山东大学。|zhè jiā yīyuàn fùshǔ yú Shāndōng Dàxué|This hospital is affiliated with Shandong University.
+1215|Unit 21|赴|fù||go to; attend|赴京；赴会|fù jīng; fù huì|go to Beijing; attend a meeting
+1216|Unit 21|复查|fùchá||follow-up check|复查身体；去医院复查|fùchá shēntǐ; qù yīyuàn fùchá|re-examine one's health; go to the hospital for a follow-up
+1217|Unit 21|复发|fùfā||relapse|旧病复发；无复发可能|jiùbìng fùfā; wú fùfā kěnéng|an old illness relapses; no possibility of recurrence
+1218|Unit 21|复合|fùhé||compound|复合词；复合材料|fùhécí; fùhé cáiliào|compound word; composite material
+1219|Unit 21|复活|fùhuó||revive|复活全球经济活力|fùhuó quánqiú jīngjì huólì|revive global economic vitality
+1220|Unit 21|复兴|fùxīng||rejuvenate|民族复兴；文艺复兴|mínzú fùxīng; wényì fùxīng|national rejuvenation; Renaissance
+1221|Unit 21|复原|fùyuán||recover|被破坏的墙体已经无法复原了。|bèi pòhuài de qiángtǐ yǐjīng wúfǎ fùyuán le|The damaged wall can no longer be restored.
+1222|Unit 21|副作用|fùzuòyòng||side effect|这种药的副作用之一就是爱出汗。|zhè zhǒng yào de fùzuòyòng zhī yī jiù shì ài chūhàn|One side effect is excessive sweating.
+1223|Unit 21|赋予|fùyǔ||endow|赋予重任；赋予权利|fùyǔ zhòngrèn; fùyǔ quánlì|entrust an important task; grant rights
+1224|Unit 21|富含|fùhán||be rich in|富含水分；富含维生素|fùhán shuǐfèn; fùhán wéishēngsù|rich in water; rich in vitamins
+1225|Unit 21|富豪|fùháo||tycoon|大富豪；亿万富豪|dà fùháo; yìwàn fùháo|tycoon; billionaire
+1226|Unit 21|富强|fùqiáng||prosperous and strong|民族富强；使国家富强|mínzú fùqiáng; shǐ guójiā fùqiáng|national prosperity; strengthen the nation
+1227|Unit 21|富翁|fùwēng||millionaire|大富翁；精神富翁|dà fùwēng; jīngshén fùwēng|rich man; spiritually rich person
+1228|Unit 21|富裕|fùyù||affluent|生活富裕；富裕起来|shēnghuó fùyù; fùyù qǐlái|well-off life
+1229|Unit 21|富足|fùzú||abundant|富足的日子；富足的食品供应|fùzú de rìzi; fùzú de shípǐn gōngyìng|abundant life; abundant food supply
+1230|Unit 21|腹部|fùbù||abdomen|腹部肥胖；腹部疼痛|fùbù féipàng; fùbù téngtòng|abdominal obesity; abdominal pain
+1231|Unit 21|腹泻|fùxiè||diarrhea|引起腹泻；出现腹泻的症状|yǐnqǐ fùxiè; chūxiàn fùxiè de zhèngzhuàng|cause diarrhea; diarrhea symptoms
+1232|Unit 21|覆盖|fùgài||cover|覆盖范围；南极大陆长年覆盖着冰雪|fùgài fànwéi; nánjí dàlù chángnián fùgài zhe bīngxuě|coverage; Antarctica is covered by ice
+1233|Unit 21|该|gāi||this; the said|该校；该生|gāi xiào; gāi shēng|the school; the student
+1234|Unit 21|改版|gǎibǎn||revise edition|杂志改版；全面改版|zázhì gǎibǎn; quánmiàn gǎibǎn|magazine redesign
+1235|Unit 21|改编|gǎibiān||adapt|经过改编；把小说改编成电影|jīngguò gǎibiān; bǎ xiǎoshuō gǎibiān chéng diànyǐng|adapt a novel into a movie
+1236|Unit 21|改动|gǎidòng||change|改动了一些词；全面改动|gǎidòng le yìxiē cí; quánmiàn gǎidòng|made some changes
+1237|Unit 21|改革开放|gǎigé kāifàng||Reform and Opening-up|改革开放以来|gǎigé kāifàng yǐlái|since Reform and Opening-up
+1238|Unit 21|改良|gǎiliáng||improve|改良品种；改良制度|gǎiliáng pǐnzhǒng; gǎiliáng zhìdù|improve a variety; reform a system
+1239|Unit 21|改名|gǎimíng||rename|改名换姓；给……改名|gǎimíng huànxìng; gěi ... gǎimíng|change one's name
+1240|Unit 21|改日|gǎirì||another day|改日再来；改日邀请你|gǎirì zàilái; gǎirì yāoqǐng nǐ|come another day
+1241|Unit 21|改为|gǎiwéi||change to|喝咖啡改为喝茶；两年改为三年|hē kāfēi gǎiwéi hē chá; liǎng nián gǎiwéi sān nián|change from coffee to tea
+1242|Unit 21|改邪归正|gǎixié-guīzhèng||turn over a new leaf|他希望改邪归正，过安稳平静的生活。|tā xīwàng gǎixié-guīzhèng, guò ānwěn píngjìng de shēnghuó|He hopes to reform and live peacefully.
+1243|Unit 21|钙|gài||calcium|补钙；钙片|bǔ gài; gài piàn|supplement calcium; calcium tablets
+1244|Unit 21|盖子|gàizi||lid|瓶盖子；盖上盖子|píng gàizi; gài shàng gàizi|bottle cap; put the lid on
+1245|Unit 21|概况|gàikuàng||overview|中国概况；地理概况|Zhōngguó gàikuàng; dìlǐ gàikuàng|overview of China; geographic overview
+1246|Unit 21|概率|gàilǜ||probability|概率为零；赢的概率很大|gàilǜ wéi líng; yíng de gàilǜ hěn dà|probability is zero; high chance of winning
+1247|Unit 21|概论|gàilùn||introduction|《中国文学概论》|Zhōngguó Wénxué Gàilùn|Introduction to Chinese Literature
+1248|Unit 21|干戈|gāngē||warfare|干戈四起；大动干戈|gāngē sì qǐ; dà dòng gāngē|wars break out everywhere; resort to force
+1249|Unit 21|干旱|gānhàn||drought|干旱地区；干旱少雨|gānhàn dìqū; gānhàn shǎo yǔ|arid region; little rainfall
+1250|Unit 21|干燥|gānzào||dry|气候干燥；干燥的皮肤|qìhòu gānzào; gānzào de pífū|dry climate; dry skin
+1251|Unit 21|甘心|gānxīn||be willing|甘心做这件事；不拿到金牌决不甘心|gānxīn zuò zhè jiàn shì; bù nádào jīnpái jué bù gānxīn|willing to do it; won't be satisfied without gold
+1252|Unit 21|肝脏|gānzàng||liver|肝脏功能；检查肝脏|gānzàng gōngnéng; jiǎnchá gānzàng|liver function; examine the liver
+1253|Unit 21|尴尬|gāngà||awkward|表情尴尬；感到尴尬|biǎoqíng gāngà; gǎndào gāngà|awkward expression; feel embarrassed
+1254|Unit 21|赶赴|gǎnfù||rush to|赶赴现场；赶赴灾区|gǎnfù xiànchǎng; gǎnfù zāiqū|rush to the scene; rush to disaster area
+1255|Unit 21|赶往|gǎnwǎng||hurry to|赶往公司；赶往机场|gǎnwǎng gōngsī; gǎnwǎng jīchǎng|hurry to company; hurry to airport
+1256|Unit 21|敢情|gǎnqing||so it turns out|怪不得这么冷，敢情是下雪了。|guàibude zhème lěng, gǎnqing shì xiàxuě le|No wonder it's cold—it snowed.
+1257|Unit 21|感|gǎn||feeling|强烈的责任感；有安全感|qiángliè de zérèngǎn; yǒu ānquángǎn|sense of responsibility; sense of security
+1258|Unit 21|感触|gǎnchù||impression|看了这部电影，我很有感触。|kàn le zhè bù diànyǐng, wǒ hěn yǒu gǎnchù|The movie moved me deeply.
+1259|Unit 21|感恩|gǎn'ēn||be grateful|感恩不尽；不知感恩|gǎn'ēn bù jìn; bù zhī gǎn'ēn|deeply grateful; ungrateful
+1260|Unit 21|感激|gǎnjī||appreciate|很感激他；感激您给我的帮助|hěn gǎnjī tā; gǎnjī nín gěi wǒ de bāngzhù|appreciate him; thank you for your help
