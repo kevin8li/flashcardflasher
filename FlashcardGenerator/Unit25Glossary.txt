@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1441|Unit 25|挂失|guà//shī|v.|report the loss of sth.|挂失银行卡；及时挂失|guàshī yínhángkǎ; jíshí guàshī|report a bank card lost; report the loss promptly
+1442|Unit 25|乖|guāi|adj.|well-behaved; clever|乖孩子；这孩子嘴乖，知道大人爱听什么|guāi háizi; zhè háizi zuǐ guāi, zhīdào dàrén ài tīng shénme|well-behaved child; this child knows how to say what adults like to hear
+1443|Unit 25|乖巧|guāiqiǎo|adj.|cute; clever|乖巧的孩子；说话很乖巧|guāiqiǎo de háizi; shuōhuà hěn guāiqiǎo|a cute and clever child; speaks very sweetly and cleverly
+1444|Unit 25|拐弯|guǎi//wān|v.|turn; turn a corner|从这儿拐弯；往左拐弯；拐个大弯|cóng zhèr guǎiwān; wǎng zuǒ guǎiwān; guǎi ge dà wān|turn from here; turn left; make a wide turn
+1445|Unit 25|拐杖|guǎizhàng|n.|walking stick|一根拐杖；当拐杖；挂拐杖|yì gēn guǎizhàng; dāng guǎizhàng; guà guǎizhàng|a walking stick; use as a walking stick; hang up a walking stick
+1446|Unit 25|怪不得|guàibude|adv./v.|no wonder; be not to blame|你误会他了，怪不得他生气呢。；这件事怪不得他，是我的问题。|nǐ wùhuì tā le, guàibude tā shēngqì ne; zhè jiàn shì guàibude tā, shì wǒ de wèntí|You misunderstood him, no wonder he is angry; he is not to blame for this, it is my problem
+1447|Unit 25|怪物|guàiwu|n.|monster|一个怪物；被当成怪物|yí ge guàiwu; bèi dàngchéng guàiwu|a monster; be treated as a monster
+1448|Unit 25|怪异|guàiyì|adj.|strange|行为怪异；怪异的声音|xíngwéi guàiyì; guàiyì de shēngyīn|strange behavior; a strange sound
+1449|Unit 25|关掉|guāndiào|v.|turn off|关掉电视；关掉空调|guāndiào diànshì; guāndiào kōngtiáo|turn off the TV; turn off the air conditioner
+1450|Unit 25|关节|guānjié|n.|joint; critical point|关节痛；问题的关节|guānjié tòng; wèntí de guānjié|joint pain; the crux of the problem
+1451|Unit 25|关税|guānshuì|n.|tariff|关税水平；降低关税|guānshuì shuǐpíng; jiàngdī guānshuì|tariff level; lower tariffs
+1452|Unit 25|关头|guāntóu|n.|juncture|重要关头；最后关头|zhòngyào guāntóu; zuìhòu guāntóu|important juncture; final moment
+1453|Unit 25|关照|guānzhào|v.|take care of|请多关照；关照新同事|qǐng duō guānzhào; guānzhào xīn tóngshì|please look after me; take care of a new colleague
+1454|Unit 25|观测|guāncè|v.|observe and measure|观测风力；观测敌情|guāncè fēnglì; guāncè díqíng|observe wind force; observe the enemy situation
+1455|Unit 25|观感|guāngǎn|n.|impressions|谈谈自己的观感；给人们带来刺激的观感体验|tántan zìjǐ de guāngǎn; gěi rénmen dàilái cìjī de guāngǎn tǐyàn|talk about one's impressions; bring people an exciting viewing experience
+1456|Unit 25|观摩|guānmó|v.|observe and emulate|观摩学习；观摩演出|guānmó xuéxí; guānmó yǎnchū|observe and learn; observe a performance
+1457|Unit 25|观赏|guānshǎng|v.|view and admire|观赏热带植物；观赏表演|guānshǎng rèdài zhíwù; guānshǎng biǎoyǎn|view tropical plants; watch a performance
+1458|Unit 25|观望|guānwàng|v.|look around; wait and see|四处观望；观望市场形势|sìchù guānwàng; guānwàng shìchǎng xíngshì|look around everywhere; wait and see the market situation
+1459|Unit 25|官兵|guānbīng|n.|officers and men|一群官兵；武警官兵|yì qún guānbīng; wǔjǐng guānbīng|a group of officers and soldiers; armed police officers and soldiers
+1460|Unit 25|官吏|guānlì|n.|government official in the old days|中国古代地方官吏|Zhōngguó gǔdài dìfāng guānlì|local officials in ancient China
+1461|Unit 25|官僚|guānliáo|n.|bureaucrat|官僚思想；封建官僚|guānliáo sīxiǎng; fēngjiàn guānliáo|bureaucratic thinking; feudal bureaucrat
+1462|Unit 25|官僚主义|guānliáo zhǔyì|n.|bureaucracy|封建官僚主义；杜绝官僚主义|fēngjiàn guānliáo zhǔyì; dùjué guānliáo zhǔyì|feudal bureaucracy; eliminate bureaucracy
+1463|Unit 25|官员|guānyuán|n.|official|外交官员；地方官员|wàijiāo guānyuán; dìfāng guānyuán|diplomatic official; local official
+1464|Unit 25|棺材|guāncai|n.|coffin|一口棺材|yì kǒu guāncai|a coffin
+1465|Unit 25|管家|guǎnjiā|n.|housekeeper|女管家；“管家式”服务|nǚ guǎnjiā; guǎnjiā shì fúwù|female housekeeper; housekeeper-style service
+1466|Unit 25|管教|guǎnjiào|v./n.|discipline; control; officer/warden at a reformatory|管教孩子；缺乏管教；管教人员；监狱管教|guǎnjiào háizi; quēfá guǎnjiào; guǎnjiào rényuán; jiānyù guǎnjiào|discipline children; lack discipline; correctional staff; prison warden
+1467|Unit 25|管理费|guǎnlǐfèi|n.|management expenses|降低管理费；档案管理费|jiàngdī guǎnlǐfèi; dàng'àn guǎnlǐfèi|reduce management fees; archive management fee
+1468|Unit 25|管辖|guǎnxiá|v.|have jurisdiction over|管辖范围；直接管辖|guǎnxiá fànwéi; zhíjiē guǎnxiá|jurisdictional scope; direct jurisdiction
+1469|Unit 25|管用|guǎn//yòng|adj.|effective|这种药很管用；不太管用的方法|zhè zhǒng yào hěn guǎnyòng; bú tài guǎnyòng de fāngfǎ|this medicine is very effective; a method that is not very effective
+1470|Unit 25|管子|guǎnzi|n.|pipe|一根管子；自来水管子|yì gēn guǎnzi; zìláishuǐ guǎnzi|a pipe; water pipe
+1471|Unit 25|贯彻|guànchè|v.|carry out|贯彻到底；贯彻教育方针|guànchè dàodǐ; guànchè jiàoyù fāngzhēn|carry through to the end; carry out the education policy
+1472|Unit 25|贯穿|guànchuān|v.|permeate; penetrate|贯穿始终；这条公路贯穿整个国家|guànchuān shǐzhōng; zhè tiáo gōnglù guànchuān zhěnggè guójiā|run through from beginning to end; this highway runs through the whole country
+1473|Unit 25|贯通|guàntōng|v.|link up|上下贯通；贯通东西|shàngxià guàntōng; guàntōng dōngxī|connect top and bottom; connect east and west
+1474|Unit 25|惯|guàn|v.|be used to; spoil|喝不惯；惯孩子|hē bú guàn; guàn háizi|not used to drinking it; spoil a child
+1475|Unit 25|惯例|guànlì|n.|convention|国际惯例；打破惯例|guójì guànlì; dǎpò guànlì|international convention; break with convention
+1476|Unit 25|惯性|guànxìng|n.|inertia|惯性作用；依靠惯性|guànxìng zuòyòng; yīkào guànxìng|the effect of inertia; rely on inertia
+1477|Unit 25|灌|guàn|v.|irrigate; pour; fill; force to drink|引水灌田；灌了一瓶热水；被朋友灌醉了|yǐn shuǐ guàn tián; guàn le yì píng rèshuǐ; bèi péngyou guàn zuì le|divert water to irrigate fields; filled a bottle with hot water; was made drunk by friends
+1478|Unit 25|灌溉|guàngài|v.|irrigate|灌溉耕地；灌溉技术|guàngài gēngdì; guàngài jìshù|irrigate farmland; irrigation technology
+1479|Unit 25|灌输|guànshū|v.|instill into; inculcate|灌输知识；灌输爱国思想|guànshū zhīshi; guànshū àiguó sīxiǎng|instill knowledge; instill patriotic ideas
+1480|Unit 25|罐|guàn|n.|pot|茶叶罐；糖罐|cháyè guàn; táng guàn|tea canister; sugar jar
+1481|Unit 25|罐头|guàntou|n.|can|水果罐头；开罐头|shuǐguǒ guàntou; kāi guàntou|canned fruit; open a can
+1482|Unit 25|光彩|guāngcǎi|n./adj.|brilliance; honourable; glorious|大放光彩；幸福的光彩；偷东西是很不光彩的事。|dà fàng guāngcǎi; xìngfú de guāngcǎi; tōu dōngxi shì hěn bù guāngcǎi de shì|shine brilliantly; the glow of happiness; stealing is a very dishonorable thing
+1483|Unit 25|光碟|guāngdié|n.|compact disc|一张光碟；音乐光碟|yì zhāng guāngdié; yīnyuè guāngdié|a compact disc; music CD
+1484|Unit 25|光顾|guānggù|v.|patronize|经常光顾；光顾这家店|jīngcháng guānggù; guānggù zhè jiā diàn|patronize often; visit this shop
+1485|Unit 25|光滑|guānghuá|adj.|smooth|皮肤光滑；冰面很光滑|pífū guānghuá; bīngmiàn hěn guānghuá|smooth skin; the ice surface is very smooth
+1486|Unit 25|光环|guānghuán|n.|halo|明星光环；冠军光环|míngxīng guānghuán; guànjūn guānghuán|celebrity halo; champion's aura
+1487|Unit 25|光缆|guānglǎn|n.|optical cable|海底光缆；生产光缆|hǎidǐ guānglǎn; shēngchǎn guānglǎn|undersea optical cable; produce optical cable
+1488|Unit 25|光芒|guāngmáng|n.|radiance|发出光芒；光芒四射|fāchū guāngmáng; guāngmáng sìshè|emit light; radiate in all directions
+1489|Unit 25|光明磊落|guāngmíng-lěiluò|adj.|upright and honorable|做人光明磊落|zuò rén guāngmíng-lěiluò|be upright and honorable as a person
+1490|Unit 25|光泽|guāngzé|n.|lustre; gloss|失去光泽；珍珠的光泽|shīqù guāngzé; zhēnzhū de guāngzé|lose its luster; the luster of pearls
+1491|Unit 25|广义|guǎngyì|n.|broad sense|广义上；广义的概念|guǎngyì shàng; guǎngyì de gàiniàn|in a broad sense; a broad concept
+1492|Unit 25|归根到底|guīgēn-dàodǐ|phrase|in the final analysis|政策制定的好坏，归根到底要看人民的满意度。|zhèngcè zhìdìng de hǎohuài, guīgēn-dàodǐ yào kàn rénmín de mǎnyìdù|Whether a policy is well made ultimately depends on the people's satisfaction
+1493|Unit 25|归还|guīhuán|v.|return|归还手机；按时归还|guīhuán shǒujī; ànshí guīhuán|return a phone; return on time
+1494|Unit 25|归结|guījié|v.|sum up|归结起来；归结到一点|guījié qǐlai; guījié dào yì diǎn|to sum up; boil down to one point
+1495|Unit 25|归来|guīlái|v.|return|早日归来；从海外归来|zǎorì guīlái; cóng hǎiwài guīlái|return soon; return from overseas
+1496|Unit 25|归纳|guīnà|v.|induce; summarize|对分析结果进行整理和归纳。|duì fēnxī jiéguǒ jìnxíng zhěnglǐ hé guīnà|organize and summarize the analysis results
+1497|Unit 25|归属|guīshǔ|v.|belong to|归属未定；归属单位|guīshǔ wèidìng; guīshǔ dānwèi|ownership is undecided; affiliated unit
+1498|Unit 25|归宿|guīsù|n.|destination; final settling place|人生的归宿；有好的归宿|rénshēng de guīsù; yǒu hǎo de guīsù|life's final destination; have a good final home
+1499|Unit 25|龟|guī|n.|turtle|一只龟；海龟|yì zhī guī; hǎiguī|a turtle; sea turtle
+1500|Unit 25|规格|guīgé|n.|specifications; requirement|符合规格；接待规格|fúhé guīgé; jiēdài guīgé|meet specifications; reception standard
