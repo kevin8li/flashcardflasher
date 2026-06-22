@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1561|Unit 27|害羞|hàixiū|adj.|shy|他是一个容易害羞的人;她突然害起羞来了|Tā shì yí gè róngyì hàixiū de rén; tā tūrán hài qǐ xiū lái le|He is someone who gets shy easily; she suddenly became shy
+1562|Unit 27|酣畅|hānchàng|adj.|comfortable and happy|喝得酣畅;睡得很酣畅|Hē de hānchàng; shuì de hěn hānchàng|drink with great enjoyment; sleep very comfortably
+1563|Unit 27|酣睡|hānshuì|v.|sleep soundly|他此刻就像一个在妈妈怀里酣睡的孩子|Tā cǐkè jiù xiàng yí gè zài māma huái lǐ hānshuì de háizi|At this moment he is just like a child sleeping soundly in his mother's arms
+1564|Unit 27|含糊|hánhu|adj.|vague; careless|说话含糊;这事一点儿不能含糊|Shuōhuà hánhu; zhè shì yìdiǎnr bù néng hánhu|speak vaguely; this matter cannot be treated carelessly at all
+1565|Unit 27|含蓄|hánxù|v.; adj.|contain; implicit, reserved|简短的话语含蓄着深刻的道理;性格含蓄;含蓄地表达|Jiǎnduǎn de huàyǔ hánxù zhe shēnkè de dàolǐ; xìnggé hánxù; hánxù de biǎodá|brief words contain profound reasoning; reserved personality; express implicitly
+1566|Unit 27|函授|hánshòu|v.|teach by correspondence|函授生;函授教育|Hánshòushēng; hánshòu jiàoyù|correspondence student; correspondence education
+1567|Unit 27|涵盖|hán'gài|v.|contain, cover|涵盖全体师生;涵盖范围;涵盖全部知识点|Hán'gài quántǐ shīshēng; hán'gài fànwéi; hán'gài quánbù zhīshi diǎn|cover all teachers and students; coverage scope; cover all knowledge points
+1568|Unit 27|涵义|hányì|n.|meaning|丰富的涵义;涵义深刻|Fēngfù de hányì; hányì shēnkè|rich meaning; profound meaning
+1569|Unit 27|罕见|hǎnjiàn|adj.|rare|这种病十分罕见;罕见的鸟|Zhè zhǒng bìng shífēn hǎnjiàn; hǎnjiàn de niǎo|this disease is extremely rare; a rare bird
+1570|Unit 27|汗水|hànshuǐ|n.|sweat|一头汗水;汗水打湿了他的头发|Yì tóu hànshuǐ; hànshuǐ dǎshī le tā de tóufa|a head covered in sweat; sweat soaked his hair
+1571|Unit 27|旱|hàn|adj.|dry|天旱;防旱|Tiān hàn; fáng hàn|dry weather; prevent drought
+1572|Unit 27|旱灾|hànzāi|n.|drought|一场旱灾;严重旱灾|Yì chǎng hànzāi; yánzhòng hànzāi|a drought; severe drought
+1573|Unit 27|捍卫|hànwèi|v.|defend|捍卫国土;捍卫国家安全|Hànwèi guótǔ; hànwèi guójiā ānquán|defend the national territory; defend national security
+1574|Unit 27|焊|hàn|v.|weld|焊住;焊接|Hàn zhù; hànjiē|weld in place; welding
+1575|Unit 27|行家|hángjia|n.|expert|老行家;真正的行家|Lǎo hángjia; zhēnzhèng de hángjia|old expert; true expert
+1576|Unit 27|行列|hángliè|n.|ranks|整齐的行列;行列的最前边|Zhěngqí de hángliè; hángliè de zuì qiánbian|neat ranks; the very front of the ranks
+1577|Unit 27|行情|hángqíng|n.|market conditions|股市行情;熟悉行情|Gǔshì hángqíng; shúxī hángqíng|stock market conditions; be familiar with market conditions
+1578|Unit 27|航海|hánghǎi|v.|navigate|航海家;航海经验|Hánghǎijiā; hánghǎi jīngyàn|navigator; sailing experience
+1579|Unit 27|航天|hángtiān|v.|make a space flight|航天技术;航天事业|Hángtiān jìshù; hángtiān shìyè|spaceflight technology; space industry
+1580|Unit 27|航天员|hángtiānyuán|n.|astronaut|首位女航天员|Shǒuwèi nǚ hángtiānyuán|first female astronaut
+1581|Unit 27|航行|hángxíng|v.|navigate by air or water|空中航行;海上航行|Kōngzhōng hángxíng; hǎishàng hángxíng|air navigation; sea navigation
+1582|Unit 27|航运|hángyùn|n.|shipping|航运公司;航运业|Hángyùn gōngsī; hángyùn yè|shipping company; shipping industry
+1583|Unit 27|毫不|háo bù|adv.|not at all|毫不相信;毫不在乎|Háo bù xiāngxìn; háo bù zàihu|not believe at all; not care at all
+1584|Unit 27|毫不犹豫|háo bù yóuyù|adv.|without hesitation|他毫不犹豫地答应了我们的要求|Tā háo bù yóuyù de dāying le wǒmen de yāoqiú|He agreed to our request without hesitation
+1585|Unit 27|毫无|háo wú|v.|have not the least bit|毫无兴趣;毫无根据的猜测|Háo wú xìngqù; háo wú gēnjù de cāicè|have no interest at all; a completely baseless guess
+1586|Unit 27|豪华|háohuá|adj.|luxurious|豪华的客厅;装修非常豪华|Háohuá de kètīng; zhuāngxiū fēicháng háohuá|luxurious living room; the renovation is extremely luxurious
+1587|Unit 27|好比|hǎobǐ|v.|be just like|好比一场梦|Hǎobǐ yì chǎng mèng|be just like a dream
+1588|Unit 27|好歹|hǎodǎi|n.; adv.|good and bad; mishap; somehow, no matter in what way|万一他有个好歹，可怎么办;好歹吃点儿东西再走;他在的话，好歹能帮咱一把|Wànyī tā yǒu ge hǎodǎi, kě zěnme bàn; hǎodǎi chī diǎnr dōngxi zài zǒu; tā zài de huà, hǎodǎi néng bāng zán yì bǎ|If something bad happens to him, what can we do; at least eat something before leaving; if he is there, he can somehow give us a hand
+1589|Unit 27|好感|hǎogǎn|n.|favourable impression, good opinion|对……有好感|Duì ... yǒu hǎogǎn|have a good impression of ...
+1590|Unit 27|好坏|hǎohuài|n.|good or bad|分辨好坏;质量好坏|Fēnbiàn hǎohuài; zhìliàng hǎohuài|tell good from bad; quality, good or bad
+1591|Unit 27|好家伙|hǎojiāhuo|int.|good heavens|好家伙，真贵啊|Hǎojiāhuo, zhēn guì a|Good heavens, it is really expensive
+1592|Unit 27|好评|hǎopíng|n.|high opinion|获得好评;受到广泛好评|Huòdé hǎopíng; shòudào guǎngfàn hǎopíng|receive praise; receive wide praise
+1593|Unit 27|好说|hǎoshuō|v.|used to express possible agreement/acceptance|这件事好说，全包在我身上了|Zhè jiàn shì hǎoshuō, quán bāo zài wǒ shēnshang le|This matter is easy to handle; leave it all to me
+1594|Unit 27|好笑|hǎoxiào|adj.|funny|太好笑了;好笑的事|Tài hǎoxiào le; hǎoxiào de shì|too funny; a funny thing
+1595|Unit 27|好心|hǎoxīn|n.|good intention|一片好心;好心的老人|Yí piàn hǎoxīn; hǎoxīn de lǎorén|a kind intention; a kind-hearted old person
+1596|Unit 27|好心人|hǎoxīnrén|n.|kind people, good soul|遇上好心人了;是好心人|Yùshang hǎoxīnrén le; shì hǎoxīnrén|met a kind person; is a kind person
+1597|Unit 27|好意|hǎoyì|n.|kindness|一番好意;好心好意|Yì fān hǎoyì; hǎoxīn hǎoyì|a kind gesture; kind-hearted and well-intentioned
+1598|Unit 27|好在|hǎozài|adv.|fortunately|好在医院离这儿不远，开车过去5分钟就到|Hǎozài yīyuàn lí zhèr bù yuǎn, kāichē guòqù wǔ fēnzhōng jiù dào|Fortunately the hospital is not far from here; it takes five minutes by car
+1599|Unit 27|号称|hàochēng|v.|be known as; claim to be|哈尔滨号称冰城;他号称学富五车，其实没什么真本事|Hā'ěrbīn hàochēng Bīngchéng; tā hàochēng xué fù wǔ chē, qíshí méi shénme zhēn běnshi|Harbin is known as the Ice City; he claims to be very learned, but actually has no real ability
+1600|Unit 27|好客|hàokè|adj.|hospitable|热情好客;好客的主人|Rèqíng hàokè; hàokè de zhǔrén|warm and hospitable; a hospitable host
+1601|Unit 27|好奇心|hàoqíxīn|n.|curiosity|充满好奇心;有好奇心|Chōngmǎn hàoqíxīn; yǒu hàoqíxīn|full of curiosity; have curiosity
+1602|Unit 27|耗|hào|v.|consume|耗油;耗电|Hào yóu; hào diàn|consume fuel; consume electricity
+1603|Unit 27|耗费|hàofèi|v.|cost, spend|耗费时间;耗费人力|Hàofèi shíjiān; hàofèi rénlì|spend time; expend manpower
+1604|Unit 27|耗时|hàoshí|v.|spend time|耗时三小时;耗时少|Hàoshí sān xiǎoshí; hàoshí shǎo|take three hours; take little time
+1605|Unit 27|浩劫|hàojié|n.|catastrophe|这次地震对当地居民来说，是一场浩劫|Zhè cì dìzhèn duì dāngdì jūmín lái shuō, shì yì chǎng hàojié|For local residents, this earthquake was a catastrophe
+1606|Unit 27|呵护|hēhù|v.|care|呵护孩子;呵护皮肤|Hēhù háizi; hēhù pífū|care for children; care for skin
+1607|Unit 27|禾苗|hémiáo|n.|grain seedlings|一把禾苗;绿色的禾苗|Yì bǎ hémiáo; lǜsè de hémiáo|a handful of seedlings; green seedlings
+1608|Unit 27|合唱|héchàng|v.|sing in chorus|大合唱;合唱比赛|Dà héchàng; héchàng bǐsài|choral singing; chorus competition
+1609|Unit 27|合乎|héhū|v.|conform to|合乎规格;合乎标准|Héhū guīgé; héhū biāozhǔn|conform to specifications; meet standards
+1610|Unit 27|合伙|héhuǒ|v.|form a partnership|合伙人;合伙经营|Héhuǒrén; héhuǒ jīngyíng|partner; operate in partnership
+1611|Unit 27|合计|héjì|v.|total, add up to|合计六人;合计一千元|Héjì liù rén; héjì yì qiān yuán|six people in total; one thousand yuan in total
+1612|Unit 27|合情合理|héqíng-hélǐ|adj.|be perfectly logical and reasonable|这么做合情合理;合情合理的要求|Zhème zuò héqíng-hélǐ; héqíng-hélǐ de yāoqiú|doing it this way is reasonable; a reasonable request
+1613|Unit 27|合影|héyǐng|v.|take a group photo|合影留念;我们大家合一张影吧|Héyǐng liúniàn; wǒmen dàjiā hé yì zhāng yǐng ba|take a group photo as a keepsake; let's all take a photo together
+1614|Unit 27|合资|hézī|v.|make a joint investment|中外合资;合资公司|Zhōngwài hézī; hézī gōngsī|Chinese-foreign joint investment; joint-venture company
+1615|Unit 27|合作社|hézuòshè|n.|cooperative|农业合作社|Nóngyè hézuòshè|agricultural cooperative
+1616|Unit 27|何必|hébì|adv.|there is no need|今天的分别只是暂时的，又何必难过|Jīntiān de fēnbié zhǐ shì zhànshí de, yòu hébì nánguò|Today's parting is only temporary, so there is no need to be sad
+1617|Unit 27|何处|hé chù|pron.|where|今后的世界将向何处发展，谁也不知道|Jīnhòu de shìjiè jiāng xiàng hé chù fāzhǎn, shéi yě bù zhīdào|No one knows where the future world will develop
+1618|Unit 27|何苦|hékǔ|adv.|why bother|银行工作人员只是按规矩办事，你何苦为难人家|Yínháng gōngzuò rényuán zhǐ shì àn guījǔ bànshì, nǐ hékǔ wéinán rénjiā|The bank staff are only following rules, so why make things difficult for them
+1619|Unit 27|何况|hékuàng|conj.|what's more|这个比赛不难，何况还有我们大家，怕什么|Zhè ge bǐsài bù nán, hékuàng hái yǒu wǒmen dàjiā, pà shénme|This contest is not hard, and besides, all of us are here, so what is there to fear
+1620|Unit 27|何时|hé shí|pron.|when|不知他何时归来|Bù zhī tā hé shí guīlái|It is not known when he will return
