@@ -1,61 +1,61 @@
 Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
-1501|Unit 26|规矩|guīju|n./adj.|rule; well-behaved|懂规矩；按规矩办事；字写得很规矩；规矩人||
-1502|Unit 26|闺女|guīnǚ|n.|girl; daughter|那个闺女；我闺女两岁了||
-1503|Unit 26|瑰宝|guībǎo|n.|treasure|艺术瑰宝；精神瑰宝||
-1504|Unit 26|轨迹|guǐjì|n.|trajectory|活动轨迹；卫星运行轨迹||
-1505|Unit 26|柜台|guìtái|n.|counter|银行柜台；食品柜台||
-1506|Unit 26|贵宾|guìbīn|n.|distinguished guest|贵宾室；贵宾通道||
-1507|Unit 26|贵重|guìzhòng|adj.|precious|贵重物品；贵重仪器||
-1508|Unit 26|贵族|guìzú|n.|noble|封建贵族；贵族身份||
-1509|Unit 26|桂花|guìhuā|n.|osmanthus fragrans|桂花树；桂花开了||
-1510|Unit 26|滚动|gǔndòng|v.|repeat at regular intervals; develop step by step|滚动播出；滚动发展||
-1511|Unit 26|棍|gùn|n.|stick|木棍；小棍儿||
-1512|Unit 26|棍子|gùnzi|n.|stick|一根棍子；长棍子||
-1513|Unit 26|国宝|guóbǎo|n.|national treasure|国宝故事；大熊猫是中国的国宝||
-1514|Unit 26|国防|guófáng|n.|national defence|国防建设；国防力量||
-1515|Unit 26|国画|guóhuà|n.|traditional Chinese painting|国画专业；创新国画绘画技巧||
-1516|Unit 26|国徽|guóhuī|n.|national emblem|设计国徽；庄严的国徽||
-1517|Unit 26|国情|guóqíng|n.|national conditions|了解中国国情||
-1518|Unit 26|国土|guótǔ|n.|territory|维护国土完整||
-1519|Unit 26|国学|guóxué|n.|Chinese cultural studies|国学大师；国学热||
-1520|Unit 26|国有|guóyǒu|v.|be state-owned|国有资产；国有企业||
-1521|Unit 26|果断|guǒduàn|adj.|decisive|果断退出；果断决定||
-1522|Unit 26|果园|guǒyuán|n.|orchard|这片果园帮助不少果农走上了致富路。||
-1523|Unit 26|果真|guǒzhēn|adv./conj.|really; if really|和我想得一样，他果真赢了；果真是这样就好了，我也不会担心了||
-1524|Unit 26|裹|guǒ|v.|wrap|他小心地把那本书用布裹了起来。||
-1525|Unit 26|过半|guòbàn|v.|be more than half|时间过半；任务过半||
-1526|Unit 26|过不去|guòbuqù|v.|cannot get through; be hard on sb.; feel apologetic|这儿过不去；他故意跟我过不去；没帮上他，我心里有点儿过不去||
-1527|Unit 26|过错|guòcuò|n.|fault|所有过错我一个人承担。||
-1528|Unit 26|过道|guòdào|n.|aisle|我坐的这趟火车人很多，连过道上都站满了人。||
-1529|Unit 26|过关|guò//guān|v.|pass; be up to standard|考试过关；过不了关||
-1530|Unit 26|过奖|guòjiǎng|v.|praise excessively|您过奖了；真是过奖了||
-1531|Unit 26|过节|guò//jié|v.|celebrate a festival|盼望过节；在家过了节再出差||
-1532|Unit 26|过境|guò//jìng|v.|cross a border; be in transit|过境手续；台风过境||
-1533|Unit 26|过滤|guòlǜ|v.|filter|过滤干净；过滤茶叶||
-1534|Unit 26|过期|guò//qī|v.|be overdue|过期商品；已经过期||
-1535|Unit 26|过日子|guò rìzi|v.|live; live one's life|会过日子；过好日子||
-1536|Unit 26|过剩|guòshèng|v.|have an excess of|营养过剩；精力过剩||
-1537|Unit 26|过失|guòshī|n.|fault|改正过失||
-1538|Unit 26|过头|guò//tóu|adj.|overdone|聪明过头；这话说过头了||
-1539|Unit 26|过往|guòwǎng|v./n.|come and go; associate with; past|过往的人；他们俩是老同学，过往很密；过往的日子||
-1540|Unit 26|过意不去|guòyìbuqù|v.|feel sorry|你这么说，我心里更过意不去了。||
-1541|Unit 26|过瘾|guò//yǐn|v.|enjoy oneself to the full|辣得真过瘾；过足了瘾||
-1542|Unit 26|过硬|guò//yìng|adj.|perfect; superb|技术过硬；本领过硬||
-1543|Unit 26|过早|guò zǎo|adj.|premature|过早决定；过早结婚||
-1544|Unit 26|海岸|hǎi'àn|n.|coast|海岸线；沿着海岸||
-1545|Unit 26|海拔|hǎibá|n.|altitude|海拔8848.86米；高海拔地区||
-1546|Unit 26|海滨|hǎibīn|n.|seaside|海滨城市；海滨公园||
-1547|Unit 26|海盗|hǎidào|n.|pirate|海盗船；打击海盗活动||
-1548|Unit 26|海量|hǎiliàng|n.|magnanimity; great capacity for alcoholic drinks|望您海量包涵；喝酒海量||
-1549|Unit 26|海绵|hǎimián|n.|sponge|一块海绵；海绵城市||
-1550|Unit 26|海面|hǎimiàn|n.|sea surface|海面上；平静的海面||
-1551|Unit 26|海内外|hǎi nèiwài|phrase|all the world|海内外友人||
-1552|Unit 26|海滩|hǎitān|n.|beach|在海滩上游玩||
-1553|Unit 26|海峡|hǎixiá|n.|strait|海峡两岸；形成海峡||
-1554|Unit 26|海啸|hǎixiào|n.|tsunami|发生海啸；一场海啸||
-1555|Unit 26|海域|hǎiyù|n.|sea area|广阔的海域；安全海域||
-1556|Unit 26|海运|hǎiyùn|v.|ship by sea|海运业务；海运条件便利||
-1557|Unit 26|海藻|hǎizǎo|n.|seaweed|这种海龟以各种海藻为食。||
-1558|Unit 26|骇人听闻|hàiréntīngwén|adj.|appalling|骇人听闻的暴力事件||
-1559|Unit 26|害虫|hàichóng|n.|pest|消灭害虫；农业害虫||
-1560|Unit 26|害臊|hài//sào|v.|feel ashamed|有些害臊；替他害臊||
+1501|Unit 26|规矩|guīju|n./adj.|rule; well-behaved|懂规矩；按规矩办事；字写得很规矩；规矩人|dǒng guīju; àn guīju bànshì; zì xiě de hěn guīju; guīju rén|understand the rules; handle matters according to the rules; the characters are written very neatly; a well-behaved person
+1502|Unit 26|闺女|guīnǚ|n.|girl; daughter|那个闺女；我闺女两岁了|nà ge guīnǚ; wǒ guīnǚ liǎng suì le|that girl; my daughter is two years old
+1503|Unit 26|瑰宝|guībǎo|n.|treasure|艺术瑰宝；精神瑰宝|yìshù guībǎo; jīngshén guībǎo|art treasure; spiritual treasure
+1504|Unit 26|轨迹|guǐjì|n.|trajectory|活动轨迹；卫星运行轨迹|huódòng guǐjì; wèixīng yùnxíng guǐjì|movement track; satellite orbit
+1505|Unit 26|柜台|guìtái|n.|counter|银行柜台；食品柜台|yínháng guìtái; shípǐn guìtái|bank counter; food counter
+1506|Unit 26|贵宾|guìbīn|n.|distinguished guest|贵宾室；贵宾通道|guìbīnshì; guìbīn tōngdào|VIP room; VIP passage
+1507|Unit 26|贵重|guìzhòng|adj.|precious|贵重物品；贵重仪器|guìzhòng wùpǐn; guìzhòng yíqì|valuables; precious instruments
+1508|Unit 26|贵族|guìzú|n.|noble|封建贵族；贵族身份|fēngjiàn guìzú; guìzú shēnfèn|feudal aristocracy; noble status
+1509|Unit 26|桂花|guìhuā|n.|osmanthus fragrans|桂花树；桂花开了|guìhuā shù; guìhuā kāi le|osmanthus tree; the osmanthus has bloomed
+1510|Unit 26|滚动|gǔndòng|v.|repeat at regular intervals; develop step by step|滚动播出；滚动发展|gǔndòng bōchū; gǔndòng fāzhǎn|rolling broadcast; rolling development
+1511|Unit 26|棍|gùn|n.|stick|木棍；小棍儿|mùgùn; xiǎo gùnr|wooden stick; little stick
+1512|Unit 26|棍子|gùnzi|n.|stick|一根棍子；长棍子|yì gēn gùnzi; cháng gùnzi|a stick; long stick
+1513|Unit 26|国宝|guóbǎo|n.|national treasure|国宝故事；大熊猫是中国的国宝|guóbǎo gùshi; dàxióngmāo shì Zhōngguó de guóbǎo|national-treasure story; the giant panda is China's national treasure
+1514|Unit 26|国防|guófáng|n.|national defence|国防建设；国防力量|guófáng jiànshè; guófáng lìliàng|national defense construction; national defense strength
+1515|Unit 26|国画|guóhuà|n.|traditional Chinese painting|国画专业；创新国画绘画技巧|guóhuà zhuānyè; chuàngxīn guóhuà huìhuà jìqiǎo|Chinese painting major; innovate Chinese painting techniques
+1516|Unit 26|国徽|guóhuī|n.|national emblem|设计国徽；庄严的国徽|shèjì guóhuī; zhuāngyán de guóhuī|design the national emblem; solemn national emblem
+1517|Unit 26|国情|guóqíng|n.|national conditions|了解中国国情|liǎojiě Zhōngguó guóqíng|understand China's national conditions
+1518|Unit 26|国土|guótǔ|n.|territory|维护国土完整|wéihù guótǔ wánzhěng|safeguard territorial integrity
+1519|Unit 26|国学|guóxué|n.|Chinese cultural studies|国学大师；国学热|guóxué dàshī; guóxué rè|master of Chinese cultural studies; craze for Chinese cultural studies
+1520|Unit 26|国有|guóyǒu|v.|be state-owned|国有资产；国有企业|guóyǒu zīchǎn; guóyǒu qǐyè|state-owned assets; state-owned enterprise
+1521|Unit 26|果断|guǒduàn|adj.|decisive|果断退出；果断决定|guǒduàn tuìchū; guǒduàn juédìng|withdraw decisively; make a decisive decision
+1522|Unit 26|果园|guǒyuán|n.|orchard|这片果园帮助不少果农走上了致富路。|zhè piàn guǒyuán bāngzhù bù shǎo guǒnóng zǒu shàng le zhìfù lù.|This orchard helped many fruit farmers get on the road to prosperity.
+1523|Unit 26|果真|guǒzhēn|adv./conj.|really; if really|和我想得一样，他果真赢了；果真是这样就好了，我也不会担心了|hé wǒ xiǎng de yíyàng, tā guǒzhēn yíng le; guǒzhēn shì zhèyàng jiù hǎo le, wǒ yě bú huì dānxīn le|Just as I thought, he really won; if that is really the case, that would be fine, and I would not worry.
+1524|Unit 26|裹|guǒ|v.|wrap|他小心地把那本书用布裹了起来。|tā xiǎoxīn de bǎ nà běn shū yòng bù guǒ le qǐlái.|He carefully wrapped that book in cloth.
+1525|Unit 26|过半|guòbàn|v.|be more than half|时间过半；任务过半|shíjiān guòbàn; rènwu guòbàn|more than half the time has passed; more than half the task is done
+1526|Unit 26|过不去|guòbuqù|v.|cannot get through; be hard on sb.; feel apologetic|这儿过不去；他故意跟我过不去；没帮上他，我心里有点儿过不去|zhèr guò bu qù; tā gùyì gēn wǒ guò bu qù; méi bāng shàng tā, wǒ xīnli yǒudiǎnr guò bu qù|cannot get through here; he deliberately gives me a hard time; since I could not help him, I feel a little bad
+1527|Unit 26|过错|guòcuò|n.|fault|所有过错我一个人承担。|suǒyǒu guòcuò wǒ yí ge rén chéngdān.|I will bear all the fault myself.
+1528|Unit 26|过道|guòdào|n.|aisle|我坐的这趟火车人很多，连过道上都站满了人。|wǒ zuò de zhè tàng huǒchē rén hěn duō, lián guòdào shàng dōu zhàn mǎn le rén.|The train I took was very crowded, and even the aisles were full of people standing.
+1529|Unit 26|过关|guò//guān|v.|pass; be up to standard|考试过关；过不了关|kǎoshì guòguān; guò bu liǎo guān|pass the exam; cannot pass
+1530|Unit 26|过奖|guòjiǎng|v.|praise excessively|您过奖了；真是过奖了|nín guòjiǎng le; zhēn shì guòjiǎng le|you flatter me; that is really too much praise
+1531|Unit 26|过节|guò//jié|v.|celebrate a festival|盼望过节；在家过了节再出差|pànwàng guòjié; zài jiā guò le jié zài chūchāi|look forward to celebrating a festival; celebrate the festival at home before going on a business trip
+1532|Unit 26|过境|guò//jìng|v.|cross a border; be in transit|过境手续；台风过境|guòjìng shǒuxù; táifēng guòjìng|transit procedures; a typhoon passes through
+1533|Unit 26|过滤|guòlǜ|v.|filter|过滤干净；过滤茶叶|guòlǜ gānjìng; guòlǜ cháyè|filter until clean; filter tea leaves
+1534|Unit 26|过期|guò//qī|v.|be overdue|过期商品；已经过期|guòqī shāngpǐn; yǐjīng guòqī|expired goods; already expired
+1535|Unit 26|过日子|guò rìzi|v.|live; live one's life|会过日子；过好日子|huì guò rìzi; guò hǎo rìzi|know how to manage daily life; live a good life
+1536|Unit 26|过剩|guòshèng|v.|have an excess of|营养过剩；精力过剩|yíngyǎng guòshèng; jīnglì guòshèng|excess nutrition; excess energy
+1537|Unit 26|过失|guòshī|n.|fault|改正过失|gǎizhèng guòshī|correct a fault
+1538|Unit 26|过头|guò//tóu|adj.|overdone|聪明过头；这话说过头了|cōngming guò tóu; zhè huà shuō guò tóu le|too clever for one's own good; that remark went too far
+1539|Unit 26|过往|guòwǎng|v./n.|come and go; associate with; past|过往的人；他们俩是老同学，过往很密；过往的日子|guòwǎng de rén; tāmen liǎ shì lǎo tóngxué, guòwǎng hěn mì; guòwǎng de rìzi|passersby; the two of them are old classmates and associate closely; days gone by
+1540|Unit 26|过意不去|guòyìbuqù|v.|feel sorry|你这么说，我心里更过意不去了。|nǐ zhème shuō, wǒ xīnli gèng guòyìbuqù le.|When you say that, I feel even more sorry.
+1541|Unit 26|过瘾|guò//yǐn|v.|enjoy oneself to the full|辣得真过瘾；过足了瘾|là de zhēn guòyǐn; guò zú le yǐn|so spicy that it is really satisfying; fully satisfy one's craving
+1542|Unit 26|过硬|guò//yìng|adj.|perfect; superb|技术过硬；本领过硬|jìshù guòyìng; běnlǐng guòyìng|excellent technique; solid ability
+1543|Unit 26|过早|guò zǎo|adj.|premature|过早决定；过早结婚|guò zǎo juédìng; guò zǎo jiéhūn|decide too early; marry too early
+1544|Unit 26|海岸|hǎi'àn|n.|coast|海岸线；沿着海岸|hǎi'ànxiàn; yán zhe hǎi'àn|coastline; along the coast
+1545|Unit 26|海拔|hǎibá|n.|altitude|海拔8848.86米；高海拔地区|hǎibá 8848.86 mǐ; gāo hǎibá dìqū|8848.86 meters above sea level; high-altitude area
+1546|Unit 26|海滨|hǎibīn|n.|seaside|海滨城市；海滨公园|hǎibīn chéngshì; hǎibīn gōngyuán|seaside city; seaside park
+1547|Unit 26|海盗|hǎidào|n.|pirate|海盗船；打击海盗活动|hǎidào chuán; dǎjī hǎidào huódòng|pirate ship; crack down on pirate activity
+1548|Unit 26|海量|hǎiliàng|n.|magnanimity; great capacity for alcoholic drinks|望您海量包涵；喝酒海量|wàng nín hǎiliàng bāohán; hējiǔ hǎiliàng|hope you will generously forgive me; have a great capacity for alcohol
+1549|Unit 26|海绵|hǎimián|n.|sponge|一块海绵；海绵城市|yí kuài hǎimián; hǎimián chéngshì|a piece of sponge; sponge city
+1550|Unit 26|海面|hǎimiàn|n.|sea surface|海面上；平静的海面|hǎimiàn shàng; píngjìng de hǎimiàn|on the sea surface; calm sea surface
+1551|Unit 26|海内外|hǎi nèiwài|phrase|all the world|海内外友人|hǎi nèiwài yǒurén|friends at home and abroad
+1552|Unit 26|海滩|hǎitān|n.|beach|在海滩上游玩|zài hǎitān shàng yóuwán|play on the beach
+1553|Unit 26|海峡|hǎixiá|n.|strait|海峡两岸；形成海峡|hǎixiá liǎng'àn; xíngchéng hǎixiá|both sides of the strait; form a strait
+1554|Unit 26|海啸|hǎixiào|n.|tsunami|发生海啸；一场海啸|fāshēng hǎixiào; yì chǎng hǎixiào|a tsunami occurs; a tsunami
+1555|Unit 26|海域|hǎiyù|n.|sea area|广阔的海域；安全海域|guǎngkuò de hǎiyù; ānquán hǎiyù|vast sea area; safe sea area
+1556|Unit 26|海运|hǎiyùn|v.|ship by sea|海运业务；海运条件便利|hǎiyùn yèwù; hǎiyùn tiáojiàn biànlì|sea-shipping business; convenient shipping conditions
+1557|Unit 26|海藻|hǎizǎo|n.|seaweed|这种海龟以各种海藻为食。|zhè zhǒng hǎiguī yǐ gè zhǒng hǎizǎo wéi shí.|This kind of sea turtle feeds on various kinds of seaweed.
+1558|Unit 26|骇人听闻|hàiréntīngwén|adj.|appalling|骇人听闻的暴力事件|hàiréntīngwén de bàolì shìjiàn|appalling violent incident
+1559|Unit 26|害虫|hàichóng|n.|pest|消灭害虫；农业害虫|xiāomiè hàichóng; nóngyè hàichóng|eliminate pests; agricultural pests
+1560|Unit 26|害臊|hài//sào|v.|feel ashamed|有些害臊；替他害臊|yǒuxiē hàisào; tì tā hàisào|feel somewhat embarrassed; feel embarrassed for him
