@@ -1,0 +1,100 @@
+Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+Unit 2 Business|白领|báilǐng|n.|white-collar worker|很多白领选择在市中心上班。|hěn duō báilǐng xuǎnzé zài shì zhōngxīn shàngbān.|Many white-collar workers choose to work downtown.
+Unit 2 Business|白热化|báirèhuà|v.|become intense|市场竞争已经白热化。|shìchǎng jìngzhēng yǐjīng báirèhuà.|Market competition has already become intense.
+Unit 2 Business|绑定|bǎngdìng|v.|bind; link|请先绑定你的银行卡。|qǐng xiān bǎngdìng nǐ de yínhángkǎ.|Please link your bank card first.
+Unit 2 Business|包裹|bāoguǒ|n.|package; parcel|快递员把包裹送到了公司。|kuàidìyuán bǎ bāoguǒ sòng dào le gōngsī.|The courier delivered the package to the company.
+Unit 2 Business|包容|bāoróng|v.|tolerate; include|好的团队能够包容不同意见。|hǎo de tuánduì nénggòu bāoróng bùtóng yìjiàn.|A good team can tolerate different opinions.
+Unit 2 Business|保障|bǎozhàng|v./n.|guarantee; safeguard|合同保障双方的权益。|hétong bǎozhàng shuāngfāng de quányì.|The contract protects both parties' rights and interests.
+Unit 2 Business|奔跑|bēnpǎo|v.|run|创业者常常在机会前奔跑。|chuàngyèzhě chángcháng zài jīhuì qián bēnpǎo.|Entrepreneurs often run ahead of opportunity.
+Unit 2 Business|比例|bǐlì|n.|proportion; ratio|广告预算的比例需要调整。|guǎnggào yùsuàn de bǐlì xūyào tiáozhěng.|The proportion of the advertising budget needs adjustment.
+Unit 2 Business|毕竟|bìjìng|adv.|after all|毕竟客户的体验最重要。|bìjìng kèhù de tǐyàn zuì zhòngyào.|After all, the customer experience matters most.
+Unit 2 Business|必然|bìrán|adj./adv.|inevitable; inevitably|数字化转型是必然趋势。|shùzìhuà zhuǎnxíng shì bìrán qūshì.|Digital transformation is an inevitable trend.
+Unit 2 Business|遍布|biànbù|v.|spread all over|这家公司的门店遍布全国。|zhè jiā gōngsī de méndiàn biànbù quánguó.|This company's stores are spread across the country.
+Unit 2 Business|便捷|biànjié|adj.|convenient|移动支付让消费更便捷。|yídòng zhīfù ràng xiāofèi gèng biànjié.|Mobile payment makes spending more convenient.
+Unit 2 Business|标志|biāozhì|n./v.|sign; symbolize|新标志提升了品牌形象。|xīn biāozhì tíshēng le pǐnpái xíngxiàng.|The new logo improved the brand image.
+Unit 2 Business|别具一格|biéjù-yīgé|idiom|have a unique style|这家店的设计别具一格。|zhè jiā diàn de shèjì biéjù-yīgé.|This store's design has a unique style.
+Unit 2 Business|泊车|bóchē|v.|park a car|商场提供免费泊车服务。|shāngchǎng tígōng miǎnfèi bóchē fúwù.|The mall provides free parking service.
+Unit 2 Business|不惜|bùxī|v.|not hesitate to|公司不惜投入资金研发新产品。|gōngsī bùxī tóurù zījīn yánfā xīn chǎnpǐn.|The company did not hesitate to invest funds in developing new products.
+Unit 2 Business|参与|cānyù|v.|participate in|我们将参与这个项目的投标。|wǒmen jiāng cānyù zhège xiàngmù de tóubiāo.|We will participate in bidding for this project.
+Unit 2 Business|灿烂|cànlàn|adj.|brilliant; splendid|品牌的未来十分灿烂。|pǐnpái de wèilái shífēn cànlàn.|The brand's future is very bright.
+Unit 2 Business|仓库|cāngkù|n.|warehouse|货物已经送到仓库。|huòwù yǐjīng sòng dào cāngkù.|The goods have already been delivered to the warehouse.
+Unit 2 Business|产业链条|chǎnyè liàntiáo|n.|industrial chain|我们需要完善产业链条。|wǒmen xūyào wánshàn chǎnyè liàntiáo.|We need to improve the industrial chain.
+Unit 2 Business|长久之计|chángjiǔ zhī jì|n.|long-term plan|降低成本不是长久之计。|jiàngdī chéngběn bú shì chángjiǔ zhī jì.|Cutting costs is not a long-term plan.
+Unit 2 Business|场景|chǎngjǐng|n.|scenario; scene|这个功能适合线上购物场景。|zhège gōngnéng shìhé xiànshàng gòuwù chǎngjǐng.|This feature suits online shopping scenarios.
+Unit 2 Business|倡导|chàngdǎo|v.|advocate|公司倡导低碳办公。|gōngsī chàngdǎo dītàn bàngōng.|The company advocates low-carbon office work.
+Unit 2 Business|倡议|chàngyì|n./v.|proposal; propose|员工提出了节能倡议。|yuángōng tíchū le jiénéng chàngyì.|Employees proposed an energy-saving initiative.
+Unit 2 Business|策略|cèlüè|n.|strategy|我们要重新制定营销策略。|wǒmen yào chóngxīn zhìdìng yíngxiāo cèlüè.|We need to remake the marketing strategy.
+Unit 2 Business|测试|cèshì|v./n.|test|新系统下周开始测试。|xīn xìtǒng xià zhōu kāishǐ cèshì.|The new system will begin testing next week.
+Unit 2 Business|侧重|cèzhòng|v.|place emphasis on|这份报告侧重用户增长。|zhè fèn bàogào cèzhòng yònghù zēngzhǎng.|This report emphasizes user growth.
+Unit 2 Business|蝉联|chánlián|v.|retain a title|该品牌蝉联销量冠军。|gāi pǐnpái chánlián xiāoliàng guànjūn.|The brand retained the sales championship.
+Unit 2 Business|称为|chēngwéi|v.|be called|这种模式被称为共享经济。|zhè zhǒng móshì bèi chēngwéi gòngxiǎng jīngjì.|This model is called the sharing economy.
+Unit 2 Business|成本|chéngběn|n.|cost|原材料成本正在上升。|yuáncáiliào chéngběn zhèngzài shàngshēng.|Raw material costs are rising.
+Unit 2 Business|诚信|chéngxìn|n./adj.|integrity; honest|诚信是企业发展的基础。|chéngxìn shì qǐyè fāzhǎn de jīchǔ.|Integrity is the foundation of business development.
+Unit 2 Business|驰名|chímíng|adj.|famous; renowned|这家企业在业内驰名。|zhè jiā qǐyè zài yènèi chímíng.|This enterprise is renowned in the industry.
+Unit 2 Business|持续|chíxù|v./adj.|continue; continuous|销售额持续增长。|xiāoshòu'é chíxù zēngzhǎng.|Sales continue to grow.
+Unit 2 Business|出类拔萃|chūlèi-bácuì|idiom|outstanding|他的管理能力出类拔萃。|tā de guǎnlǐ nénglì chūlèi-bácuì.|His management ability is outstanding.
+Unit 2 Business|除夕|chúxī|n.|Chinese New Year's Eve|除夕前订单量大幅增加。|chúxī qián dìngdānliàng dàfú zēngjiā.|Order volume increased sharply before Chinese New Year's Eve.
+Unit 2 Business|创立|chuànglì|v.|establish; found|他在深圳创立了公司。|tā zài Shēnzhèn chuànglì le gōngsī.|He founded a company in Shenzhen.
+Unit 2 Business|创业|chuàngyè|v./n.|start a business; entrepreneurship|很多年轻人选择创业。|hěn duō niánqīngrén xuǎnzé chuàngyè.|Many young people choose to start businesses.
+Unit 2 Business|促进|cùjìn|v.|promote|新政策促进了消费。|xīn zhèngcè cùjìn le xiāofèi.|The new policy promoted consumption.
+Unit 2 Business|大陆|dàlù|n.|mainland|公司计划进入大陆市场。|gōngsī jìhuà jìnrù dàlù shìchǎng.|The company plans to enter the mainland market.
+Unit 2 Business|代表处|dàibiǎochù|n.|representative office|他们在北京设立了代表处。|tāmen zài Běijīng shèlì le dàibiǎochù.|They set up a representative office in Beijing.
+Unit 2 Business|代名词|dàimíngcí|n.|synonym; byword|低价曾是这个品牌的代名词。|dījià céng shì zhège pǐnpái de dàimíngcí.|Low price was once a byword for this brand.
+Unit 2 Business|诞生|dànshēng|v.|be born; emerge|新的商业模式在这里诞生。|xīn de shāngyè móshì zài zhèlǐ dànshēng.|A new business model emerged here.
+Unit 2 Business|倒闭|dǎobì|v.|go bankrupt|资金断裂导致公司倒闭。|zījīn duànliè dǎozhì gōngsī dǎobì.|A cash-flow break caused the company to go bankrupt.
+Unit 2 Business|登陆|dēnglù|v.|log in; land|用户可以用手机号登陆平台。|yònghù kěyǐ yòng shǒujīhào dēnglù píngtái.|Users can log in to the platform with a phone number.
+Unit 2 Business|低碳|dītàn|adj.|low-carbon|低碳生产能减少排放。|dītàn shēngchǎn néng jiǎnshǎo páifàng.|Low-carbon production can reduce emissions.
+Unit 2 Business|底料|dǐliào|n.|base ingredients; soup base|这家餐厅的火锅底料很有名。|zhè jiā cāntīng de huǒguō dǐliào hěn yǒumíng.|This restaurant's hot-pot soup base is famous.
+Unit 2 Business|地形|dìxíng|n.|terrain|物流路线受到地形影响。|wùliú lùxiàn shòudào dìxíng yǐngxiǎng.|The logistics route is affected by the terrain.
+Unit 2 Business|奠定|diàndìng|v.|lay a foundation|早期投资奠定了成功基础。|zǎoqī tóuzī diàndìng le chénggōng jīchǔ.|Early investment laid the foundation for success.
+Unit 2 Business|端|duān|n./v.|end; hold|移动端用户增长很快。|yídòng duān yònghù zēngzhǎng hěn kuài.|Mobile-end users are growing quickly.
+Unit 2 Business|多元|duōyuán|adj.|diverse; diversified|公司采用多元收入模式。|gōngsī cǎiyòng duōyuán shōurù móshì.|The company uses a diversified revenue model.
+Unit 2 Business|恶劣|èliè|adj.|bad; harsh|恶劣天气影响了运输。|èliè tiānqì yǐngxiǎng le yùnshū.|Bad weather affected transportation.
+Unit 2 Business|二维码|èrwéimǎ|n.|QR code|请扫描二维码付款。|qǐng sǎomiáo èrwéimǎ fùkuǎn.|Please scan the QR code to pay.
+Unit 2 Business|发起|fāqǐ|v.|initiate; launch|他们发起了一项公益活动。|tāmen fāqǐ le yí xiàng gōngyì huódòng.|They launched a public welfare campaign.
+Unit 2 Business|烦躁|fánzào|adj.|irritable; restless|等待审批时他有些烦躁。|děngdài shěnpī shí tā yǒuxiē fánzào.|He felt a bit restless while waiting for approval.
+Unit 2 Business|方案|fāng'àn|n.|plan; proposal|经理接受了新的方案。|jīnglǐ jiēshòu le xīn de fāng'àn.|The manager accepted the new proposal.
+Unit 2 Business|飞翔|fēixiáng|v.|fly|品牌梦想像鹰一样飞翔。|pǐnpái mèngxiǎng xiàng yīng yíyàng fēixiáng.|The brand dreams of flying like an eagle.
+Unit 2 Business|废弃|fèiqì|v./adj.|discard; abandoned|废弃材料可以再次利用。|fèiqì cáiliào kěyǐ zàicì lìyòng.|Discarded materials can be reused.
+Unit 2 Business|分一杯羹|fēn yì bēi gēng|idiom|get a share of the profits|很多企业都想分一杯羹。|hěn duō qǐyè dōu xiǎng fēn yì bēi gēng.|Many companies want a share of the profits.
+Unit 2 Business|封|fēng|v./m.|seal; classifier for letters|请把合同封好再寄出。|qǐng bǎ hétong fēng hǎo zài jìchū.|Please seal the contract before mailing it.
+Unit 2 Business|风扇|fēngshàn|n.|electric fan|办公室新买了几台风扇。|bàngōngshì xīn mǎi le jǐ tái fēngshàn.|The office bought several new fans.
+Unit 2 Business|风险|fēngxiǎn|n.|risk|投资前要评估风险。|tóuzī qián yào pínggū fēngxiǎn.|Before investing, you must assess the risk.
+Unit 2 Business|符合|fúhé|v.|conform to; meet|这个产品符合安全标准。|zhège chǎnpǐn fúhé ānquán biāozhǔn.|This product meets safety standards.
+Unit 2 Business|负担|fùdān|n./v.|burden; bear|租金增加了企业负担。|zūjīn zēngjiā le qǐyè fùdān.|Rent increased the burden on the enterprise.
+Unit 2 Business|覆盖|fùgài|v./n.|cover; coverage|服务已经覆盖主要城市。|fúwù yǐjīng fùgài zhǔyào chéngshì.|The service already covers major cities.
+Unit 2 Business|复合|fùhé|adj./v.|compound; composite|复合材料降低了生产成本。|fùhé cáiliào jiàngdī le shēngchǎn chéngběn.|Composite materials reduced production costs.
+Unit 2 Business|复制|fùzhì|v.|copy; duplicate|成功模式很难完全复制。|chénggōng móshì hěn nán wánquán fùzhì.|A successful model is hard to copy completely.
+Unit 2 Business|高铁|gāotiě|n.|high-speed rail|高铁缩短了商务出行时间。|gāotiě suōduǎn le shāngwù chūxíng shíjiān.|High-speed rail shortened business travel time.
+Unit 2 Business|格局|géjú|n.|pattern; structure|行业格局正在发生变化。|hángyè géjú zhèngzài fāshēng biànhuà.|The industry structure is changing.
+Unit 2 Business|个性|gèxìng|n.|individuality; personality|品牌需要鲜明的个性。|pǐnpái xūyào xiānmíng de gèxìng.|A brand needs a distinct personality.
+Unit 2 Business|供不应求|gōng bù yìng qiú|idiom|demand exceeds supply|新品上市后供不应求。|xīnpǐn shàngshì hòu gōng bù yìng qiú.|After launch, the new product could not meet demand.
+Unit 2 Business|公布|gōngbù|v.|announce; publish|公司公布了年度业绩。|gōngsī gōngbù le niándù yèjì.|The company announced its annual performance.
+Unit 2 Business|供应商|gōngyìngshāng|n.|supplier|我们正在寻找新的供应商。|wǒmen zhèngzài xúnzhǎo xīn de gōngyìngshāng.|We are looking for a new supplier.
+Unit 2 Business|贡献|gòngxiàn|n./v.|contribution; contribute|这个项目对利润贡献很大。|zhège xiàngmù duì lìrùn gòngxiàn hěn dà.|This project contributes greatly to profits.
+Unit 2 Business|构建|gòujiàn|v.|build; construct|企业要构建长期竞争力。|qǐyè yào gòujiàn chángqī jìngzhēnglì.|Enterprises need to build long-term competitiveness.
+Unit 2 Business|骨干|gǔgàn|n.|backbone; key member|他是销售团队的骨干。|tā shì xiāoshòu tuánduì de gǔgàn.|He is a key member of the sales team.
+Unit 2 Business|固定|gùdìng|adj./v.|fixed; fix|公司有固定客户群。|gōngsī yǒu gùdìng kèhùqún.|The company has a fixed customer base.
+Unit 2 Business|雇佣|gùyōng|v.|employ; hire|旺季需要雇佣临时工。|wàngjì xūyào gùyōng línshígōng.|Temporary workers need to be hired during the peak season.
+Unit 2 Business|观念|guānniàn|n.|concept; idea|消费者观念正在改变。|xiāofèizhě guānniàn zhèngzài gǎibiàn.|Consumer concepts are changing.
+Unit 2 Business|贯穿|guànchuān|v.|run through|服务理念贯穿整个流程。|fúwù lǐniàn guànchuān zhěnggè liúchéng.|The service concept runs through the whole process.
+Unit 2 Business|冠军|guànjūn|n.|champion|这款手机成为销量冠军。|zhè kuǎn shǒujī chéngwéi xiāoliàng guànjūn.|This phone became the sales champion.
+Unit 2 Business|光棍儿|guānggùnr|n.|bachelor; single man|光棍儿节带动了电商促销。|guānggùnr jié dàidòng le diànshāng cùxiāo.|Singles' Day drove e-commerce promotions.
+Unit 2 Business|规格|guīgé|n.|specification|请确认产品规格。|qǐng quèrèn chǎnpǐn guīgé.|Please confirm the product specifications.
+Unit 2 Business|归还|guīhuán|v.|return|设备用完后要及时归还。|shèbèi yòng wán hòu yào jíshí guīhuán.|Equipment should be returned promptly after use.
+Unit 2 Business|规律|guīlǜ|n.|rule; pattern|销售数据有明显规律。|xiāoshòu shùjù yǒu míngxiǎn guīlǜ.|The sales data has a clear pattern.
+Unit 2 Business|规模|guīmó|n.|scale|公司正在扩大生产规模。|gōngsī zhèngzài kuòdà shēngchǎn guīmó.|The company is expanding its production scale.
+Unit 2 Business|海拔|hǎibá|n.|altitude|高海拔地区运输成本较高。|gāo hǎibá dìqū yùnshū chéngběn jiào gāo.|Transportation costs are higher in high-altitude areas.
+Unit 2 Business|核心|héxīn|n./adj.|core|技术是我们的核心优势。|jìshù shì wǒmen de héxīn yōushì.|Technology is our core advantage.
+Unit 2 Business|护肤品|hùfūpǐn|n.|skin-care product|护肤品市场增长很快。|hùfūpǐn shìchǎng zēngzhǎng hěn kuài.|The skin-care product market is growing quickly.
+Unit 2 Business|互联网|hùliánwǎng|n.|Internet|互联网改变了商业模式。|hùliánwǎng gǎibiàn le shāngyè móshì.|The Internet changed business models.
+Unit 2 Business|划算|huásuàn|adj.|cost-effective; worthwhile|批量购买更划算。|pīliàng gòumǎi gèng huásuàn.|Buying in bulk is more cost-effective.
+Unit 2 Business|汇率|huìlǜ|n.|exchange rate|汇率波动影响出口利润。|huìlǜ bōdòng yǐngxiǎng chūkǒu lìrùn.|Exchange-rate fluctuations affect export profits.
+Unit 2 Business|活跃|huóyuè|adj./v.|active; enliven|年轻用户在平台上很活跃。|niánqīng yònghù zài píngtái shàng hěn huóyuè.|Young users are very active on the platform.
+Unit 2 Business|伙伴|huǒbàn|n.|partner|我们重视长期合作伙伴。|wǒmen zhòngshì chángqī hézuò huǒbàn.|We value long-term partners.
+Unit 2 Business|基地|jīdì|n.|base|这里是公司的研发基地。|zhèlǐ shì gōngsī de yánfā jīdì.|This is the company's R&D base.
+Unit 2 Business|机构|jīgòu|n.|institution; organization|金融机构提供了贷款。|jīnróng jīgòu tígōng le dàikuǎn.|A financial institution provided the loan.
+Unit 2 Business|激烈|jīliè|adj.|intense; fierce|行业竞争非常激烈。|hángyè jìngzhēng fēicháng jīliè.|Industry competition is very fierce.
+Unit 2 Business|激情|jīqíng|n.|passion|创业需要激情和耐心。|chuàngyè xūyào jīqíng hé nàixīn.|Entrepreneurship requires passion and patience.
+Unit 2 Business|即将|jíjiāng|adv.|soon; be about to|新产品即将发布。|xīn chǎnpǐn jíjiāng fābù.|The new product is about to be released.
+Unit 2 Business|即时通讯|jíshí tōngxùn|n.|instant messaging|团队用即时通讯工具沟通。|tuánduì yòng jíshí tōngxùn gōngjù gōutōng.|The team communicates with instant messaging tools.
