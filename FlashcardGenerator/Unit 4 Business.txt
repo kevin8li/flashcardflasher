@@ -1,0 +1,20 @@
+Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+Unit 4 Business|饱和|bǎohé|adjective/verb|saturated; to reach saturation|市场已经接近饱和。|Shìchǎng yǐjīng jiējìn bǎohé.|The market is already close to saturation.
+Unit 4 Business|补贴|bǔtiē|noun/verb|subsidy; to subsidize|政府给小企业提供补贴。|Zhèngfǔ gěi xiǎo qǐyè tígōng bǔtiē.|The government provides subsidies to small businesses.
+Unit 4 Business|出台|chūtái|verb|to issue; to come out|新的贸易政策已经出台。|Xīn de màoyì zhèngcè yǐjīng chūtái.|The new trade policy has already been issued.
+Unit 4 Business|贷款|dàikuǎn|noun/verb|loan; to lend or borrow money|公司申请了一笔贷款。|Gōngsī shēnqǐngle yì bǐ dàikuǎn.|The company applied for a loan.
+Unit 4 Business|堆|duī|noun/measure word|pile; stack|仓库里有一堆样品。|Cāngkù lǐ yǒu yì duī yàngpǐn.|There is a pile of samples in the warehouse.
+Unit 4 Business|放缓|fànghuǎn|verb|to slow down; to ease|经济增长开始放缓。|Jīngjì zēngzhǎng kāishǐ fànghuǎn.|Economic growth has begun to slow down.
+Unit 4 Business|分配|fēnpèi|verb/noun|to allocate; distribution|经理合理分配任务。|Jīnglǐ hélǐ fēnpèi rènwu.|The manager allocates tasks reasonably.
+Unit 4 Business|故障|gùzhàng|noun|malfunction; fault|系统故障影响了订单处理。|Xìtǒng gùzhàng yǐngxiǎngle dìngdān chǔlǐ.|The system malfunction affected order processing.
+Unit 4 Business|即日|jírì|adverb|the same day; effective immediately|新规定即日生效。|Xīn guīdìng jírì shēngxiào.|The new rule takes effect immediately.
+Unit 4 Business|困扰|kùnrǎo|verb/noun|to trouble; problem|资金短缺困扰着这家公司。|Zījīn duǎnquē kùnrǎozhe zhè jiā gōngsī.|A shortage of funds is troubling this company.
+Unit 4 Business|盲道|mángdào|noun|tactile paving; path for the visually impaired|商场门口修了新的盲道。|Shāngchǎng ménkǒu xiūle xīn de mángdào.|New tactile paving was built at the entrance of the mall.
+Unit 4 Business|容量|róngliàng|noun|capacity|服务器容量需要扩大。|Fúwùqì róngliàng xūyào kuòdà.|The server capacity needs to be expanded.
+Unit 4 Business|审批|shěnpī|verb/noun|to examine and approve; approval|这个项目正在等待审批。|Zhège xiàngmù zhèngzài děngdài shěnpī.|This project is waiting for approval.
+Unit 4 Business|失信|shīxìn|verb/adjective|to break faith; untrustworthy|企业失信会影响融资。|Qǐyè shīxìn huì yǐngxiǎng róngzī.|A company's loss of credit will affect financing.
+Unit 4 Business|限制令|xiànzhìlìng|noun|restriction order|法院发布了新的限制令。|Fǎyuàn fābùle xīn de xiànzhìlìng.|The court issued a new restriction order.
+Unit 4 Business|预期|yùqī|noun/verb|expectation; expected|销售额低于市场预期。|Xiāoshòu'é dī yú shìchǎng yùqī.|Sales were below market expectations.
+Unit 4 Business|暂停|zàntíng|verb/noun|to suspend; pause|公司决定暂停这个计划。|Gōngsī juédìng zàntíng zhège jìhuà.|The company decided to suspend this plan.
+Unit 4 Business|征信档案|zhēngxìn dàng'àn|noun|credit record; credit file|银行会查看客户的征信档案。|Yínháng huì chákàn kèhù de zhēngxìn dàng'àn.|The bank will review the customer's credit file.
+Unit 4 Business|秩序|zhìxù|noun|order|市场秩序需要共同维护。|Shìchǎng zhìxù xūyào gòngtóng wéihù.|Market order needs to be maintained together.
