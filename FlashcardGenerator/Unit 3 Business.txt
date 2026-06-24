@@ -1,0 +1,205 @@
+Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+Unit 3 Business|集团|jítuán|n.|group; corporation|这家集团正在扩大海外业务。|zhè jiā jítuán zhèngzài kuòdà hǎiwài yèwù.|This group is expanding its overseas business.
+Unit 3 Business|集……于一体|jí ... yú yītǐ|phrase|integrate ... into one|这款应用集支付和购物于一体。|zhè kuǎn yìngyòng jí zhīfù hé gòuwù yú yītǐ.|This app integrates payment and shopping into one.
+Unit 3 Business|集中|jízhōng|v./adj.|concentrate; centralized|公司集中资源开发新产品。|gōngsī jízhōng zīyuán kāifā xīn chǎnpǐn.|The company concentrated resources on developing new products.
+Unit 3 Business|集装箱|jízhuāngxiāng|n.|container|港口每天处理大量集装箱。|gǎngkǒu měitiān chǔlǐ dàliàng jízhuāngxiāng.|The port handles many containers every day.
+Unit 3 Business|脊梁|jǐliáng|n.|backbone|中小企业是经济发展的脊梁。|zhōngxiǎo qǐyè shì jīngjì fāzhǎn de jǐliáng.|Small and medium businesses are the backbone of economic development.
+Unit 3 Business|季度|jìdù|n.|quarter|第二季度的利润明显增加。|dì èr jìdù de lìrùn míngxiǎn zēngjiā.|Profit increased noticeably in the second quarter.
+Unit 3 Business|记录|jìlù|n./v.|record|系统会自动记录交易数据。|xìtǒng huì zìdòng jìlù jiāoyì shùjù.|The system automatically records transaction data.
+Unit 3 Business|监督|jiāndū|v./n.|supervise; supervision|董事会负责监督项目进度。|dǒngshìhuì fùzé jiāndū xiàngmù jìndù.|The board is responsible for supervising project progress.
+Unit 3 Business|艰苦|jiānkǔ|adj.|hard; difficult|创业初期条件很艰苦。|chuàngyè chūqī tiáojiàn hěn jiānkǔ.|Conditions are hard in the early stage of starting a business.
+Unit 3 Business|简称|jiǎnchēng|n./v.|abbreviation; be abbreviated as|电子商务简称电商。|diànzǐ shāngwù jiǎnchēng diànshāng.|Electronic commerce is abbreviated as e-commerce.
+Unit 3 Business|检验|jiǎnyàn|v./n.|inspect; test|市场会检验产品的价值。|shìchǎng huì jiǎnyàn chǎnpǐn de jiàzhí.|The market will test the product's value.
+Unit 3 Business|建立|jiànlì|v.|establish|我们要建立长期合作关系。|wǒmen yào jiànlì chángqī hézuò guānxì.|We need to establish a long-term partnership.
+Unit 3 Business|建设|jiànshè|v./n.|build; construction|公司加快数字平台建设。|gōngsī jiākuài shùzì píngtái jiànshè.|The company is speeding up construction of its digital platform.
+Unit 3 Business|骄人|jiāorén|adj.|impressive|今年的销售业绩十分骄人。|jīnnián de xiāoshòu yèjì shífēn jiāorén.|This year's sales performance is very impressive.
+Unit 3 Business|交易额|jiāoyì'é|n.|transaction volume|平台交易额突破了一亿元。|píngtái jiāoyì'é tūpò le yí yì yuán.|The platform's transaction volume exceeded one hundred million yuan.
+Unit 3 Business|结构|jiégòu|n.|structure|公司正在调整组织结构。|gōngsī zhèngzài tiáozhěng zǔzhī jiégòu.|The company is adjusting its organizational structure.
+Unit 3 Business|截至|jiézhì|prep./v.|up to; by|截至月底，会员数达到十万。|jiézhì yuèdǐ, huìyuán shù dádào shí wàn.|By the end of the month, membership reached one hundred thousand.
+Unit 3 Business|届|jiè|m.|session; edition|本届展会吸引了很多企业。|běn jiè zhǎnhuì xīyǐn le hěn duō qǐyè.|This edition of the trade fair attracted many companies.
+Unit 3 Business|届时|jièshí|adv.|when the time comes|届时我们会公布详细方案。|jièshí wǒmen huì gōngbù xiángxì fāng'àn.|We will announce the detailed plan when the time comes.
+Unit 3 Business|金融|jīnróng|n./adj.|finance; financial|金融服务正在快速数字化。|jīnróng fúwù zhèngzài kuàisù shùzìhuà.|Financial services are rapidly becoming digital.
+Unit 3 Business|精品|jīngpǐn|n.|quality product|这家店专卖本地精品。|zhè jiā diàn zhuānmài běndì jīngpǐn.|This store specializes in local quality products.
+Unit 3 Business|经营|jīngyíng|v./n.|operate; manage|他经营一家小型贸易公司。|tā jīngyíng yì jiā xiǎoxíng màoyì gōngsī.|He runs a small trading company.
+Unit 3 Business|就业|jiùyè|v./n.|employment|新项目创造了很多就业机会。|xīn xiàngmù chuàngzào le hěn duō jiùyè jīhuì.|The new project created many employment opportunities.
+Unit 3 Business|局面|júmiàn|n.|situation|公司正在努力扭转亏损局面。|gōngsī zhèngzài nǔlì niǔzhuǎn kuīsǔn júmiàn.|The company is trying to reverse its loss-making situation.
+Unit 3 Business|聚集|jùjí|v.|gather; cluster|大量创业公司聚集在这里。|dàliàng chuàngyè gōngsī jùjí zài zhèlǐ.|Many startups are clustered here.
+Unit 3 Business|开辟|kāipì|v.|open up; develop|企业开辟了新的销售渠道。|qǐyè kāipì le xīn de xiāoshòu qúdào.|The enterprise opened up a new sales channel.
+Unit 3 Business|开启|kāiqǐ|v.|start; open|这项合作开启了新的阶段。|zhè xiàng hézuò kāiqǐ le xīn de jiēduàn.|This cooperation started a new stage.
+Unit 3 Business|开行|kāixíng|v.|start operation of a route|新的货运列车下月开行。|xīn de huòyùn lièchē xià yuè kāixíng.|The new freight train service will start next month.
+Unit 3 Business|可靠|kěkào|adj.|reliable|可靠的供应商非常重要。|kěkào de gōngyìngshāng fēicháng zhòngyào.|A reliable supplier is very important.
+Unit 3 Business|可想而知|kěxiǎng'érzhī|idiom|easy to imagine|成本压力之大可想而知。|chéngběn yālì zhī dà kěxiǎng'érzhī.|The size of the cost pressure is easy to imagine.
+Unit 3 Business|口碑|kǒubēi|n.|reputation; word of mouth|好口碑能带来更多客户。|hǎo kǒubēi néng dàilái gèng duō kèhù.|A good reputation can bring more customers.
+Unit 3 Business|口号|kǒuhào|n.|slogan|这个品牌口号很容易记住。|zhège pǐnpái kǒuhào hěn róngyì jìzhù.|This brand slogan is easy to remember.
+Unit 3 Business|跨|kuà|v.|cross; span|公司跨行业开展合作。|gōngsī kuà hángyè kāizhǎn hézuò.|The company carries out cross-industry cooperation.
+Unit 3 Business|跨境|kuàjìng|adj.|cross-border|跨境电商发展很快。|kuàjìng diànshāng fāzhǎn hěn kuài.|Cross-border e-commerce is developing quickly.
+Unit 3 Business|狂欢节|kuánghuānjié|n.|carnival; shopping festival|购物狂欢节带动了销量。|gòuwù kuánghuānjié dàidòng le xiāoliàng.|The shopping festival boosted sales.
+Unit 3 Business|扩张|kuòzhāng|v./n.|expand; expansion|企业扩张需要充足资金。|qǐyè kuòzhāng xūyào chōngzú zījīn.|Business expansion requires sufficient capital.
+Unit 3 Business|累计|lěijì|v./adj.|accumulate; cumulative|累计用户已经超过百万。|lěijì yònghù yǐjīng chāoguò bǎi wàn.|Cumulative users have already exceeded one million.
+Unit 3 Business|理财|lǐcái|v./n.|manage finances; wealth management|很多年轻人开始学习理财。|hěn duō niánqīngrén kāishǐ xuéxí lǐcái.|Many young people are starting to learn wealth management.
+Unit 3 Business|里程碑|lǐchéngbēi|n.|milestone|上市是公司发展的里程碑。|shàngshì shì gōngsī fāzhǎn de lǐchéngbēi.|Going public is a milestone in the company's development.
+Unit 3 Business|理性|lǐxìng|n./adj.|reason; rational|消费者越来越理性。|xiāofèizhě yuèláiyuè lǐxìng.|Consumers are becoming more rational.
+Unit 3 Business|利润|lìrùn|n.|profit|今年利润比去年高。|jīnnián lìrùn bǐ qùnián gāo.|This year's profit is higher than last year's.
+Unit 3 Business|利益|lìyì|n.|interest; benefit|合作要兼顾双方利益。|hézuò yào jiāngù shuāngfāng lìyì.|Cooperation should consider both parties' interests.
+Unit 3 Business|廉价|liánjià|adj.|cheap; low-priced|廉价商品不一定质量差。|liánjià shāngpǐn bù yídìng zhìliàng chà.|Cheap goods are not necessarily poor in quality.
+Unit 3 Business|列车|lièchē|n.|train|中欧列车促进了贸易往来。|Zhōng'Ōu lièchē cùjìn le màoyì wǎnglái.|China-Europe trains have promoted trade exchange.
+Unit 3 Business|劣质|lièzhì|adj.|inferior; poor-quality|平台禁止销售劣质产品。|píngtái jìnzhǐ xiāoshòu lièzhì chǎnpǐn.|The platform prohibits selling inferior products.
+Unit 3 Business|临时|línshí|adj./adv.|temporary; temporarily|公司招聘临时员工。|gōngsī zhāopìn línshí yuángōng.|The company is hiring temporary employees.
+Unit 3 Business|零部件|língbùjiàn|n.|components; spare parts|汽车零部件供应紧张。|qìchē língbùjiàn gōngyìng jǐnzhāng.|The supply of auto parts is tight.
+Unit 3 Business|灵魂|línghún|n.|soul|创新是品牌的灵魂。|chuàngxīn shì pǐnpái de línghún.|Innovation is the soul of a brand.
+Unit 3 Business|零售|língshòu|n./v.|retail|线上零售增长迅速。|xiànshàng língshòu zēngzhǎng xùnsù.|Online retail is growing rapidly.
+Unit 3 Business|领军|lǐngjūn|v./adj.|lead; leading|这家公司是行业领军企业。|zhè jiā gōngsī shì hángyè lǐngjūn qǐyè.|This company is a leading enterprise in the industry.
+Unit 3 Business|领取|lǐngqǔ|v.|receive; collect|客户可以在线领取优惠券。|kèhù kěyǐ zàixiàn lǐngqǔ yōuhuìquàn.|Customers can collect coupons online.
+Unit 3 Business|领域|lǐngyù|n.|field; domain|公司进入了新能源领域。|gōngsī jìnrù le xīn néngyuán lǐngyù.|The company entered the new-energy field.
+Unit 3 Business|垄断|lǒngduàn|v./n.|monopoly; monopolize|政府反对市场垄断。|zhèngfǔ fǎnduì shìchǎng lǒngduàn.|The government opposes market monopolies.
+Unit 3 Business|落伍|luòwǔ|v./adj.|fall behind; outdated|不创新就会在市场上落伍。|bù chuàngxīn jiù huì zài shìchǎng shàng luòwǔ.|Without innovation, one will fall behind in the market.
+Unit 3 Business|枚|méi|m.|classifier for small objects|客户用一枚优惠券下单。|kèhù yòng yì méi yōuhuìquàn xiàdān.|The customer placed the order with one coupon.
+Unit 3 Business|美甲|měijiǎ|n./v.|manicure; nail care|美甲服务很受年轻人欢迎。|měijiǎ fúwù hěn shòu niánqīngrén huānyíng.|Manicure services are popular with young people.
+Unit 3 Business|面授|miànshòu|v.|teach in person|培训课程采用面授形式。|péixùn kèchéng cǎiyòng miànshòu xíngshì.|The training course uses in-person instruction.
+Unit 3 Business|民营|mínyíng|adj.|privately run|民营企业创造了大量就业。|mínyíng qǐyè chuàngzào le dàliàng jiùyè.|Private enterprises created many jobs.
+Unit 3 Business|模仿|mófǎng|v.|imitate|竞争对手很快模仿了这个设计。|jìngzhēng duìshǒu hěn kuài mófǎng le zhège shèjì.|Competitors quickly imitated this design.
+Unit 3 Business|模式|móshì|n.|model; pattern|新的商业模式吸引了投资。|xīn de shāngyè móshì xīyǐn le tóuzī.|The new business model attracted investment.
+Unit 3 Business|脑筋|nǎojīn|n.|brains; thinking|做营销要多动脑筋。|zuò yíngxiāo yào duō dòng nǎojīn.|Doing marketing requires using one's brain.
+Unit 3 Business|排行榜|páihángbǎng|n.|ranking list|这款应用登上了下载排行榜。|zhè kuǎn yìngyòng dēngshàng le xiàzài páihángbǎng.|This app reached the download ranking list.
+Unit 3 Business|配送|pèisòng|v./n.|delivery; distribution|平台提供当日配送服务。|píngtái tígōng dāngrì pèisòng fúwù.|The platform provides same-day delivery service.
+Unit 3 Business|频率|pínlǜ|n.|frequency|促销频率不能太高。|cùxiāo pínlǜ bù néng tài gāo.|The promotion frequency should not be too high.
+Unit 3 Business|凭|píng|prep./v.|by; rely on|客户凭订单号领取商品。|kèhù píng dìngdānhào lǐngqǔ shāngpǐn.|Customers collect goods with the order number.
+Unit 3 Business|平衡|pínghéng|v./n.|balance|企业要平衡成本和质量。|qǐyè yào pínghéng chéngběn hé zhìliàng.|Enterprises need to balance cost and quality.
+Unit 3 Business|期间|qījiān|n.|period; during|促销期间销量明显提升。|cùxiāo qījiān xiāoliàng míngxiǎn tíshēng.|Sales increased noticeably during the promotion period.
+Unit 3 Business|棋|qí|n.|chess; board game|商业竞争像下一盘棋。|shāngyè jìngzhēng xiàng xià yì pán qí.|Business competition is like playing a game of chess.
+Unit 3 Business|奇迹|qíjì|n.|miracle|团队用一年创造了增长奇迹。|tuánduì yòng yì nián chuàngzào le zēngzhǎng qíjì.|The team created a growth miracle in one year.
+Unit 3 Business|迄今为止|qìjīn wéizhǐ|phrase|so far; up to now|迄今为止，项目进展顺利。|qìjīn wéizhǐ, xiàngmù jìnzhǎn shùnlì.|So far, the project has progressed smoothly.
+Unit 3 Business|强化|qiánghuà|v.|strengthen|公司要强化售后服务。|gōngsī yào qiánghuà shòuhòu fúwù.|The company needs to strengthen after-sales service.
+Unit 3 Business|抢|qiǎng|v.|rush to buy; compete for|消费者在网上抢优惠券。|xiāofèizhě zài wǎngshàng qiǎng yōuhuìquàn.|Consumers rush online to grab coupons.
+Unit 3 Business|勤劳|qínláo|adj.|hardworking|勤劳的员工是企业财富。|qínláo de yuángōng shì qǐyè cáifù.|Hardworking employees are a company's wealth.
+Unit 3 Business|清晰|qīngxī|adj.|clear|报告清晰地展示了数据。|bàogào qīngxī de zhǎnshì le shùjù.|The report clearly displayed the data.
+Unit 3 Business|区域|qūyù|n.|region; area|公司负责华东区域销售。|gōngsī fùzé Huádōng qūyù xiāoshòu.|The company handles sales in the East China region.
+Unit 3 Business|渠道|qúdào|n.|channel|线上渠道带来了新客户。|xiànshàng qúdào dàilái le xīn kèhù.|Online channels brought new customers.
+Unit 3 Business|取代|qǔdài|v.|replace|自动设备逐步取代人工。|zìdòng shèbèi zhúbù qǔdài réngōng.|Automated equipment is gradually replacing manual labor.
+Unit 3 Business|全称|quánchēng|n.|full name|请写出公司的全称。|qǐng xiěchū gōngsī de quánchēng.|Please write the company's full name.
+Unit 3 Business|全球化|quánqiúhuà|n./v.|globalization|全球化让企业面对更多竞争。|quánqiúhuà ràng qǐyè miànduì gèng duō jìngzhēng.|Globalization makes companies face more competition.
+Unit 3 Business|权威|quánwēi|n./adj.|authority; authoritative|这份报告来自权威机构。|zhè fèn bàogào láizì quánwēi jīgòu.|This report comes from an authoritative institution.
+Unit 3 Business|人次|réncì|n.|person-times|展会三天接待十万人次。|zhǎnhuì sān tiān jiēdài shí wàn réncì.|The exhibition received one hundred thousand visits in three days.
+Unit 3 Business|认可|rènkě|v./n.|recognize; approve|产品质量得到了客户认可。|chǎnpǐn zhìliàng dédào le kèhù rènkě.|The product quality gained customer recognition.
+Unit 3 Business|日益|rìyì|adv.|increasingly|市场竞争日益激烈。|shìchǎng jìngzhēng rìyì jīliè.|Market competition is becoming increasingly fierce.
+Unit 3 Business|融汇|rónghuì|v.|blend; integrate|这款产品融汇了多种技术。|zhè kuǎn chǎnpǐn rónghuì le duō zhǒng jìshù.|This product integrates multiple technologies.
+Unit 3 Business|荣获|rónghuò|v.|win; be honored with|公司荣获创新大奖。|gōngsī rónghuò chuàngxīn dàjiǎng.|The company won a major innovation award.
+Unit 3 Business|扫描|sǎomiáo|v.|scan|请扫描二维码查看详情。|qǐng sǎomiáo èrwéimǎ chákàn xiángqíng.|Please scan the QR code to view details.
+Unit 3 Business|商标|shāngbiāo|n.|trademark|这个商标已经注册。|zhège shāngbiāo yǐjīng zhùcè.|This trademark has already been registered.
+Unit 3 Business|奢侈品|shēchǐpǐn|n.|luxury goods|奢侈品消费正在回升。|shēchǐpǐn xiāofèi zhèngzài huíshēng.|Luxury-goods consumption is recovering.
+Unit 3 Business|设备|shèbèi|n.|equipment; device|新设备提高了生产效率。|xīn shèbèi tígāo le shēngchǎn xiàolǜ.|The new equipment improved production efficiency.
+Unit 3 Business|设计|shèjì|v./n.|design|包装设计影响购买决定。|bāozhuāng shèjì yǐngxiǎng gòumǎi juédìng.|Packaging design affects purchasing decisions.
+Unit 3 Business|社交软件|shèjiāo ruǎnjiàn|n.|social software; social app|品牌通过社交软件推广活动。|pǐnpái tōngguò shèjiāo ruǎnjiàn tuīguǎng huódòng.|The brand promotes campaigns through social apps.
+Unit 3 Business|设立|shèlì|v.|establish; set up|公司在上海设立分部。|gōngsī zài Shànghǎi shèlì fēnbù.|The company set up a branch in Shanghai.
+Unit 3 Business|涉足|shèzú|v.|set foot in; enter|这家企业开始涉足金融科技。|zhè jiā qǐyè kāishǐ shèzú jīnróng kējì.|This enterprise began entering fintech.
+Unit 3 Business|升级|shēngjí|v./n.|upgrade|系统升级后速度更快。|xìtǒng shēngjí hòu sùdù gèng kuài.|After the system upgrade, the speed is faster.
+Unit 3 Business|施工|shīgōng|v./n.|construct; construction|新仓库正在施工。|xīn cāngkù zhèngzài shīgōng.|The new warehouse is under construction.
+Unit 3 Business|实惠|shíhuì|adj./n.|affordable; practical benefit|这套餐价格很实惠。|zhè tàocān jiàgé hěn shíhuì.|This set meal is very affordable.
+Unit 3 Business|实施|shíshī|v.|implement|新政策下月开始实施。|xīn zhèngcè xià yuè kāishǐ shíshī.|The new policy will be implemented next month.
+Unit 3 Business|驶|shǐ|v.|drive; sail|货车驶入物流园。|huòchē shǐrù wùliúyuán.|The truck drove into the logistics park.
+Unit 3 Business|始终|shǐzhōng|adv.|always; from beginning to end|公司始终重视客户体验。|gōngsī shǐzhōng zhòngshì kèhù tǐyàn.|The company has always valued customer experience.
+Unit 3 Business|市场份额|shìchǎng fèn'é|n.|market share|新品帮助公司扩大市场份额。|xīnpǐn bāngzhù gōngsī kuòdà shìchǎng fèn'é.|The new product helped the company expand market share.
+Unit 3 Business|视频|shìpín|n.|video|短视频带动了产品销量。|duǎn shìpín dàidòng le chǎnpǐn xiāoliàng.|Short videos boosted product sales.
+Unit 3 Business|事宜|shìyí|n.|matters; arrangements|合作事宜还需要进一步讨论。|hézuò shìyí hái xūyào jìnyíbù tǎolùn.|Cooperation matters still need further discussion.
+Unit 3 Business|数据|shùjù|n.|data|数据分析帮助企业决策。|shùjù fēnxī bāngzhù qǐyè juécè.|Data analysis helps companies make decisions.
+Unit 3 Business|树立|shùlì|v.|establish; build up|企业要树立良好形象。|qǐyè yào shùlì liánghǎo xíngxiàng.|Enterprises need to build a good image.
+Unit 3 Business|刷新|shuāxīn|v.|refresh; set a new record|销售额刷新了历史纪录。|xiāoshòu'é shuāxīn le lìshǐ jìlù.|Sales set a new historical record.
+Unit 3 Business|踏|tà|v.|step on; set foot on|团队踏上了国际化道路。|tuánduì tàshàng le guójìhuà dàolù.|The team set foot on the road to internationalization.
+Unit 3 Business|探索|tànsuǒ|v./n.|explore; exploration|公司正在探索新的盈利模式。|gōngsī zhèngzài tànsuǒ xīn de yínglì móshì.|The company is exploring a new profit model.
+Unit 3 Business|体系|tǐxì|n.|system|售后服务体系需要完善。|shòuhòu fúwù tǐxì xūyào wánshàn.|The after-sales service system needs improvement.
+Unit 3 Business|体验|tǐyàn|v./n.|experience|良好的体验能留住用户。|liánghǎo de tǐyàn néng liúzhù yònghù.|A good experience can retain users.
+Unit 3 Business|通勤|tōngqín|v./n.|commute|远程办公减少了通勤时间。|yuǎnchéng bàngōng jiǎnshǎo le tōngqín shíjiān.|Remote work reduced commuting time.
+Unit 3 Business|通信设备|tōngxìn shèbèi|n.|communication equipment|公司采购了新的通信设备。|gōngsī cǎigòu le xīn de tōngxìn shèbèi.|The company purchased new communication equipment.
+Unit 3 Business|同比|tóngbǐ|adv./n.|year on year; compared with the same period|销售额同比增长百分之十。|xiāoshòu'é tóngbǐ zēngzhǎng bǎifēn zhī shí.|Sales grew ten percent year on year.
+Unit 3 Business|同质化|tóngzhìhuà|n./v.|homogenization|产品同质化会削弱竞争力。|chǎnpǐn tóngzhìhuà huì xuēruò jìngzhēnglì.|Product homogenization weakens competitiveness.
+Unit 3 Business|统称|tǒngchēng|v./n.|collectively call; general term|这些服务统称为云服务。|zhèxiē fúwù tǒngchēng wéi yún fúwù.|These services are collectively called cloud services.
+Unit 3 Business|投入|tóurù|v./n.|invest; investment|公司投入大量资金研发。|gōngsī tóurù dàliàng zījīn yánfā.|The company invested a large amount of funds in R&D.
+Unit 3 Business|突出|tūchū|adj./v.|prominent; highlight|这个方案突出了成本优势。|zhège fāng'àn tūchū le chéngběn yōushì.|This proposal highlights the cost advantage.
+Unit 3 Business|突破|tūpò|v./n.|break through; breakthrough|团队实现了技术突破。|tuánduì shíxiàn le jìshù tūpò.|The team achieved a technological breakthrough.
+Unit 3 Business|团购|tuángòu|n./v.|group buying|团购活动吸引了很多新用户。|tuángòu huódòng xīyǐn le hěn duō xīn yònghù.|The group-buying campaign attracted many new users.
+Unit 3 Business|完善|wánshàn|v./adj.|improve; complete|平台正在完善支付功能。|píngtái zhèngzài wánshàn zhīfù gōngnéng.|The platform is improving its payment functions.
+Unit 3 Business|网点|wǎngdiǎn|n.|service outlet; branch|银行在社区增加了网点。|yínháng zài shèqū zēngjiā le wǎngdiǎn.|The bank added service outlets in the community.
+Unit 3 Business|微波炉|wēibōlú|n.|microwave oven|这款微波炉在网上很畅销。|zhè kuǎn wēibōlú zài wǎngshàng hěn chàngxiāo.|This microwave oven sells well online.
+Unit 3 Business|微薄|wēibó|adj.|meager; small|初创公司的利润还很微薄。|chūchuàng gōngsī de lìrùn hái hěn wēibó.|The startup's profit is still small.
+Unit 3 Business|微乎其微|wēihūqíwēi|idiom|extremely small|这种风险微乎其微。|zhè zhǒng fēngxiǎn wēihūqíwēi.|This risk is extremely small.
+Unit 3 Business|维修|wéixiū|v./n.|repair; maintenance|设备维修需要专业人员。|shèbèi wéixiū xūyào zhuānyè rényuán.|Equipment repair requires professionals.
+Unit 3 Business|委员会|wěiyuánhuì|n.|committee|委员会将审查投资方案。|wěiyuánhuì jiāng shěnchá tóuzī fāng'àn.|The committee will review the investment plan.
+Unit 3 Business|稳步|wěnbù|adv.|steadily|公司收入稳步增长。|gōngsī shōurù wěnbù zēngzhǎng.|The company's revenue is growing steadily.
+Unit 3 Business|物流|wùliú|n.|logistics|物流效率影响客户体验。|wùliú xiàolǜ yǐngxiǎng kèhù tǐyàn.|Logistics efficiency affects customer experience.
+Unit 3 Business|无疑|wúyí|adv.|undoubtedly|创新无疑是发展的关键。|chuàngxīn wúyí shì fāzhǎn de guānjiàn.|Innovation is undoubtedly key to development.
+Unit 3 Business|物超所值|wùchāosuǒzhí|idiom|good value for money|这项服务让客户觉得物超所值。|zhè xiàng fúwù ràng kèhù juéde wùchāosuǒzhí.|This service makes customers feel it is good value for money.
+Unit 3 Business|吸尘器|xīchénqì|n.|vacuum cleaner|这款吸尘器销量很好。|zhè kuǎn xīchénqì xiāoliàng hěn hǎo.|This vacuum cleaner sells very well.
+Unit 3 Business|系列|xìliè|n./m.|series|公司推出了新系列产品。|gōngsī tuīchū le xīn xìliè chǎnpǐn.|The company launched a new series of products.
+Unit 3 Business|显示|xiǎnshì|v./n.|show; display|数据显示用户增长很快。|shùjù xiǎnshì yònghù zēngzhǎng hěn kuài.|The data shows that users are growing quickly.
+Unit 3 Business|消除|xiāochú|v.|eliminate|我们要消除客户的顾虑。|wǒmen yào xiāochú kèhù de gùlǜ.|We need to eliminate customers' concerns.
+Unit 3 Business|消费者|xiāofèizhě|n.|consumer|消费者更重视服务质量。|xiāofèizhě gèng zhòngshì fúwù zhìliàng.|Consumers place more importance on service quality.
+Unit 3 Business|销售额|xiāoshòu'é|n.|sales revenue|本月销售额创下新高。|běn yuè xiāoshòu'é chuàngxià xīn gāo.|This month's sales revenue reached a new high.
+Unit 3 Business|效益|xiàoyì|n.|benefit; efficiency|数字化提高了经营效益。|shùzìhuà tígāo le jīngyíng xiàoyì.|Digitalization improved operating efficiency.
+Unit 3 Business|协商|xiéshāng|v./n.|consult; negotiate|双方正在协商合作细节。|shuāngfāng zhèngzài xiéshāng hézuò xìjié.|Both sides are negotiating cooperation details.
+Unit 3 Business|协同|xiétóng|v./adj.|coordinate; collaborative|各部门需要协同工作。|gè bùmén xūyào xiétóng gōngzuò.|All departments need to work collaboratively.
+Unit 3 Business|信号|xìnhào|n.|signal|市场释放出复苏信号。|shìchǎng shìfàng chū fùsū xìnhào.|The market released signals of recovery.
+Unit 3 Business|宣告|xuāngào|v.|declare; announce|新店开业宣告品牌升级。|xīn diàn kāiyè xuāngào pǐnpái shēngjí.|The opening of the new store announced a brand upgrade.
+Unit 3 Business|寻求|xúnqiú|v.|seek|公司正在寻求融资。|gōngsī zhèngzài xúnqiú róngzī.|The company is seeking financing.
+Unit 3 Business|押金|yājīn|n.|deposit|租赁设备需要支付押金。|zūlìn shèbèi xūyào zhīfù yājīn.|Renting equipment requires paying a deposit.
+Unit 3 Business|延伸|yánshēn|v.|extend|服务范围延伸到农村市场。|fúwù fànwéi yánshēn dào nóngcūn shìchǎng.|The service scope extends to rural markets.
+Unit 3 Business|沿线|yánxiàn|n.|along the route|沿线城市带来了新商机。|yánxiàn chéngshì dàilái le xīn shāngjī.|Cities along the route brought new business opportunities.
+Unit 3 Business|沿用|yányòng|v.|continue to use|公司沿用原来的品牌名称。|gōngsī yányòng yuánlái de pǐnpái míngchēng.|The company continues to use the original brand name.
+Unit 3 Business|样本|yàngběn|n.|sample|调查样本覆盖多个城市。|diàochá yàngběn fùgài duō gè chéngshì.|The survey sample covers multiple cities.
+Unit 3 Business|遥遥领先|yáoyáo lǐngxiān|idiom|far ahead|这家公司在市场上遥遥领先。|zhè jiā gōngsī zài shìchǎng shàng yáoyáo lǐngxiān.|This company is far ahead in the market.
+Unit 3 Business|业绩|yèjì|n.|performance; achievement|第三季度业绩好于预期。|dì sān jìdù yèjì hǎo yú yùqī.|Third-quarter performance was better than expected.
+Unit 3 Business|依然|yīrán|adv.|still|品牌影响力依然很强。|pǐnpái yǐngxiǎnglì yīrán hěn qiáng.|The brand's influence is still strong.
+Unit 3 Business|移动支付|yídòng zhīfù|n.|mobile payment|移动支付改变了消费习惯。|yídòng zhīfù gǎibiàn le xiāofèi xíguàn.|Mobile payment changed consumer habits.
+Unit 3 Business|仪式|yíshì|n.|ceremony|签约仪式在上午举行。|qiānyuē yíshì zài shàngwǔ jǔxíng.|The signing ceremony was held in the morning.
+Unit 3 Business|异常|yìcháng|adj./n.|abnormal; anomaly|系统发现了一笔异常交易。|xìtǒng fāxiàn le yì bǐ yìcháng jiāoyì.|The system found an abnormal transaction.
+Unit 3 Business|因人而异|yīn rén ér yì|idiom|vary from person to person|客户需求往往因人而异。|kèhù xūqiú wǎngwǎng yīn rén ér yì.|Customer needs often vary from person to person.
+Unit 3 Business|引|yǐn|v.|lead; attract|优惠活动引来了很多顾客。|yōuhuì huódòng yǐn lái le hěn duō gùkè.|The discount campaign attracted many customers.
+Unit 3 Business|英里|yīnglǐ|n.|mile|物流中心距离港口十英里。|wùliú zhōngxīn jùlí gǎngkǒu shí yīnglǐ.|The logistics center is ten miles from the port.
+Unit 3 Business|应有尽有|yīngyǒujìnyǒu|idiom|have everything one expects|这家超市商品应有尽有。|zhè jiā chāoshì shāngpǐn yīngyǒujìnyǒu.|This supermarket has every kind of product one expects.
+Unit 3 Business|盈利|yínglì|v./n.|make a profit; profit|公司已经连续三年盈利。|gōngsī yǐjīng liánxù sān nián yínglì.|The company has made a profit for three consecutive years.
+Unit 3 Business|营销|yíngxiāo|n./v.|marketing; market|数字营销降低了获客成本。|shùzì yíngxiāo jiàngdī le huòkè chéngběn.|Digital marketing reduced customer-acquisition costs.
+Unit 3 Business|应用程序|yìngyòng chéngxù|n.|application; app|这个应用程序支持在线支付。|zhège yìngyòng chéngxù zhīchí zàixiàn zhīfù.|This app supports online payment.
+Unit 3 Business|拥有|yōngyǒu|v.|own; possess|公司拥有多项专利。|gōngsī yōngyǒu duō xiàng zhuānlì.|The company owns several patents.
+Unit 3 Business|优惠券|yōuhuìquàn|n.|coupon|用户可以领取优惠券。|yònghù kěyǐ lǐngqǔ yōuhuìquàn.|Users can claim coupons.
+Unit 3 Business|优势|yōushì|n.|advantage|低成本是我们的主要优势。|dī chéngběn shì wǒmen de zhǔyào yōushì.|Low cost is our main advantage.
+Unit 3 Business|犹豫|yóuyù|v.|hesitate|客户还在犹豫是否下单。|kèhù hái zài yóuyù shìfǒu xiàdān.|The customer is still hesitating about whether to place an order.
+Unit 3 Business|余|yú|n./adj.|remainder; more than|项目还剩三十余万元预算。|xiàngmù hái shèng sānshí yú wàn yuán yùsuàn.|The project still has more than 300,000 yuan in budget left.
+Unit 3 Business|原型|yuánxíng|n.|prototype|产品原型已经完成。|chǎnpǐn yuánxíng yǐjīng wánchéng.|The product prototype has been completed.
+Unit 3 Business|乐章|yuèzhāng|n.|movement; chapter|合作开启了发展的新乐章。|hézuò kāiqǐ le fāzhǎn de xīn yuèzhāng.|The cooperation opened a new chapter of development.
+Unit 3 Business|运输|yùnshū|v./n.|transport; transportation|冷链运输保证产品新鲜。|lěngliàn yùnshū bǎozhèng chǎnpǐn xīnxiān.|Cold-chain transportation keeps products fresh.
+Unit 3 Business|运营|yùnyíng|v./n.|operate; operations|平台运营需要专业团队。|píngtái yùnyíng xūyào zhuānyè tuánduì.|Platform operations require a professional team.
+Unit 3 Business|砸|zá|v.|smash; ruin; spend heavily|广告投放不准会砸预算。|guǎnggào tóufàng bù zhǔn huì zá yùsuàn.|Poorly targeted advertising can waste the budget.
+Unit 3 Business|载|zài|v.|carry; load|这辆货车能载五吨货。|zhè liàng huòchē néng zài wǔ dūn huò.|This truck can carry five tons of goods.
+Unit 3 Business|再生资源|zàishēng zīyuán|n.|renewable resources|再生资源产业正在壮大。|zàishēng zīyuán chǎnyè zhèngzài zhuàngdà.|The renewable resources industry is growing.
+Unit 3 Business|增值|zēngzhí|v./n.|increase in value; value-added|服务升级带来了品牌增值。|fúwù shēngjí dàilái le pǐnpái zēngzhí.|The service upgrade brought brand value growth.
+Unit 3 Business|摘录|zhāilù|v./n.|excerpt|报告摘录了关键数据。|bàogào zhāilù le guānjiàn shùjù.|The report excerpted key data.
+Unit 3 Business|展台|zhǎntái|n.|exhibition booth|公司的展台吸引了很多客户。|gōngsī de zhǎntái xīyǐn le hěn duō kèhù.|The company's booth attracted many customers.
+Unit 3 Business|占据|zhànjù|v.|occupy; hold|该品牌占据了高端市场。|gāi pǐnpái zhànjù le gāoduān shìchǎng.|The brand occupies the high-end market.
+Unit 3 Business|掌握|zhǎngwò|v.|grasp; master|管理者要掌握市场变化。|guǎnlǐzhě yào zhǎngwò shìchǎng biànhuà.|Managers need to grasp market changes.
+Unit 3 Business|帐篷|zhàngpeng|n.|tent|户外品牌推出了新款帐篷。|hùwài pǐnpái tuīchū le xīnkuǎn zhàngpeng.|The outdoor brand launched a new tent.
+Unit 3 Business|智能手机|zhìnéng shǒujī|n.|smartphone|智能手机改变了购物方式。|zhìnéng shǒujī gǎibiàn le gòuwù fāngshì.|Smartphones changed the way people shop.
+Unit 3 Business|指引|zhǐyǐn|v./n.|guide; guidance|数据为决策提供指引。|shùjù wèi juécè tígōng zhǐyǐn.|Data provides guidance for decision-making.
+Unit 3 Business|智慧|zhìhuì|n.|wisdom; smart|智慧零售提高了运营效率。|zhìhuì língshòu tígāo le yùnyíng xiàolǜ.|Smart retail improved operational efficiency.
+Unit 3 Business|致力于|zhìlì yú|v.|be committed to|公司致力于绿色发展。|gōngsī zhìlì yú lǜsè fāzhǎn.|The company is committed to green development.
+Unit 3 Business|志同道合|zhìtóngdàohé|idiom|share the same ideals|我们寻找志同道合的合作伙伴。|wǒmen xúnzhǎo zhìtóngdàohé de hézuò huǒbàn.|We are looking for partners who share the same ideals.
+Unit 3 Business|终究|zhōngjiū|adv.|after all; eventually|质量终究会决定品牌命运。|zhìliàng zhōngjiū huì juédìng pǐnpái mìngyùn.|Quality will eventually determine a brand's fate.
+Unit 3 Business|中央空调|zhōngyāngkōngtiáo|n.|central air conditioning|商场安装了新的中央空调。|shāngchǎng ānzhuāng le xīn de zhōngyāngkōngtiáo.|The mall installed new central air conditioning.
+Unit 3 Business|逐步|zhúbù|adv.|gradually|公司逐步扩大海外市场。|gōngsī zhúbù kuòdà hǎiwài shìchǎng.|The company is gradually expanding overseas markets.
+Unit 3 Business|主办方|zhǔbànfāng|n.|organizer|主办方公布了展会日程。|zhǔbànfāng gōngbù le zhǎnhuì rìchéng.|The organizer announced the exhibition schedule.
+Unit 3 Business|主流|zhǔliú|n./adj.|mainstream|移动支付已经成为主流。|yídòng zhīfù yǐjīng chéngwéi zhǔliú.|Mobile payment has already become mainstream.
+Unit 3 Business|主席|zhǔxí|n.|chairperson|主席主持了年度会议。|zhǔxí zhǔchí le niándù huìyì.|The chairperson presided over the annual meeting.
+Unit 3 Business|驻|zhù|v.|be stationed in|公司驻上海团队负责华东业务。|gōngsī zhù Shànghǎi tuánduì fùzé Huádōng yèwù.|The company's Shanghai-based team handles East China business.
+Unit 3 Business|注册|zhùcè|v.|register|新用户需要先注册账号。|xīn yònghù xūyào xiān zhùcè zhànghào.|New users need to register an account first.
+Unit 3 Business|专利|zhuānlì|n.|patent|这项技术已经申请专利。|zhè xiàng jìshù yǐjīng shēnqǐng zhuānlì.|This technology has already applied for a patent.
+Unit 3 Business|专注|zhuānzhù|v./adj.|focus; focused|团队专注于核心产品。|tuánduì zhuānzhù yú héxīn chǎnpǐn.|The team focuses on the core product.
+Unit 3 Business|装备|zhuāngbèi|n./v.|equipment; equip|工厂更新了生产装备。|gōngchǎng gēngxīn le shēngchǎn zhuāngbèi.|The factory updated its production equipment.
+Unit 3 Business|壮大|zhuàngdà|v./adj.|grow stronger; expand|品牌影响力不断壮大。|pǐnpái yǐngxiǎnglì búduàn zhuàngdà.|The brand's influence continues to grow.
+Unit 3 Business|咨询|zīxún|v./n.|consult; consultation|客户可以在线咨询客服。|kèhù kěyǐ zàixiàn zīxún kèfú.|Customers can consult customer service online.
+Unit 3 Business|资源|zīyuán|n.|resources|企业要合理配置资源。|qǐyè yào hélǐ pèizhì zīyuán.|Enterprises need to allocate resources properly.
+Unit 3 Business|自主|zìzhǔ|adj./adv.|independent; autonomous|公司坚持自主研发。|gōngsī jiānchí zìzhǔ yánfā.|The company insists on independent R&D.
+Unit 3 Business|综合|zōnghé|adj./v.|comprehensive; synthesize|我们需要综合分析市场数据。|wǒmen xūyào zōnghé fēnxī shìchǎng shùjù.|We need to comprehensively analyze market data.
+Unit 3 Business|总部|zǒngbù|n.|headquarters|公司总部设在广州。|gōngsī zǒngbù shè zài Guǎngzhōu.|The company's headquarters is in Guangzhou.
+Unit 3 Business|总裁|zǒngcái|n.|president; CEO|总裁宣布了新的战略。|zǒngcái xuānbù le xīn de zhànlüè.|The CEO announced the new strategy.
+Unit 3 Business|总和|zǒnghé|n.|sum; total|销售额是各门店收入的总和。|xiāoshòu'é shì gè méndiàn shōurù de zǒnghé.|Sales revenue is the sum of each store's income.
+Unit 3 Business|奏|zòu|v.|play music; achieve effect|新策略开始奏效。|xīn zhànlüè kāishǐ zòuxiào.|The new strategy began to take effect.
+Unit 3 Business|租赁|zūlìn|v./n.|lease; rent|设备租赁能降低初期成本。|shèbèi zūlìn néng jiàngdī chūqī chéngběn.|Equipment leasing can reduce initial costs.
+Unit 3 Business|足迹|zújì|n.|footprint; trace|品牌足迹已经遍布全国。|pǐnpái zújì yǐjīng biànbù quánguó.|The brand's footprint now spans the whole country.
