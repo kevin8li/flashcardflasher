@@ -1,0 +1,38 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1|Unit 5|奔跑|bēnpǎo|v.|run|运动员在球场上来回奔跑。|Yùndòngyuán zài qiúchǎng shàng láihuí bēnpǎo.|The athlete runs back and forth on the field.
+2|Unit 5|驶|shǐ|v.|sail; drive|她上楼的时候，听到窗外汽车驶过的声音。|Tā shànglóu de shíhou, tīngdào chuāngwài qìchē shǐguò de shēngyīn.|While going upstairs, she heard cars driving past outside.
+3|Unit 5|载|zài|v.|load; carry|那列火车载着货物开往上海。|Nà liè huǒchē zài zhe huòwù kāiwǎng Shànghǎi.|That train was carrying goods to Shanghai.
+4|Unit 5|届|jiè|m.|session; edition|我参加了学校第二届演讲比赛。|Wǒ cānjiā le xuéxiào dì èr jiè yǎnjiǎng bǐsài.|I took part in the school's second speech contest.
+5|Unit 5|迄今为止|qìjīn-wéizhǐ|adv.|so far; up to now|迄今为止，加入“一带一路”的国家已经达到71个。|Qìjīn-wéizhǐ, jiārù Yídài-Yílù de guójiā yǐjīng dádào qīshíyī ge.|So far, the number of countries joining the Belt and Road has reached 71.
+6|Unit 5|总和|zǒnghé|n.|sum; total|这三个数字的总和是100。|Zhè sān ge shùzì de zǒnghé shì yìbǎi.|The sum of these three numbers is 100.
+7|Unit 5|效益|xiàoyì|n.|benefit|我们相信，新产品会为公司带来巨大的经济效益。|Wǒmen xiāngxìn, xīn chǎnpǐn huì wèi gōngsī dàilái jùdà de jīngjì xiàoyì.|We believe the new product will bring the company great economic benefits.
+8|Unit 5|便捷|biànjié|adj.|convenient and fast|城市的公共交通系统越来越便捷。|Chéngshì de gōnggòng jiāotōng xìtǒng yuèláiyuè biànjié.|The city's public transportation system is becoming more and more convenient.
+9|Unit 5|必然|bìrán|adv./adj.|inevitable; certain; necessarily|他对人没有礼貌，必然没什么朋友。|Tā duì rén méiyǒu lǐmào, bìrán méi shénme péngyou.|He is impolite to others, so naturally he has few friends.
+10|Unit 5|聚集|jùjí|v.|gather; assemble|大家聚集在一起，讨论以后应该怎么做。|Dàjiā jùjí zài yìqǐ, tǎolùn yǐhòu yīnggāi zěnme zuò.|Everyone gathered together to discuss what should be done later.
+11|Unit 5|建设|jiànshè|v.|build; construct|我们现在努力学习，是为了将来建设国家。|Wǒmen xiànzài nǔlì xuéxí, shì wèile jiānglái jiànshè guójiā.|We study hard now in order to build the country in the future.
+12|Unit 5|协同|xiétóng|adv./adj.|together; collaborative|公司上下协同努力，业务得到了快速发展。|Gōngsī shàngxià xiétóng nǔlì, yèwù dédào le kuàisù fāzhǎn.|Everyone in the company worked together, and the business developed rapidly.
+13|Unit 5|踏|tà|v.|step on|只要踏出开始的第一步，每个人都可以实现自己的梦想。|Zhǐyào tà chū kāishǐ de dì yī bù, měi ge rén dōu kěyǐ shíxiàn zìjǐ de mèngxiǎng.|As long as you take the first step, everyone can realize their dream.
+14|Unit 5|足迹|zújì|n.|footprint|雪地上的足迹是谁留下的？|Xuědì shàng de zújì shì shéi liú xià de?|Whose footprints are those in the snow?
+15|Unit 5|奏|zòu|v.|play a musical instrument|婚礼上，乐队奏起了欢快的音乐。|Hūnlǐ shàng, yuèduì zòu qǐ le huānkuài de yīnyuè.|At the wedding, the band played cheerful music.
+16|Unit 5|包容|bāoróng|v./adj.|contain; inclusive|爱是包容，是习惯。|Ài shì bāoróng, shì xíguàn.|Love is tolerance and habit.
+17|Unit 5|乐章|yuèzhāng|n.|movement; chapter|这只是我们合作的第一乐章。|Zhè zhǐ shì wǒmen hézuò de dì yī yuèzhāng.|This is only the first movement of our cooperation.
+18|Unit 5|蜿蜒|wānyán|adj./v.|meandering; wind|运河在平原上蜿蜒向前。|Yùnhé zài píngyuán shàng wānyán xiàng qián.|The canal winds forward across the plain.
+19|Unit 5|更迭|gēngdié|v.|change; alternate|朝代不断更迭，文化却延续下来。|Cháodài búduàn gēngdié, wénhuà què yánxù xiàlái.|Dynasties kept changing, but the culture continued.
+20|Unit 5|流淌|liútǎng|v.|flow|清澈的河水在村边静静流淌。|Qīngchè de héshuǐ zài cūn biān jìngjìng liútǎng.|Clear river water flows quietly beside the village.
+21|Unit 5|开凿|kāizáo|v.|excavate|古人开凿了这条运河。|Gǔrén kāizáo le zhè tiáo yùnhé.|Ancient people excavated this canal.
+22|Unit 5|动脉|dòngmài|n.|artery|大运河曾是南北交通的动脉。|Dà Yùnhé céng shì nánběi jiāotōng de dòngmài.|The Grand Canal was once the artery of north-south transportation.
+23|Unit 5|延伸|yánshēn|v.|stretch; extend|这条铁路一直延伸到边境。|Zhè tiáo tiělù yìzhí yánshēn dào biānjìng.|This railway extends all the way to the border.
+24|Unit 5|扩展|kuòzhǎn|v.|expand|公司计划扩展海外市场。|Gōngsī jìhuà kuòzhǎn hǎiwài shìchǎng.|The company plans to expand overseas markets.
+25|Unit 5|交融|jiāoróng|v.|blend|不同地区的文化在这里交融。|Bùtóng dìqū de wénhuà zài zhèlǐ jiāoróng.|Cultures from different regions blend here.
+26|Unit 5|衍生|yǎnshēng|v.|derive|这个词从古汉语中衍生出来。|Zhège cí cóng gǔ Hànyǔ zhōng yǎnshēng chūlái.|This word derives from ancient Chinese.
+27|Unit 5|精湛|jīngzhàn|adj.|exquisite; superb|他的雕刻技术十分精湛。|Tā de diāokè jìshù shífēn jīngzhàn.|His carving technique is extremely refined.
+28|Unit 5|倡议|chàngyì|n./v.|initiative; propose|这个环保倡议得到了大家支持。|Zhège huánbǎo chàngyì dédào le dàjiā zhīchí.|This environmental initiative received everyone's support.
+29|Unit 5|内涵|nèihán|n.|connotation; inner meaning|这首诗的文化内涵很丰富。|Zhè shǒu shī de wénhuà nèihán hěn fēngfù.|The cultural meaning of this poem is very rich.
+30|Unit 5|敬畏|jìngwèi|v.|revere; hold in awe|我们应该敬畏自然。|Wǒmen yīnggāi jìngwèi zìrán.|We should revere nature.
+31|Unit 5|神韵|shényùn|n.|romantic charm; artistic charm|这幅画很有江南水乡的神韵。|Zhè fú huà hěn yǒu Jiāngnán shuǐxiāng de shényùn.|This painting has the charm of a Jiangnan water town.
+32|Unit 5|宏伟诗篇|hóngwěi shīpiān|phrase|grand poem|这座城市的发展是一篇宏伟诗篇。|Zhè zuò chéngshì de fāzhǎn shì yì piān hóngwěi shīpiān.|The development of this city is a grand poem.
+33|Unit 5|大漠孤烟|dàmò gūyān|phrase|lonely smoke in the vast desert; a sense of emptiness and remoteness|诗中大漠孤烟的景象让人感到辽阔。|Shī zhōng dàmò gūyān de jǐngxiàng ràng rén gǎndào liáokuò.|The image of lonely smoke in the vast desert makes people feel its vastness.
+34|Unit 5|小桥流水|xiǎoqiáo liúshuǐ|phrase|water flowing beneath a little bridge; typical water-town scene|小桥流水的景色很有江南韵味。|Xiǎoqiáo liúshuǐ de jǐngsè hěn yǒu Jiāngnán yùnwèi.|The scene of small bridges and flowing water has a strong Jiangnan flavor.
+35|Unit 5|熙熙攘攘|xīxī-rǎngrǎng|idiom|bustling with activity|节假日的市场熙熙攘攘。|Jiéjiàrì de shìchǎng xīxī-rǎngrǎng.|The market is bustling during the holidays.
+36|Unit 5|源远流长|yuányuǎn-liúcháng|idiom|long-standing and well-established|中国的运河文化源远流长。|Zhōngguó de yùnhé wénhuà yuányuǎn-liúcháng.|China's canal culture is long-standing and well-established.
+37|Unit 5|生生不息|shēngshēng-bùxī|idiom|multiply in an endless succession; continue without end|中华文明生生不息。|Zhōnghuá wénmíng shēngshēng-bùxī.|Chinese civilization continues without end.
