@@ -1,0 +1,61 @@
+Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+Unit 28 Business|和蔼|hé'ǎi|adjective|amiable; kind|老师对每个学生都很和蔼。|Lǎoshī duì měi ge xuésheng dōu hěn hé'ǎi.|The teacher is kind to every student.
+Unit 28 Business|和解|héjiě|verb|to become reconciled|经过谈判，双方终于达成和解。|Jīngguò tánpàn, shuāngfāng zhōngyú dáchéng héjiě.|After negotiations, both sides finally reached a reconciliation.
+Unit 28 Business|和睦|hémù|adjective|harmonious|他们一家人相处得很和睦。|Tāmen yì jiā rén xiāngchǔ de hěn hémù.|Their family gets along very harmoniously.
+Unit 28 Business|和平共处|hépíng gòngchǔ|verb phrase|peaceful coexistence|合作共赢是和平共处的重要原则。|Hézuò gòngyíng shì hépíng gòngchǔ de zhòngyào yuánzé.|Win-win cooperation is an important principle of peaceful coexistence.
+Unit 28 Business|和气|héqi|adjective/noun|kind; nice; harmony|她待人很和气。|Tā dàirén hěn héqi.|She treats people kindly.
+Unit 28 Business|和尚|héshang|noun|Buddhist monk|庙里住着一个和尚。|Miào lǐ zhùzhe yí ge héshang.|A Buddhist monk lives in the temple.
+Unit 28 Business|河流|héliú|noun|river|长江是世界上最长的河流之一。|Chángjiāng shì shìjiè shang zuì cháng de héliú zhī yī.|The Yangtze River is one of the longest rivers in the world.
+Unit 28 Business|河畔|hépàn|noun|riverbank|他们在河畔公园散步。|Tāmen zài hépàn gōngyuán sànbù.|They are walking in the riverside park.
+Unit 28 Business|荷花|héhuā|noun|lotus|池塘里的荷花开了。|Chítáng lǐ de héhuā kāi le.|The lotus flowers in the pond have bloomed.
+Unit 28 Business|核|hé|noun|nucleus; nuclear|核安全非常重要。|Hé ānquán fēicháng zhòngyào.|Nuclear safety is very important.
+Unit 28 Business|核电站|hédiànzhàn|noun|nuclear power plant|修建核电站是一项大工程。|Xiūjiàn hédiànzhàn shì yí xiàng dà gōngchéng.|Building a nuclear power plant is a major project.
+Unit 28 Business|核对|héduì|verb|to check; to verify|请核对一下名单。|Qǐng héduì yíxià míngdān.|Please check the name list.
+Unit 28 Business|核能|hénéng|noun|nuclear energy|核能可以用来发电。|Hénéng kěyǐ yòng lái fādiàn.|Nuclear energy can be used to generate electricity.
+Unit 28 Business|核实|héshí|verb|to verify|情况已经核实清楚了。|Qíngkuàng yǐjīng héshí qīngchu le.|The situation has already been verified clearly.
+Unit 28 Business|核桃|hétao|noun|walnut|每天吃几个核桃对身体有好处。|Měitiān chī jǐ ge hétao duì shēntǐ yǒu hǎochù.|Eating a few walnuts every day is good for the body.
+Unit 28 Business|核武器|héwǔqì|noun|nuclear weapon|各国应避免使用核武器。|Gèguó yīng bìmiǎn shǐyòng héwǔqì.|Countries should avoid using nuclear weapons.
+Unit 28 Business|贺电|hèdiàn|noun|congratulatory telegram|春节时，很多国家发来贺电。|Chūnjié shí, hěn duō guójiā fā lái hèdiàn.|During the Spring Festival, many countries sent congratulatory telegrams.
+Unit 28 Business|贺信|hèxìn|noun|congratulatory letter|学校收到了一封贺信。|Xuéxiào shōudàole yì fēng hèxìn.|The school received a congratulatory letter.
+Unit 28 Business|喝彩|hècǎi|verb|to cheer; to applaud|观众为他的表演大声喝彩。|Guānzhòng wèi tā de biǎoyǎn dàshēng hècǎi.|The audience cheered loudly for his performance.
+Unit 28 Business|赫然|hèrán|adjective/adverb|unexpected and shocking; strikingly|他的名字赫然在列。|Tā de míngzi hèrán zài liè.|His name appeared strikingly on the list.
+Unit 28 Business|鹤立鸡群|hèlìjīqún|idiom|to stand out from the crowd|他高高帅帅的，在人群中鹤立鸡群。|Tā gāogāo shuàishuài de, zài rénqún zhōng hèlìjīqún.|He is tall and handsome, standing out in the crowd.
+Unit 28 Business|黑白|hēibái|noun|black and white; right and wrong|这件事必须黑白分明。|Zhè jiàn shì bìxū hēibái fēnmíng.|This matter must be clearly distinguished as right or wrong.
+Unit 28 Business|黑客|hēikè|noun|hacker|警察抓住了攻击电脑的黑客。|Jǐngchá zhuāzhùle gōngjī diànnǎo de hēikè.|The police caught the hacker who attacked the computer.
+Unit 28 Business|黑马|hēimǎ|noun|dark horse|这匹黑马成为比赛的焦点。|Zhè pǐ hēimǎ chéngwéi bǐsài de jiāodiǎn.|This dark horse became the focus of the competition.
+Unit 28 Business|黑手|hēishǒu|noun|vicious person manipulating behind the scenes|警方正在调查幕后的黑手。|Jǐngfāng zhèngzài diàochá mùhòu de hēishǒu.|The police are investigating the person behind the scenes.
+Unit 28 Business|黑心|hēixīn|adjective/noun|black-hearted; evil-minded; evil mind|顾客不愿意支持黑心商家。|Gùkè bù yuànyì zhīchí hēixīn shāngjiā.|Customers are unwilling to support black-hearted merchants.
+Unit 28 Business|嘿|hēi|interjection|hey; used to call attention or express surprise|嘿，咱们干得太棒了！|Hēi, zánmen gàn de tài bàng le!|Hey, we did a great job!
+Unit 28 Business|痕迹|hénjì|noun|mark; trace|湿杯子在桌面上留下一个圆形的痕迹。|Shī bēizi zài zhuōmiàn shang liúxià yí ge yuánxíng de hénjì.|The wet cup left a circular mark on the table.
+Unit 28 Business|恨不得|hènbude|verb phrase|to be anxious to; to wish one could|我恨不得马上到家。|Wǒ hènbude mǎshàng dào jiā.|I wish I could get home right away.
+Unit 28 Business|哼|hēng|verb|to groan; to croon|妈妈哼着歌给女儿听。|Māma hēngzhe gē gěi nǚ'ér tīng.|The mother crooned a song for her daughter.
+Unit 28 Business|横七竖八|héngqī-shùbā|idiom|in a mess; lying this way and that|地上横七竖八地堆着箱子。|Dì shang héngqī-shùbā de duīzhe xiāngzi.|Boxes were piled messily on the ground.
+Unit 28 Business|横向|héngxiàng|adjective|transverse; horizontal|公司加强了部门之间的横向交流。|Gōngsī jiāqiángle bùmén zhī jiān de héngxiàng jiāoliú.|The company strengthened horizontal communication between departments.
+Unit 28 Business|横|hèng|adjective|harsh; unreasonable|那个人真横，说话很不客气。|Nà ge rén zhēn hèng, shuōhuà hěn bú kèqi.|That person is really harsh and speaks rudely.
+Unit 28 Business|轰|hōng|verb/onomatopoeia|to bombard; to drive off; boom|炮声轰轰地响。|Pàoshēng hōnghōng de xiǎng.|The cannon boomed loudly.
+Unit 28 Business|轰动|hōngdòng|verb|to cause a sensation|这个消息轰动全国。|Zhège xiāoxi hōngdòng quánguó.|This news caused a sensation nationwide.
+Unit 28 Business|轰炸|hōngzhà|verb|to bombard|敌人轰炸了铁路。|Dírén hōngzhàle tiělù.|The enemy bombarded the railway.
+Unit 28 Business|哄|hōng|onomatopoeia|roars of laughter or uproarious talk|孩子们哄的一声散开了。|Háizimen hōng de yì shēng sànkāi le.|The children scattered with a burst of noise.
+Unit 28 Business|哄堂大笑|hōngtáng-dàxiào|idiom|the whole room roars with laughter|他一句话把大家逗得哄堂大笑。|Tā yí jù huà bǎ dàjiā dòu de hōngtáng-dàxiào.|One sentence from him made the whole room burst into laughter.
+Unit 28 Business|烘干|hōnggān|verb|to dry|请把湿衣服烘干。|Qǐng bǎ shī yīfu hōnggān.|Please dry the wet clothes.
+Unit 28 Business|烘托|hōngtuō|verb|to set off; to highlight|红花有了绿叶烘托才更好看。|Hónghuā yǒule lǜyè hōngtuō cái gèng hǎokàn.|Red flowers look better when set off by green leaves.
+Unit 28 Business|弘扬|hóngyáng|verb|to carry forward|我们要大力弘扬优秀的民族文化。|Wǒmen yào dàlì hóngyáng yōuxiù de mínzú wénhuà.|We should vigorously carry forward excellent national culture.
+Unit 28 Business|红灯|hóngdēng|noun|red light|红灯停，绿灯行。|Hóngdēng tíng, lǜdēng xíng.|Stop at a red light and go at a green light.
+Unit 28 Business|红火|hónghuo|adjective|prosperous|这些年来生意一直很红火。|Zhèxiē nián lái shēngyì yìzhí hěn hónghuo.|Business has been very prosperous over the years.
+Unit 28 Business|红扑扑|hóngpūpū|adjective|ruddy; rosy|她喝了一点酒，脸上红扑扑的。|Tā hēle yìdiǎnr jiǔ, liǎn shang hóngpūpū de.|After drinking a little wine, her face was rosy.
+Unit 28 Business|红润|hóngrùn|adjective|smooth and ruddy|她皮肤红润，看起来很健康。|Tā pífū hóngrùn, kàn qǐlai hěn jiànkāng.|Her skin is rosy and she looks healthy.
+Unit 28 Business|红薯|hóngshǔ|noun|sweet potato|晚饭我吃了一个红薯。|Wǎnfàn wǒ chīle yí ge hóngshǔ.|I ate a sweet potato for dinner.
+Unit 28 Business|红眼|hóngyǎn|verb|to become infuriated; to become jealous|他一听这话就红眼了。|Tā yì tīng zhè huà jiù hóngyǎn le.|He became infuriated as soon as he heard this.
+Unit 28 Business|宏观|hóngguān|adjective|macroscopic; macro|我们要从宏观角度看经济问题。|Wǒmen yào cóng hóngguān jiǎodù kàn jīngjì wèntí.|We need to look at economic issues from a macro perspective.
+Unit 28 Business|宏伟|hóngwěi|adjective|grand; magnificent|他们制定了一个宏伟的计划。|Tāmen zhìdìngle yí ge hóngwěi de jìhuà.|They made a grand plan.
+Unit 28 Business|洪亮|hóngliàng|adjective|loud and clear|他的声音洪亮，适合做主持人。|Tā de shēngyīn hóngliàng, shìhé zuò zhǔchírén.|His voice is loud and clear, suitable for being a host.
+Unit 28 Business|哄|hǒng|verb|to fool; to coax|她很会哄孩子。|Tā hěn huì hǒng háizi.|She is good at coaxing children.
+Unit 28 Business|哄|hòng|verb|to clamor; to make an uproar|大家一哄而散。|Dàjiā yí hòng ér sàn.|Everyone scattered in a rush.
+Unit 28 Business|喉咙|hóulóng|noun|throat|他说话太多，喉咙疼。|Tā shuōhuà tài duō, hóulóng téng.|He talked too much and his throat hurts.
+Unit 28 Business|吼|hǒu|verb|to shout; to roar|他大吼一声，大家都安静了。|Tā dà hǒu yì shēng, dàjiā dōu ānjìng le.|He shouted loudly, and everyone became quiet.
+Unit 28 Business|后备|hòubèi|adjective/noun|reserve; backup|球队需要更多后备力量。|Qiúduì xūyào gèng duō hòubèi lìliàng.|The team needs more reserve strength.
+Unit 28 Business|后备箱|hòubèixiāng|noun|trunk|他把行李放在汽车的后备箱里。|Tā bǎ xíngli fàng zài qìchē de hòubèixiāng lǐ.|He put the luggage in the car trunk.
+Unit 28 Business|后代|hòudài|noun|offspring; later generations|我们要为后代保护环境。|Wǒmen yào wèi hòudài bǎohù huánjìng.|We should protect the environment for future generations.
+Unit 28 Business|后盾|hòudùn|noun|backing; support|家人是他坚强的后盾。|Jiārén shì tā jiānqiáng de hòudùn.|His family is his strong backing.
+Unit 28 Business|后顾之忧|hòugùzhīyōu|noun phrase|trouble back at home; worries about the future|解决后顾之忧以后，他可以安心工作。|Jiějué hòugùzhīyōu yǐhòu, tā kěyǐ ānxīn gōngzuò.|After resolving his worries at home, he can work with peace of mind.
+Unit 28 Business|后期|hòuqī|noun|later period|战争后期，局势发生了变化。|Zhànzhēng hòuqī, júshì fāshēngle biànhuà.|In the later period of the war, the situation changed.
