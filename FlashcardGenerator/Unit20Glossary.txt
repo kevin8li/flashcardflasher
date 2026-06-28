@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1141|Unit 20|粪便|fènbiàn||excrement and urine|动物粪便；粪便经过发酵等程序可以成为肥料|dòngwù fènbiàn; fènbiàn jīngguò fājiào děng chéngxù kěyǐ chéngwéi féiliào|animal excrement; excrement can become fertilizer after fermentation and other processes
+1142|Unit 20|丰富多彩|fēngfù-duōcǎi||rich and varied|生活丰富多彩；丰富多彩的文化|shēnghuó fēngfù-duōcǎi; fēngfù-duōcǎi de wénhuà|life is rich and varied; rich and varied culture
+1143|Unit 20|丰厚|fēnghòu||rich and generous|收入丰厚；丰厚的礼物|shōurù fēnghòu; fēnghòu de lǐwù|generous income; a generous gift
+1144|Unit 20|丰满|fēngmǎn||plentiful; full|粮食丰满；羽毛丰满|liángshi fēngmǎn; yǔmáo fēngmǎn|plump grain; full feathers
+1145|Unit 20|丰盛|fēngshèng||rich and abundant|丰盛的晚餐；丰盛的酒席|fēngshèng de wǎncān; fēngshèng de jiǔxí|a rich dinner; a lavish banquet
+1146|Unit 20|丰硕|fēngshuò||plentiful and substantial|丰硕的果实；成果丰硕|fēngshuò de guǒshí; chéngguǒ fēngshuò|plentiful fruit; substantial results
+1147|Unit 20|风波|fēngbō||disturbance|一场风波；政治风波|yì chǎng fēngbō; zhèngzhì fēngbō|a disturbance; a political storm
+1148|Unit 20|风采|fēngcǎi||elegant demeanor|迷人的风采；风采动人|mírén de fēngcǎi; fēngcǎi dòngrén|charming elegance; captivating bearing
+1149|Unit 20|风餐露宿|fēngcān-lùsù||live rough|风餐露宿的生活；常年风餐露宿|fēngcān-lùsù de shēnghuó; chángnián fēngcān-lùsù|a life of eating in the wind and sleeping in the open; living rough year-round
+1150|Unit 20|风范|fēngfàn||style; bearing|大家风范；领袖风范|dàjiā fēngfàn; lǐngxiù fēngfàn|the bearing of a master; the style of a leader
+1151|Unit 20|风风雨雨|fēngfēngyǔyǔ||difficulties and hardships|经历风风雨雨；那些年的风风雨雨|jīnglì fēngfēng-yǔyǔ; nàxiē nián de fēngfēng-yǔyǔ|go through many hardships; the ups and downs of those years
+1152|Unit 20|风和日丽|fēnghé-rìlì||warm and sunny|风和日丽的好天气|fēnghé-rìlì de hǎo tiānqì|fine, warm, and sunny weather
+1153|Unit 20|风浪|fēnglàng||stormy waves|海上的风浪；人生的风浪|hǎishang de fēnglàng; rénshēng de fēnglàng|waves at sea; the storms of life
+1154|Unit 20|风力|fēnglì||wind power|风力发电|fēnglì fādiàn|wind-power generation
+1155|Unit 20|风流|fēngliú||distinguished and admirable|风流人物；风流才子|fēngliú rénwù; fēngliú cáizǐ|distinguished figures; a brilliant and romantic scholar
+1156|Unit 20|风貌|fēngmào||scene; appearance|民间艺术的风貌；社会生活的新风貌|mínjiān yìshù de fēngmào; shèhuì shēnghuó de xīn fēngmào|the style of folk art; a new look in social life
+1157|Unit 20|风气|fēngqì||atmosphere|社会风气；不良风气|shèhuì fēngqì; bùliáng fēngqì|social atmosphere; unhealthy tendencies
+1158|Unit 20|风情|fēngqíng||local customs; charm|别有一番风情；南国风情|bié yǒu yì fān fēngqíng; nánguó fēngqíng|have a distinctive charm; southern local flavor
+1159|Unit 20|风趣|fēngqù||flavor; wit|异国风趣；自然的风趣|yìguó fēngqù; zìrán de fēngqù|foreign flavor; natural charm
+1160|Unit 20|风沙|fēngshā||wind-borne sand|漫天风沙；挡住风沙|màntiān fēngshā; dǎngzhù fēngshā|sand blowing everywhere; block the wind and sand
+1161|Unit 20|风尚|fēngshàng||prevailing custom|社会风尚；流行风尚|shèhuì fēngshàng; liúxíng fēngshàng|social custom; popular trend
+1162|Unit 20|风水|fēngshuǐ||fengshui|看风水；风水宝地|kàn fēngshuǐ; fēngshuǐ bǎodì|consult fengshui; a place with excellent fengshui
+1163|Unit 20|风味|fēngwèi||flavor|风味小吃；家乡风味|fēngwèi xiǎochī; jiāxiāng fēngwèi|local-flavor snacks; hometown flavor
+1164|Unit 20|风雨|fēngyǔ||trials and hardships|风雨大作；经历风雨|fēngyǔ dà zuò; jīnglì fēngyǔ|wind and rain rage; go through hardships
+1165|Unit 20|风云|fēngyún||stormy situation|天有不测风云；风云突变|tiān yǒu bùcè fēngyún; fēngyún tūbiàn|unexpected things can happen; the situation changes suddenly
+1166|Unit 20|风筝|fēngzheng||kite|放风筝；风筝线|fàng fēngzheng; fēngzheng xiàn|fly a kite; kite string
+1167|Unit 20|封顶|fēngdǐng||top out; cap|大楼封顶；奖金上不封顶|dàlóu fēngdǐng; jiǎngjīn shàng bù fēngdǐng|the building is topped out; there is no upper limit on the bonus
+1168|Unit 20|封建|fēngjiàn||feudal|封建制度；封建社会|fēngjiàn zhìdù; fēngjiàn shèhuì|feudal system; feudal society
+1169|Unit 20|封面|fēngmiàn||cover|书的封面；封面人物|shū de fēngmiàn; fēngmiàn rénwù|the cover of a book; cover figure
+1170|Unit 20|封锁|fēngsuǒ||blockade|封锁消息；经济封锁|fēngsuǒ xiāoxi; jīngjì fēngsuǒ|blockade news; economic blockade
+1171|Unit 20|疯子|fēngzi||lunatic|一个疯子；像个疯子|yí ge fēngzi; xiàng ge fēngzi|a lunatic; like a madman
+1172|Unit 20|峰回路转|fēnghuí-lùzhuǎn||take a turn for the better|形势变化峰回路转|xíngshì biànhuà fēnghuí-lùzhuǎn|the situation took a turn for the better
+1173|Unit 20|蜂蜜|fēngmì||honey|蜂蜜水；蜂蜜蛋糕|fēngmì shuǐ; fēngmì dàngāo|honey water; honey cake
+1174|Unit 20|逢|féng||meet|相逢；生不逢时|xiāngféng; shēng bù féng shí|meet each other; be born at the wrong time
+1175|Unit 20|缝|féng||sew|缝衣服；缝伤口|féng yīfu; féng shāngkǒu|sew clothes; stitch a wound
+1176|Unit 20|缝合|fénghé||suture|缝合伤口|fénghé shāngkǒu|suture a wound
+1177|Unit 20|讽刺|fěngcì||satirize|讽刺画；讽刺别人|fěngcìhuà; fěngcì biérén|satirical cartoon; satirize others
+1178|Unit 20|凤凰|fènghuáng||phoenix|凤凰是传说中的动物|fènghuáng shì chuánshuō zhōng de dòngwù|the phoenix is a legendary animal
+1179|Unit 20|缝|fèng||seam; crack|门缝；见缝插针|ménfèng; jiàn fèng chā zhēn|door crack; make use of every bit of available space
+1180|Unit 20|否决|fǒujué||veto|被否决；全票否决|bèi fǒujué; quánpiào fǒujué|be vetoed; reject by unanimous vote
+1181|Unit 20|孵化|fūhuà||hatch|人工孵化；孵化小鸡|réngōng fūhuà; fūhuà xiǎojī|artificial incubation; hatch chicks
+1182|Unit 20|敷|fū||apply; be sufficient|敷药；外敷|fū yào; wài fū|apply medicine; apply externally
+1183|Unit 20|扶持|fúchí||support|扶持乡村小学建设；大力扶持中小型企业|fúchí xiāngcūn xiǎoxué jiànshè; dàlì fúchí zhōng-xiǎoxíng qǐyè|support the construction of rural primary schools; strongly support small and medium-sized enterprises
+1184|Unit 20|服饰|fúshì||dress; adornment|流行服饰；漂亮的服饰|liúxíng fúshì; piàoliang de fúshì|popular clothing; beautiful clothing and accessories
+1185|Unit 20|服务器|fúwùqì||server|通信服务器；租用网络服务器|tōngxìn fúwùqì; zūyòng wǎngluò fúwùqì|communication server; rent a network server
+1186|Unit 20|服用|fúyòng||take medicine|饭后服用；服用中药|fànhòu fúyòng; fúyòng zhōngyào|take after meals; take Chinese medicine
+1187|Unit 20|俘获|fúhuò||capture|俘获敌人；被俘获|fúhuò dírén; bèi fúhuò|capture the enemy; be captured
+1188|Unit 20|俘虏|fúlǔ||captive|交换俘虏；释放俘虏|jiāohuàn fúlǔ; shìfàng fúlǔ|exchange captives; release captives
+1189|Unit 20|浮力|fúlì||buoyancy|海水的浮力比较大；依靠浮力|hǎishuǐ de fúlì bǐjiào dà; yīkào fúlì|seawater has relatively strong buoyancy; rely on buoyancy
+1190|Unit 20|浮现|fúxiàn||appear in one's mind|浮现在眼前；脸上浮现出笑容|fúxiàn zài yǎnqián; liǎn shàng fúxiàn chū xiàoróng|appear before one's eyes; a smile appears on the face
+1191|Unit 20|浮躁|fúzào||impetuous|浮躁不安；浮躁的心|fúzào bù'ān; fúzào de xīn|restless and impatient; an impetuous mind
+1192|Unit 20|辐射|fúshè||radiate|核辐射；受到辐射|hé fúshè; shòudào fúshè|nuclear radiation; be exposed to radiation
+1193|Unit 20|福气|fúqì||good fortune|有福气；福气大|yǒu fúqì; fúqì dà|be fortunate; have great good fortune
+1194|Unit 20|抚摸|fǔmō||stroke|抚摸着孩子的脸；轻轻抚摸|fǔmō zhe háizi de liǎn; qīngqīng fǔmō|stroke the child's face; stroke gently
+1195|Unit 20|抚恤|fǔxù||console and compensate|抚恤金；抚恤受工伤的人员|fǔxùjīn; fǔxù shòu gōngshāng de rényuán|compensation payment; compensate workers injured on the job
+1196|Unit 20|抚养|fǔyǎng||raise; bring up|抚养孩子长大成人；抚养子女|fǔyǎng háizi zhǎngdà chéngrén; fǔyǎng zǐnǚ|raise a child to adulthood; raise children
+1197|Unit 20|抚养费|fǔyǎngfèi||maintenance|提供抚养费；子女抚养费|tígōng fǔyǎngfèi; zǐnǚ fǔyǎngfèi|provide child support; child support payments
+1198|Unit 20|斧子|fǔzi||axe|一把斧子；用斧子砍|yì bǎ fǔzi; yòng fǔzi kǎn|an axe; chop with an axe
+1199|Unit 20|俯首|fǔshǒu||bow down; obey|俯首认罪；俯首听命|fǔshǒu rènzuì; fǔshǒu tīngmìng|bow one's head and confess; submit obediently
+1200|Unit 20|辅导|fǔdǎo||tutor; guide|辅导作业；辅导功课|fǔdǎo zuòyè; fǔdǎo gōngkè|help with homework; tutor schoolwork
