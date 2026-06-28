@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1681|Unit 29|后勤|hòuqín|n.|rear/general service; logistics|后勤人员；后勤工作|hòuqín rényuán; hòuqín gōngzuò|logistics staff; logistics work
+1682|Unit 29|后人|hòurén|n.|offspring; later generations|他的后人；影响后人|tā de hòurén; yǐngxiǎng hòurén|his descendants; influence later generations
+1683|Unit 29|后台|hòutái|n.|backstage; backstage supporter|演员在后台化妆；他在公司里没有后台|yǎnyuán zài hòutái huàzhuāng; tā zài gōngsī lǐ méiyǒu hòutái|actors put on makeup backstage; he has no backing in the company
+1684|Unit 29|后退|hòutuì|v.|back away|后退三步；成绩后退|hòutuì sān bù; chéngjì hòutuì|step back three steps; grades decline
+1685|Unit 29|后续|hòuxù|adj.|follow-up|后续报道；后续工作|hòuxù bàodào; hòuxù gōngzuò|follow-up report; follow-up work
+1686|Unit 29|后遗症|hòuyízhèng|n.|sequelae|有后遗症；严重的后遗症|yǒu hòuyízhèng; yánzhòng de hòuyízhèng|have aftereffects; serious aftereffects
+1687|Unit 29|后裔|hòuyì|n.|offspring|孔子的后裔；贵族后裔|Kǒngzǐ de hòuyì; guìzú hòuyì|descendants of Confucius; descendants of nobility
+1688|Unit 29|后者|hòuzhě|n.|the latter|在金钱和爱情面前，他毫不犹豫地选择了后者。|zài jīnqián hé àiqíng miànqián, tā háo bù yóuyù de xuǎnzé le hòuzhě.|Faced with money and love, he chose the latter without hesitation.
+1689|Unit 29|厚道|hòudao|adj.|honest and kind|为人厚道|wéirén hòudao|be honest and kind
+1690|Unit 29|厚度|hòudù|n.|thickness|冰的厚度；衣服的厚度|bīng de hòudù; yīfu de hòudù|thickness of ice; thickness of clothing
+1691|Unit 29|候选人|hòuxuǎnrén|n.|candidate|提出候选人；三名候选人|tíchū hòuxuǎnrén; sān míng hòuxuǎnrén|put forward a candidate; three candidates
+1692|Unit 29|呼风唤雨|hūfēng-huànyǔ|v.|stir up trouble|他自以为在行业中能呼风唤雨，实则不然。|tā zì yǐwéi zài hángyè zhōng néng hūfēng-huànyǔ, shízé bùrán.|He thinks he can command great influence in the industry, but that is not the case.
+1693|Unit 29|呼唤|hūhuàn|v.|summon; call out|祖国在呼唤我们；大声呼唤|zǔguó zài hūhuàn wǒmen; dàshēng hūhuàn|the motherland is calling us; call out loudly
+1694|Unit 29|呼救|hūjiù|v.|call for help|大声呼救；向路人呼救|dàshēng hūjiù; xiàng lùrén hūjiù|call loudly for help; call to passersby for help
+1695|Unit 29|呼声|hūshēng|n.|voice; voice of the people|呼声动天；群众的呼声|hūshēng dòng tiān; qúnzhòng de hūshēng|voices shake the heavens; the voice of the masses
+1696|Unit 29|呼应|hūyìng|v.|echo|前后呼应；互相呼应|qiánhòu hūyìng; hùxiāng hūyìng|echo from beginning to end; echo each other
+1697|Unit 29|呼吁|hūyù|v.|appeal|大声呼吁；公开呼吁|dàshēng hūyù; gōngkāi hūyù|appeal loudly; make a public appeal
+1698|Unit 29|忽高忽低|hūgāo-hūdī|adj.|now high, now low|声音忽高忽低|shēngyīn hūgāo-hūdī|the voice rises and falls
+1699|Unit 29|忽悠|hūyou|v.|cheat; fool|忽悠人；被他忽悠了|hūyou rén; bèi tā hūyou le|fool people; was fooled by him
+1700|Unit 29|胡闹|húnào|v.|make trouble|别胡闹；孩子爱胡闹|bié húnào; háizi ài húnào|stop making trouble; children like to mess around
+1701|Unit 29|胡说|húshuō|v./n.|talk nonsense; nonsense|别胡说；一直在胡说|bié húshuō; yìzhí zài húshuō|don't talk nonsense; keep talking nonsense
+1702|Unit 29|胡思乱想|húsī-luànxiǎng|v.|let one's imagination run wild|总是胡思乱想；别胡思乱想|zǒng shì húsī-luànxiǎng; bié húsī-luànxiǎng|always overthink wildly; don't let your imagination run wild
+1703|Unit 29|湖泊|húpō|n.|lake|一个湖泊；最大的天然湖泊|yí ge húpō; zuìdà de tiānrán húpō|a lake; the largest natural lake
+1704|Unit 29|糊|hú|v.|paste; stick with paste|糊风筝；糊信封|hú fēngzheng; hú xìnfēng|paste a kite; paste an envelope
+1705|Unit 29|糊涂|hútu|adj.|confused; messy|糊涂人；糊涂账|hútu rén; hútu zhàng|confused person; muddled accounts
+1706|Unit 29|互补|hùbǔ|v.|complement|色彩互补；双方性格互补|sècǎi hùbǔ; shuāngfāng xìnggé hùbǔ|colors complement each other; both sides' personalities complement each other
+1707|Unit 29|互访|hùfǎng|v.|exchange visits|两国互访；代表团互访|liǎng guó hùfǎng; dàibiǎotuán hùfǎng|two countries exchange visits; delegations exchange visits
+1708|Unit 29|互信|hùxìn|v.|have mutual trust|政治互信；建立互信|zhèngzhì hùxìn; jiànlì hùxìn|political mutual trust; establish mutual trust
+1709|Unit 29|互助|hùzhù|v.|mutual aid|友好互助；互助合作|yǒuhǎo hùzhù; hùzhù hézuò|friendly mutual aid; mutual-aid cooperation
+1710|Unit 29|护理|hùlǐ|v.|nurse; look after|护理病人；细心护理|hùlǐ bìngrén; xīxīn hùlǐ|nurse a patient; care for carefully
+1711|Unit 29|花瓣|huābàn|n.|petal|一片花瓣；花瓣落下|yí piàn huābàn; huābàn luò xià|one petal; petals fall
+1712|Unit 29|花卉|huāhuì|n.|flowers and plants|花卉种植基地；观赏花卉|huāhuì zhòngzhí jīdì; guānshǎng huāhuì|flower-growing base; ornamental flowers
+1713|Unit 29|花纹|huāwén|n.|decorative pattern|漂亮的花纹；各种花纹|piàoliang de huāwén; gèzhǒng huāwén|beautiful pattern; various patterns
+1714|Unit 29|花样|huāyàng|n.|variety|花样游泳；变着花样给孩子做好吃的|huāyàng yóuyǒng; biàn zhe huāyàng gěi háizi zuò hǎochī de|synchronized swimming; make all kinds of tasty food for the child
+1715|Unit 29|划算|huásuàn|v./adj.|calculate; profitable; worthwhile|划算来，划算去，一晚上也没睡着；价格很划算；买套餐最划算|huásuàn lái, huásuàn qù, yí wǎnshang yě méi shuìzháo; jiàgé hěn huásuàn; mǎi tàocān zuì huásuàn|kept calculating and did not fall asleep all night; the price is worth it; buying the set meal is the best deal
+1716|Unit 29|华丽|huálì|adj.|gorgeous|华丽的宫殿；华丽的服装|huálì de gōngdiàn; huálì de fúzhuāng|gorgeous palace; gorgeous clothing
+1717|Unit 29|华侨|huáqiáo|n.|overseas Chinese|归国华侨；华侨学校|guīguó huáqiáo; huáqiáo xuéxiào|returned overseas Chinese; overseas Chinese school
+1718|Unit 29|华裔|huáyì|n.|foreign citizen of Chinese origin|华裔科学家；华裔美国人|huáyì kēxuéjiā; huáyì Měiguórén|scientist of Chinese origin; Chinese American
+1719|Unit 29|哗变|huábiàn|v.|mutiny|军队哗变；哗变的士兵|jūnduì huábiàn; huábiàn de shìbīng|the army mutinies; mutinous soldiers
+1720|Unit 29|哗然|huárán|adj.|in an uproar|一片哗然；举国哗然|yí piàn huárán; jǔguó huárán|an uproar; the whole country is in an uproar
+1721|Unit 29|滑冰|huábīng|v.|skate on ice|会滑冰；花样滑冰|huì huábīng; huāyàng huábīng|can skate; figure skating
+1722|Unit 29|滑稽|huájī|adj.|funny|滑稽的故事；滑稽的表演|huájī de gùshi; huájī de biǎoyǎn|funny story; funny performance
+1723|Unit 29|滑梯|huátī|n.|slide|玩儿滑梯；冰滑梯|wánr huátī; bīng huátī|play on a slide; ice slide
+1724|Unit 29|滑雪|huáxuě|v.|ski|高山滑雪；速度滑雪|gāoshān huáxuě; sùdù huáxuě|alpine skiing; speed skiing
+1725|Unit 29|化肥|huàféi|n.|chemical fertilizer|一袋化肥；买化肥；上化肥|yí dài huàféi; mǎi huàféi; shàng huàféi|a bag of fertilizer; buy fertilizer; apply fertilizer
+1726|Unit 29|化身|huàshēn|n.|incarnation|小说里把他描写成了正义的化身。|xiǎoshuō lǐ bǎ tā miáoxiě chéng le zhèngyì de huàshēn.|The novel portrays him as the embodiment of justice.
+1727|Unit 29|化纤|huàxiān|n.|chemical fibre|化纤材料；化纤服装|huàxiān cáiliào; huàxiān fúzhuāng|synthetic-fiber material; synthetic-fiber clothing
+1728|Unit 29|化险为夷|huàxiǎnwéiyí|v.|head off a disaster|消防员及时到场救援，终于化险为夷。|xiāofángyuán jíshí dào chǎng jiùyuán, zhōngyú huàxiǎnwéiyí.|Firefighters arrived in time to rescue them, and the danger was finally averted.
+1729|Unit 29|化验|huàyàn|v.|make a laboratory test|化验室；药品化验|huàyànshì; yàopǐn huàyàn|laboratory; drug testing
+1730|Unit 29|化妆|huàzhuāng|v.|make up|化妆品；化妆师|huàzhuāngpǐn; huàzhuāngshī|cosmetics; makeup artist
+1731|Unit 29|划时代|huàshídài|adj.|epoch-making|划时代的作品；划时代的事件|huàshídài de zuòpǐn; huàshídài de shìjiàn|epoch-making work; epoch-making event
+1732|Unit 29|画册|huàcè|n.|picture album|一本画册；看画册|yì běn huàcè; kàn huàcè|a picture album; look at a picture album
+1733|Unit 29|画龙点睛|huàlóng-diǎnjīng|idiom|put a cherry on the top|这些细小的设计起到了画龙点睛的效果。|zhèxiē xìxiǎo de shèjì qǐ dào le huàlóng-diǎnjīng de xiàoguǒ.|These small design details added the perfect finishing touch.
+1734|Unit 29|画蛇添足|huàshé-tiānzú|idiom|ruin an effect by adding something superfluous|你这样修改反而是画蛇添足。|nǐ zhèyàng xiūgǎi fǎn'ér shì huàshé-tiānzú.|Changing it this way is actually adding something unnecessary.
+1735|Unit 29|画展|huàzhǎn|n.|art exhibition|看画展；组织画展|kàn huàzhǎn; zǔzhī huàzhǎn|see an art exhibition; organize an art exhibition
+1736|Unit 29|话费|huàfèi|n.|telephone bill|手机话费；交纳话费|shǒujī huàfèi; jiāonà huàfèi|mobile phone bill; pay the phone bill
+1737|Unit 29|话筒|huàtǒng|n.|microphone|对着话筒说；拿着话筒|duì zhe huàtǒng shuō; ná zhe huàtǒng|speak into the microphone; hold a microphone
+1738|Unit 29|话语|huàyǔ|n.|speech; remark|天真的话语；充满爱意的话语|tiānzhēn de huàyǔ; chōngmǎn àiyì de huàyǔ|innocent words; words full of love
+1739|Unit 29|怀抱|huáibào|v./n.|embrace; cherish; bosom|怀抱着一束花；怀抱小孩儿；怀抱理想；母亲的怀抱；祖国的怀抱|huáibào zhe yí shù huā; huáibào xiǎoháir; huáibào lǐxiǎng; mǔqīn de huáibào; zǔguó de huáibào|hold a bunch of flowers; hold a child; cherish an ideal; a mother's embrace; the embrace of the motherland
+1740|Unit 29|怀旧|huáijiù|v.|be nostalgic for the past|怀旧餐厅；怀旧的气氛|huáijiù cāntīng; huáijiù de qìfēn|nostalgic restaurant; nostalgic atmosphere
