@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1801|Unit 31|毁坏|huǐhuài|v.|destroy; damage|毁坏古迹；毁坏公物|huǐhuài gǔjì; huǐhuài gōngwù|destroy historical sites; damage public property
+1802|Unit 31|毁灭|huǐmiè|v.|ruin; destroy|毁灭证据；毁灭一切|huǐmiè zhèngjù; huǐmiè yíqiè|destroy evidence; destroy everything
+1803|Unit 31|汇合|huìhé|v.|converge; join|几条小河在这儿汇合成大河；人民的意志汇合成一股巨大的力量|jǐ tiáo xiǎohé zài zhèr huìhé chéng dàhé; rénmín de yìzhì huìhé chéng yì gǔ jùdà de lìliàng|several small rivers join here to become a large river; the people's will converges into a great force
+1804|Unit 31|汇集|huìjí|v.|assemble; gather|人群汇集到广场上；汇集材料|rénqún huìjí dào guǎngchǎng shàng; huìjí cáiliào|crowds gather in the square; collect materials
+1805|Unit 31|汇聚|huìjù|v.|converge; gather|汇聚力量；汇聚在一起|huìjù lìliàng; huìjù zài yìqǐ|gather strength; gather together
+1806|Unit 31|会场|huìchǎng|n.|conference hall; meeting place|走进会场；离开会场|zǒu jìn huìchǎng; líkāi huìchǎng|enter the conference hall; leave the meeting place
+1807|Unit 31|会面|huìmiàn|v.|meet|和他会面；在茶馆儿会面|hé tā huìmiàn; zài cháguǎnr huìmiàn|meet with him; meet at a teahouse
+1808|Unit 31|会晤|huìwù|v.|meet; hold a formal meeting|正式会晤；会晤地点|zhèngshì huìwù; huìwù dìdiǎn|formal meeting; meeting place
+1809|Unit 31|会意|huìyì|v.|understand what each other thinks|会意地笑；会意地看了看我|huìyì de xiào; huìyì de kàn le kàn wǒ|smile knowingly; give me a knowing look
+1810|Unit 31|会诊|huìzhěn|v.|hold a group consultation|专家会诊；中西医会诊|zhuānjiā huìzhěn; Zhōng-Xī yī huìzhěn|specialist consultation; Chinese and Western medicine consultation
+1811|Unit 31|绘声绘色|huìshēng-huìsè|adj.|vivid; lively|绘声绘色地描述；说得绘声绘色|huìshēng-huìsè de miáoshù; shuō de huìshēng-huìsè|describe vividly; speak vividly
+1812|Unit 31|贿赂|huìlù|v./n.|bribe; bribery|用金钱贿赂；接受贿赂；拒绝贿赂|yòng jīnqián huìlù; jiēshòu huìlù; jùjué huìlù|bribe with money; accept a bribe; refuse a bribe
+1813|Unit 31|昏迷|hūnmí|v.|be comatose; lose consciousness|昏迷不醒；昏迷过去|hūnmí bù xǐng; hūnmí guòqù|remain unconscious; pass out
+1814|Unit 31|婚纱|hūnshā|n.|wedding dress|一件婚纱；穿上婚纱|yí jiàn hūnshā; chuān shàng hūnshā|a wedding dress; put on a wedding dress
+1815|Unit 31|婚姻|hūnyīn|n.|marriage|婚姻生活；婚姻关系|hūnyīn shēnghuó; hūnyīn guānxì|married life; marital relationship
+1816|Unit 31|浑身|húnshēn|n.|whole body|浑身上下；浑身难受|húnshēn shàngxià; húnshēn nánshòu|from head to toe; feel uncomfortable all over
+1817|Unit 31|魂|hún|n.|soul|诗魂；民族魂|shīhún; mínzúhún|poetic soul; national spirit
+1818|Unit 31|混凝土|hùnníngtǔ|n.|concrete|用混凝土铺路|yòng hùnníngtǔ pū lù|pave a road with concrete
+1819|Unit 31|混淆|hùnxiáo|v.|mix up; confuse|混淆黑白；混淆是非|hùnxiáo hēibái; hùnxiáo shìfēi|confuse black and white; confuse right and wrong
+1820|Unit 31|混浊|hùnzhuó|adj.|turbid; muddy|混浊的空气；混浊的河水|hùnzhuó de kōngqì; hùnzhuó de héshuǐ|stuffy/turbid air; muddy river water
+1821|Unit 31|豁|huō|v.|slit; open; give up; sacrifice|豁了一个口子；豁口豁了；就是豁出一条命也得把它做好|huō le yí ge kǒuzi; huōkǒu huō le; jiùshì huō chū yì tiáo mìng yě děi bǎ tā zuò hǎo|cut a slit; the opening split; even if it costs a life, it must be done well
+1822|Unit 31|豁出去|huō chūqù|v.|be ready to risk everything|没更好的办法了，我们这次只好豁出去试试了。|méi gèng hǎo de bànfǎ le, wǒmen zhè cì zhǐhǎo huō chūqù shìshi le.|There is no better way, so this time we have to risk everything and try.
+1823|Unit 31|活该|huógāi|v.|serve somebody right|他不讲诚信，现在没人帮他，他活该如此。|tā bù jiǎng chéngxìn, xiànzài méi rén bāng tā, tā huógāi rúcǐ.|He lacks honesty, and now nobody helps him; he deserves it.
+1824|Unit 31|活期|huóqī|adj.|current; demand deposit|活期存款；存活期|huóqī cúnkuǎn; cún huóqī|current deposit; make a demand deposit
+1825|Unit 31|活儿|huór|n.|work; product|干活儿；出活儿|gàn huór; chū huór|do work; produce work
+1826|Unit 31|火暴|huǒbào|adj.|fiery|火暴的脾气|huǒbào de píqi|fiery temper
+1827|Unit 31|火锅|huǒguō|n.|hotpot|吃火锅；羊肉火锅|chī huǒguō; yángròu huǒguō|eat hotpot; mutton hotpot
+1828|Unit 31|火候|huǒhou|n.|duration and degree of cooking; level of attainment|想做好这道菜，火候很重要；他的书法到火候了|xiǎng zuò hǎo zhè dào cài, huǒhou hěn zhòngyào; tā de shūfǎ dào huǒhou le|to make this dish well, heat control is important; his calligraphy has reached a high level
+1829|Unit 31|火花|huǒhuā|n.|spark|生命的火花；打出火花|shēngmìng de huǒhuā; dǎ chū huǒhuā|spark of life; create sparks
+1830|Unit 31|火炬|huǒjù|n.|torch|奥运火炬手；传递火炬|Àoyùn huǒjùshǒu; chuándì huǒjù|Olympic torchbearer; pass the torch
+1831|Unit 31|火辣辣|huǒlàlà|adj.|burning hot; bold and resolute; painfully hot|火辣辣的阳光；火辣辣的性格；火辣辣地疼|huǒlàlà de yángguāng; huǒlàlà de xìnggé; huǒlàlà de téng|scorching sunshine; fiery personality; burning pain
+1832|Unit 31|火热|huǒrè|adj.|burning hot; fervent|火热的太阳；火热的心|huǒrè de tàiyáng; huǒrè de xīn|blazing sun; fervent heart
+1833|Unit 31|火山|huǒshān|n.|volcano|一座火山；活火山|yí zuò huǒshān; huó huǒshān|a volcano; active volcano
+1834|Unit 31|火速|huǒsù|adv.|at top speed|火速行动；火速完成|huǒsù xíngdòng; huǒsù wánchéng|act at top speed; complete quickly
+1835|Unit 31|火焰|huǒyàn|n.|flame|燃烧的火焰；扑灭火焰|ránshāo de huǒyàn; pūmiè huǒyàn|burning flame; put out the flames
+1836|Unit 31|火药|huǒyào|n.|gunpowder|发明火药；使用火药|fāmíng huǒyào; shǐyòng huǒyào|invent gunpowder; use gunpowder
+1837|Unit 31|伙食|huǒshí|n.|food; meals|伙食费；改善伙食|huǒshí fèi; gǎishàn huǒshí|meal expenses; improve meals
+1838|Unit 31|或多或少|huòduō-huòshǎo|adv.|more or less|或多或少会受影响；或多或少了解一点儿|huòduō-huòshǎo huì shòu yǐngxiǎng; huòduō-huòshǎo liǎojiě yìdiǎnr|will be affected more or less; understand a little more or less
+1839|Unit 31|货币|huòbì|n.|currency|电子货币；货币单位|diànzǐ huòbì; huòbì dānwèi|electronic currency; currency unit
+1840|Unit 31|货车|huòchē|n.|truck|一辆小货车；驾驶货车|yí liàng xiǎo huòchē; jiàshǐ huòchē|a small truck; drive a truck
+1841|Unit 31|货物|huòwù|n.|goods|进口货物；运输货物|jìnkǒu huòwù; yùnshū huòwù|imported goods; transport goods
+1842|Unit 31|货运|huòyùn|n.|freight transport|货运车辆；货运业务|huòyùn chēliàng; huòyùn yèwù|freight vehicle; freight business
+1843|Unit 31|获胜|huòshèng|v.|win|昨天的比赛结果是三比零，我们队获胜了。|zuótiān de bǐsài jiéguǒ shì sān bǐ líng, wǒmen duì huòshèng le.|Yesterday's match result was 3-0; our team won.
+1844|Unit 31|获悉|huòxī|v.|learn; hear of|本报记者获悉；目前获悉|běn bào jìzhě huòxī; mùqián huòxī|our reporter learned; currently learned
+1845|Unit 31|祸害|huòhài|n./v.|scourge; damage|很多父母觉得网络游戏是个祸害；祸害别人|hěn duō fùmǔ juéde wǎngluò yóuxì shì ge huòhài; huòhài biérén|many parents think online games are a scourge; harm others
+1846|Unit 31|霍乱|huòluàn|n.|cholera|霍乱患者；出现霍乱|huòluàn huànzhě; chūxiàn huòluàn|cholera patient; cholera appears
+1847|Unit 31|豁达|huòdá|adj.|generous and open-minded|豁达的态度；他十分豁达，不会在意这些小事情|huòdá de tàidu; tā shífēn huòdá, bú huì zàiyì zhèxiē xiǎo shìqing|open-minded attitude; he is very open-minded and will not mind these small things
+1848|Unit 31|几率|jǐlǜ|n.|probability|几率大；获胜的几率|jǐlǜ dà; huòshèng de jǐlǜ|high probability; chance of winning
+1849|Unit 31|讥笑|jīxiào|v.|sneer at; ridicule|不要讥笑别人；讥笑他字写得不好看|bú yào jīxiào biérén; jīxiào tā zì xiě de bù hǎokàn|do not ridicule others; mock him for having bad handwriting
+1850|Unit 31|饥饿|jī'è|adj.|hungry|饥饿难忍；饥饿的人|jī'è nánrěn; jī'è de rén|unbearably hungry; hungry people
+1851|Unit 31|机舱|jīcāng|n.|cabin|机舱里；飞机机舱|jīcāng lǐ; fēijī jīcāng|inside the cabin; airplane cabin
+1852|Unit 31|机动|jīdòng|adj.|flexible|机动时间；机动力量|jīdòng shíjiān; jīdòng lìliàng|flexible time; mobile/flexible force
+1853|Unit 31|机灵|jīling|adj.|clever|机灵的孩子；机灵的小猴子爬到树上摘桃子吃|jīling de háizi; jīling de xiǎo hóuzi pá dào shù shàng zhāi táozi chī|clever child; the clever little monkey climbed the tree to pick peaches to eat
+1854|Unit 31|机密|jīmì|adj./n.|confidential; secret|机密文件；机密任务；国家机密；最高机密|jīmì wénjiàn; jīmì rènwu; guójiā jīmì; zuìgāo jīmì|confidential document; confidential mission; state secret; top secret
+1855|Unit 31|机智|jīzhì|adj.|quick-witted|机智的士兵打败了敌人；表现机智|jīzhì de shìbīng dǎbài le dírén; biǎoxiàn jīzhì|the quick-witted soldier defeated the enemy; show quick wit
+1856|Unit 31|肌肤|jīfū|n.|skin|肌肤干燥；呵护肌肤|jīfū gānzào; hēhù jīfū|dry skin; care for skin
+1857|Unit 31|积|jī|v.|accumulate|积水；积雪|jīshuǐ; jīxuě|accumulated water; accumulated snow
+1858|Unit 31|积淀|jīdiàn|v./n.|accumulate and settle; accumulation|这些经典文学作品积淀着人类的智慧和力量；历史的积淀；艺术积淀|zhèxiē jīngdiǎn wénxué zuòpǐn jīdiàn zhe rénlèi de zhìhuì hé lìliàng; lìshǐ de jīdiàn; yìshù jīdiàn|these classic literary works contain accumulated human wisdom and strength; historical accumulation; artistic accumulation
+1859|Unit 31|积蓄|jīxù|v./n.|save; savings|积蓄力量；积蓄一笔钱；有积蓄；一生的积蓄|jīxù lìliàng; jīxù yì bǐ qián; yǒu jīxù; yìshēng de jīxù|build up strength; save a sum of money; have savings; lifetime savings
+1860|Unit 31|基本功|jīběngōng|n.|basic skill|练好基本功；舞蹈基本功|liàn hǎo jīběngōng; wǔdǎo jīběngōng|practice basic skills well; basic dance skills
