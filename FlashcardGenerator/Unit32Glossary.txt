@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1861|Unit 32|基层|jīcéng|n.|grassroots|基层工作；深入基层||
+1862|Unit 32|基因|jīyīn|n.|gene|遗传基因；疾病基因||
+1863|Unit 32|基于|jīyú|prep.|based on|基于事实；基于以上考虑||
+1864|Unit 32|基准|jīzhǔn|n.|benchmark|基准价格；基准汇率；以……为基准||
+1865|Unit 32|畸形|jīxíng|adj.|malformed|发育畸形；畸形发展||
+1866|Unit 32|激发|jīfā|v.|inspire|激发想象力；激发热情||
+1867|Unit 32|激光|jīguāng|n.|laser|激光手术；激光技术||
+1868|Unit 32|激化|jīhuà|v.|intensify; become acute|激化矛盾；激化冲突||
+1869|Unit 32|激活|jīhuó|v.|activate|激活软件；激活民众购买力||
+1870|Unit 32|激励|jīlì|v.|impel; encourage|自我激励；互相激励；在……的激励下||
+1871|Unit 32|激起|jīqǐ|v.|arouse|激起极大的愤怒；激起人民不满；一石激起千层浪||
+1872|Unit 32|激素|jīsù|n.|hormone|生长激素；激素治疗||
+1873|Unit 32|及|jí|conj.|used to join two or more nouns/noun phrases|家长、老师及学生本人应相互配合，共同进步。||
+1874|Unit 32|及其|jí qí|conj.|and (its/their/his/her)|绿色发展理念及其实践在促进经济发展的同时，也实现了人与自然的和谐共存。||
+1875|Unit 32|及早|jízǎo|adv.|as soon as possible|及早开始；及早培养||
+1876|Unit 32|吉普|jípǔ|n.|jeep|一辆吉普；开吉普；吉普车||
+1877|Unit 32|吉他|jítā|n.|guitar|一把吉他；弹吉他||
+1878|Unit 32|吉祥物|jíxiángwù|n.|mascot|奥运会的吉祥物；在当地，大象被人们视为吉祥物||
+1879|Unit 32|级别|jíbié|n.|rank; level|干部级别；安全级别；级别高/低||
+1880|Unit 32|极度|jídù|adv.|extremely|极度自信；极度兴奋||
+1881|Unit 32|极力|jílì|adv.|extremely; to the utmost|极力反对；极力阻止||
+1882|Unit 32|极少数|jí shǎoshù|n.|very few|极少数人；极少数企业||
+1883|Unit 32|极为|jíwéi|adv.|extremely|极为重要；极为痛苦||
+1884|Unit 32|极限|jíxiàn|n.|limit; maximum|超过极限；达到极限；极限挑战||
+1885|Unit 32|即|jí|adv.|immediately; at once|招之即来，挥之即去；有过即改||
+1886|Unit 32|即便|jíbiàn|conj.|even if|即便是很小的事情，他也会用心完成。||
+1887|Unit 32|即可|jíkě|v.|be able to; be sufficient|略加修改即可过关；了解大概情况即可||
+1888|Unit 32|急剧|jíjù|adj.|sudden; rapid|急剧下降；急剧减少；发生急剧变化||
+1889|Unit 32|急迫|jípò|adj.|urgent|形势急迫；呼吸急迫||
+1890|Unit 32|急性|jíxìng|adj.|acute|急性传染病；急性腹泻||
+1891|Unit 32|急需|jíxū|v.|urgently need|急需资金；急需帮助||
+1892|Unit 32|急于|jíyú|v.|be eager to|急于表态；急于回家||
+1893|Unit 32|急诊|jízhěn|v./n.|give emergency treatment; emergency treatment|高烧不退的病人应立即到医院急诊；看急诊；急诊科||
+1894|Unit 32|急转弯|jízhuǎnwān|v./n.|turn sharply; sharp turn|汽车突然急转弯；90度急转弯||
+1895|Unit 32|棘手|jíshǒu|adj.|troublesome; tough|棘手的局面；工作棘手||
+1896|Unit 32|集会|jíhuì|n./v.|assembly; assemble|举行集会；大型集会；集会反对；禁止非法集会||
+1897|Unit 32|集结|jíjié|v.|mass; muster|集结军队；大批士兵在城外集结||
+1898|Unit 32|集邮|jíyóu|v.|collect stamps|爱好集邮；集邮的乐趣||
+1899|Unit 32|集装箱|jízhuāngxiāng|n.|container|集装箱码头；采用集装箱运输||
+1900|Unit 32|集资|jízī|v.|raise funds|集资建房；为工程集资||
+1901|Unit 32|嫉妒|jídù|v.|be jealous of|嫉妒别人；遭人嫉妒||
+1902|Unit 32|挤压|jǐyā|v.|squeeze|挤压海绵；受到挤压||
+1903|Unit 32|脊梁|jǐliáng|n.|back; backbone|挺直脊梁；民族的脊梁||
+1904|Unit 32|计|jì|n./v.|plan; stratagem; count|百年大计；计上心来；中计了；不计成本；计时||
+1905|Unit 32|计策|jìcè|n.|stratagem|想出一个好计策||
+1906|Unit 32|计较|jìjiào|v.|bother about|计较得失；过分计较考试名次||
+1907|Unit 32|计时|jìshí|v.|reckon by time; time|计时器；计时准确；倒数计时||
+1908|Unit 32|记号|jìhao|n.|mark|刻下记号；做记号||
+1909|Unit 32|记忆犹新|jìyì-yóuxīn|idiom|remain fresh in one's memory|至今记忆犹新；对那件事情记忆犹新||
+1910|Unit 32|纪录片|jìlùpiàn|n.|documentary|一部纪录片；拍摄纪录片||
+1911|Unit 32|纪念碑|jìniànbēi|n.|monument|人民英雄纪念碑；建造纪念碑||
+1912|Unit 32|纪念馆|jìniànguǎn|n.|memorial hall|一座纪念馆；参观纪念馆||
+1913|Unit 32|纪念日|jìniànrì|n.|anniversary|结婚纪念日；庆祝纪念日||
+1914|Unit 32|纪实|jìshí|v./n.|record things as they are; record of actual events|纪实小说；纪实影片；运动会纪实||
+1915|Unit 32|技艺|jìyì|n.|skill|技艺高超；足球技艺||
+1916|Unit 32|忌|jì|v.|avoid; give up|忌甜食；切忌晃动；忌烟||
+1917|Unit 32|忌讳|jìhuì|v./n.|treat as a taboo; abstain from; taboo|过年过节时忌讳说不吉利的话；气管炎患者忌讳抽烟；犯忌讳||
+1918|Unit 32|忌口|jìkǒu|v.|avoid certain food (as when one is ill)|高血压患者要想健康必须学会忌口。||
+1919|Unit 32|剂|jì|n./m.|small piece of dough; measure word for herbal medicine|剂子；面剂儿；一剂中药||
+1920|Unit 32|迹象|jìxiàng|n.|sign|可喜的迹象；有迹象表明||
