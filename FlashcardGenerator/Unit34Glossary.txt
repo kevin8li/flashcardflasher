@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1981|Unit 34|监狱|jiānyù|n.|prison|蹲监狱；关进监狱||
+1982|Unit 34|兼|jiān|v.|hold two or more things concurrently|兼而有之；经理兼工程师||
+1983|Unit 34|兼顾|jiāngù|v.|give consideration to two or more things|公私兼顾；兼顾事业与家庭||
+1984|Unit 34|兼任|jiānrèn|v.|hold a concurrent post|由董事会成员兼任经理||
+1985|Unit 34|兼容|jiānróng|v.|be compatible|与本设备兼容；完全兼容||
+1986|Unit 34|兼职|jiānzhí|n.|part-time job|他辞去了全部社会兼职，专心搞研究。||
+1987|Unit 34|煎|jiān|v.|fry in shallow oil; simmer in water|煎蛋；煎熟；煎药||
+1988|Unit 34|拣|jiǎn|v.|choose; pick|拣个好日子登记结婚。||
+1989|Unit 34|检察|jiǎnchá|v.|perform procuratorial work|检察官；人民检察院||
+1990|Unit 34|检讨|jiǎntǎo|v.|make self-criticism|自我检讨；做检讨||
+1991|Unit 34|减免|jiǎnmiǎn|v.|exempt and reduce|减免关税；减免学费；得到减免||
+1992|Unit 34|减弱|jiǎnruò|v.|weaken|风力减弱；逐渐减弱||
+1993|Unit 34|减速|jiǎn//sù|v.|slow down|慢慢减速；逐渐减速到静止||
+1994|Unit 34|减压|jiǎnyā|v.|decompress; reduce pressure|减压运动；给孩子减减压||
+1995|Unit 34|简称|jiǎnchēng|v./n.|be abbreviated to; abbreviation|可以把北京大学简称为“北大”；环保是环境保护的简称。||
+1996|Unit 34|简短|jiǎnduǎn|adj.|brief|简短的发言；简短而精彩的讲话||
+1997|Unit 34|简化|jiǎnhuà|v.|simplify|简化程序；进一步简化||
+1998|Unit 34|简洁|jiǎnjié|adj.|terse; concise|简洁的装饰；表达简洁||
+1999|Unit 34|简陋|jiǎnlòu|adj.|simple and crude|简陋的房子；条件简陋||
+2000|Unit 34|简体字|jiǎntǐzì|n.|simplified Chinese character|简体字是由繁体字经过简化而成的，书写起来更方便。||
+2001|Unit 34|简要|jiǎnyào|adj.|brief and to the point|简要地介绍；简要回顾||
+2002|Unit 34|简易|jiǎnyì|adj.|simple and easy|简易程序；简易的房子；做了简要的说明||
+2003|Unit 34|见解|jiànjiě|n.|opinion|独特的见解；发表见解||
+2004|Unit 34|见钱眼开|jiànqián-yǎnkāi|idiom|be hungry for money|他是个见钱眼开的家伙，绝对不会错过任何一个赚钱的机会。||
+2005|Unit 34|见仁见智|jiànrén-jiànzhì|idiom|different people, different views|对这个问题的看法，大家见仁见智。||
+2006|Unit 34|见识|jiànshi|v./n.|widen one's horizons; knowledge; experience|见识一下儿；见识世界；见识了许多新生事物；长见识；有见识||
+2007|Unit 34|见外|jiànwài|adj.|overly polite|你这么说太见外了；别跟我见外||
+2008|Unit 34|见效|jiànxiào|v.|be effective|这种药见效很快；开始见效||
+2009|Unit 34|见义勇为|jiànyì-yǒngwéi|idiom|bravely do what is righteous|见义勇为的行为||
+2010|Unit 34|见证|jiànzhèng|v./n.|witness; witness, evidence|见证这一重要时刻；在场见证；重要见证；历史是最好的见证||
+2011|Unit 34|间谍|jiàndié|n.|spy|国际间谍；间谍组织||
+2012|Unit 34|间断|jiànduàn|v.|interrupt|从不间断；不间断地工作||
+2013|Unit 34|间隔|jiàngé|v./n.|separate; interval|间隔一分钟；间隔半米；时间间隔||
+2014|Unit 34|间隙|jiànxì|n.|gap; interval|工作间隙；留出间隙||
+2015|Unit 34|建交|jiàn//jiāo|v.|establish diplomatic relations|与中国建交；建交五十周年||
+2016|Unit 34|建树|jiànshù|v./n.|contribute; contribution|他在科研领域建树了不凡的成绩；在外交方面很有建树；毫无建树||
+2017|Unit 34|建筑师|jiànzhùshī|n.|architect|著名的建筑师；天才建筑师||
+2018|Unit 34|建筑物|jiànzhùwù|n.|building|被毁坏的建筑物；公共建筑物||
+2019|Unit 34|贱|jiàn|adj.|cheap; low|贱卖；贱价；贫贱||
+2020|Unit 34|健美|jiànměi|n./adj.|bodybuilding; vigorous and graceful|健美运动；健美比赛；健美的肤色；健美的身材||
+2021|Unit 34|健壮|jiànzhuàng|adj.|healthy and strong|健壮的青年；身体健壮||
+2022|Unit 34|溅|jiàn|v.|splash|汤溅了出来；油溅在衣服上||
+2023|Unit 34|鉴别|jiànbié|v.|differentiate|鉴别材料；鉴别真假；仔细鉴别||
+2024|Unit 34|鉴赏|jiànshǎng|v.|appreciate|鉴赏家；鉴赏大自然的美；鉴赏古董||
+2025|Unit 34|鉴于|jiànyú|prep.|in view of|鉴于此；鉴于以上原因||
+2026|Unit 34|姜|jiāng|n.|ginger|一块姜；姜片||
+2027|Unit 34|僵|jiāng|adj.|stiff; deadlocked|冻僵了；把关系弄僵了||
+2028|Unit 34|僵化|jiānghuà|v.|become rigid|僵化的做法；思想僵化||
+2029|Unit 34|僵局|jiāngjú|n.|deadlock|打破僵局；陷入僵局||
+2030|Unit 34|讲解|jiǎngjiě|v.|explain|讲解知识；详细讲解||
+2031|Unit 34|讲述|jiǎngshù|v.|tell about|讲述人生经历；生动地讲述||
+2032|Unit 34|讲学|jiǎng//xué|v.|give/deliver lectures|去国外讲学||
+2033|Unit 34|奖杯|jiǎngbēi|n.|trophy|一座奖杯；冠军奖杯；获得奖杯||
+2034|Unit 34|奖牌|jiǎngpái|n.|medal|一块奖牌；争夺冠军奖牌||
+2035|Unit 34|奖品|jiǎngpǐn|n.|prize|丰厚的奖品；颁发奖品||
+2036|Unit 34|奖项|jiǎngxiàng|n.|award category/title|设立奖项；赢得无数奖项||
+2037|Unit 34|降临|jiànglín|v.|befall|危险降临；突然降临||
+2038|Unit 34|交叉|jiāochā|v.|overlap; alternate|交叉学科；交叉进行||
+2039|Unit 34|交锋|jiāo//fēng|v.|have a confrontation|直接交锋；面对面交锋；正面交锋||
+2040|Unit 34|交付|jiāofù|v.|pay; hand over|交付定金；交付使用；按时交付||
