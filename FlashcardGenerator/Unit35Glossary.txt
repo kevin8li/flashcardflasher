@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+2041|Unit 35|交集|jiāojí|v.|be mixed; intersect|百感交集；爱恨交集；几条地铁线路都在这里交集||
+2042|Unit 35|交接|jiāojiē|v.|hand over|工作交接记录；新旧交接；与李校长交接工作||
+2043|Unit 35|交界|jiāojiè|v.|have a common boundary|两省交界处；与河北、河南两省交界||
+2044|Unit 35|交纳|jiāonà|v.|pay|交纳租金；交纳会费；按时交纳||
+2045|Unit 35|交情|jiāoqing|n.|friendship|多年的交情；老交情；讲交情||
+2046|Unit 35|交涉|jiāoshè|v.|negotiate|进行交涉；与房东交涉||
+2047|Unit 35|交谈|jiāotán|v.|converse; chat|日常交谈；与人交谈；大声交谈||
+2048|Unit 35|交替|jiāotì|v.|supersede; replace; alternate|新老交替；四季交替；交替进行||
+2049|Unit 35|交头接耳|jiāotóu-jiē'ěr|v.|whisper to each other|听报告时交头接耳聊私事是很不礼貌的。||
+2050|Unit 35|交响乐|jiāoxiǎngyuè|n.|symphony|小型交响乐；交响乐音乐会||
+2051|Unit 35|郊外|jiāowài|n.|outskirts|去郊外春游；郊外的风景||
+2052|Unit 35|郊游|jiāoyóu|v.|go on an outing|郊游活动；去郊游||
+2053|Unit 35|浇|jiāo|v.|irrigate; pour|浇花；浇水；火上浇油||
+2054|Unit 35|娇惯|jiāoguàn|v.|pamper|娇惯孩子；从小被娇惯；对儿子十分娇惯||
+2055|Unit 35|娇气|jiāoqì|adj.|delicate|娇气的孩子；克服娇气||
+2056|Unit 35|胶囊|jiāonáng|n.|capsule|一粒胶囊；胶囊咖啡||
+2057|Unit 35|胶片|jiāopiàn|n.|film|一卷胶片；彩色胶片；电影胶片||
+2058|Unit 35|焦|jiāo|adj.|burnt; charred|烧焦；烤焦||
+2059|Unit 35|焦急|jiāojí|adj.|worried|焦急地等待；焦急万分；焦急的目光||
+2060|Unit 35|焦距|jiāojù|n.|focal length|调整焦距；镜头的焦距||
+2061|Unit 35|焦虑|jiāolǜ|adj.|anxious|焦虑的眼光；充满焦虑；产生焦虑||
+2062|Unit 35|焦躁|jiāozào|adj.|anxious and fretful|焦躁不安；焦躁的情绪；焦躁地来回走着||
+2063|Unit 35|礁石|jiāoshí|n.|reef|一块礁石；海里的礁石||
+2064|Unit 35|嚼|jiáo|v.|chew|嚼碎；嚼不烂；咬文嚼字||
+2065|Unit 35|角落|jiǎoluò|n.|corner|黑暗的角落；每个角落||
+2066|Unit 35|狡猾|jiǎohuá|adj.|cunning|狡猾的敌人；狡猾的间谍；狡猾地笑了||
+2067|Unit 35|绞|jiǎo|v.|twist into one; wring|几条铁丝紧紧地绞在一起；绞干毛巾||
+2068|Unit 35|矫正|jiǎozhèng|v.|correct|矫正发音；矫正动作；及时矫正||
+2069|Unit 35|搅|jiǎo|v.|stir; disturb|搅散；搅开；课堂纪律叫他搅乱了||
+2070|Unit 35|搅拌|jiǎobàn|v.|stir|搅拌均匀；不停地搅拌水泥||
+2071|Unit 35|缴|jiǎo|v.|pay|缴水费；缴电费||
+2072|Unit 35|缴费|jiǎofèi|v.|pay fees|缴费单；个人缴费||
+2073|Unit 35|缴纳|jiǎonà|v.|pay|缴纳费用；缴纳罚款；自觉缴纳||
+2074|Unit 35|叫板|jiào/bǎn|v.|challenge|向国内同行叫板；跟对手叫板；叫板国际品牌||
+2075|Unit 35|叫好|jiào/hǎo|v.|applaud|连声叫好；鼓掌叫好||
+2076|Unit 35|轿车|jiàochē|n.|car|一辆轿车；坐轿车||
+2077|Unit 35|较劲|jiào//jìn|v.|set oneself against|暗暗较劲；和对手较劲||
+2078|Unit 35|较量|jiàoliàng|v.|have a contest|与你较量；较量力气||
+2079|Unit 35|教科书|jiàokēshū|n.|textbook|发放教科书；一本中文教科书||
+2080|Unit 35|教条|jiàotiáo|n./adj.|dogma; dogmatic|死搬教条；信奉教条；如此教条的方法；显得有些教条||
+2081|Unit 35|教养|jiàoyǎng|v./n.|bring up; educate; upbringing|教养子女；有教养；良好的教养||
+2082|Unit 35|阶层|jiēcéng|n.|stratum|社会各阶层；高/低收入阶层||
+2083|Unit 35|阶级|jiējí|n.|class|工人阶级；阶级斗争||
+2084|Unit 35|阶梯|jiētī|n.|ladder|最后一级阶梯；知识的阶梯；走向成功的阶梯||
+2085|Unit 35|皆|jiē|adv.|all|比比皆是；尽人皆知||
+2086|Unit 35|结|jiē|v.|bear fruit|结满了果实；结出果子||
+2087|Unit 35|结果|jiē//guǒ|v.|bear fruit|开花结果；结了不少果||
+2088|Unit 35|接班|jiē//bān|v.|take one's turn on duty; be a successor to sb.|下午三点接班；接班的司机；接父亲的班||
+2089|Unit 35|接班人|jiēbānrén|n.|successor|培养接班人；新一代接班人||
+2090|Unit 35|接二连三|jiē'èr-liánsān|adv.|one after another|接二连三的失败让他感到绝望。||
+2091|Unit 35|接轨|jiē//guǐ|v.|join up the track; integrate|顺利接轨；与国际接轨||
+2092|Unit 35|接济|jiējì|v.|give financial help to|接济穷人；接济500元；靠亲戚接济生活||
+2093|Unit 35|接见|jiējiàn|v.|receive|接见代表团；接见客人；亲自接见||
+2094|Unit 35|接力|jiēlì|v.|relay|400米接力跑；接力比赛||
+2095|Unit 35|接纳|jiēnà|v.|admit into; adopt|接纳新会员；展览会每日接纳上万人参观；虚心接纳意见||
+2096|Unit 35|接手|jiēshǒu|v.|take over|接手工作；由新同事接手||
+2097|Unit 35|接送|jiēsòng|v.|pick up and drop off|接送孩子上学；轮流接送||
+2098|Unit 35|接替|jiētì|v.|take over; replace|接替他的岗位；由……接替||
+2099|Unit 35|接听|jiētīng|v.|answer phone|接听电话；拒绝接听||
+2100|Unit 35|接通|jiētōng|v.|put through|接通电源；无法接通||
