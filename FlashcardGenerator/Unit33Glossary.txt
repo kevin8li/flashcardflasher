@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1921|33|继|jì|v.|continue|夜以继日；相继问世||
+1922|33|继而|jì'ér|conj.|then|她先是一惊，继而放声大哭。||
+1923|33|继父|jìfù|n.|stepfather|他由生母和继父抚养成人。||
+1924|33|继母|jìmǔ|n.|stepmother|白雪公主的继母十分恶毒。||
+1925|33|祭|jì|v.|offer sacrifices|祭品；祭文；祭礼；祭神||
+1926|33|祭奠|jìdiàn|v.|hold a memorial ceremony for|祭奠英雄；祭奠死者；用传统的方式祭奠；到墓前祭奠||
+1927|33|祭祀|jìsì|v.|offer sacrifices to gods or ancestors|祭祀活动；民间祭祀；祭祀天地||
+1928|33|寄托|jìtuō|v.|place hope on; entrust|把希望寄托在年轻人身上||
+1929|33|寂静|jìjìng|adj.|quiet|寂静的村庄；寂静无声||
+1930|33|寂寞|jìmò|adj.|lonely|感到寂寞；一个寂寞的夜晚||
+1931|33|加紧|jiājǐn|v.|intensify; speed up|加紧复习；加紧生产||
+1932|33|加剧|jiājù|v.|aggravate|疼痛加剧；矛盾进一步加剧||
+1933|33|加深|jiāshēn|v.|deepen|加深了解；加深印象；逐步加深||
+1934|33|加重|jiāzhòng|v.|make or become heavier or more serious|病情加重；加重语气；加重心理负担||
+1935|33|佳节|jiājié|n.|joyous festival|新春佳节；和家人共度佳节||
+1936|33|家伙|jiāhuo|n.|tool; utensil; weapon; fellow; guy|老家伙；坏家伙；你这个家伙；家里有不少做菜用的家伙||
+1937|33|家家户户|jiājiāhùhù|n.|every family|春节快到了，家家户户都忙着准备年货。||
+1938|33|家教|jiājiào|n.|family education; private tutor|家教严格；有家教；我给一个小学生当家教||
+1939|33|家境|jiājìng|n.|family circumstances|家境富裕；家境贫困||
+1940|33|家禽|jiāqín|n.|poultry|这里的家禽养殖已经形成了产业和特色。||
+1941|33|家用|jiāyòng|n./adj.|family expenses; domestic|补贴家用；维持家用；家用电器；家用电脑||
+1942|33|家喻户晓|jiāyù-hùxiǎo|adj.|known to all|《论语》在中国家喻户晓。||
+1943|33|家政|jiāzhèng|n.|housekeeping|家政服务；家政中心；做家政||
+1944|33|家族|jiāzú|n.|family; clan|大家族；家族的历史；家族观念||
+1945|33|嘉年华|jiāniánhuá|n.|carnival|国际音乐嘉年华；举办大型户外啤酒嘉年华||
+1946|33|假定|jiǎdìng|v.|assume|假定不考虑其他因素；假定的前提条件||
+1947|33|假冒|jiǎmào|v.|pose as; pass off as|假冒产品；假冒名牌||
+1948|33|假设|jiǎshè|v./n.|assume; make up; hypothesis|假设计划成功；假设一个前提；基于假设；提出假设||
+1949|33|假使|jiǎshǐ|conj.|if|假使你同意，我们明天一早就出发。||
+1950|33|假装|jiǎzhuāng|v.|pretend|假装生病；假装吃惊；表面上假装接受||
+1951|33|价位|jiàwèi|n.|price|以合理价位出售；理想价位||
+1952|33|价值观|jiàzhíguān|n.|values|核心价值观；传统的价值观||
+1953|33|驾|jià|v.|drive|驾飞机；驾着摩托||
+1954|33|驾车|jià chē|v.|drive a vehicle|严禁酒后驾车||
+1955|33|驾驭|jiàyù|v.|control|难以驾驭；驾驭全局；驾驭不了||
+1956|33|架势|jiàshi|n.|posture|摆好架势；拉开架势；做出一副要进攻的架势||
+1957|33|架子|jiàzi|n.|shelf; framework; airs; haughty manner|书架子；搭好论文的架子；他从来不摆架子||
+1958|33|嫁|jià|v.|(of a woman) marry|嫁女儿；嫁给他||
+1959|33|嫁妆|jiàzhuang|n.|dowry|一份嫁妆；丰厚的嫁妆；准备嫁妆||
+1960|33|尖端|jiānduān|n./adj.|pointed end; most advanced|毛笔的尖端；手指尖端；尖端产品；尖端技术||
+1961|33|尖锐|jiānruì|adj.|sharp; intense|尖锐物体；尖锐的斗争；尖锐地指出||
+1962|33|奸诈|jiānzhà|adj.|crafty; treacherous|为人奸诈；奸诈的手段||
+1963|33|歼灭|jiānmiè|v.|annihilate|歼灭敌人；全部歼灭||
+1964|33|坚持不懈|jiānchí-bùxiè|adj.|persistent|坚持不懈的努力||
+1965|33|坚韧|jiānrèn|adj.|firm and tenacious|坚韧的质地；性格坚韧||
+1966|33|坚实|jiānshí|adj.|solid|打下了坚实的基础；迈出坚实的一步||
+1967|33|坚守|jiānshǒu|v.|stick to; hold fast to|坚守岗位；坚守信念；长期坚守在工作一线||
+1968|33|坚信|jiānxìn|v.|firmly believe|坚信真理；坚信不疑||
+1969|33|坚硬|jiānyìng|adj.|hard|坚硬的石头；坚硬的刺||
+1970|33|肩膀|jiānbǎng|n.|shoulder|宽阔的肩膀；拍肩膀；站在巨人的肩膀上||
+1971|33|肩负|jiānfù|v.|shoulder; undertake|肩负起责任；肩负养家的责任||
+1972|33|艰巨|jiānjù|adj.|arduous|任务艰巨；艰巨的工作||
+1973|33|艰苦奋斗|jiānkǔ-fèndòu|v.|work hard and perseveringly|经过多年的艰苦奋斗，公司的新产品开发取得了重大的成就。||
+1974|33|艰险|jiānxiǎn|adj.|difficult and dangerous|不怕艰险；山路艰险||
+1975|33|艰辛|jiānxīn|adj.|hard; arduous|艰辛的劳动；艰辛创业||
+1976|33|监察|jiānchá|v.|supervise|监察机关；加强市场监察工作||
+1977|33|监管|jiānguǎn|v.|supervise and control|加强市场监管；监管物价||
+1978|33|监护|jiānhù|v.|serve as a guardian; observe and nurse|监护人；监护病人||
+1979|33|监控|jiānkòng|v.|monitor; supervise and control|监控设备；监控质量；严密监控||
+1980|33|监视|jiānshì|v.|keep watch on|监视敌人的行动；监视他们的一举一动；密切监视||
