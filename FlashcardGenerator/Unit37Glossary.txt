@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+2161|37|谨慎|jǐnshèn|adj.|cautious|不够谨慎；谨慎的态度；谨慎地处理|bú gòu jǐnshèn; jǐnshèn de tàidu; jǐnshèn de chǔlǐ|not cautious enough; a cautious attitude; to handle cautiously
+2162|37|尽情|jìnqíng|adv.|to one's heart's content|尽情游玩；尽情享受|jìnqíng yóuwán; jìnqíng xiǎngshòu|to play to one's heart's content; to enjoy to one's heart's content
+2163|37|尽头|jìntóu|n.|end|爱情走到尽头；世界的尽头|àiqíng zǒu dào jìntóu; shìjiè de jìntóu|love has come to an end; the end of the world
+2164|37|进场|jìnchǎng|v.|enter the arena; enter the market|运动员进场；进场交易|yùndòngyuán jìnchǎng; jìnchǎng jiāoyì|athletes enter the arena; enter the market to trade
+2165|37|进程|jìnchéng|n.|process|比赛的进程；工作进程；加快进程|bǐsài de jìnchéng; gōngzuò jìnchéng; jiākuài jìnchéng|the course of a competition; work progress; to speed up the process
+2166|37|进出|jìnchū|v.|get in and out|进出方便；从大门进出|jìnchū fāngbiàn; cóng dàmén jìnchū|convenient to enter and exit; enter and exit through the main gate
+2167|37|进出口|jìn-chūkǒu|n.|entrances and exits; import and export|超市有两个进出口；进出口公司；进出口贸易|chāoshì yǒu liǎng ge jìnchūkǒu; jìnchūkǒu gōngsī; jìnchūkǒu màoyì|the supermarket has two entrances and exits; import-export company; import-export trade
+2168|37|进度|jìndù|n.|degree or speed of progress|按目前的进度；工作进度；加快进度|àn mùqián de jìndù; gōngzuò jìndù; jiākuài jìndù|according to the current progress; work progress; to speed up progress
+2169|37|进而|jìn'ér|conj.|and then|现在，大部分信息都通过网络进入我们的眼睛、耳朵，进而进入我们的头脑。|xiànzài, dà bùfen xìnxī dōu tōngguò wǎngluò jìnrù wǒmen de yǎnjing, ěrduo, jìn'ér jìnrù wǒmen de tóunǎo.|Now, most information enters our eyes and ears through the internet, and then enters our minds.
+2170|37|进修|jìnxiū|v.|engage in advanced studies|进修生；去大学进修中文|jìnxiūshēng; qù dàxué jìnxiū Zhōngwén|advanced-study student; to go to a university for further study in Chinese
+2171|37|近年来|jìnnián lái|phrase|in recent years|近年来才出现|jìnnián lái cái chūxiàn|only appeared in recent years
+2172|37|劲头|jìntóu|n.|energy; vigour|一股劲头；劲头十足；很有劲头|yì gǔ jìntóu; jìntóu shízú; hěn yǒu jìntóu|a burst of energy; full of energy; very energetic
+2173|37|晋升|jìnshēng|v.|promote to a higher position|由部门主任晋升为经理；获得晋升|yóu bùmén zhǔrèn jìnshēng wéi jīnglǐ; huòdé jìnshēng|to be promoted from department director to manager; to receive a promotion
+2174|37|浸泡|jìnpào|v.|soak|浸泡豆子；在水里浸泡；长时间浸泡|jìnpào dòuzi; zài shuǐ lǐ jìnpào; cháng shíjiān jìnpào|to soak beans; to soak in water; to soak for a long time
+2175|37|禁忌|jìnjì|n./v.|taboo; avoid|语言禁忌；文化禁忌；吃这种药时禁忌吃辣的东西。|yǔyán jìnjì; wénhuà jìnjì; chī zhè zhǒng yào shí jìnjì chī là de dōngxi.|language taboo; cultural taboo; when taking this medicine, avoid eating spicy things.
+2176|37|禁区|jìnqū|n.|forbidden zone|闯入禁区；文化禁区|chuǎngrù jìnqū; wénhuà jìnqū|to break into a forbidden zone; cultural forbidden zone
+2177|37|茎|jīng|n.|stem; stalk|茎叶；根茎|jīngyè; gēnjīng|stems and leaves; rhizome
+2178|37|经|jīng|v.|go through; stand; endure|几经周折；经得起考验|jǐ jīng zhōuzhé; jīng de qǐ kǎoyàn|after many twists and turns; able to withstand tests
+2179|37|经度|jīngdù|n.|longitude|所在经度；每15个经度相差1小时|suǒzài jīngdù; měi shíwǔ ge jīngdù xiāngchà yì xiǎoshí|the longitude where something is located; every 15 degrees of longitude differs by one hour
+2180|37|经久不息|jīngjiǔ-bùxī|adj.|prolonged|经久不息的掌声|jīngjiǔ-bùxī de zhǎngshēng|prolonged applause
+2181|37|经贸|jīngmào|n.|economy and trade|经贸规则；经贸合作|jīngmào guīzé; jīngmào hézuò|economic and trade rules; economic and trade cooperation
+2182|37|经商|jīngshāng|v.|be in business|经商才能；经商的本钱|jīngshāng cáinéng; jīngshāng de běnqián|business talent; capital for doing business
+2183|37|经受|jīngshòu|v.|withstand|经受考验；经受挑战；经受不住|jīngshòu kǎoyàn; jīngshòu tiǎozhàn; jīngshòu bú zhù|to withstand a test; to withstand a challenge; unable to withstand it
+2184|37|荆棘|jīngjí|n.|thistles and thorns|荆棘遍地；布满荆棘|jīngjí biàndì; bùmǎn jīngjí|thorns everywhere; covered with thorns
+2185|37|惊|jīng|v.|start; startle|受惊；心里一惊|shòu jīng; xīnlǐ yì jīng|to be frightened; to feel a sudden shock inside
+2186|37|惊诧|jīngchà|adj.|surprised|令人惊诧；表示惊诧|lìng rén jīngchà; biǎoshì jīngchà|surprising; to show surprise
+2187|37|惊慌|jīnghuāng|adj.|panic|心中惊慌；毫不惊慌；不必惊慌|xīnzhōng jīnghuāng; háo bù jīnghuāng; bú bì jīnghuāng|panicked inside; not panicked at all; no need to panic
+2188|37|惊慌失措|jīnghuāng-shīcuò|phrase|be frightened out of one's wits|惊慌失措的表情；让人惊慌失措|jīnghuāng-shīcuò de biǎoqíng; ràng rén jīnghuāng-shīcuò|a panicked and helpless expression; to make people panic and lose their composure
+2189|37|惊奇|jīngqí|adj.|amazed|惊奇地发现；惊奇的目光；感到惊奇|jīngqí de fāxiàn; jīngqí de mùguāng; gǎndào jīngqí|to discover in amazement; an amazed gaze; to feel amazed
+2190|37|惊叹|jīngtàn|v.|wonder at|惊叹不已；令人惊叹|jīngtàn bù yǐ; lìng rén jīngtàn|to marvel endlessly; astonishing
+2191|37|惊天动地|jīngtiān-dòngdì|adj.|earthshaking|惊天动地的事业|jīngtiān-dòngdì de shìyè|an earthshaking cause
+2192|37|惊险|jīngxiǎn|adj.|thrilling; breathtaking|惊险的表演；惊险的一幕；动作惊险|jīngxiǎn de biǎoyǎn; jīngxiǎn de yí mù; dòngzuò jīngxiǎn|a thrilling performance; a thrilling scene; the action is thrilling
+2193|37|惊心动魄|jīngxīn-dòngpò|adj.|soul-stirring|惊心动魄的经历；让人觉得惊心动魄|jīngxīn-dòngpò de jīnglì; ràng rén juéde jīngxīn-dòngpò|a soul-stirring experience; to make people feel deeply shaken
+2194|37|惊醒|jīngxǐng|v.|wake up with a start|惊醒过来；从梦中惊醒|jīngxǐng guòlái; cóng mèng zhōng jīngxǐng|to wake up with a start; to wake from a dream with a start
+2195|37|惊讶|jīngyà|adj.|astonished|惊讶的表情；惊讶地发现；令人惊讶|jīngyà de biǎoqíng; jīngyà de fāxiàn; lìng rén jīngyà|an astonished expression; to discover in surprise; surprising
+2196|37|晶莹|jīngyíng|adj.|glittering and translucent|晶莹的冰雪；晶莹的泪水|jīngyíng de bīngxuě; jīngyíng de lèishuǐ|glittering ice and snow; glistening tears
+2197|37|兢兢业业|jīngjīngyèyè|adj.|conscientious and careful|兢兢业业的态度；对待工作兢兢业业|jīngjīngyèyè de tàidu; duìdài gōngzuò jīngjīngyèyè|a conscientious attitude; to approach work conscientiously
+2198|37|精打细算|jīngdǎ-xìsuàn|v.|calculate carefully and budget strictly|精打细算的生活；买东西精打细算|jīngdǎ-xìsuàn de shēnghuó; mǎi dōngxi jīngdǎ-xìsuàn|a carefully budgeted life; to be careful and calculating when buying things
+2199|37|精华|jīnghuá|n.|essence|吸收精华；文化的精华|xīshōu jīnghuá; wénhuà de jīnghuá|to absorb the essence; the essence of culture
+2200|37|精简|jīngjiǎn|v.|simplify|精简机构；精简文章内容|jīngjiǎn jīgòu; jīngjiǎn wénzhāng nèiróng|to streamline an organization; to simplify the content of an article
+2201|37|精练|jīngliàn|adj.|succinct|语言精练；精练的表达；精练地概括了全文的内容|yǔyán jīngliàn; jīngliàn de biǎodá; jīngliàn de gàikuò le quánwén de nèiróng|succinct language; concise expression; to concisely summarize the content of the whole text
+2202|37|精妙|jīngmiào|adj.|exquisite and ingenious|制作精妙；精妙的见解；精妙地处理；写得精妙|zhìzuò jīngmiào; jīngmiào de jiànjiě; jīngmiào de chǔlǐ; xiě de jīngmiào|exquisitely made; an ingenious insight; to handle ingeniously; written exquisitely
+2203|37|精明|jīngmíng|adj.|shrewd|精明的商人；精明的策略；长得精明|jīngmíng de shāngrén; jīngmíng de cèlüè; zhǎng de jīngmíng|a shrewd merchant; a shrewd strategy; to look sharp and capable
+2204|37|精疲力竭|jīngpí-lìjié|adj.|exhausted|忙了一天，他拖着精疲力竭的身体回了家。|máng le yì tiān, tā tuōzhe jīngpí-lìjié de shēntǐ huí le jiā.|After a busy day, he dragged his exhausted body home.
+2205|37|精确|jīngquè|adj.|accurate; precise|精确的计算结果；精确预测；算得精确|jīngquè de jìsuàn jiéguǒ; jīngquè yùcè; suàn de jīngquè|precise calculation results; accurate prediction; calculated accurately
+2206|37|精神病|jīngshénbìng|n.|mental disease|精神病院；得了精神病|jīngshénbìngyuàn; dé le jīngshénbìng|psychiatric hospital; to have a mental illness
+2207|37|精髓|jīngsuǐ|n.|quintessence|文化的精髓；吸收思想精髓|wénhuà de jīngsuǐ; xīshōu sīxiǎng jīngsuǐ|the essence of culture; to absorb the essence of an ideology
+2208|37|精通|jīngtōng|v.|have mastered; be proficient in|精通经济学；精通多种语言；样样精通|jīngtōng jīngjìxué; jīngtōng duō zhǒng yǔyán; yàng yàng jīngtōng|to be proficient in economics; to be proficient in many languages; skilled in everything
+2209|37|精细|jīngxì|adj.|meticulous; fine|做工精细；精细的食物|zuògōng jīngxì; jīngxì de shíwù|fine workmanship; finely prepared food
+2210|37|精心|jīngxīn|adj.|elaborate|精心指导；精心安排；精心设计|jīngxīn zhǐdǎo; jīngxīn ānpái; jīngxīn shèjì|to guide carefully; to arrange carefully; to design with great care
+2211|37|精益求精|jīngyìqiújīng|phrase|constantly strive for perfection|对工作精益求精；精益求精的态度|duì gōngzuò jīngyìqiújīng; jīngyìqiújīng de tàidu|to strive for perfection in work; an attitude of constantly striving for perfection
+2212|37|精英|jīngyīng|n.|elite|国家的精英；法律精英|guójiā de jīngyīng; fǎlǜ jīngyīng|the nation's elite; legal elite
+2213|37|精致|jīngzhì|adj.|exquisite|精致的工艺品；包装精致；活得精致|jīngzhì de gōngyìpǐn; bāozhuāng jīngzhì; huó de jīngzhì|exquisite handicrafts; exquisitely packaged; to live exquisitely
+2214|37|颈部|jǐngbù|n.|neck|颈部疼痛；按摩颈部|jǐngbù téngtòng; ànmó jǐngbù|neck pain; to massage the neck
+2215|37|景观|jǐngguān|n.|landscape|美丽的景观；自然景观|měilì de jǐngguān; zìrán jǐngguān|beautiful landscape; natural landscape
+2216|37|景区|jǐngqū|n.|scenic area or spot|旅游景区；景区大门|lǚyóu jǐngqū; jǐngqū dàmén|tourist scenic area; entrance gate of a scenic area
+2217|37|警车|jǐngchē|n.|police car|一辆警车；驾驶警车|yí liàng jǐngchē; jiàshǐ jǐngchē|a police car; to drive a police car
+2218|37|警官|jǐngguān|n.|police officer|女警官；他在湖北警官学院工作|nǚ jǐngguān; tā zài Húběi Jǐngguān Xuéyuàn gōngzuò|female police officer; he works at Hubei University of Police
+2219|37|警惕|jǐngtì|v.|be on guard; be on the alert|保持警惕；提高警惕；警惕药物的副作用|bǎochí jǐngtì; tígāo jǐngtì; jǐngtì yàowù de fùzuòyòng|to stay alert; to heighten vigilance; to be alert to the side effects of medicine
+2220|37|警钟|jǐngzhōng|n.|alarm bell|敲响警钟；警钟长鸣|qiāoxiǎng jǐngzhōng; jǐngzhōng chángmíng|to sound the alarm bell; alarm bells keep ringing
