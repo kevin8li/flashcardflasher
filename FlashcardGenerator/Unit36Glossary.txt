@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+2101|Unit 36|揭发|jiēfā|v.|expose; unmask|揭发犯罪活动；被人揭发||
+2102|Unit 36|揭露|jiēlù|v.|unmask|揭露真相；揭露问题；无情地揭露||
+2103|Unit 36|揭示|jiēshì|v.|reveal|揭示出来；揭示规律；深刻地揭示||
+2104|Unit 36|揭晓|jiēxiǎo|v.|announce; publish|揭晓结果；提前揭晓||
+2105|Unit 36|节俭|jiéjiǎn|adj.|frugal|节俭的习惯；生活节俭||
+2106|Unit 36|节气|jiéqì|n.|solar term|二十四节气中蕴涵着中国古人的智慧。||
+2107|Unit 36|节水|jiéshuǐ|v.|save water|节水节电；节水设备||
+2108|Unit 36|节衣缩食|jiéyī-suōshí|v.|scrimp and save|父亲为了供儿女读书，过着节衣缩食的生活。||
+2109|Unit 36|劫|jié|v.|rob|劫走；劫财||
+2110|Unit 36|劫持|jiéchí|v.|hijack|劫持车辆；劫持乘客||
+2111|Unit 36|洁净|jiéjìng|adj.|clean; spotless|洁净的水；洁净的空气；保持洁净||
+2112|Unit 36|结冰|jiébīng|v.|ice over; freeze|河水结冰；遇冷结冰||
+2113|Unit 36|结晶|jiéjīng|n.|crystal; crystallization|盐结晶；爱情的结晶；知识的结晶||
+2114|Unit 36|结局|jiéjú|n.|final result; ending|悲惨的结局；故事的结局||
+2115|Unit 36|结识|jiéshí|v.|get acquainted with|结识新朋友；与他结识||
+2116|Unit 36|结尾|jiéwěi|v./n.|end; ending|以悲剧结尾；影片的结尾；大团圆的结尾||
+2117|Unit 36|截|jié|v./m.|cut; stop; section|截断；截成两段；警察截住了歹徒；半截木头；你话怎么就说半截||
+2118|Unit 36|截然不同|jiérán-bùtóng|adj.|be entirely different|风景截然不同；两人有着截然不同的结局||
+2119|Unit 36|竭尽全力|jiéjìn-quánlì|v.|do one's utmost|竭尽全力奋斗；竭尽全力救治病人||
+2120|Unit 36|竭力|jiélì|adv.|try one's best; spare no effort|竭力证明；竭力完成||
+2121|Unit 36|解答|jiědá|v.|answer|解答问题；耐心解答||
+2122|Unit 36|解读|jiědú|v.|read and understand; analyse; interpret|解读历史；解读经典；重新解读；详细解读||
+2123|Unit 36|解雇|jiěgù|v.|fire; dismiss|被公司解雇；解雇工人||
+2124|Unit 36|解救|jiějiù|v.|rescue|解救出来；解救伤员；成功解救人质||
+2125|Unit 36|解剖|jiěpōu|v.|dissect|解剖学；解剖动物||
+2126|Unit 36|解散|jiěsàn|v.|disband|解散队伍；突然解散||
+2127|Unit 36|解体|jiětǐ|v.|decompose; disintegrate|飞机在空中解体；集团解体||
+2128|Unit 36|解脱|jiětuō|v.|extricate oneself|难以解脱；解脱出来||
+2129|Unit 36|解围|jiě//wéi|v.|get sb. out of a predicament|替朋友解围；幸好王老师帮我解了围||
+2130|Unit 36|解析|jiěxī|v.|analyse|答案解析；解析基因；全面解析||
+2131|Unit 36|介入|jièrù|v.|intervene|介入调查；提前介入；申请第三方介入||
+2132|Unit 36|介意|jiè//yì|v.|mind|不必介意；毫不介意||
+2133|Unit 36|介于|jièyú|v.|be situated between|难度介于二者之间；气温介于26度到34度之间||
+2134|Unit 36|戒备|jièbèi|v.|guard; be on the alert|严加戒备；处于戒备状态；毫无戒备之心||
+2135|Unit 36|戒烟|jiè yān|v.|quit smoking|戒烟成功；开始戒烟||
+2136|Unit 36|戒指|jièzhi|n.|ring|戴戒指；结婚戒指||
+2137|Unit 36|届时|jièshí|adv.|on the occasion|签约活动将于7月27日举行，届时会有30多家媒体参与报道。||
+2138|Unit 36|界定|jièdìng|v.|define|如何界定责任；界定工作范围||
+2139|Unit 36|界限|jièxiàn|n.|limit; boundary|划清界限；网络打破了传统的空间界限||
+2140|Unit 36|界线|jièxiàn|n.|boundary line; edge; verge|两国间的界线；跨越界线；标出界线||
+2141|Unit 36|借口|jièkǒu|v./n.|use as an excuse; excuse|借口头疼不去学校；找借口；以头疼为借口||
+2142|Unit 36|借条|jiètiáo|n.|receipt for a loan|一张借条；给你打个借条||
+2143|Unit 36|借用|jièyòng|v.|borrow|借用电脑；临时借用会议室||
+2144|Unit 36|借助|jièzhù|v.|have the aid of; with the help of|借助新技术的支持；借助法律手段||
+2145|Unit 36|金属|jīnshǔ|n.|metal|工业金属；重金属||
+2146|Unit 36|金子|jīnzi|n.|gold|一克金子；一块金子||
+2147|Unit 36|金字塔|jīnzìtǎ|n.|pyramid|一提到金字塔，人们就会想到埃及。||
+2148|Unit 36|津津有味|jīnjīn-yǒuwèi|adj.|with keen pleasure|同学们听老师讲故事听得津津有味。||
+2149|Unit 36|津贴|jīntiē|n.|allowance|出差津贴；伙食津贴；领取津贴||
+2150|Unit 36|筋|jīn|n.|sinew; veins that stand out under the skin|伤筋动骨；胳膊上的青筋||
+2151|Unit 36|禁不住|jīnbuzhù|v.|be unable to bear or endure; can't help doing|他怎么这么禁不住批评；禁不住笑了起来；禁不住流下眼泪||
+2152|Unit 36|仅次于|jǐn cì yú|v.|rank only second to|世界大学生运动会是规模仅次于奥运会的综合性世界运动会。||
+2153|Unit 36|尽|jǐn|v./adv.|try one's best; furthest|尽快；尽可能地减少错误；李老师走在我们班队伍的尽前头。||
+2154|Unit 36|尽早|jǐnzǎo|adv.|as soon as possible|尽早结束；尽早采取行动||
+2155|Unit 36|紧凑|jǐncòu|adj.|compact|情节紧凑；行程安排得很紧凑||
+2156|Unit 36|紧接着|jǐn jiēzhe|adv.|in rapid sequence|紧接着又问；紧接着发生||
+2157|Unit 36|紧迫|jǐnpò|adj.|urgent|时间紧迫；紧迫的任务||
+2158|Unit 36|紧缺|jǐnquē|adj.|scarce|资源紧缺；人才紧缺；十分紧缺||
+2159|Unit 36|紧缩|jǐnsuō|v.|tighten; cut down|实行紧缩的货币政策；紧缩的经济政策；通货紧缩||
+2160|Unit 36|锦旗|jǐnqí|n.|silk banner|一面锦旗；挂锦旗；送锦旗||
