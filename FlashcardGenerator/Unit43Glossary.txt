@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+2521|43|狼狈|lángbèi|adj.|in a difficult position|狼狈的样子；狼狈地逃走|lángbèi de yàngzi; lángbèi de táozǒu|in a sorry state; flee in a sorry state
+2522|43|朗诵|lǎngsòng|v.|recite|朗诵会；朗诵诗歌；高声朗诵|lǎngsònghuì; lǎngsòng shīgē; gāoshēng lǎngsòng|recitation meeting; recite poetry; recite aloud
+2523|43|浪|làng|n.|wave|浪花；冲浪；后浪推前浪|lànghuā; chōnglàng; hòulàng tuī qiánlàng|spray; surf; the new generation pushes the old forward
+2524|43|捞|lāo|v.|drag for; dredge up; get by improper means|捞出；大海捞针；捞钱|lāo chū; dàhǎi-lāo-zhēn; lāo qián|fish out; look for a needle in the ocean; make money by improper means
+2525|43|劳动力|láodònglì|n.|labor force|劳动力市场；剩余劳动力；劳动力不足|láodònglì shìchǎng; shèngyú láodònglì; láodònglì bùzú|labor market; surplus labor force; insufficient labor force
+2526|43|劳累|láolèi|adj.|tired; exhausted|连日的劳累；长期劳累；过于劳累|liánrì de láolèi; chángqī láolèi; guòyú láolèi|exhaustion from many days; long-term fatigue; overly tired
+2527|43|劳务|láowù|n.|labor services|劳务费；劳务市场|láowùfèi; láowù shìchǎng|labor service fee; labor service market
+2528|43|牢固|láogù|adj.|firm; solid|基础牢固；牢固地掌握|jīchǔ láogù; láogù de zhǎngwò|solid foundation; master firmly
+2529|43|牢记|láojì|v.|remember well|时刻牢记；牢记教训；牢记于心|shíkè láojì; láojì jiàoxun; láojì yú xīn|always keep in mind; remember the lesson well; keep firmly in one's heart
+2530|43|牢牢|láoláo|adv.|firmly|牢牢抓住；牢牢记住|láoláo zhuāzhù; láoláo jìzhù|hold firmly; remember firmly
+2531|43|唠叨|láodao|v.|nag; chatter|经常唠叨；唠叨半天|jīngcháng láodao; láodao bàntiān|nag often; chatter for a long time
+2532|43|老伴儿|lǎobànr|n.|spouse in an old married couple|老人的老伴儿；我一个老伴儿|lǎorén de lǎobànr; wǒ yí ge lǎobànr|an elderly person's spouse; my spouse
+2533|43|老大|lǎodà|n./adv.|chief of a gang; very|队里的老大；老大不愿意；老大不开心|duì lǐ de lǎodà; lǎodà bù yuànyì; lǎodà bù kāixīn|the chief in the group; very unwilling; very unhappy
+2534|43|老汉|lǎohàn|n.|old man|小说通过一个老汉的视角描写了这座城市几十年来的变化。|xiǎoshuō tōngguò yí ge lǎohàn de shìjiǎo miáoxiě le zhè zuò chéngshì jǐshí nián lái de biànhuà.|The novel describes this city's changes over several decades through an old man's perspective.
+2535|43|老化|lǎohuà|v.|age; get older|皮肤老化；人口老化|pífū lǎohuà; rénkǒu lǎohuà|skin aging; population aging
+2536|43|老人家|lǎorenjia|n.|venerable old person|向老人家问好；老人家的身体不错|xiàng lǎorenjia wènhǎo; lǎorenjia de shēntǐ búcuò|send greetings to the elderly person; the elderly person's health is good
+2537|43|老实说|lǎoshí shuō|adv.|frankly speaking|老实说，我也不记得当时的约定了。|lǎoshí shuō, wǒ yě bú jìde dāngshí de yuēdìng le.|Frankly speaking, I also do not remember the agreement at that time.
+2538|43|老远|lǎoyuǎn|adv.|far away|老远的地方；扔出去老远|lǎoyuǎn de dìfang; rēng chūqù lǎoyuǎn|a faraway place; throw it far away
+2539|43|老字号|lǎozìhào|n.|time-honored brand|中华老字号；老字号餐厅|Zhōnghuá lǎozìhào; lǎozìhào cāntīng|China time-honored brand; time-honored restaurant
+2540|43|姥姥|lǎolao|n.|maternal grandma|姥姥家；亲爱的姥姥|lǎolao jiā; qīn'ài de lǎolao|grandma's home; dear grandma
+2541|43|姥爷|lǎoye|n.|maternal grandpa|看望姥爷；我的姥爷|kànwàng lǎoye; wǒ de lǎoye|visit maternal grandpa; my maternal grandpa
+2542|43|涝|lào|adj.|flooded|涝灾；防涝|làozāi; fánglào|flood disaster; guard against flooding
+2543|43|乐意|lèyì|v./adj.|be willing to; satisfied; pleased|这件事只要你乐意，其他人说什么也没用。；乐意地接受；心里不乐意|zhè jiàn shì zhǐyào nǐ lèyì, qítā rén shuō shénme yě méi yòng.; lèyì de jiēshòu; xīnli bù lèyì|As long as you are willing to do this, what other people say is useless; accept gladly; be unwilling inside
+2544|43|乐园|lèyuán|n.|amusement park|儿童乐园；海洋乐园|értóng lèyuán; hǎiyáng lèyuán|children's amusement park; ocean park
+2545|43|勒|lēi|v.|strangle; rein in|被绳子勒住；勒紧裤带|bèi shéngzi lēi zhù; lēi jǐn kùdài|be strangled by a rope; tighten one's belt
+2546|43|雷同|léitóng|adj.|identical|情节雷同；答案雷同|qíngjié léitóng; dá'àn léitóng|the plots are identical; the answers are identical
+2547|43|累积|lěijī|v.|accumulate; cumulate|累积经验；逐渐累积；累积下去|lěijī jīngyàn; zhújiàn lěijī; lěijī xiàqù|accumulate experience; gradually accumulate; continue accumulating
+2548|43|累计|lěijì|v.|add up to|累计超过一千元；累计三千人次|lěijì chāoguò yìqiān yuán; lěijì sānqiān réncì|add up to more than one thousand yuan; total three thousand person-times
+2549|43|类别|lèibié|n.|category|文学类别；划分类别|wénxué lèibié; huàfēn lèibié|literary category; divide into categories
+2550|43|棱角|léngjiǎo|n.|edges and corners; edge|棱角突出；磨平棱角；露出棱角|léngjiǎo tūchū; mó píng léngjiǎo; lù chū léngjiǎo|sharp edges stand out; smooth off the edges; show one's edges
+2551|43|冷淡|lěngdàn|adj./v.|cold; indifferent; leave someone in the cold|态度冷淡；冷淡的关系；冷淡了朋友；对人冷淡|tàidu lěngdàn; lěngdàn de guānxi; lěngdàn le péngyou; duì rén lěngdàn|cold attitude; cool relationship; snubbed a friend; be indifferent to people
+2552|43|冷冻|lěngdòng|v.|freeze|冷冻技术；冷冻食品；快速冷冻|lěngdòng jìshù; lěngdòng shípǐn; kuàisù lěngdòng|freezing technology; frozen food; quick-freeze
+2553|43|冷酷|lěngkù|adj.|grim; relentless|冷酷的现实；冷酷地命令他|lěngkù de xiànshí; lěngkù de mìnglìng tā|grim reality; order him mercilessly
+2554|43|冷酷无情|lěngkù-wúqíng|adj.|cold-blooded; unfeeling|冷酷无情的人；变得冷酷无情|lěngkù-wúqíng de rén; biàn de lěngkù-wúqíng|a cold-blooded person; become cold-blooded and unfeeling
+2555|43|冷落|lěngluò|adj./v.|unfrequented; snub|冷落的大街；被冷落在一旁；受人冷落|lěngluò de dàjiē; bèi lěngluò zài yìpáng; shòu rén lěngluò|a deserted street; be left out to the side; be snubbed by others
+2556|43|冷门|lěngmén|n.|unpopular trade, subject, etc.|冷门专业；冷门学校|lěngmén zhuānyè; lěngmén xuéxiào|unpopular major; unpopular school
+2557|43|冷漠|lěngmò|adj.|indifferent|性格冷漠；对人冷漠|xìnggé lěngmò; duì rén lěngmò|indifferent personality; indifferent to people
+2558|43|冷笑|lěngxiào|v.|sneer|冷笑一声；冷笑着说|lěngxiào yì shēng; lěngxiào zhe shuō|give a sneer; say with a sneer
+2559|43|冷战|lěngzhàn|n.|cold war|和妻子冷战；冷战时期|hé qīzi lěngzhàn; Lěngzhàn shíqī|have a cold war with one's wife; Cold War period
+2560|43|愣|lèng|v./adj.|be in a daze; stupefied; reckless|愣住；发愣；他愣了半天没说话；愣头愣脑；开车小心点儿，别那么愣|lèng zhù; fālèng; tā lèng le bàntiān méi shuōhuà; lèngtóu-lèngnǎo; kāichē xiǎoxīn diǎnr, bié nàme lèng|freeze in a daze; stare blankly; he was stunned for a long time and did not speak; rash and muddle-headed; drive more carefully, don't be so reckless
+2561|43|离谱儿|lípǔr|adj.|beyond what is proper|越离谱儿；错得有点儿离谱儿；费用高得离谱儿；越说越离谱儿|yuè lípǔr; cuò de yǒudiǎnr lípǔr; fèiyòng gāo de lípǔr; yuè shuō yuè lípǔr|more and more outrageous; somewhat outrageously wrong; the fee is outrageously high; the more it is said, the more outrageous it gets
+2562|43|离奇|líqí|adj.|quirky; surreal|离奇的故事；离奇失踪|líqí de gùshi; líqí shīzōng|bizarre story; mysteriously disappear
+2563|43|离职|lízhí|v.|leave one's job|离职之后；从公司离职；被迫离职|lízhí zhīhòu; cóng gōngsī lízhí; bèipò lízhí|after leaving one's job; leave the company; be forced to leave one's job
+2564|43|黎明|límíng|n.|dawn; daybreak|黎明前的黑暗；黎明的到来|límíng qián de hēi'àn; límíng de dàolái|darkness before dawn; the arrival of dawn
+2565|43|礼服|lǐfú|n.|full dress|漂亮的礼服；穿礼服|piàoliang de lǐfú; chuān lǐfú|beautiful formal dress; wear formal dress
+2566|43|礼品|lǐpǐn|n.|gift|节日礼品；贵重的礼品；赠送礼品|jiérì lǐpǐn; guìzhòng de lǐpǐn; zèngsòng lǐpǐn|holiday gift; valuable gift; give a gift
+2567|43|礼仪|lǐyí|n.|etiquette|基本礼仪；商务礼仪；合乎礼仪|jīběn lǐyí; shāngwù lǐyí; héhū lǐyí|basic etiquette; business etiquette; in line with etiquette
+2568|43|里程碑|lǐchéngbēi|n.|milestone|重要的里程碑；具有里程碑的意义|zhòngyào de lǐchéngbēi; jùyǒu lǐchéngbēi de yìyì|important milestone; have milestone significance
+2569|43|理睬|lǐcǎi|v.|heed; pay attention to|不理睬他；没人理睬|bù lǐcǎi tā; méi rén lǐcǎi|ignore him; no one pays attention
+2570|43|理会|lǐhuì|v.|pay attention to|不理会别人的意见；不予理会|bù lǐhuì biérén de yìjiàn; bùyǔ lǐhuì|ignore other people's opinions; pay no attention
+2571|43|理科|lǐkē|n.|science as a field of study|理科专业；理科学校；理科生|lǐkē zhuānyè; lǐkē xuéxiào; lǐkēshēng|science major; science school; science student
+2572|43|理念|lǐniàn|n.|idea; notion|设计理念；管理理念；理念先进|shèjì lǐniàn; guǎnlǐ lǐniàn; lǐniàn xiānjìn|design concept; management concept; advanced concept
+2573|43|理事|lǐshì|n./v.|trustee; director; handle matters|一名理事；董事会的理事；他最近身体不好，不能理事。|yì míng lǐshì; dǒngshìhuì de lǐshì; tā zuìjìn shēntǐ bù hǎo, bù néng lǐshì.|a trustee; a director of the board; he has not been in good health recently and cannot handle affairs.
+2574|43|理所当然|lǐsuǒdāngrán|idiom|go without saying|觉得理所当然；视为理所当然；理所当然地认为|juéde lǐsuǒdāngrán; shìwéi lǐsuǒdāngrán; lǐsuǒdāngrán de rènwéi|feel it is only natural; regard as a matter of course; naturally assume
+2575|43|理性|lǐxìng|adj./n.|rational; reason; rationality|理性思考；理性的认识；合乎理性；从理性出发|lǐxìng sīkǎo; lǐxìng de rènshi; héhū lǐxìng; cóng lǐxìng chūfā|think rationally; rational understanding; conform to reason; proceed from rationality
+2576|43|理直气壮|lǐzhí-qìzhuàng|idiom|be confident with justice on one's side|理直气壮地回答；说得理直气壮|lǐzhí-qìzhuàng de huídá; shuō de lǐzhí-qìzhuàng|answer confidently because one is in the right; speak with righteous confidence
+2577|43|力不从心|lìbùcóngxīn|idiom|unable to do as much as one would like to|感到力不从心；实在是力不从心|gǎndào lìbùcóngxīn; shízài shì lìbùcóngxīn|feel unable to do as much as one would like; truly be beyond one's ability
+2578|43|力度|lìdù|n.|strength|打击力度；宣传力度；力度大/小|dǎjī lìdù; xuānchuán lìdù; lìdù dà/xiǎo|intensity of a crackdown; strength of publicity; strong/weak intensity
+2579|43|力求|lìqiú|v.|strive|力求完美；力求做到言行一致|lìqiú wánměi; lìqiú zuòdào yánxíng yízhì|strive for perfection; strive to make words and actions consistent
+2580|43|力所能及|lìsuǒnéngjí|idiom|in one's power|力所能及地帮助他；做力所能及的事情|lìsuǒnéngjí de bāngzhù tā; zuò lìsuǒnéngjí de shìqing|help him within one's ability; do things within one's power
