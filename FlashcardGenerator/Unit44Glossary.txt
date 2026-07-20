@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+2581|Unit 44|力争|lìzhēng|v.|strive for|力争完成；力争实现|lìzhēng wánchéng; lìzhēng shíxiàn|strive to complete; strive to realize
+2582|Unit 44|历程|lìchéng|n.|course; experience|艰苦的历程；人生历程|jiānkǔ de lìchéng; rénshēng lìchéng|a difficult course; life's journey
+2583|Unit 44|历届|lìjiè|adj.|all previous|历届毕业生；历届总统|lìjiè bìyèshēng; lìjiè zǒngtǒng|graduates from previous years; previous presidents
+2584|Unit 44|历经|lìjīng|v.|go through|历经改革；历经苦难|lìjīng gǎigé; lìjīng kǔnàn|go through reform; go through hardship
+2585|Unit 44|历来|lìlái|adv.|always|历来如此；历来重视|lìlái rúcǐ; lìlái zhòngshì|always been this way; have always attached importance
+2586|Unit 44|历时|lìshí|v./adj.|take a period of time; diachronic|历时一个月；历时最长；历时研究；历时发展|lìshí yí ge yuè; lìshí zuì cháng; lìshí yánjiū; lìshí fāzhǎn|take one month; take the longest time; diachronic research; diachronic development
+2587|Unit 44|立方|lìfāng|n./m.|cube; cubic meter|立方体；立方结构；15立方米|lìfāngtǐ; lìfāng jiégòu; shíwǔ lìfāng mǐ|cube; cubic structure; 15 cubic meters
+2588|Unit 44|立方米|lìfāngmǐ|m.|cubic meter|80立方米的混凝土|bāshí lìfāngmǐ de hùnníngtǔ|80 cubic meters of concrete
+2589|Unit 44|立功|lì//gōng|v.|make contributions|有立功表现；多次立功；立了大功|yǒu lìgōng biǎoxiàn; duō cì lìgōng; lì le dà gōng|show meritorious performance; make contributions many times; make a great contribution
+2590|Unit 44|立交桥|lìjiāoqiáo|n.|flyover; overpass|一座立交桥；立交桥上；建立交桥|yí zuò lìjiāoqiáo; lìjiāoqiáo shàng; jiàn lìjiāoqiáo|an overpass; on the overpass; build an overpass
+2591|Unit 44|立体|lìtǐ|adj.|three-dimensional; tridimensional|立体呈现；立体的卡片；人物形象立体丰满|lìtǐ chéngxiàn; lìtǐ de kǎpiàn; rénwù xíngxiàng lìtǐ fēngmǎn|present in three dimensions; three-dimensional card; a vivid and full character image
+2592|Unit 44|立足|lìzú|v.|gain a foothold; base oneself upon|立足之地；难以立足；立足于现实|lìzú zhī dì; nányǐ lìzú; lìzú yú xiànshí|a place to stand; hard to gain a foothold; be based on reality
+2593|Unit 44|励志|lìzhì|v.|be determined to fulfill one's aspirations|励志故事；励志电影|lìzhì gùshi; lìzhì diànyǐng|inspirational story; inspirational movie
+2594|Unit 44|利害|lìhài|n.|advantages and disadvantages|利害关系；不计利害；不存在任何利害冲突|lìhài guānxi; bú jì lìhài; bù cúnzài rènhé lìhài chōngtū|interests at stake; disregard gains and losses; no conflict of interest exists
+2595|Unit 44|利率|lìlǜ|n.|interest rate|基准利率；年利率|jīzhǔn lìlǜ; nián lìlǜ|benchmark interest rate; annual interest rate
+2596|Unit 44|利索|lìsuo|adj.|nimble; agile; settled; finished|干活儿利索；收拾利索|gàn huór lìsuo; shōushi lìsuo|work efficiently; tidy up neatly
+2597|Unit 44|粒|lì|m.|used of granular objects|一粒米；一粒种子|yì lì mǐ; yì lì zhǒngzi|a grain of rice; a seed
+2598|Unit 44|连滚带爬|liángǔn-dàipá|idiom|scramble away; roll and crawl|吓得连滚带爬地跑了出去。|xià de liángǔn-dàipá de pǎo le chūqu.|So frightened that he scrambled and crawled his way out.
+2599|Unit 44|连绵|liánmián|v.|continue|连绵不断；大雨连绵|liánmián búduàn; dàyǔ liánmián|continuous and unbroken; heavy rain continues
+2600|Unit 44|连任|liánrèn|v.|continue to hold office after one term expires|连任两届；连任总统|liánrèn liǎng jiè; liánrèn zǒngtǒng|serve two consecutive terms; be re-elected president
+2601|Unit 44|连锁|liánsuǒ|adj.|linked; like a chain|全国连锁；连锁反应|quánguó liánsuǒ; liánsuǒ fǎnyìng|nationwide chain; chain reaction
+2602|Unit 44|连锁店|liánsuǒdiàn|n.|chain store|连锁店的老板；加盟连锁店|liánsuǒdiàn de lǎobǎn; jiāméng liánsuǒdiàn|owner of a chain store; join a chain store
+2603|Unit 44|连夜|liányè|adv.|carry on night after night; on the same night|连夜赶工；连夜逃走|liányè gǎngōng; liányè táozǒu|work overnight; flee overnight
+2604|Unit 44|怜惜|liánxī|v.|take pity on|让人怜惜；对小孙女格外怜惜|ràng rén liánxī; duì xiǎo sūnnǚ géwài liánxī|make people feel pity; be especially tender toward a little granddaughter
+2605|Unit 44|帘子|liánzi|n.|curtain|挂帘子；拉开帘子|guà liánzi; lākāi liánzi|hang a curtain; pull open the curtain
+2606|Unit 44|莲子|liánzi|n.|lotus seed|一颗莲子；新鲜的莲子|yì kē liánzi; xīnxiān de liánzi|a lotus seed; fresh lotus seeds
+2607|Unit 44|联邦|liánbāng|n.|federation|联邦政府；联邦制国家|liánbāng zhèngfǔ; liánbāngzhì guójiā|federal government; federal state
+2608|Unit 44|联欢|liánhuān|v.|have a get-together|联欢会；和孩子们联欢；几家公司一起联欢|liánhuānhuì; hé háizimen liánhuān; jǐ jiā gōngsī yìqǐ liánhuān|get-together; have a get-together with the children; several companies have a gathering together
+2609|Unit 44|联网|lián//wǎng|v.|network|联网发电；信息全国联网|liánwǎng fādiàn; xìnxī quánguó liánwǎng|generate power connected to the grid; information networked nationwide
+2610|Unit 44|廉价|liánjià|adj.|cheap; low-cost|廉价商品；廉价劳动力|liánjià shāngpǐn; liánjià láodònglì|cheap goods; cheap labor
+2611|Unit 44|廉洁|liánjié|adj.|honest and clean|一生廉洁；廉洁的干部|yìshēng liánjié; liánjié de gànbù|honest and clean throughout life; honest and clean cadre
+2612|Unit 44|廉正|liánzhèng|adj.|honest and upright|廉正的行为；廉正无私|liánzhèng de xíngwéi; liánzhèng wúsī|upright conduct; honest, upright, and selfless
+2613|Unit 44|廉政|liánzhèng|v.|make a government honest and transparent|廉政工程；廉政建设|liánzhèng gōngchéng; liánzhèng jiànshè|clean-government project; building clean government
+2614|Unit 44|脸颊|liǎnjiá|n.|cheek|圆圆的脸颊；红脸颊|yuányuán de liǎnjiá; hóng liǎnjiá|round cheeks; rosy cheeks
+2615|Unit 44|炼|liàn|v.|refine|炼铁；炼钢|liàn tiě; liàn gāng|smelt iron; make steel
+2616|Unit 44|恋恋不舍|liànliàn-bùshě|idiom|be reluctant to bid farewell|恋恋不舍地离开；恋恋不舍的心情|liànliàn-bùshě de líkāi; liànliàn-bùshě de xīnqíng|leave reluctantly; a feeling of reluctance to part
+2617|Unit 44|良|liáng|adj.|good|中药改良；不良影响|zhōngyào gǎiliáng; bùliáng yǐngxiǎng|improvement of Chinese medicine; adverse effect
+2618|Unit 44|良心|liángxīn|n.|conscience|没良心；凭良心办事|méi liángxīn; píng liángxīn bànshì|have no conscience; act according to conscience
+2619|Unit 44|良性|liángxìng|adj.|benign|良性发展；良性循环|liángxìng fāzhǎn; liángxìng xúnhuán|benign development; virtuous cycle
+2620|Unit 44|凉爽|liángshuǎng|adj.|pleasantly cool|凉爽的风；气候凉爽|liángshuǎng de fēng; qìhòu liángshuǎng|cool breeze; pleasantly cool climate
+2621|Unit 44|两口子|liǎngkǒuzi|n.|couple|他们两口子；这两口子|tāmen liǎngkǒuzi; zhè liǎngkǒuzi|the two of them as a couple; this couple
+2622|Unit 44|两栖|liǎngqī|v.|be amphibious; be engaged in two fields|两栖动物；水陆两栖|liǎngqī dòngwù; shuǐlù liǎngqī|amphibious animal; amphibious on land and water
+2623|Unit 44|亮点|liàngdiǎn|n.|bright spot|人生的亮点；发现亮点|rénshēng de liàngdiǎn; fāxiàn liàngdiǎn|bright spot in life; discover a bright spot
+2624|Unit 44|亮丽|liànglì|adj.|bright and beautiful|亮丽的风景；色彩亮丽|liànglì de fēngjǐng; sècǎi liànglì|bright and beautiful scenery; bright colors
+2625|Unit 44|亮相|liàng//xiàng|v.|make one's debut|公开亮相；首次亮相|gōngkāi liàngxiàng; shǒucì liàngxiàng|appear publicly; make a first appearance
+2626|Unit 44|谅解|liàngjiě|v.|understand|互相谅解；敬请谅解；双方达成谅解|hùxiāng liàngjiě; jìngqǐng liàngjiě; shuāngfāng dáchéng liàngjiě|understand each other; please understand; both sides reach an understanding
+2627|Unit 44|辽阔|liáokuò|adj.|far-flung; vast|辽阔的草原；国土辽阔|liáokuò de cǎoyuán; guótǔ liáokuò|vast grassland; vast national territory
+2628|Unit 44|疗法|liáofǎ|n.|therapy|心理疗法；常见的疗法|xīnlǐ liáofǎ; chángjiàn de liáofǎ|psychological therapy; common therapy
+2629|Unit 44|疗效|liáoxiào|n.|curative effect|疗效好；有疗效|liáoxiào hǎo; yǒu liáoxiào|has good curative effect; effective
+2630|Unit 44|寥寥无几|liáoliáo-wújǐ|idiom|very few|夜深了，街上的行人寥寥无几。|yè shēn le, jiē shàng de xíngrén liáoliáo-wújǐ.|It was late at night, and there were very few pedestrians on the street.
+2631|Unit 44|潦草|liáocǎo|adj.|illegible|文字潦草；写得潦草；潦草的签名|wénzì liáocǎo; xiě de liáocǎo; liáocǎo de qiānmíng|illegible writing; written sloppily; sloppy signature
+2632|Unit 44|了结|liǎojié|v.|finish; settle up|及时了结；了结此事|jíshí liǎojié; liǎojié cǐ shì|settle promptly; settle this matter
+2633|Unit 44|了却|liǎoquè|v.|end; settle|了却后顾之忧；了却心事|liǎoquè hòugù zhī yōu; liǎoquè xīnshì|remove worries about the future; settle what is on one's mind
+2634|Unit 44|料到|liàodào|v.|expect|早就料到；谁能料到|zǎo jiù liàodào; shéi néng liàodào|expected it long ago; who could have expected it
+2635|Unit 44|料理|liàolǐ|v./n.|deal with; food|料理得很好；料理家务；精心料理；中华料理；吃泰国料理|liàolǐ de hěn hǎo; liàolǐ jiāwù; jīngxīn liàolǐ; Zhōnghuá liàolǐ; chī Tàiguó liàolǐ|handled very well; manage housework; carefully prepare; Chinese cuisine; eat Thai cuisine
+2636|Unit 44|咧嘴|liě//zuǐ|v.|grin|咧嘴笑；咧了咧嘴|liězuǐ xiào; liě le liě zuǐ|grin and smile; grinned
+2637|Unit 44|列举|lièjǔ|v.|enumerate; list|列举一些事实；一一列举；详细列举|lièjǔ yìxiē shìshí; yīyī lièjǔ; xiángxì lièjǔ|list some facts; list one by one; list in detail
+2638|Unit 44|劣势|lièshì|n.|disadvantage; inferiority|处于劣势；变劣势为优势|chǔ yú lièshì; biàn lièshì wéi yōushì|be at a disadvantage; turn disadvantage into advantage
+2639|Unit 44|劣质|lièzhì|adj.|inferior|劣质产品；劣质材料|lièzhì chǎnpǐn; lièzhì cáiliào|inferior product; inferior material
+2640|Unit 44|烈士|lièshì|n.|martyr|三名牺牲的消防员被评定为烈士；烈士纪念碑|sān míng xīshēng de xiāofángyuán bèi píngdìng wéi lièshì; lièshì jìniànbēi|three firefighters who died in service were recognized as martyrs; martyrs' memorial
