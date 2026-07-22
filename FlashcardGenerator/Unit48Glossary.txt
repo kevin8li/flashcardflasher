@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+2821|Unit 48|美观|měiguān|adj.|beautiful; artistic|造型美观；包装美观；美观大方|zàoxíng měiguān; bāozhuāng měiguān; měiguān dàfang|attractive in design; attractive packaging; attractive and elegant
+2822|Unit 48|美化|měihuà|v.|beautify|美化环境；美化工程；全面美化|měihuà huánjìng; měihuà gōngchéng; quánmiàn měihuà|beautify the environment; beautification project; beautify comprehensively
+2823|Unit 48|美景|měijǐng|n.|beautiful scenery|欣赏美景；自然美景；草原的美景|xīnshǎng měijǐng; zìrán měijǐng; cǎoyuán de měijǐng|enjoy beautiful scenery; natural scenery; the beautiful scenery of the grassland
+2824|Unit 48|美满|měimǎn|adj.|happy|美满的结局；家庭美满；日子过得美满幸福|měimǎn de jiéjú; jiātíng měimǎn; rìzi guò de měimǎn xìngfú|a happy ending; a happy family; live a happy and fulfilled life
+2825|Unit 48|美妙|měimiào|adj.|wonderful|美妙的音乐；美妙的舞姿|měimiào de yīnyuè; měimiào de wǔzī|wonderful music; wonderful dancing posture
+2826|Unit 48|美人|měirén|n.|beauty|大美人；睡美人|dà měirén; shuì měirén|great beauty; Sleeping Beauty
+2827|Unit 48|美味|měiwèi|n.|delicacy|特色美味；品尝美味佳肴|tèsè měiwèi; pǐncháng měiwèi jiāyáo|special delicacy; taste delicious food
+2828|Unit 48|美中不足|měizhōng-bùzú|idiom|a fly in the ointment|美中不足之处；有点儿美中不足|měizhōng-bùzú zhī chù; yǒu diǎnr měizhōng-bùzú|a flaw in something otherwise good; a bit of a flaw
+2829|Unit 48|美滋滋|měizīzī|adj.|very pleased with oneself|心里美滋滋的；感到美滋滋的；美滋滋地想|xīnli měizīzī de; gǎndào měizīzī de; měizīzī de xiǎng|feel pleased inside; feel delighted; think happily
+2830|Unit 48|魅力|mèilì|n.|charm|富有魅力；个人魅力|fùyǒu mèilì; gèrén mèilì|full of charm; personal charm
+2831|Unit 48|闷|mēn|adj./v.|stuffy; suffocating; cover tightly; be speechless; shut oneself indoors|闷热；窗和门都关着，房间里很闷；把火闷灭；闷声不响；整天闷在家里|mēnrè; chuāng hé mén dōu guān zhe, fángjiān lǐ hěn mēn; bǎ huǒ mēn miè; mēnshēng-bùxiǎng; zhěngtiān mēn zài jiā lǐ|muggy; the windows and doors are closed, so the room is stuffy; smother the fire; keep silent; stay shut in at home all day
+2832|Unit 48|门当户对|méndāng-hùduì|idiom|a marriage between families of equal social rank|男女双方门当户对；门当户对的婚姻|nánnǚ shuāngfāng méndāng-hùduì; méndāng-hùduì de hūnyīn|the man and woman are from well-matched families; a marriage between well-matched families
+2833|Unit 48|门槛|ménkǎn|n.|threshold|跨过门槛；这家公司门槛高，入职难度很大|kuàguò ménkǎn; zhè jiā gōngsī ménkǎn gāo, rùzhí nándù hěn dà|step over the threshold; this company has a high entry threshold, so it is hard to get hired
+2834|Unit 48|门铃|ménlíng|n.|doorbell|按门铃；门铃响了|àn ménlíng; ménlíng xiǎng le|press the doorbell; the doorbell rang
+2835|Unit 48|门路|ménlu|n.|social connections; way to do something|走门路；找到解决资金问题的门路|zǒu ménlu; zhǎodào jiějué zījīn wèntí de ménlu|use connections; find a way to solve the funding problem
+2836|Unit 48|闷|mèn|adj.|bored|心里闷得慌|xīnli mèn de huāng|feel terribly bored or depressed
+2837|Unit 48|萌发|méngfā|v.|germinate; emerge|萌发新叶；萌发了爱情；理想在心中萌发|méngfā xīn yè; méngfā le àiqíng; lǐxiǎng zài xīnzhōng méngfā|sprout new leaves; love began to emerge; ideals sprouted in the heart
+2838|Unit 48|萌芽|méngyá|v./n.|sprout; bud; rudiments|小草萌芽了；萌芽时期；新文学的萌芽|xiǎocǎo méngyá le; méngyá shíqī; xīn wénxué de méngyá|the grass has sprouted; budding period; the beginnings of new literature
+2839|Unit 48|盟友|méngyǒu|n.|ally|强大的盟友；重要的盟友|qiángdà de méngyǒu; zhòngyào de méngyǒu|powerful ally; important ally
+2840|Unit 48|朦胧|ménglóng|adj.|hazy; obscure|月色朦胧；朦胧的夜晚；朦胧的轮廓|yuèsè ménglóng; ménglóng de yèwǎn; ménglóng de lúnkuò|hazy moonlight; hazy night; vague outline
+2841|Unit 48|猛烈|měngliè|adj.|violent|猛烈攻击；猛烈的风暴|měngliè gōngjī; měngliè de fēngbào|violent attack; violent storm
+2842|Unit 48|猛然|měngrán|adv.|suddenly|猛然想起；猛然停车|měngrán xiǎngqǐ; měngrán tíngchē|suddenly remember; stop suddenly
+2843|Unit 48|梦幻|mènghuàn|n.|dream|梦幻世界；一个梦幻般的故事|mènghuàn shìjiè; yí ge mènghuàn bān de gùshi|dream world; a dreamlike story
+2844|Unit 48|弥补|míbǔ|v.|make up; remedy|弥补不足；弥补损失；弥补缺陷；及时弥补|míbǔ bùzú; míbǔ sǔnshī; míbǔ quēxiàn; jíshí míbǔ|make up for shortcomings; make up for losses; remedy defects; remedy in time
+2845|Unit 48|弥漫|mímàn|v.|permeate; diffuse|香味在空气里弥漫；大雪弥漫天空|xiāngwèi zài kōngqì lǐ mímàn; dàxuě mímàn tiānkōng|fragrance spreads through the air; heavy snow fills the sky
+2846|Unit 48|迷惑|míhuò|adj./v.|confused; confusing; confuse; puzzle|感到迷惑；令人迷惑；迷惑的表情；成功地迷惑了敌人|gǎndào míhuò; lìng rén míhuò; míhuò de biǎoqíng; chénggōng de míhuò le dírén|feel confused; puzzling; a confused expression; successfully confused the enemy
+2847|Unit 48|迷惑不解|míhuò-bùjiě|adj.|puzzled|迷惑不解的神情；感到迷惑不解|míhuò-bùjiě de shénqíng; gǎndào míhuò-bùjiě|a puzzled look; feel puzzled
+2848|Unit 48|迷恋|míliàn|v.|be infatuated with|令人迷恋；迷恋家乡的风景|lìng rén míliàn; míliàn jiāxiāng de fēngjǐng|make people fascinated; be infatuated with the scenery of one's hometown
+2849|Unit 48|迷路|mí//lù|v.|lose one's way; get lost|容易迷路；在山林中迷了路|róngyì mílù; zài shānlín zhōng mí le lù|easy to get lost; got lost in the mountains and woods
+2850|Unit 48|迷失|míshī|v.|lose one's way|迷失方向；迷失自我；彻底地迷失|míshī fāngxiàng; míshī zìwǒ; chèdǐ de míshī|lose direction; lose oneself; be completely lost
+2851|Unit 48|谜|mí|n.|riddle; mystery|猜谜；未解之谜|cāimí; wèi jiě zhī mí|guess riddles; unsolved mystery
+2852|Unit 48|谜底|mídǐ|n.|answer to a riddle|揭晓谜底；揭开谜底|jiēxiǎo mídǐ; jiēkāi mídǐ|reveal the answer; uncover the answer
+2853|Unit 48|谜团|mítuán|n.|mystery|一个谜团；巨大的谜团；解开谜团|yí ge mítuán; jùdà de mítuán; jiěkāi mítuán|a mystery; a huge mystery; solve a mystery
+2854|Unit 48|谜语|míyǔ|n.|riddle|写谜语；猜谜语|xiě míyǔ; cāi míyǔ|write riddles; guess riddles
+2855|Unit 48|秘方|mìfāng|n.|secret recipe|妈妈做蛋糕的秘方；独家秘方；幸福的秘方|māma zuò dàngāo de mìfāng; dújiā mìfāng; xìngfú de mìfāng|mom's secret cake recipe; exclusive secret recipe; the secret recipe for happiness
+2856|Unit 48|秘诀|mìjué|n.|secret|成功的秘诀；保养皮肤的秘诀；分享答题秘诀|chénggōng de mìjué; bǎoyǎng pífū de mìjué; fēnxiǎng dátí mìjué|secret to success; secret to skin care; share test-taking secrets
+2857|Unit 48|密不可分|mìbùkěfēn|idiom|interwovenness|两者密不可分；密不可分的关系|liǎngzhě mìbùkěfēn; mìbùkěfēn de guānxì|the two are inseparable; an inseparable relationship
+2858|Unit 48|密度|mìdù|n.|density|人口密度；海水密度；密度大|rénkǒu mìdù; hǎishuǐ mìdù; mìdù dà|population density; seawater density; high density
+2859|Unit 48|密封|mìfēng|v.|seal|密封好瓶口；密封文件袋|mìfēng hǎo píngkǒu; mìfēng wénjiàndài|seal the bottle opening well; seal the document envelope
+2860|Unit 48|密集|mìjí|v./adj.|crowd together; dense|人们密集在广场上；人口密集；密集推出|rénmen mìjí zài guǎngchǎng shàng; rénkǒu mìjí; mìjí tuīchū|people crowd together in the square; densely populated; release in quick succession
+2861|Unit 48|蜜|mì|n.|honey|采蜜|cǎi mì|gather honey
+2862|Unit 48|蜜蜂|mìfēng|n.|bee; honeybee|一只蜜蜂；勤劳的蜜蜂；蜜蜂采蜜|yì zhī mìfēng; qínláo de mìfēng; mìfēng cǎi mì|a bee; hardworking bees; bees gather honey
+2863|Unit 48|蜜月|mìyuè|n.|honeymoon|度蜜月；蜜月旅行|dù mìyuè; mìyuè lǚxíng|spend a honeymoon; honeymoon trip
+2864|Unit 48|棉花|miánhuā|n.|cotton|种棉花；摘棉花；棉花产量；棉花加工|zhòng miánhuā; zhāi miánhuā; miánhuā chǎnliàng; miánhuā jiāgōng|grow cotton; pick cotton; cotton output; cotton processing
+2865|Unit 48|免|miǎn|v.|avoid; exempt|免费；免于处罚；免于缴费|miǎnfèi; miǎn yú chǔfá; miǎn yú jiǎofèi|free of charge; avoid punishment; be exempt from payment
+2866|Unit 48|免不了|miǎnbuliǎo|v.|be bound to; be unavoidable|免不了会紧张；免不了遇到困难|miǎnbuliǎo huì jǐnzhāng; miǎnbuliǎo yùdào kùnnan|cannot avoid being nervous; bound to encounter difficulties
+2867|Unit 48|免除|miǎnchú|v.|exempt|免除处罚；免除学费|miǎnchú chǔfá; miǎnchú xuéfèi|exempt from punishment; waive tuition
+2868|Unit 48|免疫|miǎnyì|v.|be immune; immunize|免疫功能；免疫系统；对病毒免疫|miǎnyì gōngnéng; miǎnyì xìtǒng; duì bìngdú miǎnyì|immune function; immune system; immune to viruses
+2869|Unit 48|免职|miǎn//zhí|v.|remove someone from office|被免职；一律免职|bèi miǎnzhí; yílǜ miǎnzhí|be removed from office; all be removed from office
+2870|Unit 48|勉强|miǎnqiǎng|adj./v.|reluctant; with difficulty; barely enough; constrain; force|勉强答应；勉强站起来；这种理由很勉强；这点儿钱勉强够花一个月；勉强别人；这种事勉强不得|miǎnqiǎng dāying; miǎnqiǎng zhàn qǐlái; zhè zhǒng lǐyóu hěn miǎnqiǎng; zhè diǎnr qián miǎnqiǎng gòu huā yí ge yuè; miǎnqiǎng biérén; zhè zhǒng shì miǎnqiǎng bùdé|reluctantly agree; stand up with difficulty; this reason is unconvincing; this bit of money is barely enough for one month; force others; this kind of thing cannot be forced
+2871|Unit 48|缅怀|miǎnhuái|v.|recall; cherish the memory of|缅怀英烈；缅怀英雄|miǎnhuái yīngliè; miǎnhuái yīngxióng|cherish the memory of martyrs; remember heroes
+2872|Unit 48|面部|miànbù|n.|face|面部表情；面部肌肉|miànbù biǎoqíng; miànbù jīròu|facial expression; facial muscles
+2873|Unit 48|面粉|miànfěn|n.|flour|一袋面粉；出售面粉|yí dài miànfěn; chūshòu miànfěn|a bag of flour; sell flour
+2874|Unit 48|面红耳赤|miànhóng-ěrchì|idiom|flush with shame; become red to the ears|争得面红耳赤；气得面红耳赤|zhēng de miànhóng-ěrchì; qì de miànhóng-ěrchì|argue until red in the face; become red-faced with anger
+2875|Unit 48|面面俱到|miànmiàn-jùdào|idiom|cover all the bases|无法面面俱到；考虑事情面面俱到|wúfǎ miànmiàn-jùdào; kǎolǜ shìqing miànmiàn-jùdào|unable to cover everything; consider matters from every angle
+2876|Unit 48|面目全非|miànmù-quánfēi|idiom|be changed beyond recognition|我的答案被改得面目全非|wǒ de dá'àn bèi gǎi de miànmù-quánfēi|my answer was changed beyond recognition
+2877|Unit 48|苗|miáo|n.|seedling; descendant|禾苗；他们家就他这一根苗|hémiáo; tāmen jiā jiù tā zhè yì gēn miáo|seedlings; he is the only descendant in their family
+2878|Unit 48|苗条|miáotiao|adj.|slender|身材苗条；苗条的模特儿|shēncái miáotiao; miáotiao de mótèr|slender figure; slender model
+2879|Unit 48|苗头|miáotou|n.|symptom of a trend|问题的苗头；发现了苗头|wèntí de miáotou; fāxiàn le miáotou|sign of a problem; discovered an early sign
+2880|Unit 48|描绘|miáohuì|v.|describe|描绘乡村生活；形象地描绘；生动地描绘|miáohuì xiāngcūn shēnghuó; xíngxiàng de miáohuì; shēngdòng de miáohuì|describe rural life; describe vividly; describe vividly and lifelike
