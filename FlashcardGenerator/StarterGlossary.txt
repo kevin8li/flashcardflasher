@@ -666,3 +666,63 @@ Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin
 3658|Unit 61|生硬|shēngyìng|adj.|stiff|生硬的态度；生硬的回答|shēngyìng de tàidu; shēngyìng de huídá|a stiff manner; a blunt response
 3659|Unit 61|生育|shēngyù|v.|give birth to|生育子女；影响生育|shēngyù zǐnǚ; yǐngxiǎng shēngyù|have children; affect fertility
 3660|Unit 61|声称|shēngchēng|v.|claim|他不仅不负责，而且声称对此一无所知。|tā bùjǐn bù fùzé, érqiě shēngchēng duì cǐ yìwúsuǒzhī|He not only refused to take responsibility but also claimed to know nothing about it.
+3661|Unit 62|声望|shēngwàng|n.|prestige; repute|国际声望；声望高|guójì shēngwàng; shēngwàng gāo|international prestige; have high prestige
+3662|Unit 62|声誉|shēngyù|n.|reputation|国际声誉；商业声誉；良好的声誉|guójì shēngyù; shāngyè shēngyù; liánghǎo de shēngyù|international reputation; business reputation; a good reputation
+3663|Unit 62|牲畜|shēngchù|n.|livestock|饲养牲畜；大型牲畜|sìyǎng shēngchù; dàxíng shēngchù|raise livestock; large livestock
+3664|Unit 62|绳子|shéngzi|n.|rope|一根绳子；解开绳子|yì gēn shéngzi; jiěkāi shéngzi|a rope; untie the rope
+3665|Unit 62|省略|shěnglüè|v.|omit|省略步骤；省略词语|shěnglüè bùzhòu; shěnglüè cíyǔ|omit a step; omit words
+3666|Unit 62|省事|shěng//shì|v.|save trouble; be more convenient|办法一改就可以省很多事；在食堂吃饭省事|bànfǎ yì gǎi jiù kěyǐ shěng hěn duō shì; zài shítáng chīfàn shěngshì|A change in method can save a lot of trouble; eating in the cafeteria is convenient
+3667|Unit 62|圣贤|shèngxián|n.|sage; saint|人非圣贤；古代圣贤|rén fēi shèngxián; gǔdài shèngxián|people are not sages; ancient sages
+3668|Unit 62|胜出|shèngchū|v.|win|无人胜出；最终胜出|wú rén shèngchū; zuìzhōng shèngchū|no one wins; ultimately win
+3669|Unit 62|胜任|shèngrèn|v.|be competent|无法胜任这项工作|wúfǎ shèngrèn zhè xiàng gōngzuò|be unable to handle this job competently
+3670|Unit 62|盛大|shèngdà|adj.|grand|盛大的场面；盛大的晚会|shèngdà de chǎngmiàn; shèngdà de wǎnhuì|a grand occasion; a grand evening gala
+3671|Unit 62|盛会|shènghuì|n.|banquet|体育盛会；文化盛会|tǐyù shènghuì; wénhuà shènghuì|a major sporting event; a major cultural event
+3672|Unit 62|盛开|shèngkāi|v.|be in full bloom|桃花盛开；盛开的玫瑰|táohuā shèngkāi; shèngkāi de méigui|peach blossoms are in full bloom; roses in full bloom
+3673|Unit 62|盛气凌人|shèngqì-língrén|adj.|overbearing|盛气凌人的样子；盛气凌人的态度|shèngqì-língrén de yàngzi; shèngqì-língrén de tàidu|an overbearing manner; an overbearing attitude
+3674|Unit 62|剩余|shèngyú|v.|remain|剩余价值；剩余下来的钱|shèngyú jiàzhí; shèngyú xiàlai de qián|surplus value; the money left over
+3675|Unit 62|尸体|shītǐ|n.|corpse|一具尸体；发现尸体|yí jù shītǐ; fāxiàn shītǐ|a corpse; discover a corpse
+3676|Unit 62|失传|shīchuán|v.|fail to be handed down; exist no more|早已失传；失传已久|zǎoyǐ shīchuán; shīchuán yǐ jiǔ|have long since been lost; have been lost for a long time
+3677|Unit 62|失控|shīkòng|v.|lose control|情绪失控；场面失控|qíngxù shīkòng; chǎngmiàn shīkòng|lose emotional control; the situation gets out of control
+3678|Unit 62|失利|shī//lì|v.|suffer a setback|进攻失利；比赛失利|jìngōng shīlì; bǐsài shīlì|the attack fails; lose a competition
+3679|Unit 62|失恋|shī//liàn|v.|be disappointed in a love affair|第一次失恋|dì yí cì shīliàn|experience heartbreak for the first time
+3680|Unit 62|失灵|shīlíng|v.|not work properly|刹车失灵；开关失灵|shāchē shīlíng; kāiguān shīlíng|the brakes fail; the switch malfunctions
+3681|Unit 62|失落|shīluò|v./adj.|lose; lost|钱包失落；失落的眼神；感到失落|qiánbāo shīluò; shīluò de yǎnshén; gǎndào shīluò|lose a wallet; a dejected look; feel dejected
+3682|Unit 62|失眠|shī//mián|v.|suffer from insomnia|导致失眠；开始失眠|dǎozhì shīmián; kāishǐ shīmián|cause insomnia; begin to suffer from insomnia
+3683|Unit 62|失明|shī//míng|v.|go blind|双目失明|shuāngmù shīmíng|be blind in both eyes
+3684|Unit 62|失效|shī//xiào|v.|lose efficacy|保险失效；合同失效|bǎoxiǎn shīxiào; hétong shīxiào|insurance becomes invalid; a contract becomes invalid
+3685|Unit 62|失业率|shīyèlǜ|n.|unemployment rate|降低失业率；失业率上升|jiàngdī shīyèlǜ; shīyèlǜ shàngshēng|lower the unemployment rate; the unemployment rate rises
+3686|Unit 62|失踪|shī//zōng|v.|be missing|小孩儿失踪；离奇失踪|xiǎoháir shīzōng; líqí shīzōng|a child goes missing; disappear mysteriously
+3687|Unit 62|师范|shīfàn|n.|teacher-training school|师范大学；师范专业|shīfàn dàxué; shīfàn zhuānyè|a normal university; a teacher-training major
+3688|Unit 62|师长|shīzhǎng|n.|teacher|感激师长；尊敬师长|gǎnjī shīzhǎng; zūnjìng shīzhǎng|be grateful to one's teachers; respect one's teachers
+3689|Unit 62|师资|shīzī|n.|teaching staff|师资不足；培训师资；师资力量|shīzī bùzú; péixùn shīzī; shīzī lìliàng|insufficient teaching staff; train teachers; strength of the teaching staff
+3690|Unit 62|狮子|shīzi|n.|lion|一头狮子；饥饿的狮子|yì tóu shīzi; jī'è de shīzi|a lion; a hungry lion
+3691|Unit 62|施工|shī//gōng|v.|be under construction|工程施工；正在施工|gōngchéng shīgōng; zhèngzài shīgōng|project construction; under construction
+3692|Unit 62|施加|shījiā|v.|exert|施加压力；施加影响|shījiā yālì; shījiā yǐngxiǎng|exert pressure; exert influence
+3693|Unit 62|施行|shīxíng|v.|go into effect|施行改革；自公布之日起施行|shīxíng gǎigé; zì gōngbù zhī rì qǐ shīxíng|implement reforms; take effect from the date of publication
+3694|Unit 62|施压|shīyā|v.|put pressure on sb.|重新施压；给员工施压|chóngxīn shīyā; gěi yuángōng shīyā|apply pressure again; put pressure on employees
+3695|Unit 62|湿度|shīdù|n.|humidity|空气湿度；土壤湿度；湿度大|kōngqì shīdù; tǔrǎng shīdù; shīdù dà|air humidity; soil moisture; high humidity
+3696|Unit 62|湿润|shīrùn|adj.|moist|气候湿润；眼睛湿润|qìhòu shīrùn; yǎnjing shīrùn|a humid climate; eyes become moist
+3697|Unit 62|十字路口|shízì lùkǒu|n.|crossroads|靠近十字路口；人生的十字路口|kàojìn shízì lùkǒu; rénshēng de shízì lùkǒu|near an intersection; a crossroads in life
+3698|Unit 62|时不时|shíbùshí|adv.|from time to time|时不时停下来；时不时问一句|shíbùshí tíng xiàlai; shíbùshí wèn yí jù|stop from time to time; ask a question from time to time
+3699|Unit 62|时段|shíduàn|n.|time interval|黄金时段；高峰时段|huángjīn shíduàn; gāofēng shíduàn|prime time; peak period
+3700|Unit 62|时隔|shí gé|prep.|after|时隔多年；时隔这么久|shí gé duō nián; shí gé zhème jiǔ|after many years; after such a long time
+3701|Unit 62|时好时坏|shíhǎo-shíhuài|adj.|up and down|天气时好时坏；生意时好时坏|tiānqì shíhǎo-shíhuài; shēngyi shíhǎo-shíhuài|the weather is changeable; business has its ups and downs
+3702|Unit 62|时间表|shíjiānbiǎo|n.|schedule|工作时间表；列车时间表|gōngzuò shíjiānbiǎo; lièchē shíjiānbiǎo|work schedule; train timetable
+3703|Unit 62|时空|shíkōng|n.|time and space|超越时空；不同时空|chāoyuè shíkōng; bùtóng shíkōng|transcend time and space; different times and spaces
+3704|Unit 62|时髦|shímáo|adj.|stylish|时髦人物；赶时髦|shímáo rénwù; gǎn shímáo|a fashionable person; follow the latest fashion
+3705|Unit 62|时尚|shíshàng|adj.|fashionable|时尚杂志；追求时尚|shíshàng zázhì; zhuīqiú shíshàng|a fashion magazine; pursue fashion
+3706|Unit 62|时速|shísù|n.|speed per hour|最高时速；时速120千米|zuìgāo shísù; shísù yìbǎi èrshí qiānmǐ|maximum speed; 120 kilometers per hour
+3707|Unit 62|识别|shíbié|v.|discern|识别颜色；识别方向；准确识别|shíbié yánsè; shíbié fāngxiàng; zhǔnquè shíbié|distinguish colors; identify directions; identify accurately
+3708|Unit 62|实地|shídì|adv.|on the spot; in the field|实地考察；实地调查|shídì kǎochá; shídì diàochá|conduct an on-site inspection; conduct field research
+3709|Unit 62|实话|shíhuà|n.|truth|大实话；说实话|dà shíhuà; shuō shíhuà|the plain truth; tell the truth
+3710|Unit 62|实话实说|shíhuà-shíshuō|phrase|speak frankly|考虑许久，我还是决定实话实说。|kǎolǜ xǔjiǔ, wǒ háishi juédìng shíhuà-shíshuō|After thinking for a long time, I still decided to speak frankly.
+3711|Unit 62|实况|shíkuàng|n.|what is actually happening on the spot|实况报道；比赛实况|shíkuàng bàodào; bǐsài shíkuàng|live coverage; live match coverage
+3712|Unit 62|实事求是|shíshì-qiúshì|phrase|seek truth from facts|实事求是地批评；实事求是的精神|shíshì-qiúshì de pīpíng; shíshì-qiúshì de jīngshén|criticize in a fact-based manner; the spirit of seeking truth from facts
+3713|Unit 62|实体|shítǐ|n.|entity|实体经济；政治实体|shítǐ jīngjì; zhèngzhì shítǐ|the real economy; a political entity
+3714|Unit 62|实物|shíwù|n.|material object|实物交换；实物教学|shíwù jiāohuàn; shíwù jiàoxué|barter; teaching with physical objects
+3715|Unit 62|实质|shízhì|n.|essence|问题的实质；抓住实质|wèntí de shízhì; zhuāzhù shízhì|the essence of the problem; grasp the essence
+3716|Unit 62|食宿|shísù|n.|board and lodging|食宿价格；提供食宿|shísù jiàgé; tígōng shísù|the cost of room and board; provide room and board
+3717|Unit 62|食用|shíyòng|v.|be edible; consume|不可食用；与牛奶搭配食用|bùkě shíyòng; yǔ niúnǎi dāpèi shíyòng|not edible; consume together with milk
+3718|Unit 62|史无前例|shǐwúqiánlì|adj.|unprecedented in history|史无前例的行动；规模史无前例|shǐwúqiánlì de xíngdòng; guīmó shǐwúqiánlì|an unprecedented action; unprecedented in scale
+3719|Unit 62|使唤|shǐhuan|v.|order about|听他使唤；受人使唤|tīng tā shǐhuan; shòu rén shǐhuan|obey his orders; be ordered around by others
+3720|Unit 62|使命|shǐmìng|n.|mission|光荣的使命；肩负重要使命|guāngróng de shǐmìng; jiānfù zhòngyào shǐmìng|a glorious mission; shoulder an important mission
