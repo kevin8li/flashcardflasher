@@ -606,3 +606,63 @@ Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin
 3598|Unit 60|设|shè|v.|set up|设办事处；设闹钟|shè bànshìchù; shè nàozhōng|set up an office; set an alarm clock
 3599|Unit 60|设定|shèdìng|v.|set|设定目标；设定时间|shèdìng mùbiāo; shèdìng shíjiān|set a goal; set a time
 3600|Unit 60|设法|shèfǎ|v.|think of a way|设法解决；设法帮助|shèfǎ jiějué; shèfǎ bāngzhù|find a way to resolve it; find a way to help
+3601|Unit 61|社会主义|shèhuì zhǔyì|n.|socialism|社会主义国家；社会主义制度|shèhuì zhǔyì guójiā; shèhuì zhǔyì zhìdù|a socialist country; the socialist system
+3602|Unit 61|社交|shèjiāo|n.|social contact|社交软件；社交活动；擅长社交|shèjiāo ruǎnjiàn; shèjiāo huódòng; shàncháng shèjiāo|social networking software; social activities; be good at socializing
+3603|Unit 61|社论|shèlùn|n.|editorial|一篇社论；发表社论|yì piān shèlùn; fābiǎo shèlùn|an editorial; publish an editorial
+3604|Unit 61|社团|shètuán|n.|community|文学爱好者社团；加入社团|wénxué àihàozhě shètuán; jiārù shètuán|a literary enthusiasts' club; join a club
+3605|Unit 61|涉嫌|shèxián|v.|be suspected of being involved in|涉嫌抢劫；涉嫌故意伤人|shèxián qiǎngjié; shèxián gùyì shāngrén|be suspected of robbery; be suspected of intentionally injuring someone
+3606|Unit 61|摄氏度|shèshìdù|m.|centigrade (°C)|30摄氏度|sānshí shèshìdù|30 degrees Celsius
+3607|Unit 61|谁知道|shéi zhīdào|phrase|who knows|我以为我会是冠军，谁知道有个人忽然超过了我。；A：不知道他们赢了没有？B：谁知道呢。|wǒ yǐwéi wǒ huì shì guànjūn, shéi zhīdào yǒu ge rén hūrán chāoguò le wǒ; A: bù zhīdào tāmen yíng le méiyǒu? B: shéi zhīdào ne|I thought I would be the champion, but unexpectedly someone suddenly passed me; A: I wonder whether they won. B: Who knows?
+3608|Unit 61|申办|shēnbàn|v.|bid|申办奥运会；申办活动；成功申办|shēnbàn Àoyùnhuì; shēnbàn huódòng; chénggōng shēnbàn|bid to host the Olympic Games; apply to organize an event; make a successful bid
+3609|Unit 61|申报|shēnbào|v.|declare|申报纳税；申报专利；自行申报|shēnbào nàshuì; shēnbào zhuānlì; zìxíng shēnbào|file a tax declaration; apply for a patent; declare independently
+3610|Unit 61|申领|shēnlǐng|v.|apply for|申领补助；申领驾驶证；按规定申领入场券|shēnlǐng bǔzhù; shēnlǐng jiàshǐzhèng; àn guīdìng shēnlǐng rùchǎngquàn|apply for a subsidy; apply for a driver's license; apply for an admission ticket as required
+3611|Unit 61|伸手|shēn//shǒu|v.|stretch out one's hand|伸手拿书；伸手关灯|shēnshǒu ná shū; shēnshǒu guān dēng|reach out to take a book; reach out to turn off the light
+3612|Unit 61|伸缩|shēnsuō|v.|stretch out and draw back|随意伸缩；前后伸缩|suíyì shēnsuō; qiánhòu shēnsuō|extend and retract freely; extend and retract back and forth
+3613|Unit 61|伸张|shēnzhāng|v.|promote; stand up for|得到伸张；伸张正义|dédào shēnzhāng; shēnzhāng zhèngyì|be upheld; uphold justice
+3614|Unit 61|身不由己|shēnbùyóujǐ|phrase|do sth. not of one's own free will|在当时的形势下，他做了很多身不由己的事情。|zài dāngshí de xíngshì xià, tā zuò le hěn duō shēnbùyóujǐ de shìqing|Under the circumstances at the time, he did many things against his own will.
+3615|Unit 61|身价|shēnjià|n.|social status|抬高身价；身价百倍|táigāo shēnjià; shēnjià bǎibèi|raise one's social standing; one's worth increases a hundredfold
+3616|Unit 61|身躯|shēnqū|n.|stature|身躯高大；健壮的身躯|shēnqū gāodà; jiànzhuàng de shēnqū|a tall stature; a strong body
+3617|Unit 61|身心|shēnxīn|n.|mind and body|健全的身心；身心健康|jiànquán de shēnxīn; shēnxīn jiànkāng|a sound mind and body; physical and mental health
+3618|Unit 61|身影|shēnyǐng|n.|person's silhouette|一个女人的身影；黑色身影|yí ge nǚrén de shēnyǐng; hēisè shēnyǐng|a woman's silhouette; a dark silhouette
+3619|Unit 61|身子|shēnzi|n.|body|弯下身子；侧着身子|wān xià shēnzi; cè zhe shēnzi|bend one's body down; turn one's body sideways
+3620|Unit 61|绅士|shēnshì|n.|gentleman|一位绅士；年轻的绅士|yí wèi shēnshì; niánqīng de shēnshì|a gentleman; a young gentleman
+3621|Unit 61|深奥|shēn'ào|adj.|abstruse|深奥的哲理；见解深奥|shēn'ào de zhélǐ; jiànjiě shēn'ào|an abstruse philosophy; a profound insight
+3622|Unit 61|深切|shēnqiè|adj.|deep|深切的希望；深切缅怀|shēnqiè de xīwàng; shēnqiè miǎnhuái|a deep hope; cherish the memory of deeply
+3623|Unit 61|深情|shēnqíng|n./adj.|deep feeling; affectionate|一片深情；无限深情；深情的拥抱；深情的吻|yí piàn shēnqíng; wúxiàn shēnqíng; shēnqíng de yōngbào; shēnqíng de wěn|deep affection; boundless affection; an affectionate embrace; an affectionate kiss
+3624|Unit 61|深入人心|shēnrù-rénxīn|phrase|strike deep roots in the hearts of the people|和平发展的观念逐渐深入人心。|hépíng fāzhǎn de guānniàn zhújiàn shēnrù-rénxīn|The concept of peaceful development gradually took root in people's hearts.
+3625|Unit 61|深受|shēnshòu|v.|be influenced deeply|深受感动；深受影响|shēnshòu gǎndòng; shēnshòu yǐngxiǎng|be deeply moved; be deeply influenced
+3626|Unit 61|深思|shēnsī|v.|ponder deeply over|令人深思；值得深思|lìng rén shēnsī; zhíde shēnsī|thought-provoking; worth pondering deeply
+3627|Unit 61|深信|shēnxìn|v.|firmly believe|深信不疑；深信我们会赢|shēnxìn bù yí; shēnxìn wǒmen huì yíng|believe without doubt; firmly believe that we will win
+3628|Unit 61|深夜|shēnyè|n.|late night|深夜11时；工作到深夜|shēnyè shíyī shí; gōngzuò dào shēnyè|11 p.m. late at night; work until late at night
+3629|Unit 61|深远|shēnyuǎn|adj.|profound|深远的影响；意义深远|shēnyuǎn de yǐngxiǎng; yìyì shēnyuǎn|a profound influence; far-reaching significance
+3630|Unit 61|神气|shénqi|n./adj.|expression; spirited; arrogant|他说话的神气特认真。；穿上新军装，显得很神气；他有了几个钱，就神气起来了|tā shuōhuà de shénqi tè rènzhēn; chuān shàng xīn jūnzhuāng, xiǎnde hěn shénqi; tā yǒu le jǐ ge qián, jiù shénqi qǐlái le|His expression while speaking was especially serious; wearing the new uniform made him look very spirited; once he got a little money, he became arrogant
+3631|Unit 61|神圣|shénshèng|adj.|holy|神圣的权利；神圣的使命|shénshèng de quánlì; shénshèng de shǐmìng|a sacred right; a sacred mission
+3632|Unit 61|神态|shéntài|n.|mien; manner|愉快的神态；神态各异|yúkuài de shéntài; shéntài gèyì|a cheerful expression; varied expressions
+3633|Unit 61|神仙|shénxiān|n.|celestial being|各路神仙；快活似神仙|gèlù shénxiān; kuàihuo sì shénxiān|celestial beings of every kind; happy as an immortal
+3634|Unit 61|审|shěn|v.|review|审稿子；审案子|shěn gǎozi; shěn ànzi|review a manuscript; hear a case
+3635|Unit 61|审定|shěndìng|v.|examine and approve|审定文件；审定方案|shěndìng wénjiàn; shěndìng fāng'àn|examine and approve a document; examine and approve a plan
+3636|Unit 61|审核|shěnhé|v.|examine and verify|审核把关；审核工作；认真审核|shěnhé bǎguān; shěnhé gōngzuò; rènzhēn shěnhé|review and check; review work; review carefully
+3637|Unit 61|审美|shěnměi|v.|appreciate beauty|个人审美；审美标准|gèrén shěnměi; shěnměi biāozhǔn|personal aesthetics; aesthetic standards
+3638|Unit 61|审判|shěnpàn|v.|bring to trial|公开审判；受到审判|gōngkāi shěnpàn; shòudào shěnpàn|a public trial; be brought to trial
+3639|Unit 61|审批|shěnpī|v.|examine and endorse|审批计划；请上级部门审批|shěnpī jìhuà; qǐng shàngjí bùmén shěnpī|approve a plan; request approval from a higher department
+3640|Unit 61|审视|shěnshì|v.|look at sth./sb. attentively|仔细审视；审视自己|zǐxì shěnshì; shěnshì zìjǐ|scrutinize carefully; examine oneself
+3641|Unit 61|肾|shèn|n.|kidney|肾功能|shèn gōngnéng|kidney function
+3642|Unit 61|甚至于|shènzhìyú|adv.|even|他对这里没有任何留恋，甚至于没说一声“再见”就离开了。|tā duì zhèlǐ méiyǒu rènhé liúliàn, shènzhìyú méi shuō yì shēng “zàijiàn” jiù líkāi le|He felt no attachment to this place and even left without saying goodbye.
+3643|Unit 61|渗|shèn|v.|ooze|渗水；渗漏|shènshuǐ; shènlòu|seep water; leak
+3644|Unit 61|渗透|shèntòu|v.|infiltrate|渗透到敌人内部|shèntòu dào dírén nèibù|infiltrate the enemy's ranks
+3645|Unit 61|慎重|shènzhòng|adj.|prudent|慎重的态度；十分慎重|shènzhòng de tàidu; shífēn shènzhòng|a prudent attitude; extremely cautious
+3646|Unit 61|升温|shēngwēn|v.|heat up|日益升温；感情升温|rìyì shēngwēn; gǎnqíng shēngwēn|heat up day by day; feelings grow warmer
+3647|Unit 61|生机|shēngjī|n.|life; vigour|充满生机；带来生机|chōngmǎn shēngjī; dàilái shēngjī|be full of vitality; bring vitality
+3648|Unit 61|生理|shēnglǐ|n.|physiology|生理上的缺陷；生理变化|shēnglǐ shàng de quēxiàn; shēnglǐ biànhuà|a physiological defect; physiological changes
+3649|Unit 61|生命线|shēngmìngxiàn|n.|lifeline|产品质量是企业的生命线。|chǎnpǐn zhìliàng shì qǐyè de shēngmìngxiàn|Product quality is the lifeline of an enterprise.
+3650|Unit 61|生怕|shēngpà|v.|fear|生怕失败；生怕吵到别人|shēngpà shībài; shēngpà chǎo dào biérén|fear failure; fear disturbing others
+3651|Unit 61|生平|shēngpíng|n.|lifetime|生平简介；作者生平|shēngpíng jiǎnjiè; zuòzhě shēngpíng|a brief biography; the author's life
+3652|Unit 61|生前|shēngqián|n.|before one's death|生前愿望；生前好友|shēngqián yuànwàng; shēngqián hǎoyǒu|a wish held during one's lifetime; a close friend during one's lifetime
+3653|Unit 61|生死|shēngsǐ|n./adj.|life and death; life-and-death|面对生死；笑看生死；生死弟兄；生死之交|miànduì shēngsǐ; xiào kàn shēngsǐ; shēngsǐ dìxiong; shēngsǐ zhī jiāo|face life and death; face life and death with a smile; sworn brothers through life and death; a friendship unto death
+3654|Unit 61|生态|shēngtài|n.|organism's habits; ecology|生态平衡；生态环境；保护生态|shēngtài pínghéng; shēngtài huánjìng; bǎohù shēngtài|ecological balance; ecological environment; protect the ecology
+3655|Unit 61|生物|shēngwù|n.|organism|生物进化；生物入侵|shēngwù jìnhuà; shēngwù rùqīn|biological evolution; biological invasion
+3656|Unit 61|生效|shēng//xiào|v.|take effect|立即生效；正式生效|lìjí shēngxiào; zhèngshì shēngxiào|take effect immediately; formally take effect
+3657|Unit 61|生涯|shēngyá|n.|career|职业生涯；运动生涯|zhíyè shēngyá; yùndòng shēngyá|professional career; athletic career
+3658|Unit 61|生硬|shēngyìng|adj.|stiff|生硬的态度；生硬的回答|shēngyìng de tàidu; shēngyìng de huídá|a stiff manner; a blunt response
+3659|Unit 61|生育|shēngyù|v.|give birth to|生育子女；影响生育|shēngyù zǐnǚ; yǐngxiǎng shēngyù|have children; affect fertility
+3660|Unit 61|声称|shēngchēng|v.|claim|他不仅不负责，而且声称对此一无所知。|tā bùjǐn bù fùzé, érqiě shēngchēng duì cǐ yìwúsuǒzhī|He not only refused to take responsibility but also claimed to know nothing about it.
