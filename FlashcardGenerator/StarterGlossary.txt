@@ -1,184 +1,184 @@
-Word #|Unit|Chinese|Pinyin|Part of Speech|English Meaning|Example Chinese|Example Pinyin|Example English
-1|Unit 1|阿拉伯语|Ālābóyǔ|n.|Arabic (language)||Every next 60 words: Unit 3, Unit 4, etc. Word 121 starts Unit 3.
-2|Unit 1|哎|āi|int.|surprise/dissatisfaction||
-3|Unit 1|哎呀|āiyā|int.|surprise/impatience||
-4|Unit 1|哀求|āiqiú|v.|implore||
-5|Unit 1|挨家挨户|āijiā-āihù|adv.|from door to door||
-6|Unit 1|癌|ái|n.|cancer||
-7|Unit 1|癌症|áizhèng|n.|cancer||
-8|Unit 1|艾滋病|àizībìng|n.|AIDS||
-9|Unit 1|唉|āi|int.|sadness/regret||
-10|Unit 1|爱不释手|àibùshìshǒu|expr.|be fond of sth.||
-11|Unit 1|爱理不理|àilǐ-bùlǐ|expr.|be cool/standoffish||
-12|Unit 1|爱面子|ài miànzi|expr.|care about face||
-13|Unit 1|爱惜|àixī|v.|cherish||
-14|Unit 1|碍事|àishì|v.|be in the way||
-15|Unit 1|安定|āndìng|adj./v.|stable; stabilize||
-16|Unit 1|安抚|ānfǔ|v.|pacify||
-17|Unit 1|安眠药|ānmiányào|n.|sleeping pill||
-18|Unit 1|安宁|ānníng|adj.|peaceful||
-19|Unit 1|安稳|ānwěn|adj.|smooth and steady||
-20|Unit 1|安心|ānxīn|adj.|at ease||
-21|Unit 1|安逸|ānyì|adj.|easy and comfortable||
-22|Unit 1|按键|ànjiàn|n.|button/key||
-23|Unit 1|按理说|ànlǐ shuō|expr.|according to reason||
-24|Unit 1|按说|ànshuō|adv.|ordinarily||
-25|Unit 1|案件|ànjiàn|n.|law case||
-26|Unit 1|暗地里|àndìli|adv.|in secret||
-27|Unit 1|暗杀|ànshā|v.|assassinate||
-28|Unit 1|暗中|ànzhōng|adv.|secretly||
-29|Unit 1|昂贵|ángguì|adj.|expensive||
-30|Unit 1|凹|āo|adj.|concave||
-31|Unit 1|熬|áo|v.|endure; stew||
-32|Unit 1|熬夜|áoyè|v.|stay up late||
-33|Unit 1|傲|ào|adj.|proud||
-34|Unit 1|傲慢|àomàn|adj.|arrogant||
-35|Unit 1|奥秘|àomì|n.|mystery||
-36|Unit 1|奥运会|Àoyùnhuì|n.|Olympic Games||
-37|Unit 1|八卦|bāguà|n.|Eight Trigrams||
-38|Unit 1|巴不得|bābude|v.|be eager to||
-39|Unit 1|扒|bā|v.|pull down/push aside||
-40|Unit 1|芭蕾|bālěi|n.|ballet||
-41|Unit 1|把柄|bǎbǐng|n.|handle; excuse||
-42|Unit 1|把关|bǎguān|v.|check on||
-43|Unit 1|把手|bǎshou|n.|handle/knob||
-44|Unit 1|靶子|bǎzi|n.|target||
-45|Unit 1|坝|bà|n.|dam||
-46|Unit 1|罢免|bàmiǎn|v.|dismiss||
-47|Unit 1|罢休|bàxiū|v.|give up||
-48|Unit 1|霸占|bàzhàn|v.|forcibly occupy||
-49|Unit 1|掰|bāi|v.|break off with fingers||
-50|Unit 1|白白|báibái|adv.|in vain||
-51|Unit 1|百分比|bǎifēnbǐ|n.|percentage||
-52|Unit 1|百合|bǎihé|n.|lily||
-53|Unit 1|百科全书|bǎikē quánshū|n.|encyclopedia||
-54|Unit 1|柏树|bǎishù|n.|cypress||
-55|Unit 1|摆放|bǎifàng|v.|place/lay||
-56|Unit 1|摆平|bǎipíng|v.|treat fairly; handle||
-57|Unit 1|摆设|bǎishè|n.|ornament||
-58|Unit 1|拜会|bàihuì|v.|pay official call||
-59|Unit 1|拜见|bàijiàn|v.|pay formal visit||
-60|Unit 1|拜年|bài//nián|v.|pay New Year call||
-61|Unit 2|拜托|bàituō|v.|request sb. to do sth.||
-62|Unit 2|扳|bān|v.|pull; win back||
-63|Unit 2|颁布|bānbù|v.|promulgate||
-64|Unit 2|颁发|bānfā|v.|issue||
-65|Unit 2|颁奖|bānjiǎng|v.|give out an award||
-66|Unit 2|斑点|bāndiǎn|n.|speckle||
-67|Unit 2|搬迁|bānqiān|v.|relocate||
-68|Unit 2|板块|bǎnkuài|n.|section; plate||
-69|Unit 2|办不到|bànbudào|v.|can't do||
-70|Unit 2|半边天|bànbiāntiān|n.|half the sky||
-71|Unit 2|半场|bànchǎng|n.|half a game||
-72|Unit 2|半岛|bàndǎo|n.|peninsula||
-73|Unit 2|半路|bànlù|n.|half of the way||
-74|Unit 2|半数|bànshù|n.|half the number||
-75|Unit 2|半途而废|bàntú’érfèi|expr.|give up halfway||
-76|Unit 2|半信半疑|bànxìn-bànyí|expr.|not quite convinced||
-77|Unit 2|半真半假|bànzhēn-bànjiǎ|expr.|half true and half false||
-78|Unit 2|扮|bàn|v.|disguise oneself as||
-79|Unit 2|伴|bàn|v./n.|accompany; companion||
-80|Unit 2|伴侣|bànlǚ|n.|partner||
-81|Unit 2|伴随|bànsuí|v.|accompany; follow||
-82|Unit 2|伴奏|bànzòu|v.|accompany with music||
-83|Unit 2|拌|bàn|v.|mix||
-84|Unit 2|帮手|bāngshou|n.|helper||
-85|Unit 2|绑|bǎng|v.|bind||
-86|Unit 2|绑架|bǎngjià|v.|kidnap||
-87|Unit 2|榜样|bǎngyàng|n.|good example||
-88|Unit 2|棒球|bàngqiú|n.|baseball||
-89|Unit 2|磅|bàng|m./n.|pound; scales||
-90|Unit 2|包袱|bāofu|n.|mental burden||
-91|Unit 2|包容|bāoróng|v.|tolerate||
-92|Unit 2|包扎|bāozā|v.|bind up||
-93|Unit 2|剥|bāo/bō|v.|peel||
-94|Unit 2|煲|bāo|n./v.|cooking pot; cook slowly||
-95|Unit 2|饱和|bǎohé|v.|be saturated||
-96|Unit 2|饱满|bǎomǎn|adj.|full of||
-97|Unit 2|宝库|bǎokù|n.|treasury||
-98|Unit 2|宝藏|bǎozàng|n.|treasure||
-99|Unit 2|保管|bǎoguǎn|v./n.|take for safekeeping; storekeeper||
-100|Unit 2|保姆|bǎomǔ|n.|nanny||
-101|Unit 2|保暖|bǎonuǎn|v.|keep warm||
-102|Unit 2|保鲜|bǎoxiān|v.|keep fresh||
-103|Unit 2|保修|bǎoxiū|v.|guarantee free repair||
-104|Unit 2|保佑|bǎoyòu|v.|bless||
-105|Unit 2|保障|bǎozhàng|v./n.|guarantee; assurance||
-106|Unit 2|保质期|bǎozhìqī|n.|shelf life||
-107|Unit 2|保重|bǎozhòng|v.|take care of oneself||
-108|Unit 2|堡垒|bǎolěi|n.|fortress||
-109|Unit 2|报|bào|v.|report||
-110|Unit 2|报仇|bàochóu|v.|take revenge||
-111|Unit 2|报酬|bàochou|n.|remuneration||
-112|Unit 2|报废|bàofèi|v.|discard as useless||
-113|Unit 2|报复|bàofù|v.|retaliate||
-114|Unit 2|报社|bàoshè|n.|newspaper office||
-115|Unit 2|报亭|bàotíng|n.|news kiosk||
-116|Unit 2|报销|bàoxiāo|v.|submit expenses for reimbursement||
-117|Unit 2|抱负|bàofù|n.|ambition||
-118|Unit 2|豹|bào|n.|leopard||
-119|Unit 2|暴风骤雨|bàofēng-zhòuyǔ|n.|violent storm||
-120|Unit 2|暴利|bàolì|n.|sudden huge profits||
-121|Unit 3|暴躁|bàozào|adj.|irritable; bad-tempered||
-122|Unit 3|曝光|bàoguāng|v.|expose; make public||
-123|Unit 3|爆冷门|bào lěngmén|v.|produce an upset; unexpected result||
-124|Unit 3|爆满|bàomǎn|v.|be filled to capacity||
-125|Unit 3|爆竹|bàozhú|n.|firecracker||
-126|Unit 3|卑鄙|bēibǐ|adj.|base; mean; despicable||
-127|Unit 3|悲哀|bēi’āi|adj.|sorrowful; grieved||
-128|Unit 3|悲观|bēiguān|adj.|pessimistic||
-129|Unit 3|悲欢离合|bēihuānlíhé|idiom|joys and sorrows; vicissitudes of life||
-130|Unit 3|悲痛|bēitòng|adj.|grieved; sorrowful||
-131|Unit 3|碑|bēi|n.|stone tablet; stele||
-132|Unit 3|贝壳|bèiké|n.|shell||
-133|Unit 3|备课|bèikè|v.|prepare lessons||
-134|Unit 3|备受|bèishòu|v.|receive a great deal of||
-135|Unit 3|备用|bèiyòng|v./adj.|reserve; standby||
-136|Unit 3|背面|bèimiàn|n.|back side; reverse side||
-137|Unit 3|背叛|bèipàn|v.|betray||
-138|Unit 3|背诵|bèisòng|v.|recite from memory||
-139|Unit 3|被捕|bèibǔ|v.|be arrested||
-140|Unit 3|奔波|bēnbō|v.|rush about; bustle about||
-141|Unit 3|奔赴|bēnfù|v.|rush to; head for||
-142|Unit 3|本分|běnfèn|n./adj.|one's duty; honest and law-abiding||
-143|Unit 3|本能|běnnéng|n.|instinct||
-144|Unit 3|本钱|běnqián|n.|capital||
-145|Unit 3|本色|běnsè|n.|true qualities; natural character||
-146|Unit 3|本性|běnxìng|n.|innate nature||
-147|Unit 3|本意|běnyì|n.|original intention||
-148|Unit 3|本着|běnzhe|prep.|in line with; according to||
-149|Unit 3|奔|bēn|v.|head straight toward; approach||
-150|Unit 3|笨蛋|bèndàn|n.|idiot; fool||
-151|Unit 3|笨重|bènzhòng|adj.|heavy; cumbersome||
-152|Unit 3|崩溃|bēngkuì|v.|collapse; break down||
-153|Unit 3|绷|bēng|v.|pull tight; strain||
-154|Unit 3|绷带|bēngdài|n.|bandage||
-155|Unit 3|蹦|bèng|v.|jump; bounce||
-156|Unit 3|逼近|bījìn|v.|approach; press toward||
-157|Unit 3|逼迫|bīpò|v.|force; compel||
-158|Unit 3|逼真|bīzhēn|adj.|lifelike; vivid||
-159|Unit 3|鼻涕|bítì|n.|snot; nasal mucus||
-160|Unit 3|比比皆是|bǐbǐjiēshì|idiom|can be seen everywhere||
-161|Unit 3|比不上|bǐ bù shàng|v.|not as good as||
-162|Unit 3|比起|bǐqǐ|prep.|compared with||
-163|Unit 3|比试|bǐshì|v.|compete; have a match||
-164|Unit 3|比喻|bǐyù|n./v.|metaphor; compare||
-165|Unit 3|鄙视|bǐshì|v.|despise; look down on||
-166|Unit 3|必不可少|bìbùkěshǎo|adj.|absolutely necessary||
-167|Unit 3|必定|bìdìng|adv.|certainly; surely||
-168|Unit 3|碧绿|bìlǜ|adj.|dark green; emerald green||
-169|Unit 3|弊病|bìbìng|n.|drawback; malpractice||
-170|Unit 3|弊端|bìduān|n.|malpractice; abuse||
-171|Unit 3|壁画|bìhuà|n.|mural||
-172|Unit 3|避难|bìnàn|v.|take refuge||
-173|Unit 3|避暑|bìshǔ|v.|spend the summer away from heat||
-174|Unit 3|边疆|biānjiāng|n.|frontier region||
-175|Unit 3|边界|biānjiè|n.|boundary; border||
-176|Unit 3|边远|biānyuǎn|adj.|remote||
-177|Unit 3|编号|biānhào|n.|serial number||
-178|Unit 3|编剧|biānjù|n.|screenwriter||
-179|Unit 3|编排|biānpái|v.|arrange; choreograph||
-180|Unit 3|编写|biānxiě|v.|write; compile||
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+1|Unit 1|阿拉伯语|Ālābóyǔ|n.|Arabic (language)||Every next 60 words: Unit 3, Unit 4, etc. Word 121 starts Unit 3.|
+2|Unit 1|哎|āi|int.|surprise/dissatisfaction|||
+3|Unit 1|哎呀|āiyā|int.|surprise/impatience|||
+4|Unit 1|哀求|āiqiú|v.|implore|||
+5|Unit 1|挨家挨户|āijiā-āihù|adv.|from door to door|||
+6|Unit 1|癌|ái|n.|cancer|||
+7|Unit 1|癌症|áizhèng|n.|cancer|||
+8|Unit 1|艾滋病|àizībìng|n.|AIDS|||
+9|Unit 1|唉|āi|int.|sadness/regret|||
+10|Unit 1|爱不释手|àibùshìshǒu|expr.|be fond of sth.|||
+11|Unit 1|爱理不理|àilǐ-bùlǐ|expr.|be cool/standoffish|||
+12|Unit 1|爱面子|ài miànzi|expr.|care about face|||
+13|Unit 1|爱惜|àixī|v.|cherish|||
+14|Unit 1|碍事|àishì|v.|be in the way|||
+15|Unit 1|安定|āndìng|adj./v.|stable; stabilize|||
+16|Unit 1|安抚|ānfǔ|v.|pacify|||
+17|Unit 1|安眠药|ānmiányào|n.|sleeping pill|||
+18|Unit 1|安宁|ānníng|adj.|peaceful|||
+19|Unit 1|安稳|ānwěn|adj.|smooth and steady|||
+20|Unit 1|安心|ānxīn|adj.|at ease|||
+21|Unit 1|安逸|ānyì|adj.|easy and comfortable|||
+22|Unit 1|按键|ànjiàn|n.|button/key|||
+23|Unit 1|按理说|ànlǐ shuō|expr.|according to reason|||
+24|Unit 1|按说|ànshuō|adv.|ordinarily|||
+25|Unit 1|案件|ànjiàn|n.|law case|||
+26|Unit 1|暗地里|àndìli|adv.|in secret|||
+27|Unit 1|暗杀|ànshā|v.|assassinate|||
+28|Unit 1|暗中|ànzhōng|adv.|secretly|||
+29|Unit 1|昂贵|ángguì|adj.|expensive|||
+30|Unit 1|凹|āo|adj.|concave|||
+31|Unit 1|熬|áo|v.|endure; stew|||
+32|Unit 1|熬夜|áoyè|v.|stay up late|||
+33|Unit 1|傲|ào|adj.|proud|||
+34|Unit 1|傲慢|àomàn|adj.|arrogant|||
+35|Unit 1|奥秘|àomì|n.|mystery|||
+36|Unit 1|奥运会|Àoyùnhuì|n.|Olympic Games|||
+37|Unit 1|八卦|bāguà|n.|Eight Trigrams|||
+38|Unit 1|巴不得|bābude|v.|be eager to|||
+39|Unit 1|扒|bā|v.|pull down/push aside|||
+40|Unit 1|芭蕾|bālěi|n.|ballet|||
+41|Unit 1|把柄|bǎbǐng|n.|handle; excuse|||
+42|Unit 1|把关|bǎguān|v.|check on|||
+43|Unit 1|把手|bǎshou|n.|handle/knob|||
+44|Unit 1|靶子|bǎzi|n.|target|||
+45|Unit 1|坝|bà|n.|dam|||
+46|Unit 1|罢免|bàmiǎn|v.|dismiss|||
+47|Unit 1|罢休|bàxiū|v.|give up|||
+48|Unit 1|霸占|bàzhàn|v.|forcibly occupy|||
+49|Unit 1|掰|bāi|v.|break off with fingers|||
+50|Unit 1|白白|báibái|adv.|in vain|||
+51|Unit 1|百分比|bǎifēnbǐ|n.|percentage|||
+52|Unit 1|百合|bǎihé|n.|lily|||
+53|Unit 1|百科全书|bǎikē quánshū|n.|encyclopedia|||
+54|Unit 1|柏树|bǎishù|n.|cypress|||
+55|Unit 1|摆放|bǎifàng|v.|place/lay|||
+56|Unit 1|摆平|bǎipíng|v.|treat fairly; handle|||
+57|Unit 1|摆设|bǎishè|n.|ornament|||
+58|Unit 1|拜会|bàihuì|v.|pay official call|||
+59|Unit 1|拜见|bàijiàn|v.|pay formal visit|||
+60|Unit 1|拜年|bài//nián|v.|pay New Year call|||
+61|Unit 2|拜托|bàituō|v.|request sb. to do sth.|||
+62|Unit 2|扳|bān|v.|pull; win back|||
+63|Unit 2|颁布|bānbù|v.|promulgate|||
+64|Unit 2|颁发|bānfā|v.|issue|||
+65|Unit 2|颁奖|bānjiǎng|v.|give out an award|||
+66|Unit 2|斑点|bāndiǎn|n.|speckle|||
+67|Unit 2|搬迁|bānqiān|v.|relocate|||
+68|Unit 2|板块|bǎnkuài|n.|section; plate|||
+69|Unit 2|办不到|bànbudào|v.|can't do|||
+70|Unit 2|半边天|bànbiāntiān|n.|half the sky|||
+71|Unit 2|半场|bànchǎng|n.|half a game|||
+72|Unit 2|半岛|bàndǎo|n.|peninsula|||
+73|Unit 2|半路|bànlù|n.|half of the way|||
+74|Unit 2|半数|bànshù|n.|half the number|||
+75|Unit 2|半途而废|bàntú’érfèi|expr.|give up halfway|||
+76|Unit 2|半信半疑|bànxìn-bànyí|expr.|not quite convinced|||
+77|Unit 2|半真半假|bànzhēn-bànjiǎ|expr.|half true and half false|||
+78|Unit 2|扮|bàn|v.|disguise oneself as|||
+79|Unit 2|伴|bàn|v./n.|accompany; companion|||
+80|Unit 2|伴侣|bànlǚ|n.|partner|||
+81|Unit 2|伴随|bànsuí|v.|accompany; follow|||
+82|Unit 2|伴奏|bànzòu|v.|accompany with music|||
+83|Unit 2|拌|bàn|v.|mix|||
+84|Unit 2|帮手|bāngshou|n.|helper|||
+85|Unit 2|绑|bǎng|v.|bind|||
+86|Unit 2|绑架|bǎngjià|v.|kidnap|||
+87|Unit 2|榜样|bǎngyàng|n.|good example|||
+88|Unit 2|棒球|bàngqiú|n.|baseball|||
+89|Unit 2|磅|bàng|m./n.|pound; scales|||
+90|Unit 2|包袱|bāofu|n.|mental burden|||
+91|Unit 2|包容|bāoróng|v.|tolerate|||
+92|Unit 2|包扎|bāozā|v.|bind up|||
+93|Unit 2|剥|bāo/bō|v.|peel|||
+94|Unit 2|煲|bāo|n./v.|cooking pot; cook slowly|||
+95|Unit 2|饱和|bǎohé|v.|be saturated|||
+96|Unit 2|饱满|bǎomǎn|adj.|full of|||
+97|Unit 2|宝库|bǎokù|n.|treasury|||
+98|Unit 2|宝藏|bǎozàng|n.|treasure|||
+99|Unit 2|保管|bǎoguǎn|v./n.|take for safekeeping; storekeeper|||
+100|Unit 2|保姆|bǎomǔ|n.|nanny|||
+101|Unit 2|保暖|bǎonuǎn|v.|keep warm|||
+102|Unit 2|保鲜|bǎoxiān|v.|keep fresh|||
+103|Unit 2|保修|bǎoxiū|v.|guarantee free repair|||
+104|Unit 2|保佑|bǎoyòu|v.|bless|||
+105|Unit 2|保障|bǎozhàng|v./n.|guarantee; assurance|||
+106|Unit 2|保质期|bǎozhìqī|n.|shelf life|||
+107|Unit 2|保重|bǎozhòng|v.|take care of oneself|||
+108|Unit 2|堡垒|bǎolěi|n.|fortress|||
+109|Unit 2|报|bào|v.|report|||
+110|Unit 2|报仇|bàochóu|v.|take revenge|||
+111|Unit 2|报酬|bàochou|n.|remuneration|||
+112|Unit 2|报废|bàofèi|v.|discard as useless|||
+113|Unit 2|报复|bàofù|v.|retaliate|||
+114|Unit 2|报社|bàoshè|n.|newspaper office|||
+115|Unit 2|报亭|bàotíng|n.|news kiosk|||
+116|Unit 2|报销|bàoxiāo|v.|submit expenses for reimbursement|||
+117|Unit 2|抱负|bàofù|n.|ambition|||
+118|Unit 2|豹|bào|n.|leopard|||
+119|Unit 2|暴风骤雨|bàofēng-zhòuyǔ|n.|violent storm|||
+120|Unit 2|暴利|bàolì|n.|sudden huge profits|||
+121|Unit 3|暴躁|bàozào|adj.|irritable; bad-tempered|||
+122|Unit 3|曝光|bàoguāng|v.|expose; make public|||
+123|Unit 3|爆冷门|bào lěngmén|v.|produce an upset; unexpected result|||
+124|Unit 3|爆满|bàomǎn|v.|be filled to capacity|||
+125|Unit 3|爆竹|bàozhú|n.|firecracker|||
+126|Unit 3|卑鄙|bēibǐ|adj.|base; mean; despicable|||
+127|Unit 3|悲哀|bēi’āi|adj.|sorrowful; grieved|||
+128|Unit 3|悲观|bēiguān|adj.|pessimistic|||
+129|Unit 3|悲欢离合|bēihuānlíhé|idiom|joys and sorrows; vicissitudes of life|||
+130|Unit 3|悲痛|bēitòng|adj.|grieved; sorrowful|||
+131|Unit 3|碑|bēi|n.|stone tablet; stele|||
+132|Unit 3|贝壳|bèiké|n.|shell|||
+133|Unit 3|备课|bèikè|v.|prepare lessons|||
+134|Unit 3|备受|bèishòu|v.|receive a great deal of|||
+135|Unit 3|备用|bèiyòng|v./adj.|reserve; standby|||
+136|Unit 3|背面|bèimiàn|n.|back side; reverse side|||
+137|Unit 3|背叛|bèipàn|v.|betray|||
+138|Unit 3|背诵|bèisòng|v.|recite from memory|||
+139|Unit 3|被捕|bèibǔ|v.|be arrested|||
+140|Unit 3|奔波|bēnbō|v.|rush about; bustle about|||
+141|Unit 3|奔赴|bēnfù|v.|rush to; head for|||
+142|Unit 3|本分|běnfèn|n./adj.|one's duty; honest and law-abiding|||
+143|Unit 3|本能|běnnéng|n.|instinct|||
+144|Unit 3|本钱|běnqián|n.|capital|||
+145|Unit 3|本色|běnsè|n.|true qualities; natural character|||
+146|Unit 3|本性|běnxìng|n.|innate nature|||
+147|Unit 3|本意|běnyì|n.|original intention|||
+148|Unit 3|本着|běnzhe|prep.|in line with; according to|||
+149|Unit 3|奔|bēn|v.|head straight toward; approach|||
+150|Unit 3|笨蛋|bèndàn|n.|idiot; fool|||
+151|Unit 3|笨重|bènzhòng|adj.|heavy; cumbersome|||
+152|Unit 3|崩溃|bēngkuì|v.|collapse; break down|||
+153|Unit 3|绷|bēng|v.|pull tight; strain|||
+154|Unit 3|绷带|bēngdài|n.|bandage|||
+155|Unit 3|蹦|bèng|v.|jump; bounce|||
+156|Unit 3|逼近|bījìn|v.|approach; press toward|||
+157|Unit 3|逼迫|bīpò|v.|force; compel|||
+158|Unit 3|逼真|bīzhēn|adj.|lifelike; vivid|||
+159|Unit 3|鼻涕|bítì|n.|snot; nasal mucus|||
+160|Unit 3|比比皆是|bǐbǐjiēshì|idiom|can be seen everywhere|||
+161|Unit 3|比不上|bǐ bù shàng|v.|not as good as|||
+162|Unit 3|比起|bǐqǐ|prep.|compared with|||
+163|Unit 3|比试|bǐshì|v.|compete; have a match|||
+164|Unit 3|比喻|bǐyù|n./v.|metaphor; compare|||
+165|Unit 3|鄙视|bǐshì|v.|despise; look down on|||
+166|Unit 3|必不可少|bìbùkěshǎo|adj.|absolutely necessary|||
+167|Unit 3|必定|bìdìng|adv.|certainly; surely|||
+168|Unit 3|碧绿|bìlǜ|adj.|dark green; emerald green|||
+169|Unit 3|弊病|bìbìng|n.|drawback; malpractice|||
+170|Unit 3|弊端|bìduān|n.|malpractice; abuse|||
+171|Unit 3|壁画|bìhuà|n.|mural|||
+172|Unit 3|避难|bìnàn|v.|take refuge|||
+173|Unit 3|避暑|bìshǔ|v.|spend the summer away from heat|||
+174|Unit 3|边疆|biānjiāng|n.|frontier region|||
+175|Unit 3|边界|biānjiè|n.|boundary; border|||
+176|Unit 3|边远|biānyuǎn|adj.|remote|||
+177|Unit 3|编号|biānhào|n.|serial number|||
+178|Unit 3|编剧|biānjù|n.|screenwriter|||
+179|Unit 3|编排|biānpái|v.|arrange; choreograph|||
+180|Unit 3|编写|biānxiě|v.|write; compile|||
 361|Unit 7|差错|chācuò|n.|error|做事不专心就容易出差错。|zuò shì bù zhuānxīn jiù róngyì chū chācuò.|If you do things without concentrating, mistakes are easy to make.
 362|Unit 7|差额|chā'é|n.|difference|贸易差额；补足差额|màoyì chā'é; bǔzú chā'é|trade difference; make up the difference
 363|Unit 7|插手|chāshǒu|v.|meddle in; lend a hand|这件事情你不要插手；我插不上手，帮不了你|zhè jiàn shìqing nǐ bú yào chāshǒu; wǒ chā bu shàng shǒu, bāng bù liǎo nǐ|Don't meddle in this matter; I can't get involved, so I can't help you
@@ -546,3 +546,63 @@ Word #|Unit|Chinese|Pinyin|Part of Speech|English Meaning|Example Chinese|Exampl
 1421|Unit 24|鼓舞|gǔwǔ|v./adj.|inspire; encouraging|这个消息鼓舞了所有队员；这是一场令人鼓舞的胜利|zhège xiāoxi gǔwǔ le suǒyǒu duìyuán; zhè shì yì chǎng lìng rén gǔwǔ de shènglì|This news inspired all the team members; this was an encouraging victory.
 1424|Unit 24|故|gù|adv./conj.|deliberately; therefore|他故作镇定；天气不好，故比赛取消|tā gùzuò zhèndìng; tiānqì bù hǎo, gù bǐsài qǔxiāo|He deliberately pretended to be calm; the weather was bad, therefore the match was canceled.
 1428|Unit 24|顾虑|gùlǜ|n./v.|concern; consider|他心里有很多顾虑；做决定时要顾虑别人的感受|tā xīnli yǒu hěn duō gùlǜ; zuò juédìng shí yào gùlǜ biérén de gǎnshòu|He has many concerns; when making decisions, one should consider others' feelings.
+3541|Unit 60|山冈|shāngāng|n.|low hill|站在山冈上；走下山冈|zhàn zài shāngāng shàng; zǒu xià shāngāng|stand on a low hill; walk down the low hill
+3542|Unit 60|山岭|shānlǐng|n.|mountain range|连绵的山岭|liánmián de shānlǐng|a continuous mountain range
+3543|Unit 60|山路|shānlù|n.|mountain road|一段山路；曲折的山路|yí duàn shānlù; qūzhé de shānlù|a stretch of mountain road; a winding mountain road
+3544|Unit 60|山寨|shānzhài|n.|mountain fastness|平静的山寨；偏僻的山寨|píngjìng de shānzhài; piānpì de shānzhài|a peaceful mountain stronghold; a remote mountain stronghold
+3545|Unit 60|删|shān|v.|delete|删掉；删去；删邮件|shāndiào; shānqù; shān yóujiàn|delete; remove; delete emails
+3546|Unit 60|删除|shānchú|v.|delete|删除文件；删除数据；彻底删除|shānchú wénjiàn; shānchú shùjù; chèdǐ shānchú|delete files; delete data; delete completely
+3547|Unit 60|煽动|shāndòng|v.|incite|煽动情绪；煽动骚乱|shāndòng qíngxù; shāndòng sāoluàn|inflame emotions; incite unrest
+3548|Unit 60|闪烁|shǎnshuò|v.|twinkle|灯光闪烁；闪烁不停|dēngguāng shǎnshuò; shǎnshuò bù tíng|lights twinkle; keep flickering
+3549|Unit 60|善|shàn|adj.|good|善事；善心；心怀不善|shànshì; shànxīn; xīnhuái bú shàn|good deeds; a kind heart; harbor ill intentions
+3550|Unit 60|善意|shànyì|n.|good intentions|表达善意；他人的善意|biǎodá shànyì; tārén de shànyì|express goodwill; another person's goodwill
+3551|Unit 60|擅长|shàncháng|v.|be good at|擅长写作；擅长表演；不太擅长|shàncháng xiězuò; shàncháng biǎoyǎn; bú tài shàncháng|be good at writing; be good at performing; not very good at it
+3552|Unit 60|擅自|shànzì|adv.|without authorization|擅自更改；擅自离开|shànzì gēnggǎi; shànzì líkāi|change without authorization; leave without authorization
+3553|Unit 60|膳食|shànshí|n.|meals|科学膳食；合理膳食|kēxué shànshí; hélǐ shànshí|a scientific diet; a balanced diet
+3554|Unit 60|赡养|shànyǎng|v.|support (esp. one's parents, etc.)|赡养父母；赡养老人|shànyǎng fùmǔ; shànyǎng lǎorén|support one's parents; support elderly people
+3555|Unit 60|伤残|shāngcán|v.|be physically disabled|伤残补助金；致人伤残|shāngcán bǔzhùjīn; zhì rén shāngcán|disability allowance; cause someone to become disabled
+3556|Unit 60|伤感|shānggǎn|adj.|sentimental|容易伤感；伤感的诗|róngyì shānggǎn; shānggǎn de shī|easily become sentimental; a sentimental poem
+3557|Unit 60|伤痕|shānghén|n.|scar|满是伤痕；留下伤痕|mǎn shì shānghén; liúxià shānghén|covered with scars; leave a scar
+3558|Unit 60|伤脑筋|shāng nǎojīn|adj.|troublesome|真伤脑筋；伤透脑筋|zhēn shāng nǎojīn; shāng tòu nǎojīn|really troublesome; be utterly vexing
+3559|Unit 60|伤势|shāngshì|n.|injury|伤势严重；伤势不轻|shāngshì yánzhòng; shāngshì bù qīng|serious injuries; injuries are not minor
+3560|Unit 60|商贩|shāngfàn|n.|vendor|个体商贩；流动商贩|gètǐ shāngfàn; liúdòng shāngfàn|independent vendor; itinerant vendor
+3561|Unit 60|商贾|shānggǔ|n.|merchants|商贾之家；商贾往来|shānggǔ zhī jiā; shānggǔ wǎnglái|a merchant family; dealings among merchants
+3562|Unit 60|商讨|shāngtǎo|v.|deliberate|商讨国家大事；商讨方案；共同商讨|shāngtǎo guójiā dàshì; shāngtǎo fāng'àn; gòngtóng shāngtǎo|deliberate on affairs of state; discuss a plan; deliberate together
+3563|Unit 60|上报|shàngbào|v.|report to|及时上报；逐级上报；上报上级检察院|jíshí shàngbào; zhújí shàngbào; shàngbào shàngjí jiǎncháyuàn|report promptly; report level by level; report to a higher-level procuratorate
+3564|Unit 60|上场|shàng//chǎng|v.|enter the court|运动员上场；该你上场了|yùndòngyuán shàngchǎng; gāi nǐ shàngchǎng le|the athlete enters the court; it is your turn to go on
+3565|Unit 60|上方|shàngfāng|n.|upper position|书架上方；大楼上方|shūjià shàngfāng; dàlóu shàngfāng|above the bookshelf; above the building
+3566|Unit 60|上岗|shàng//gǎng|v.|take up a job|竞争上岗；正式上岗|jìngzhēng shànggǎng; zhèngshì shànggǎng|compete for a post; formally take up a post
+3567|Unit 60|上火|shàng//huǒ|v.|suffer from excessive internal heat; get angry|容易上火；着急上火|róngyì shànghuǒ; zháojí shànghuǒ|easily suffer from internal heat; become upset and inflamed
+3568|Unit 60|上空|shàngkōng|n.|sky|广场上空；城市上空|guǎngchǎng shàngkōng; chéngshì shàngkōng|the sky above the square; the sky above the city
+3569|Unit 60|上流|shàngliú|n.|upper reaches (of a river); upper class|黄河上流；上流社会|Huáng Hé shàngliú; shàngliú shèhuì|the upper reaches of the Yellow River; upper-class society
+3570|Unit 60|上期|shàng qī|n.|previous period|上期节目；上期杂志|shàng qī jiémù; shàng qī zázhì|the previous program; the previous issue of a magazine
+3571|Unit 60|上任|shàng//rèn|v.|take up an official post|新市长上任；新上任的领导|xīn shìzhǎng shàngrèn; xīn shàngrèn de lǐngdǎo|the new mayor takes office; a newly appointed leader
+3572|Unit 60|上述|shàngshù|adj.|above-mentioned|上述原因；上述道理|shàngshù yuányīn; shàngshù dàolǐ|the above-mentioned reasons; the above-mentioned reasoning
+3573|Unit 60|上司|shàngsi|n.|superior|上司的命令；顶头上司|shàngsi de mìnglìng; dǐngtóu shàngsi|a superior's order; immediate superior
+3574|Unit 60|上诉|shàngsù|v.|appeal|有权上诉；向上级法院提起上诉|yǒu quán shàngsù; xiàng shàngjí fǎyuàn tíqǐ shàngsù|have the right to appeal; lodge an appeal with a higher court
+3575|Unit 60|上调|shàngtiáo|v.|raise|价格上调；利率上调|jiàgé shàngtiáo; lìlǜ shàngtiáo|raise prices; raise interest rates
+3576|Unit 60|上头|shàngtou|n.|place above; superior|柜子上头；上头的指示|guìzi shàngtou; shàngtou de zhǐshì|on top of the cabinet; instructions from above
+3577|Unit 60|上限|shàngxiàn|n.|upper limit|电梯载重上限；上限人数；超过安全上限|diàntī zàizhòng shàngxiàn; shàngxiàn rénshù; chāoguò ānquán shàngxiàn|elevator load limit; maximum number of people; exceed the safety limit
+3578|Unit 60|上旬|shàngxún|n.|first ten-day period of a month|十月上旬；每月上旬|shíyuè shàngxún; měi yuè shàngxún|the first ten days of October; the first ten days of each month
+3579|Unit 60|上瘾|shàng//yǐn|v.|be addicted|让人上瘾；抽烟上瘾|ràng rén shàngyǐn; chōuyān shàngyǐn|be addictive; be addicted to smoking
+3580|Unit 60|上映|shàngyìng|v.|show (a film)|电影上映；上映日期|diànyǐng shàngyìng; shàngyìng rìqī|a film is released; release date
+3581|Unit 60|上游|shàngyóu|n.|upper reaches (of a river); advanced position|长江上游；河流上游；力争上游|Cháng Jiāng shàngyóu; héliú shàngyóu; lìzhēng shàngyóu|the upper reaches of the Yangtze River; the upper reaches of a river; strive for the top
+3582|Unit 60|尚|shàng|adv./conj.|still; even|时间尚早；孩子尚小；小孩儿尚能做到这一点，何况大人呢？|shíjiān shàng zǎo; háizi shàng xiǎo; xiǎoháir shàng néng zuòdào zhè yì diǎn, hékuàng dàrén ne?|it is still early; the child is still young; even a child can do this, let alone an adult
+3583|Unit 60|尚未|shàngwèi|adv.|not yet|尚未决定；尚未解决|shàngwèi juédìng; shàngwèi jiějué|not yet decided; not yet resolved
+3584|Unit 60|捎|shāo|v.|take/bring sth. (by the way)|捎东西；捎信|shāo dōngxi; shāo xìn|bring something along; take a message
+3585|Unit 60|烧毁|shāohuǐ|v.|burn up|烧毁森林；烧毁房屋；全部烧毁|shāohuǐ sēnlín; shāohuǐ fángwū; quánbù shāohuǐ|burn down a forest; burn down a house; burn everything down
+3586|Unit 60|烧烤|shāokǎo|n.|barbecue|烧烤店；吃烧烤|shāokǎo diàn; chī shāokǎo|barbecue restaurant; eat barbecue
+3587|Unit 60|稍后|shāohòu|adv.|later|稍后再谈；稍后见|shāohòu zài tán; shāohòu jiàn|talk later; see you later
+3588|Unit 60|稍候|shāohòu|v.|wait a moment|稍候片刻；请稍候|shāohòu piànkè; qǐng shāohòu|wait a moment; please wait
+3589|Unit 60|稍稍|shāoshao|adv.|a little bit|稍稍有点儿不同；稍稍晚一点儿；稍稍等一会儿|shāoshao yǒudiǎnr bùtóng; shāoshao wǎn yìdiǎnr; shāoshao děng yíhuìr|slightly different; a little later; wait a little while
+3590|Unit 60|少不了|shǎobuliǎo|v.|cannot do without|少不了埋怨；少不了礼物；钱肯定少不了|shǎobuliǎo mányuàn; shǎobuliǎo lǐwù; qián kěndìng shǎobuliǎo|complaints are inevitable; gifts are indispensable; there will certainly be no shortage of money
+3591|Unit 60|少见|shǎojiàn|v./adj.|rarely seen; rare|最近少见，您身体还好？；少见的好作品；少见的天才|zuìjìn shǎojiàn, nín shēntǐ hái hǎo?; shǎojiàn de hǎo zuòpǐn; shǎojiàn de tiāncái|I have not seen you lately; are you well?; a rarely seen fine work; a rare genius
+3592|Unit 60|少量|shǎoliàng|adj.|a small amount of|少量盐；少量酒|shǎoliàng yán; shǎoliàng jiǔ|a small amount of salt; a small amount of alcohol
+3593|Unit 60|少有|shǎoyǒu|adv.|seldom|天下少有；少有的事|tiānxià shǎoyǒu; shǎoyǒu de shì|rare in the world; a rare occurrence
+3594|Unit 60|少林寺|Shàolín Sì|n.|Shaolin Temple|少林寺的僧人；参观少林寺|Shàolín Sì de sēngrén; cānguān Shàolín Sì|a monk from Shaolin Temple; visit Shaolin Temple
+3595|Unit 60|少女|shàonǚ|n.|young girl|美丽的少女|měilì de shàonǚ|a beautiful young girl
+3596|Unit 60|奢侈|shēchǐ|adj.|luxurious|极度奢侈；奢侈的生活|jídù shēchǐ; shēchǐ de shēnghuó|extremely luxurious; a luxurious lifestyle
+3597|Unit 60|奢望|shēwàng|v./n.|attach extravagant hope to; extravagant hopes|奢望回报；不敢奢望；一种奢望；存有奢望|shēwàng huíbào; bù gǎn shēwàng; yì zhǒng shēwàng; cúnyǒu shēwàng|hope extravagantly for a reward; dare not hope for it; an extravagant hope; harbor an extravagant hope
+3598|Unit 60|设|shè|v.|set up|设办事处；设闹钟|shè bànshìchù; shè nàozhōng|set up an office; set an alarm clock
+3599|Unit 60|设定|shèdìng|v.|set|设定目标；设定时间|shèdìng mùbiāo; shèdìng shíjiān|set a goal; set a time
+3600|Unit 60|设法|shèfǎ|v.|think of a way|设法解决；设法帮助|shèfǎ jiějué; shèfǎ bāngzhù|find a way to resolve it; find a way to help
