@@ -726,3 +726,63 @@ Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin
 3718|Unit 62|史无前例|shǐwúqiánlì|adj.|unprecedented in history|史无前例的行动；规模史无前例|shǐwúqiánlì de xíngdòng; guīmó shǐwúqiánlì|an unprecedented action; unprecedented in scale
 3719|Unit 62|使唤|shǐhuan|v.|order about|听他使唤；受人使唤|tīng tā shǐhuan; shòu rén shǐhuan|obey his orders; be ordered around by others
 3720|Unit 62|使命|shǐmìng|n.|mission|光荣的使命；肩负重要使命|guāngróng de shǐmìng; jiānfù zhòngyào shǐmìng|a glorious mission; shoulder an important mission
+3721|Unit 63|使者|shǐzhě|n.|envoy; emissary|光明的使者；中外友谊的使者|guāngmíng de shǐzhě; Zhōngwài yǒuyì de shǐzhě|a messenger of light; an envoy of friendship between China and other countries
+3722|Unit 63|士气|shìqì|n.|morale|提升士气；士气高涨；士气低迷|tíshēng shìqì; shìqì gāozhǎng; shìqì dīmí|boost morale; morale is high; morale is low
+3723|Unit 63|示威|shìwēi|v.|demonstrate|向……示威；参与示威；示威游行|xiàng... shìwēi; cānyù shìwēi; shìwēi yóuxíng|demonstrate against...; take part in a demonstration; demonstration march
+3724|Unit 63|示意|shìyì|v.|signal; hint; motion|向……示意；举手示意；示意司机停车；示意图|xiàng... shìyì; jǔshǒu shìyì; shìyì sījī tíngchē; shìyìtú|signal to...; raise a hand as a signal; signal the driver to stop; schematic diagram
+3725|Unit 63|世代|shìdài|n.|generations; long period of time|流传了很多世代；世代相传；世代经商|liúchuán le hěn duō shìdài; shìdài xiāngchuán; shìdài jīngshāng|be passed down for many generations; be handed down through generations; engage in business for generations
+3726|Unit 63|世故|shìgù|adj.|worldly-wise|狡猾而又世故；相当世故；懂得人情世故|jiǎohuá ér yòu shìgù; xiāngdāng shìgù; dǒngde rénqíng shìgù|cunning and worldly-wise; quite sophisticated; understand the ways of the world
+3727|Unit 63|世界级|shìjièjí|adj.|world-class|世界级球星；世界级比赛；世界级文化遗产|shìjièjí qiúxīng; shìjièjí bǐsài; shìjièjí wénhuà yíchǎn|world-class sports star; world-class competition; world-class cultural heritage
+3728|Unit 63|世袭|shìxí|v.|be hereditary|世袭制度；世袭财产；王位世袭|shìxí zhìdù; shìxí cáichǎn; wángwèi shìxí|hereditary system; hereditary property; hereditary succession to the throne
+3729|Unit 63|市场经济|shìchǎng jīngjì|n.|market economy|市场经济模式；市场经济条件；市场经济规律|shìchǎng jīngjì móshì; shìchǎng jīngjì tiáojiàn; shìchǎng jīngjì guīlǜ|market-economy model; market-economy conditions; laws of the market economy
+3730|Unit 63|势必|shìbì|adv.|certainly; inevitably|势必引起民众反对；势必造成不良影响|shìbì yǐnqǐ mínzhòng fǎnduì; shìbì zàochéng bùliáng yǐngxiǎng|will inevitably provoke public opposition; will inevitably cause adverse effects
+3731|Unit 63|势不可当|shìbùkědāng|adj.|irresistible|短视频潮流的发展势不可当，不管你喜欢不喜欢。|duǎn shìpín cháoliú de fāzhǎn shìbùkědāng, bùguǎn nǐ xǐhuan bù xǐhuan.|The rise of short-video trends is unstoppable, whether you like it or not.
+3732|Unit 63|势头|shìtou|n.|momentum; tendency|降雨的势头；保持发展势头；势头不减|jiàngyǔ de shìtou; bǎochí fāzhǎn shìtou; shìtou bú jiǎn|the momentum of the rainfall; maintain development momentum; the momentum does not diminish
+3733|Unit 63|事迹|shìjì|n.|deed; achievement|英雄事迹；先进事迹；感人事迹|yīngxióng shìjì; xiānjìn shìjì; gǎnrén shìjì|heroic deeds; exemplary deeds; moving deeds
+3734|Unit 63|事态|shìtài|n.|state of affairs; situation|紧急事态；事态严重；控制事态发展|jǐnjí shìtài; shìtài yánzhòng; kòngzhì shìtài fāzhǎn|an emergency situation; the situation is serious; control how the situation develops
+3735|Unit 63|事务|shìwù|n.|work; routine; general affairs|公司内部事务；有关事务；法律事务；事务繁忙；处理这些事务|gōngsī nèibù shìwù; yǒuguān shìwù; fǎlǜ shìwù; shìwù fánmáng; chǔlǐ zhèxiē shìwù|internal company affairs; related matters; legal affairs; be busy with affairs; handle these matters
+3736|Unit 63|事务所|shìwùsuǒ|n.|office|律师事务所；会计师事务所；在事务所工作|lǜshī shìwùsuǒ; kuàijìshī shìwùsuǒ; zài shìwùsuǒ gōngzuò|law firm; accounting firm; work at a professional office
+3737|Unit 63|事项|shìxiàng|n.|item; matter|注意事项；重要事项；报名事项；有关事项|zhùyì shìxiàng; zhòngyào shìxiàng; bàomíng shìxiàng; yǒuguān shìxiàng|points requiring attention; important matters; registration matters; relevant matters
+3738|Unit 63|事宜|shìyí|n.|matters concerned|相关事宜；各类事宜；询问合作事宜|xiāngguān shìyí; gèlèi shìyí; xúnwèn hézuò shìyí|related matters; various matters; inquire about cooperation matters
+3739|Unit 63|侍候|shìhou|v.|wait upon; look after|侍候病人；侍候父母|shìhou bìngrén; shìhou fùmǔ|look after a patient; care for one's parents
+3740|Unit 63|试探|shìtan|v.|sound out; feel out|试探他的态度；反复试探；主动试探；进一步试探|shìtan tā de tàidu; fǎnfù shìtan; zhǔdòng shìtan; jìnyíbù shìtan|sound out his attitude; probe repeatedly; take the initiative to probe; probe further
+3741|Unit 63|试行|shìxíng|v.|try out|首次试行；试行标准；试行办法|shǒucì shìxíng; shìxíng biāozhǔn; shìxíng bànfǎ|try out for the first time; trial standard; trial measures
+3742|Unit 63|试用|shìyòng|v.|try out; be on probation|免费试用；试用品；试用版；试用的机会|miǎnfèi shìyòng; shìyòngpǐn; shìyòngbǎn; shìyòng de jīhuì|free trial; trial product; trial version; an opportunity to try it
+3743|Unit 63|试用期|shìyòngqī|n.|probation period|试用期待遇；干部试用期；试用期合同；三个月的试用期|shìyòngqī dàiyù; gànbù shìyòngqī; shìyòngqī hétong; sān ge yuè de shìyòngqī|probation-period benefits; probation period for officials; probationary contract; a three-month probation period
+3744|Unit 63|视察|shìchá|v.|inspect; examine|视察工作；视察地形；视察民情；视察边界|shìchá gōngzuò; shìchá dìxíng; shìchá mínqíng; shìchá biānjiè|inspect the work; inspect the terrain; survey local conditions; inspect the border
+3745|Unit 63|视角|shìjiǎo|n.|angle of view; perspective|独特的视角；全新的视角；女性视角|dútè de shìjiǎo; quánxīn de shìjiǎo; nǚxìng shìjiǎo|a unique perspective; a brand-new perspective; a female perspective
+3746|Unit 63|视觉|shìjué|n.|vision; visual sense|视觉冲击；视觉形象；视觉感受|shìjué chōngjī; shìjué xíngxiàng; shìjué gǎnshòu|visual impact; visual image; visual perception
+3747|Unit 63|视力|shìlì|n.|vision; eyesight|检查视力；视力下降；保护视力|jiǎnchá shìlì; shìlì xiàjiàng; bǎohù shìlì|check one's eyesight; eyesight declines; protect one's eyesight
+3748|Unit 63|视线|shìxiàn|n.|line of vision; attention|视线模糊；挡住视线；转移公众的视线|shìxiàn móhu; dǎngzhù shìxiàn; zhuǎnyí gōngzhòng de shìxiàn|blurred vision; block the line of sight; divert the public's attention
+3749|Unit 63|视野|shìyě|n.|field of vision; view|广阔的视野；开阔视野；打开视野；进入公众的视野|guǎngkuò de shìyě; kāikuò shìyě; dǎkāi shìyě; jìnrù gōngzhòng de shìyě|a broad field of vision; broaden one's horizons; open up one's horizons; enter the public eye
+3750|Unit 63|柿子|shìzi|n.|persimmon|柿子树；捏软柿子|shìzi shù; niē ruǎn shìzi|persimmon tree; pick on an easy target
+3751|Unit 63|是非|shìfēi|n.|right and wrong; dispute|分清是非；招惹是非；远离是非|fēnqīng shìfēi; zhāorě shìfēi; yuǎnlí shìfēi|distinguish right from wrong; stir up trouble; stay away from disputes
+3752|Unit 63|适度|shìdù|adj.|appropriate; moderate|规模适度；运动适度；适度调整|guīmó shìdù; yùndòng shìdù; shìdù tiáozhěng|moderate in scale; exercise moderately; make appropriate adjustments
+3753|Unit 63|适量|shìliàng|adj.|appropriate in amount|适量饮酒；适量补充维生素；适量增加|shìliàng yǐnjiǔ; shìliàng bǔchōng wéishēngsù; shìliàng zēngjiā|drink alcohol in moderation; take an appropriate amount of vitamins; increase by an appropriate amount
+3754|Unit 63|适时|shìshí|adj.|timely; at the right time|适时调整；适时结束；适时离场；适时更新|shìshí tiáozhěng; shìshí jiéshù; shìshí líchǎng; shìshí gēngxīn|adjust at the right time; finish at the right time; leave at the right time; update in a timely manner
+3755|Unit 63|适宜|shìyí|adj.|suitable; appropriate|温度适宜；条件适宜；适宜居住；适宜植物生长|wēndù shìyí; tiáojiàn shìyí; shìyí jūzhù; shìyí zhíwù shēngzhǎng|a suitable temperature; suitable conditions; suitable for living; suitable for plant growth
+3756|Unit 63|逝世|shìshì|v.|pass away; die|不幸逝世；逝世三周年|bùxìng shìshì; shìshì sān zhōunián|unfortunately pass away; the third anniversary of one's death
+3757|Unit 63|释放|shìfàng|v.|release; set free|无罪释放；释放犯人；释放压力；释放能量；释放信号|wúzuì shìfàng; shìfàng fànrén; shìfàng yālì; shìfàng néngliàng; shìfàng xìnhào|release after acquittal; release a prisoner; relieve stress; release energy; emit a signal
+3758|Unit 63|嗜好|shìhào|n.|hobby; addiction|不良嗜好；特殊的嗜好|bùliáng shìhào; tèshū de shìhào|a bad habit; a special hobby
+3759|Unit 63|收复|shōufù|v.|recover; recapture|收复失地；收复国土；收复城市|shōufù shīdì; shōufù guótǔ; shōufù chéngshì|recover lost territory; recapture national territory; recapture a city
+3760|Unit 63|收据|shōujù|n.|receipt|三张收据；专用收据；缴费收据；开收据|sān zhāng shōujù; zhuānyòng shōujù; jiǎofèi shōujù; kāi shōujù|three receipts; special-purpose receipt; payment receipt; issue a receipt
+3761|Unit 63|收敛|shōuliǎn|v.|restrain oneself; weaken|收敛脾气；不正之风有所收敛|shōuliǎn píqi; bùzhèng zhī fēng yǒusuǒ shōuliǎn|restrain one's temper; improper practices have abated
+3762|Unit 63|收留|shōuliú|v.|take in; shelter|收留流浪猫；收留孤儿；同意收留；好心收留|shōuliú liúlàngmāo; shōuliú gū'ér; tóngyì shōuliú; hǎoxīn shōuliú|take in a stray cat; take in an orphan; agree to provide shelter; kindly provide shelter
+3763|Unit 63|收买|shōumǎi|v.|purchase; buy over; bribe|收买粮食；收买人心；他被收买了|shōumǎi liángshi; shōumǎi rénxīn; tā bèi shōumǎi le|purchase grain; buy people's support; he was bought off
+3764|Unit 63|收视率|shōushìlǜ|n.|television rating|节目收视率；收视率很高；提高收视率|jiémù shōushìlǜ; shōushìlǜ hěn gāo; tígāo shōushìlǜ|a program's television rating; have high ratings; raise the ratings
+3765|Unit 63|收缩|shōusuō|v.|contract; shrink; draw back|遇冷收缩；收缩兵力；收缩血管|yù lěng shōusuō; shōusuō bīnglì; shōusuō xuèguǎn|contract when cold; reduce troop strength; constrict blood vessels
+3766|Unit 63|收支|shōuzhī|n.|income and expenditure|收支平衡；财政收支；家庭收支；日常收支|shōuzhī pínghéng; cáizhèng shōuzhī; jiātíng shōuzhī; rìcháng shōuzhī|balance income and expenditure; fiscal revenue and expenditure; household income and expenditure; daily income and expenditure
+3767|Unit 63|手臂|shǒubì|n.|arm|张开手臂；举起手臂；伸出手臂|zhāngkāi shǒubì; jǔqǐ shǒubì; shēnchū shǒubì|open one's arms; raise an arm; extend an arm
+3768|Unit 63|手册|shǒucè|n.|manual; handbook|使用手册；技术手册；词汇手册；旅行手册|shǐyòng shǒucè; jìshù shǒucè; cíhuì shǒucè; lǚxíng shǒucè|user manual; technical manual; vocabulary handbook; travel guide
+3769|Unit 63|手动|shǒudòng|adj.|manual|手动挡汽车；手动调节；手动输入|shǒudòng dǎng qìchē; shǒudòng tiáojié; shǒudòng shūrù|a manual-transmission car; adjust manually; enter manually
+3770|Unit 63|手脚|shǒujiǎo|n.|movement; trick; underhand method|手脚敏捷；慌了手脚；他在公司账上动了手脚|shǒujiǎo mǐnjié; huāng le shǒujiǎo; tā zài gōngsī zhàng shàng dòng le shǒujiǎo|be quick and agile; become flustered; he tampered with the company accounts
+3771|Unit 63|手帕|shǒupà|n.|handkerchief|一块手帕；用手帕包着伤口|yí kuài shǒupà; yòng shǒupà bāo zhe shāngkǒu|a handkerchief; wrap the wound with a handkerchief
+3772|Unit 63|手枪|shǒuqiāng|n.|pistol|一把手枪；掏出手枪|yì bǎ shǒuqiāng; tāochū shǒuqiāng|a pistol; pull out a pistol
+3773|Unit 63|手势|shǒushì|n.|gesture|“点赞”的手势；打手势|"diǎnzàn" de shǒushì; dǎ shǒushì|a thumbs-up gesture; make a gesture
+3774|Unit 63|手术室|shǒushùshì|n.|operating room|进手术室；在手术室外等候|jìn shǒushùshì; zài shǒushùshì wài děnghòu|enter the operating room; wait outside the operating room
+3775|Unit 63|手头|shǒutóu|n.|what is at hand; current financial condition|手头的工作；手头的资料；手头紧；手头很宽松|shǒutóu de gōngzuò; shǒutóu de zīliào; shǒutóu jǐn; shǒutóu hěn kuānsōng|work at hand; materials at hand; be short of money; be financially comfortable
+3776|Unit 63|手腕|shǒuwàn|n.|wrist; trick; stratagem|右手手腕；耍手腕；外交手腕；政治手腕|yòushǒu shǒuwàn; shuǎ shǒuwàn; wàijiāo shǒuwàn; zhèngzhì shǒuwàn|right wrist; resort to tricks; diplomatic tactics; political tactics
+3777|Unit 63|手艺|shǒuyì|n.|craftsmanship; handicraft|手艺人；高超的手艺；学手艺|shǒuyìrén; gāochāo de shǒuyì; xué shǒuyì|craftsperson; superb craftsmanship; learn a craft
+3778|Unit 63|手掌|shǒuzhǎng|n.|palm|手掌心；拍手掌|shǒuzhǎngxīn; pāi shǒuzhǎng|the center of the palm; clap one's hands
+3779|Unit 63|守候|shǒuhòu|v.|wait for; keep watch|守候消息；为爱守候；守候病人|shǒuhòu xiāoxi; wèi ài shǒuhòu; shǒuhòu bìngrén|wait for news; wait faithfully for love; keep watch over a patient
+3780|Unit 63|守护|shǒuhù|v.|guard; protect|守护家园；守护儿童；守护生命|shǒuhù jiāyuán; shǒuhù értóng; shǒuhù shēngmìng|protect one's homeland; protect children; safeguard life
