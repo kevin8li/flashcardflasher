@@ -786,3 +786,63 @@ Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin
 3778|Unit 63|手掌|shǒuzhǎng|n.|palm|手掌心；拍手掌|shǒuzhǎngxīn; pāi shǒuzhǎng|the center of the palm; clap one's hands
 3779|Unit 63|守候|shǒuhòu|v.|wait for; keep watch|守候消息；为爱守候；守候病人|shǒuhòu xiāoxi; wèi ài shǒuhòu; shǒuhòu bìngrén|wait for news; wait faithfully for love; keep watch over a patient
 3780|Unit 63|守护|shǒuhù|v.|guard; protect|守护家园；守护儿童；守护生命|shǒuhù jiāyuán; shǒuhù értóng; shǒuhù shēngmìng|protect one's homeland; protect children; safeguard life
+4081|Unit 69|天性|tiānxìng|n.|nature; innate character|天性善良；孩子的天性；人的天性|tiānxìng shànliáng; háizi de tiānxìng; rén de tiānxìng|be kind by nature; a child's nature; human nature
+4082|Unit 69|天真|tiānzhēn|adj.|naive; innocent|天真的孩子；天真活泼；天真的想法|tiānzhēn de háizi; tiānzhēn huópō; tiānzhēn de xiǎngfǎ|an innocent child; innocent and lively; a naive idea
+4083|Unit 69|天主教|Tiānzhǔjiào|n.|Catholicism|信仰天主教；天主教国家；天主教教堂|xìnyǎng Tiānzhǔjiào; Tiānzhǔjiào guójiā; Tiānzhǔjiào jiàotáng|believe in Catholicism; a Catholic country; a Catholic church
+4084|Unit 69|添加|tiānjiā|v.|add|添加材料；添加成分；禁止添加|tiānjiā cáiliào; tiānjiā chéngfèn; jìnzhǐ tiānjiā|add material; add an ingredient; addition prohibited
+4085|Unit 69|田间|tiánjiān|n.|in the fields|田间管理；田间劳作；田间小路|tiánjiān guǎnlǐ; tiánjiān láozuò; tiánjiān xiǎolù|field management; work in the fields; a path through the fields
+4086|Unit 69|甜言蜜语|tiányán-mìyǔ|n./idiom|sweet words; honeyed phrases|女人容易被甜言蜜语迷惑。|nǚrén róngyì bèi tiányán-mìyǔ míhuò.|Women are easily deceived by honeyed words.
+4087|Unit 69|挑|tiāo|v.|select; choose|挑花色；挑对象；挑菜|tiāo huāsè; tiāo duìxiàng; tiāo cài|choose a color or pattern; choose a partner; select vegetables
+4088|Unit 69|挑剔|tiāoti|adj./v.|picky; critical; find fault|挑剔食物；很挑剔；挑剔的语气|tiāoti shíwù; hěn tiāoti; tiāoti de yǔqì|be picky about food; be very picky; a critical tone
+4089|Unit 69|条款|tiáokuǎn|n.|clause; article|协议条款；某些条款；不平等条款|xiéyì tiáokuǎn; mǒuxiē tiáokuǎn; bù píngděng tiáokuǎn|agreement clauses; certain clauses; unequal terms
+4090|Unit 69|条例|tiáolì|n.|regulations; ordinance|管理条例；交通管理条例；国家颁布的条例|guǎnlǐ tiáolì; jiāotōng guǎnlǐ tiáolì; guójiā bānbù de tiáolì|administrative regulations; traffic regulations; regulations issued by the state
+4091|Unit 69|条约|tiáoyuē|n.|treaty|和平条约；不平等条约；订立条约|hépíng tiáoyuē; bù píngděng tiáoyuē; dìnglì tiáoyuē|peace treaty; unequal treaty; conclude a treaty
+4092|Unit 69|调和|tiáohé|v.|mediate; harmonize; blend|调和意见；调和矛盾；调和颜色|tiáohé yìjiàn; tiáohé máodùn; tiáohé yánsè|reconcile opinions; mediate a conflict; blend colors
+4093|Unit 69|调解|tiáojiě|v.|mediate|调解矛盾；调解争端；调解纠纷|tiáojiě máodùn; tiáojiě zhēngduān; tiáojiě jiūfēn|mediate a conflict; mediate a dispute; settle a disagreement
+4094|Unit 69|调味|tiáo//wèi|v.|season; flavor|用葱姜调味；调味品；调味料|yòng cōng jiāng tiáowèi; tiáowèipǐn; tiáowèiliào|season with scallion and ginger; seasoning; flavoring
+4095|Unit 69|调养|tiáoyǎng|v.|recuperate; take care of|调养身体；调养半个月；静心调养|tiáoyǎng shēntǐ; tiáoyǎng bàn ge yuè; jìngxīn tiáoyǎng|nurse one's health; recuperate for half a month; recuperate in peace
+4096|Unit 69|调整|tiáozhěng|v.|adjust; readjust|调整队伍；调整方案；调整价格|tiáozhěng duìwu; tiáozhěng fāng'àn; tiáozhěng jiàgé|reorganize the team; revise the plan; adjust the price
+4097|Unit 69|挑衅|tiǎoxìn|v.|provoke; defy|挑衅者；武装挑衅；被人挑衅|tiǎoxìnzhě; wǔzhuāng tiǎoxìn; bèi rén tiǎoxìn|provocateur; armed provocation; be provoked by someone
+4098|Unit 69|跳板|tiàobǎn|n.|springboard; jumping board|一块跳板；跳板项目；当作跳板|yí kuài tiàobǎn; tiàobǎn xiàngmù; dàngzuò tiàobǎn|a springboard; springboard event; use as a stepping stone
+4099|Unit 69|跳动|tiàodòng|v.|beat; pulsate|心脏跳动；脉搏跳动；手指跳动|xīnzàng tiàodòng; màibó tiàodòng; shǒuzhǐ tiàodòng|the heart beats; the pulse beats; a finger twitches
+4100|Unit 69|跳伞|tiào//sǎn|v./n.|parachute; parachuting|空中跳伞；跳伞运动员；跳伞表演|kōngzhōng tiàosǎn; tiàosǎn yùndòngyuán; tiàosǎn biǎoyǎn|parachute through the air; parachutist; parachuting performance
+4101|Unit 69|跳跃|tiàoyuè|v.|jump; leap|跳跃动作；上下跳跃；跳跃着跑|tiàoyuè dòngzuò; shàngxià tiàoyuè; tiàoyuè zhe pǎo|jumping movement; jump up and down; run with bounding steps
+4102|Unit 69|贴心|tiēxīn|adj.|thoughtful; caring; close|贴心的话；贴心的孩子；服务贴心|tiēxīn de huà; tiēxīn de háizi; fúwù tiēxīn|caring words; a thoughtful child; attentive service
+4103|Unit 69|帖|tiě|n.|invitation; note|请帖；喜帖；发帖|qǐngtiě; xǐtiě; fātiě|invitation; wedding invitation; make a post
+4104|Unit 69|听从|tīngcóng|v.|obey; comply with|听从劝告；听从安排；听从命令|tīngcóng quàngào; tīngcóng ānpái; tīngcóng mìnglìng|heed advice; follow arrangements; obey an order
+4105|Unit 69|听话|tīng//huà|v.|be obedient|听话的孩子；听老师的话；不听话|tīnghuà de háizi; tīng lǎoshī de huà; bù tīnghuà|an obedient child; listen to the teacher; be disobedient
+4106|Unit 69|停泊|tíngbó|v.|berth; anchor|停泊码头；船舶停泊；禁止停泊|tíngbó mǎtóu; chuánbó tíngbó; jìnzhǐ tíngbó|dock at a wharf; a ship berths; berthing prohibited
+4107|Unit 69|停顿|tíngdùn|v./n.|stop; pause|停顿一下；出现停顿；短暂停顿|tíngdùn yíxià; chūxiàn tíngdùn; duǎnzàn tíngdùn|pause briefly; a pause occurs; brief pause
+4108|Unit 69|停靠|tíngkào|v.|stop and dock|中途停靠；停靠港口；停靠10分钟|zhōngtú tíngkào; tíngkào gǎngkǒu; tíngkào shí fēnzhōng|stop along the way; dock at a port; stop for ten minutes
+4109|Unit 69|停留|tíngliú|v.|stay; remain|停留几天；停留两个小时；不能停留|tíngliú jǐ tiān; tíngliú liǎng ge xiǎoshí; bù néng tíngliú|stay for several days; remain for two hours; cannot stay
+4110|Unit 69|停滞|tíngzhì|v.|stagnate; come to a standstill|停滞发展；生产停滞；经济停滞|tíngzhì fāzhǎn; shēngchǎn tíngzhì; jīngjì tíngzhì|development stagnates; production comes to a standstill; the economy stagnates
+4111|Unit 69|停住|tíngzhù|v.|stop|停住脚步；风停住了；让他们停住|tíngzhù jiǎobù; fēng tíngzhù le; ràng tāmen tíngzhù|stop walking; the wind stopped; make them stop
+4112|Unit 69|亭子|tíngzi|n.|pavilion|一座亭子；盖亭子；小亭子|yí zuò tíngzi; gài tíngzi; xiǎo tíngzi|a pavilion; build a pavilion; small pavilion
+4113|Unit 69|庭院|tíngyuàn|n.|courtyard|庭院深深；庭院里；在庭院中|tíngyuàn shēnshēn; tíngyuàn lǐ; zài tíngyuàn zhōng|a deep courtyard; in the courtyard; within the courtyard
+4114|Unit 69|通车|tōng//chē|v.|open to traffic|铁路通车；地铁通车；正式通车|tiělù tōngchē; dìtiě tōngchē; zhèngshì tōngchē|the railway opens to traffic; the subway opens; officially open to traffic
+4115|Unit 69|通风|tōng//fēng|v.|ventilate|开窗通风；通风口；通风设备|kāi chuāng tōngfēng; tōngfēngkǒu; tōngfēng shèbèi|open a window for ventilation; air vent; ventilation equipment
+4116|Unit 69|通告|tōnggào|v./n.|announce; notice|通告学生；通告全校；发布通告；紧急通告|tōnggào xuéshēng; tōnggào quánxiào; fābù tōnggào; jǐnjí tōnggào|notify the students; notify the whole school; issue a notice; urgent notice
+4117|Unit 69|通航|tōng//háng|v.|open to navigation or air service|中国和美国之间通航；正式通航；飞机通航|Zhōngguó hé Měiguó zhījiān tōngháng; zhèngshì tōngháng; fēijī tōngháng|air service between China and the United States; officially open a route; aircraft service begins
+4118|Unit 69|通话|tōng//huà|v.|talk by telephone|通话时间；和朋友通话；正在通话|tōnghuà shíjiān; hé péngyou tōnghuà; zhèngzài tōnghuà|call duration; talk with a friend by phone; be on a call
+4119|Unit 69|通缉|tōngjī|v.|issue an arrest warrant|通缉犯；全国通缉；通缉令|tōngjīfàn; quánguó tōngjī; tōngjīlìng|wanted criminal; wanted nationwide; arrest warrant
+4120|Unit 69|通顺|tōngshùn|adj.|coherent; smooth|语言通顺；文章通顺；句子不通顺|yǔyán tōngshùn; wénzhāng tōngshùn; jùzi bù tōngshùn|fluent language; a smoothly written article; an awkward sentence
+4121|Unit 69|通行证|tōngxíngzhèng|n.|pass; permit|带上通行证；出示通行证；通行证号码|dài shàng tōngxíngzhèng; chūshì tōngxíngzhèng; tōngxíngzhèng hàomǎ|bring a pass; show a pass; pass number
+4122|Unit 69|通用|tōngyòng|adj./v.|in common use; universally applicable|通用语言；通用标准；全国通用|tōngyòng yǔyán; tōngyòng biāozhǔn; quánguó tōngyòng|common language; universal standard; valid nationwide
+4123|Unit 69|同胞|tóngbāo|n.|sibling; compatriot|同胞姐妹；同胞兄弟；海外同胞|tóngbāo jiěmèi; tóngbāo xiōngdì; hǎiwài tóngbāo|biological sisters; biological brothers; compatriots overseas
+4124|Unit 69|同伴|tóngbàn|n.|companion; partner|同伴好友；和同伴一起；找一个同伴|tóngbàn hǎoyǒu; hé tóngbàn yìqǐ; zhǎo yí ge tóngbàn|companions and friends; together with a companion; find a companion
+4125|Unit 69|同等|tóngděng|adj.|equal; equivalent|同等资格；同等条件；同等对待|tóngděng zīgé; tóngděng tiáojiàn; tóngděng duìdài|equivalent qualifications; equal conditions; treat equally
+4126|Unit 69|同感|tónggǎn|n.|same feeling|深有同感；表示同感；有同感|shēn yǒu tónggǎn; biǎoshì tónggǎn; yǒu tónggǎn|feel exactly the same; express the same feeling; share the feeling
+4127|Unit 69|同行|tóngháng|n.|person in the same occupation; peer|同行关系；同行竞争；我的同行|tóngháng guānxì; tóngháng jìngzhēng; wǒ de tóngháng|relations among peers; competition within the industry; my professional peer
+4128|Unit 69|同伙|tónghuǒ|n.|accomplice; partner|一名同伙；同伙作案；他的同伙|yì míng tónghuǒ; tónghuǒ zuò'àn; tā de tónghuǒ|an accomplice; commit a crime with accomplices; his accomplice
+4129|Unit 69|同期|tóngqī|n.|corresponding period|去年同期；历史同期；同期增长|qùnián tóngqī; lìshǐ tóngqī; tóngqī zēngzhǎng|the same period last year; the corresponding historical period; year-on-year growth
+4130|Unit 69|同一|tóngyī|adj.|same; identical|同一问题；同一地区；同一水平|tóngyī wèntí; tóngyī dìqū; tóngyī shuǐpíng|the same issue; the same region; the same level
+4131|Unit 69|铜|tóng|n.|copper|一块铜；铜矿；铜制品|yí kuài tóng; tóngkuàng; tóngzhìpǐn|a piece of copper; copper mine; copper product
+4132|Unit 69|童谣|tóngyáo|n.|nursery rhyme|一首童谣；唱童谣；民间童谣|yì shǒu tóngyáo; chàng tóngyáo; mínjiān tóngyáo|a nursery rhyme; sing a nursery rhyme; folk nursery rhyme
+4133|Unit 69|瞳孔|tóngkǒng|n.|pupil of the eye|瞳孔缩小；瞳孔很大；观察瞳孔|tóngkǒng suōxiǎo; tóngkǒng hěn dà; guānchá tóngkǒng|the pupil contracts; the pupil is large; examine the pupil
+4134|Unit 69|捅|tǒng|v.|poke; stab; pierce|捅马蜂窝；捅伤；捅破|tǒng mǎfēngwō; tǒngshāng; tǒngpò|poke a hornet's nest; stab and injure; puncture
+4135|Unit 69|统筹|tǒngchóu|v.|plan as a whole; coordinate|统筹安排；全面统筹；统筹发展|tǒngchóu ānpái; quánmiàn tǒngchóu; tǒngchóu fāzhǎn|make coordinated arrangements; coordinate comprehensively; coordinate development
+4136|Unit 69|统计|tǒngjì|v./n.|count; compile statistics; statistics|统计人数；统计数据；人口统计|tǒngjì rénshù; tǒngjì shùjù; rénkǒu tǒngjì|count the number of people; statistical data; population statistics
+4137|Unit 69|统统|tǒngtǒng|adv.|all; completely|把钱统统花光；统统拿走；统统忘掉|bǎ qián tǒngtǒng huāguāng; tǒngtǒng názǒu; tǒngtǒng wàngdiào|spend all the money; take everything away; forget everything
+4138|Unit 69|统治|tǒngzhì|v.|rule; govern|统治国家；统治者；统治地位|tǒngzhì guójiā; tǒngzhìzhě; tǒngzhì dìwèi|rule a country; ruler; ruling position
+4139|Unit 69|痛快|tòngkuai|adj.|delighted; to one's heart's content|痛快地玩儿；痛快地喝酒；玩儿得痛快|tòngkuai de wánr; tòngkuai de hējiǔ; wánr de tòngkuai|play to one's heart's content; drink freely; have a great time
+4140|Unit 69|痛心|tòngxīn|adj.|distressed; grieved|令人痛心；感到痛心；不胜痛心|lìng rén tòngxīn; gǎndào tòngxīn; bú shèng tòngxīn|heartbreaking; feel distressed; be deeply grieved
