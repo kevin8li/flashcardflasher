@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+4201|Unit 71|退却|tuìquè|v.|retreat; hang back|战略退却；遇到挫折也决不退却；暂时的退却|zhànlüè tuìquè; yùdào cuòzhé yě jué bù tuìquè; zànshí de tuìquè|strategic retreat; never retreat even when encountering setbacks; temporary retreat
+4202|Unit 71|退让|tuìràng|v.|step aside; make a concession; yield|他退让不及，被车撞倒了；一再退让；在原则性问题上从不退让|tā tuìràng bù jí, bèi chē zhuàngdǎo le; yízài tuìràng; zài yuánzéxìng wèntí shàng cóng bù tuìràng|He could not get out of the way in time and was knocked down by a car; repeatedly make concessions; never yield on matters of principle
+4203|Unit 71|退缩|tuìsuō|v.|shrink back; flinch|从不退缩；绝不退缩；退缩不前|cóng bù tuìsuō; jué bù tuìsuō; tuìsuō bù qián|never shrink back; absolutely refuse to retreat; shrink back and refuse to move forward
+4204|Unit 71|退休金|tuìxiūjīn|n.|retirement pay; pension|发放退休金；领取退休金；退休金账户|fāfàng tuìxiūjīn; lǐngqǔ tuìxiūjīn; tuìxiūjīn zhànghù|pay out pensions; receive a pension; pension account
+4205|Unit 71|退学|tuì//xué|v.|leave school; drop out|因病退学；宣布退学|yīnbìng tuìxué; xuānbù tuìxué|leave school because of illness; announce withdrawal from school
+4206|Unit 71|退役|tuì//yì|v.|retire; be discharged from service|退役军人；运动员退役；退役战斗机|tuìyì jūnrén; yùndòngyuán tuìyì; tuìyì zhàndòujī|military veteran; an athlete retires; retired fighter aircraft
+4207|Unit 71|屯|tún|n.|village, often used in village names|三里屯；江北屯；皇姑屯|Sānlǐtún; Jiāngběitún; Huánggūtún|Sanlitun; Jiangbeitun; Huanggutun
+4208|Unit 71|托付|tuōfù|v.|entrust; commit to someone's care|托付于人；无人可以托付|tuōfù yú rén; wú rén kěyǐ tuōfù|entrust to someone; have no one to entrust it to
+4209|Unit 71|拖累|tuōlèi|v.|encumber; burden; implicate|拖累别人；拖累家庭；受子女拖累|tuōlèi biérén; tuōlèi jiātíng; shòu zǐnǚ tuōlèi|burden others; burden the family; be burdened by one's children
+4210|Unit 71|拖欠|tuōqiàn|v.|be behind in payment; default|拖欠租金；拖欠税款；拖欠费用|tuōqiàn zūjīn; tuōqiàn shuìkuǎn; tuōqiàn fèiyòng|owe overdue rent; be behind on taxes; owe unpaid fees
+4211|Unit 71|拖延|tuōyán|v.|delay; put off; procrastinate|拖延时间；一再拖延；故意拖延|tuōyán shíjiān; yízài tuōyán; gùyì tuōyán|stall for time; delay repeatedly; deliberately delay
+4212|Unit 71|脱节|tuō//jié|v.|come apart; be disjointed; become disconnected|理论与实践脱节；与时代脱节；与市场脱节|lǐlùn yǔ shíjiàn tuōjié; yǔ shídài tuōjié; yǔ shìchǎng tuōjié|theory is disconnected from practice; be out of touch with the times; be disconnected from the market
+4213|Unit 71|脱口而出|tuōkǒu'érchū|idiom|blurt out|刚回国的时候，她说话必须特别留神，否则英语就会脱口而出。|gāng huíguó de shíhou, tā shuōhuà bìxū tèbié liúshén, fǒuzé Yīngyǔ jiù huì tuōkǒu'érchū|When she had just returned to China, she had to be especially careful when speaking, otherwise English would blurt out automatically.
+4214|Unit 71|脱落|tuōluò|v.|drop; fall off; come off|牙齿脱落；油漆脱落|yáchǐ tuōluò; yóuqī tuōluò|teeth fall out; paint peels off
+4215|Unit 71|脱身|tuō//shēn|v.|get away; get free|想办法脱身；从麻烦中脱身；难以脱身|xiǎng bànfǎ tuōshēn; cóng máfan zhōng tuōshēn; nányǐ tuōshēn|find a way to get away; get out of trouble; find it difficult to get away
+4216|Unit 71|脱颖而出|tuōyǐng'érchū|idiom|stand out; distinguish oneself|他能从两百个应聘者里脱颖而出，靠的不是运气。|tā néng cóng liǎngbǎi ge yìngpìnzhě lǐ tuōyǐng'érchū, kào de bú shì yùnqi|He was able to stand out from two hundred applicants, and it was not because of luck.
+4217|Unit 71|驮|tuó|v.|carry on the back|驮东西；驮着一个人；驮起来；驮不动|tuó dōngxi; tuózhe yí ge rén; tuó qǐlái; tuó bu dòng|carry things on the back; carry a person on the back; lift and carry on the back; be unable to carry
+4218|Unit 71|妥|tuǒ|adj.|appropriate; ready; settled|不妥；妥否；办妥；备妥|bù tuǒ; tuǒ fǒu; bàntuǒ; bèituǒ|inappropriate; whether it is appropriate; get something settled; prepare properly
+4219|Unit 71|妥当|tuǒdang|adj.|suitable; proper; appropriate|处理妥当；妥当安排|chǔlǐ tuǒdang; tuǒdang ānpái|handle properly; arrange appropriately
+4220|Unit 71|妥善|tuǒshàn|adj./adv.|well arranged; appropriate; properly|妥善处理；妥善安排；妥善保管|tuǒshàn chǔlǐ; tuǒshàn ānpái; tuǒshàn bǎoguǎn|handle properly; arrange properly; keep safely
+4221|Unit 71|妥协|tuǒxié|v.|compromise|互相妥协；决不妥协；彻底妥协|hùxiāng tuǒxié; jué bù tuǒxié; chèdǐ tuǒxié|compromise with each other; never compromise; compromise completely
+4222|Unit 71|拓宽|tuòkuān|v.|widen; broaden|拓宽马路；拓宽思路；拓宽业务|tuòkuān mǎlù; tuòkuān sīlù; tuòkuān yèwù|widen a road; broaden one's thinking; expand business scope
+4223|Unit 71|拓展|tuòzhǎn|v.|expand; spread; extend; develop|拓展思路；拓展业务；拓展能力|tuòzhǎn sīlù; tuòzhǎn yèwù; tuòzhǎn nénglì|expand one's thinking; expand business; develop capabilities
+4224|Unit 71|唾液|tuòyè|n.|saliva|分泌唾液|fēnmì tuòyè|secrete saliva
+4225|Unit 71|挖掘|wājué|v.|excavate; unearth; explore|挖掘机；挖掘宝藏；挖掘潜力；挖掘真相；深入挖掘|wājuéjī; wājué bǎozàng; wājué qiánlì; wājué zhēnxiàng; shēnrù wājué|excavator; unearth treasure; tap potential; uncover the truth; dig deeper
+4226|Unit 71|挖苦|wākǔ|v.|speak sarcastically; mock|挖苦人；互相挖苦；挖苦的意味|wākǔ rén; hùxiāng wākǔ; wākǔ de yìwèi|mock someone; mock each other; a sarcastic tone
+4227|Unit 71|瓦|wǎ|n.|tile|房瓦；瓦片；瓦块|fángwǎ; wǎpiàn; wǎkuài|roof tile; tile fragment; piece of tile
+4228|Unit 71|歪|wāi|adj.|askew; crooked; devious|挂歪了；歪鼻子；歪理；歪主意|guà wāi le; wāi bízi; wāilǐ; wāi zhǔyi|hung crooked; crooked nose; twisted reasoning; bad idea
+4229|Unit 71|歪曲|wāiqū|v.|distort; misrepresent|歪曲事实；歪曲真相；歪曲我的话；不容歪曲|wāiqū shìshí; wāiqū zhēnxiàng; wāiqū wǒ de huà; bù róng wāiqū|distort the facts; distort the truth; twist my words; not allow distortion
+4230|Unit 71|外表|wàibiǎo|n.|appearance; surface|美观的外表；光鲜的外表；外表坚强|měiguān de wàibiǎo; guāngxiān de wàibiǎo; wàibiǎo jiānqiáng|attractive appearance; glamorous appearance; appear strong on the outside
+4231|Unit 71|外公|wàigōng|n.|maternal grandfather|孩子的外公；外公的家乡|háizi de wàigōng; wàigōng de jiāxiāng|the child's maternal grandfather; maternal grandfather's hometown
+4232|Unit 71|外行|wàiháng|adj./n.|lay; unprofessional; layperson|外行话；对……不外行；是个外行；计算机领域的外行|wàihánghuà; duì... bù wàiháng; shì ge wàiháng; jìsuànjī lǐngyù de wàiháng|amateurish talk; not an outsider in...; be a layperson; a layperson in the field of computers
+4233|Unit 71|外号|wàihào|n.|nickname|起个外号；叫他的外号“火星人”|qǐ ge wàihào; jiào tā de wàihào “Huǒxīngrén”|give a nickname; call him by the nickname “Martian”
+4234|Unit 71|外籍|wàijí|n./adj.|foreign nationality; foreign|外籍专家；外籍员工；外籍游客|wàijí zhuānjiā; wàijí yuángōng; wàijí yóukè|foreign expert; foreign employee; foreign tourist
+4235|Unit 71|外贸|wàimào|n.|foreign trade|外贸公司；外贸中心；做外贸生意|wàimào gōngsī; wàimào zhōngxīn; zuò wàimào shēngyi|foreign trade company; foreign trade center; do foreign trade business
+4236|Unit 71|外貌|wàimào|n.|appearance; exterior; looks|外貌出众；人物的外貌；外貌特征|wàimào chūzhòng; rénwù de wàimào; wàimào tèzhēng|outstanding appearance; a person's appearance; physical features
+4237|Unit 71|外婆|wàipó|n.|maternal grandmother|外公外婆；慈祥的外婆；外婆做的饭|wàigōng wàipó; cíxiáng de wàipó; wàipó zuò de fàn|maternal grandparents; kind maternal grandmother; food cooked by grandmother
+4238|Unit 71|外企|wàiqǐ|n.|foreign enterprise; foreign-invested company|外企人员；在外企工作；外企的待遇|wàiqǐ rényuán; zài wàiqǐ gōngzuò; wàiqǐ de dàiyù|employees of a foreign company; work at a foreign company; compensation at a foreign company
+4239|Unit 71|外星人|wàixīngrén|n.|extraterrestrial being; alien|寻找外星人；外星人事件；有关外星人的传闻|xúnzhǎo wàixīngrén; wàixīngrén shìjiàn; yǒuguān wàixīngrén de chuánwén|search for aliens; alien incident; rumors about extraterrestrials
+4240|Unit 71|外形|wàixíng|n.|appearance; external form; shape|外形逼真；外形优美；独特的外形|wàixíng bīzhēn; wàixíng yōuměi; dútè de wàixíng|lifelike appearance; graceful shape; unique appearance
+4241|Unit 71|外援|wàiyuán|n.|foreign aid; outside help|引进外援；削减外援；聘请外援|yǐnjìn wàiyuán; xuējiǎn wàiyuán; pìnqǐng wàiyuán|bring in outside assistance; reduce foreign aid; hire outside help
+4242|Unit 71|丸|wán|n./m.|ball; pill; measure word for pills|肉丸；药丸；一丸药；一次一丸|ròuwán; yàowán; yì wán yào; yí cì yì wán|meatball; pill; one pill of medicine; one pill each time
+4243|Unit 71|完备|wánbèi|adj.|complete; perfect|设施完备；完备的体系|shèshī wánbèi; wánbèi de tǐxì|complete facilities; a complete system
+4244|Unit 71|完毕|wánbì|v.|finish; complete; end|汇报完毕；通话完毕；准备完毕|huìbào wánbì; tōnghuà wánbì; zhǔnbèi wánbì|report completed; phone call ended; preparations completed
+4245|Unit 71|完蛋|wán//dàn|v.|be done for; be finished|敌人快完蛋了；注定要完蛋；彻底完蛋|dírén kuài wándàn le; zhùdìng yào wándàn; chèdǐ wándàn|the enemy is almost finished; be doomed; be completely finished
+4246|Unit 71|完好|wánhǎo|adj.|intact; whole; in good condition|完好无缺；完好无损；保存完好|wánhǎo-wúquē; wánhǎo-wúsǔn; bǎocún wánhǎo|complete and intact; undamaged; well preserved
+4247|Unit 71|玩耍|wánshuǎ|v.|play; have fun|在河边玩耍；尽情玩耍|zài hébiān wánshuǎ; jìnqíng wánshuǎ|play by the river; play to one's heart's content
+4248|Unit 71|玩意儿|wányìr|n.|toy; thing; gadget|小玩意儿；新鲜玩意儿；他手里拿的是什么玩意儿|xiǎo wányìr; xīnxiān wányìr; tā shǒu lǐ ná de shì shénme wányìr|little gadget; novelty; what is that thing in his hand?
+4249|Unit 71|顽固|wángù|adj.|obstinate; stubborn|顽固派；极其顽固；顽固地坚持|wángùpài; jíqí wángù; wángù de jiānchí|die-hard faction; extremely stubborn; persist stubbornly
+4250|Unit 71|挽|wǎn|v.|draw; roll up; link arms|手挽着手；挽起袖子；挽起长发|shǒu wǎnzhe shǒu; wǎn qǐ xiùzi; wǎn qǐ chángfà|walk arm in arm; roll up one's sleeves; tie up long hair
+4251|Unit 71|挽回|wǎnhuí|v.|retrieve; redeem; recover|挽回面子；挽回局面；挽回损失；无法挽回；难以挽回|wǎnhuí miànzi; wǎnhuí júmiàn; wǎnhuí sǔnshī; wúfǎ wǎnhuí; nányǐ wǎnhuí|save face; salvage the situation; recover losses; impossible to recover; difficult to reverse
+4252|Unit 71|挽救|wǎnjiù|v.|save; rescue|挽救生命；挽救病人；无法挽救；竭力挽救|wǎnjiù shēngmìng; wǎnjiù bìngrén; wúfǎ wǎnjiù; jiélì wǎnjiù|save a life; save a patient; impossible to save; make every effort to rescue
+4253|Unit 71|晚间|wǎnjiān|n.|evening; night|晚间新闻；周三晚间|wǎnjiān xīnwén; Zhōusān wǎnjiān|evening news; Wednesday evening
+4254|Unit 71|晚年|wǎnnián|n.|old age; later years|晚年生活；安度晚年；幸福的晚年|wǎnnián shēnghuó; āndù wǎnnián; xìngfú de wǎnnián|life in old age; spend one's later years peacefully; happy later years
+4255|Unit 71|晚期|wǎnqī|n.|late period; terminal stage|晚期作品；癌症晚期；原始社会晚期|wǎnqī zuòpǐn; áizhèng wǎnqī; yuánshǐ shèhuì wǎnqī|late-period works; terminal-stage cancer; late primitive society
+4256|Unit 71|惋惜|wǎnxī|adj./v.|feel sorry; regret|感到惋惜；替他惋惜；为失去机会感到惋惜|gǎndào wǎnxī; tì tā wǎnxī; wèi shīqù jīhuì gǎndào wǎnxī|feel regret; feel sorry for him; regret losing the opportunity
+4257|Unit 71|万分|wànfēn|adv.|very much; extremely|万分痛苦；万分遗憾；万分抱歉|wànfēn tòngkǔ; wànfēn yíhàn; wànfēn bàoqiàn|extremely painful; deeply regretful; extremely sorry
+4258|Unit 71|万古长青|wàngǔ-chángqīng|idiom|last forever; be everlasting|祝两国人民的友谊万古长青！|zhù liǎng guó rénmín de yǒuyì wàngǔ-chángqīng|May the friendship between the peoples of the two countries last forever!
+4259|Unit 71|万能|wànnéng|adj.|omnipotent; universal; versatile|万能钥匙；万能胶|wànnéng yàoshi; wànnéng jiāo|master key; all-purpose glue
+4260|Unit 71|万万|wànwàn|adv.|absolutely, used in the negative|万万不能；万万不可；万万没有想到|wànwàn bù néng; wànwàn bù kě; wànwàn méiyǒu xiǎngdào|absolutely must not; absolutely not allowed; never in a million years expected
