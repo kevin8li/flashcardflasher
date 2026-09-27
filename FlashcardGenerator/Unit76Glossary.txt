@@ -1,0 +1,85 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+4531|Unit 76|威风|wēifēng|n.|awe-inspiring air; impressive power|威风扫地；显示威风；很威风|wēifēng sǎodì; xiǎnshì wēifēng; hěn wēifēng|lose all prestige; display one's authority; be very imposing
+4532|Unit 76|微不足道|wēibùzúdào|adj.|not worth mentioning|微不足道的小事；微不足道的成绩；个人的力量是微不足道的|wēibùzúdào de xiǎoshì; wēibùzúdào de chéngjì; gèrén de lìliang shì wēibùzúdào de|a trivial matter; an insignificant achievement; an individual's strength is insignificant
+4533|Unit 76|微观|wēiguān|adj.|microscopic|微观经济；微观世界；微观研究|wēiguān jīngjì; wēiguān shìjiè; wēiguān yánjiū|microeconomics; the microscopic world; microscopic research
+4534|Unit 76|微量|wēiliàng|adj.|trace; minute|微量元素；微量水；微量物质|wēiliàng yuánsù; wēiliàng shuǐ; wēiliàng wùzhì|trace elements; a trace amount of water; trace substances
+4535|Unit 76|微妙|wēimiào|adj.|subtle; delicate|微妙的关系；微妙的变化；感觉很微妙|wēimiào de guānxì; wēimiào de biànhuà; gǎnjué hěn wēimiào|a subtle relationship; subtle changes; feel very nuanced
+4536|Unit 76|微小|wēixiǎo|adj.|tiny; minute|微小差别；微小力量；微小颗粒|wēixiǎo chābié; wēixiǎo lìliang; wēixiǎo kēlì|a minute difference; a small force; tiny particles
+4537|Unit 76|微型|wēixíng|adj.|miniature; micro|微型小说；微型汽车；微型电脑|wēixíng xiǎoshuō; wēixíng qìchē; wēixíng diànnǎo|flash fiction; a mini car; a microcomputer
+4538|Unit 76|为期|wéiqī|v.|last for a certain period|为期不远；为期3天；为期两个月|wéiqī bù yuǎn; wéiqī sān tiān; wéiqī liǎng ge yuè|not far off; lasting three days; lasting two months
+4539|Unit 76|违背|wéibèi|v.|violate; go against|违背愿望；违背事实；违背自己的心|wéibèi yuànwàng; wéibèi shìshí; wéibèi zìjǐ de xīn|go against one's wishes; contradict the facts; go against one's own heart
+4540|Unit 76|违法|wéifǎ|v.|break the law; be illegal|违法行为；违法犯罪；违反法律|wéifǎ xíngwéi; wéifǎ fànzuì; wéifǎn fǎlǜ|illegal behavior; break the law and commit crimes; violate the law
+4541|Unit 76|违犯|wéifàn|v.|violate; offend|违犯法律；违犯错误；违犯纪律|wéifàn fǎlǜ; wéifàn cuòwù; wéifàn jìlǜ|violate the law; commit an error; violate discipline
+4542|Unit 76|违约|wéiyuē|v.|break a contract; break a promise|违约行为；交货违约；不许违约|wéiyuē xíngwéi; jiāohuò wéiyuē; bù xǔ wéiyuē|breach of contract; default on delivery; breach of contract is not allowed
+4543|Unit 76|围攻|wéigōng|v.|besiege; attack from all sides|围攻敌人；围攻城市；围攻战术|wéigōng dírén; wéigōng chéngshì; wéigōng zhànshù|besiege the enemy; besiege a city; siege tactics
+4544|Unit 76|围墙|wéiqiáng|n.|enclosing wall|学校的围墙；围墙很高；砌围墙|xuéxiào de wéiqiáng; wéiqiáng hěn gāo; qì wéiqiáng|the school's surrounding wall; the wall is very high; build a wall
+4545|Unit 76|唯|wéi|adv.|only|唯利是图；唯命是从；唯……为……|wéi lì shì tú; wéi mìng shì cóng; wéi...wéi...|seek nothing but profit; obey orders unquestioningly; regard ... as the only ...
+4546|Unit 76|唯独|wéidú|adv.|only; alone|唯独他没有来；唯独不喜欢这个；大家都同意，唯独他反对|wéidú tā méiyǒu lái; wéidú bù xǐhuan zhège; dàjiā dōu tóngyì, wéidú tā fǎnduì|only he did not come; dislike only this; everyone agreed except him
+4547|Unit 76|唯一|wéiyī|adj.|only; sole|唯一选择；唯一的孩子；唯一的办法|wéiyī xuǎnzé; wéiyī de háizi; wéiyī de bànfǎ|the only choice; the only child; the only solution
+4548|Unit 76|为|wèi|prep.|in order to; for the purpose of|为胜利干杯；为人民服务|wèi shènglì gānbēi; wèi rénmín fúwù|toast victory; serve the people
+4549|Unit 76|伪造|wěizào|v.|forge; fabricate|伪造证件；伪造文件；伪造身份|wěizào zhèngjiàn; wěizào wénjiàn; wěizào shēnfèn|forge credentials; forge documents; fabricate an identity
+4550|Unit 76|伪劣|wěiliè|adj.|counterfeit and inferior|伪劣产品；伪劣商品；假冒伪劣|wěiliè chǎnpǐn; wěiliè shāngpǐn; jiǎmào wěiliè|shoddy products; inferior goods; counterfeit and shoddy
+4551|Unit 76|尾气|wěiqì|n.|exhaust gas|汽车尾气；尾气污染；减少尾气排放|qìchē wěiqì; wěiqì wūrǎn; jiǎnshǎo wěiqì páifàng|vehicle exhaust; exhaust pollution; reduce exhaust emissions
+4552|Unit 76|尾声|wěishēng|n.|ending; final stage|演出接近尾声；会议的尾声；文章的尾声|yǎnchū jiējìn wěishēng; huìyì de wěishēng; wénzhāng de wěishēng|the performance is nearing its end; the closing stage of the meeting; the ending of the article
+4553|Unit 76|纬度|wěidù|n.|latitude|北纬30度；高纬度地区；纬度位置|běiwěi sānshí dù; gāo wěidù dìqū; wěidù wèizhi|30 degrees north latitude; high-latitude regions; latitudinal position
+4554|Unit 76|未|wèi|adv.|not; have not|从未发生；尚未完成；未来|cóngwèi fāshēng; shàngwèi wánchéng; wèilái|has never happened; not yet completed; the future
+4555|Unit 76|未免|wèimiǎn|adv.|rather; a bit too|未免太贵；未免有些不足；未免过于激动|wèimiǎn tài guì; wèimiǎn yǒuxiē bùzú; wèimiǎn guòyú jīdòng|rather too expensive; somewhat inadequate; rather too excited
+4556|Unit 76|未知数|wèizhīshù|n.|unknown; unknown quantity|X是未知数；未知数X；还有很多未知数|X shì wèizhīshù; wèizhīshù X; hái yǒu hěn duō wèizhīshù|X is an unknown; the unknown X; there are still many unknowns
+4557|Unit 76|味精|wèijīng|n.|monosodium glutamate; MSG|一袋味精；一点儿味精；味精厂|yí dài wèijīng; yì diǎnr wèijīng; wèijīngchǎng|a bag of MSG; a little MSG; an MSG factory
+4558|Unit 76|畏惧|wèijù|v.|fear; dread|感到畏惧；心里畏惧；毫不畏惧|gǎndào wèijù; xīnli wèijù; háo bù wèijù|feel afraid; feel fear inside; have no fear at all
+4559|Unit 76|胃口|wèikǒu|n.|appetite|胃口不好；适合我的胃口；没有胃口|wèikǒu bù hǎo; shìhé wǒ de wèikǒu; méiyǒu wèikǒu|have a poor appetite; suit my taste; have no appetite
+4560|Unit 76|喂|wèi|v.|feed|喂鸡；喂牛；给孩子喂饭|wèi jī; wèi niú; gěi háizi wèifàn|feed chickens; feed cattle; feed a child
+4561|Unit 76|喂养|wèiyǎng|v.|raise; feed|喂养小狗；喂养动物；喂养孩子|wèiyǎng xiǎogǒu; wèiyǎng dòngwù; wèiyǎng háizi|feed a puppy; feed animals; feed a child
+4562|Unit 76|温度计|wēndùjì|n.|thermometer|一个温度计；看温度计；买温度计|yí ge wēndùjì; kàn wēndùjì; mǎi wēndùjì|a thermometer; read the thermometer; buy a thermometer
+4563|Unit 76|温泉|wēnquán|n.|hot spring|一处温泉；洗温泉；温泉水|yí chù wēnquán; xǐ wēnquán; wēnquánshuǐ|a hot spring; bathe in a hot spring; hot spring water
+4564|Unit 76|温柔|wēnróu|adj.|gentle and soft|温柔体贴；温柔的姑娘；温柔的性格|wēnróu tǐtiē; wēnróu de gūniang; wēnróu de xìnggé|gentle and considerate; a gentle young woman; a gentle temperament
+4565|Unit 76|温室|wēnshì|n.|greenhouse|温室花朵；温室种植；温室效应|wēnshì huāduǒ; wēnshì zhòngzhí; wēnshì xiàoyìng|a greenhouse flower; greenhouse cultivation; the greenhouse effect
+4566|Unit 76|温习|wēnxí|v.|review|温习课文；温习功课；温习考试内容|wēnxí kèwén; wēnxí gōngkè; wēnxí kǎoshì nèiróng|review the text; review one's lessons; review exam material
+4567|Unit 76|瘟疫|wēnyì|n.|plague; pestilence|爆发瘟疫；流行瘟疫；瘟疫地区|bàofā wēnyì; liúxíng wēnyì; wēnyì dìqū|a plague breaks out; a plague spreads; a plague-stricken area
+4568|Unit 76|蚊帐|wénzhàng|n.|mosquito net|一顶蚊帐；挂蚊帐；支蚊帐|yì dǐng wénzhàng; guà wénzhàng; zhī wénzhàng|a mosquito net; hang a mosquito net; put up a mosquito net
+4569|Unit 76|文物|wénwù|n.|cultural relic|保护文物；文物古迹；文物价值|bǎohù wénwù; wénwù gǔjì; wénwù jiàzhí|protect cultural relics; cultural relics and historic sites; the value of cultural relics
+4570|Unit 76|文献|wénxiàn|n.|document; literature|历史文献；文献资料；查找文献|lìshǐ wénxiàn; wénxiàn zīliào; cházhǎo wénxiàn|historical documents; documentary materials; search for literature
+4571|Unit 76|文雅|wényǎ|adj.|refined; elegant|举止文雅；文雅的语言；谈吐文雅|jǔzhǐ wényǎ; wényǎ de yǔyán; tántǔ wényǎ|refined in manner; refined language; speak elegantly
+4572|Unit 76|文艺|wényì|n.|literature and art|文艺活动；文艺表演；文艺工作者|wényì huódòng; wényì biǎoyǎn; wényì gōngzuòzhě|literary and artistic activities; a literary and artistic performance; a literary and arts worker
+4573|Unit 76|文娱|wényú|n.|cultural and recreational activities|文娱活动；文娱节目；开展文娱活动|wényú huódòng; wényú jiémù; kāizhǎn wényú huódòng|recreational activities; a cultural entertainment program; organize recreational activities
+4574|Unit 76|闻名|wénmíng|v.|be well known|闻名全国；世界闻名；远近闻名|wénmíng quánguó; shìjiè wénmíng; yuǎnjìn wénmíng|known throughout the country; world-famous; known far and wide
+4575|Unit 76|稳|wěn|adj.|steady; stable|身子很稳；坐得很稳；站稳|shēnzi hěn wěn; zuò de hěn wěn; zhànwěn|one's body is steady; sit firmly; stand firm
+4576|Unit 76|稳定|wěndìng|v./adj.|stabilize; stable|稳定价格；稳定政局；社会稳定；情绪稳定|wěndìng jiàgé; wěndìng zhèngjú; shèhuì wěndìng; qíngxù wěndìng|stabilize prices; stabilize the political situation; social stability; emotional stability
+4577|Unit 76|稳固|wěngù|adj.|firm; stable|稳固阵地；地位稳固；基础稳固|wěngù zhèndì; dìwèi wěngù; jīchǔ wěngù|consolidate a position; one's position is secure; a solid foundation
+4578|Unit 76|稳健|wěnjiàn|adj.|steady; stable|稳健的步伐；稳健的性格；稳健的政策|wěnjiàn de bùfá; wěnjiàn de xìnggé; wěnjiàn de zhèngcè|steady steps; a steady temperament; a sound policy
+4579|Unit 76|稳妥|wěntuǒ|adj.|safe; reliable|稳妥的办法；稳妥的人；稳妥的计划|wěntuǒ de bànfǎ; wěntuǒ de rén; wěntuǒ de jìhuà|a reliable method; a dependable person; a sound plan
+4580|Unit 76|稳重|wěnzhòng|adj.|steady; earnest|性格稳重；稳重的男人；工作稳重|xìnggé wěnzhòng; wěnzhòng de nánrén; gōngzuò wěnzhòng|steady in temperament; a steady man; work in a dependable manner
+4581|Unit 76|问世|wènshì|v.|be published; come out|新产品问世；这本书问世；问世以来|xīn chǎnpǐn wènshì; zhè běn shū wènshì; wènshì yǐlái|a new product is launched; this book is published; since its release
+4582|Unit 76|窝|wō|n.|nest; den|鸟窝；一个窝；养了一窝猪|niǎowō; yí ge wō; yǎng le yì wō zhū|a bird's nest; a nest; raise a litter of pigs
+4583|Unit 76|窝囊|wōnang|adj.|aggrieved; dejected|心里窝囊；感到窝囊；受了不少窝囊气|xīnli wōnang; gǎndào wōnang; shòu le bù shǎo wōnangqì|feel aggrieved; feel frustrated; suffer a great deal of humiliation
+4584|Unit 76|卧|wò|v.|lie|卧床休息；卧床不起；侧卧|wòchuáng xiūxi; wòchuáng bù qǐ; cèwò|rest in bed; be bedridden; lie on one's side
+4585|Unit 76|卧室|wòshì|n.|bedroom|一间卧室；主卧室；卧室很宽敞|yì jiān wòshì; zhǔ wòshì; wòshì hěn kuānchang|a bedroom; the master bedroom; the bedroom is spacious
+4586|Unit 76|乌黑|wūhēi|adj.|jet-black|乌黑的头发；乌黑的眼睛；乌黑的墨水|wūhēi de tóufa; wūhēi de yǎnjing; wūhēi de mòshuǐ|jet-black hair; dark black eyes; jet-black ink
+4587|Unit 76|污蔑|wūmiè|v.|smear; slander|污蔑别人；污蔑好人；故意污蔑|wūmiè biérén; wūmiè hǎorén; gùyì wūmiè|slander others; slander a good person; deliberately slander
+4588|Unit 76|污染物|wūrǎnwù|n.|pollutant|有害污染物；污染物排放；空气污染物|yǒuhài wūrǎnwù; wūrǎnwù páifàng; kōngqì wūrǎnwù|harmful pollutants; pollutant emissions; air pollutants
+4589|Unit 76|巫婆|wūpó|n.|witch|一个巫婆；丑陋的巫婆；女巫婆|yí ge wūpó; chǒulòu de wūpó; nǚ wūpó|a witch; an ugly witch; a female witch
+4590|Unit 76|呜咽|wūyè|v.|sob; whimper|低声呜咽；痛苦呜咽；小声呜咽|dīshēng wūyè; tòngkǔ wūyè; xiǎoshēng wūyè|sob softly; sob in pain; whimper quietly
+4591|Unit 76|钨|wū|n.|tungsten|钨矿；钨钢；钨丝|wūkuàng; wūgāng; wūsī|tungsten ore; tungsten steel; tungsten filament
+4592|Unit 76|无比|wúbǐ|adj.|incomparable; unsurpassed|无比高兴；激动无比；力量无比|wúbǐ gāoxìng; jīdòng wúbǐ; lìliang wúbǐ|extremely happy; incomparably excited; unsurpassed strength
+4593|Unit 76|无偿|wúcháng|adj.|free; without compensation|无偿服务；无偿劳动；无偿援助|wúcháng fúwù; wúcháng láodòng; wúcháng yuánzhù|free services; unpaid labor; gratuitous aid
+4594|Unit 76|无耻|wúchǐ|adj.|shameless|无耻行为；无耻小人；感到无耻|wúchǐ xíngwéi; wúchǐ xiǎorén; gǎndào wúchǐ|shameless behavior; a shameless scoundrel; feel ashamed
+4595|Unit 76|无从|wúcóng|adv.|have no way to; be unable to|无从下手；无从谈起；无从知道|wúcóng xiàshǒu; wúcóng tánqǐ; wúcóng zhīdào|have no idea where to begin; have no basis to discuss it; have no way of knowing
+4596|Unit 76|无动于衷|wúdòngyúzhōng|idiom|indifferent; unmoved|无动于衷的态度；表现得无动于衷；对他的遭遇无动于衷|wúdòngyúzhōng de tàidu; biǎoxiàn de wúdòngyúzhōng; duì tā de zāoyù wúdòngyúzhōng|an indifferent attitude; act unmoved; be indifferent to what happened to him
+4597|Unit 76|无非|wúfēi|adv.|nothing but; simply|无非是爱说说；无非两个原因；无非是想赚钱|wúfēi shì ài shuōshuo; wúfēi liǎng ge yuányīn; wúfēi shì xiǎng zhuànqián|it is nothing more than liking to talk; nothing more than two reasons; simply wants to make money
+4598|Unit 76|无故|wúgù|adv.|without cause; without reason|无故缺席；无故发脾气；无缘无故|wúgù quēxí; wúgù fā píqi; wúyuán-wúgù|be absent without reason; lose one's temper for no reason; for no reason at all
+4599|Unit 76|无关紧要|wúguān-jǐnyào|adj.|unimportant; irrelevant|无关紧要的人；无关紧要的话；无关紧要的小事|wúguān-jǐnyào de rén; wúguān-jǐnyào de huà; wúguān-jǐnyào de xiǎoshì|an unimportant person; irrelevant words; a trivial matter
+4600|Unit 76|无济于事|wújìyúshì|idiom|be of no help; be of no use|无济于事的措施；反抗无济于事；着急也无济于事|wújìyúshì de cuòshī; fǎnkàng wújìyúshì; zháojí yě wújìyúshì|measures that are of no use; resistance is futile; worrying will not help
+4601|Unit 76|无家可归|wújiā-kěguī|idiom|homeless|无家可归的孩子；失去家园，无家可归|wújiā-kěguī de háizi; shīqù jiāyuán, wújiā-kěguī|a homeless child; lose one's home and become homeless
+4602|Unit 76|无精打采|wújīng-dǎcǎi|idiom|listless; dispirited|无精打采的样子；无精打采地坐着；没睡好，显得无精打采|wújīng-dǎcǎi de yàngzi; wújīng-dǎcǎi de zuòzhe; méi shuì hǎo, xiǎnde wújīng-dǎcǎi|a listless appearance; sit listlessly; look listless after not sleeping well
+4603|Unit 76|无拘无束|wújū-wúshù|idiom|free and unrestrained|过着无拘无束的生活；无拘无束地聊天；自由自在，无拘无束|guòzhe wújū-wúshù de shēnghuó; wújū-wúshù de liáotiān; zìyóu-zìzài, wújū-wúshù|live a free and unrestrained life; chat freely; free and unrestrained
+4604|Unit 76|无可奉告|wúkěfènggào|phrase|no comment|对不起，无可奉告；对此事无可奉告；无可奉告的态度|duìbuqǐ, wúkěfènggào; duì cǐ shì wúkěfènggào; wúkěfènggào de tàidu|sorry, no comment; no comment on this matter; a no-comment stance
+4605|Unit 76|无可奈何|wúkě-nàihé|idiom|have no alternative; helpless|感到无可奈何；无可奈何的选择；无可奈何地放弃|gǎndào wúkě-nàihé; wúkě-nàihé de xuǎnzé; wúkě-nàihé de fàngqì|feel helpless; an unavoidable choice; give up helplessly
+4606|Unit 76|无理取闹|wúlǐ-qǔnào|idiom|make trouble without reason|无理取闹的人；不许无理取闹；不要无理取闹|wúlǐ-qǔnào de rén; bù xǔ wúlǐ-qǔnào; bú yào wúlǐ-qǔnào|an unreasonable troublemaker; unreasonable troublemaking is not allowed; do not make trouble without reason
+4607|Unit 76|无能为力|wúnéng-wéilì|idiom|powerless; unable to help|感到无能为力；无能为力的处境；面对困难，我们不能无能为力|gǎndào wúnéng-wéilì; wúnéng-wéilì de chǔjìng; miànduì kùnnan, wǒmen bù néng wúnéng-wéilì|feel powerless; a helpless predicament; faced with difficulties, we cannot remain powerless
+4608|Unit 76|无穷|wúqióng|adj.|endless; boundless|无穷无尽；回味无穷；魅力无穷|wúqióng-wújìn; huíwèi wúqióng; mèilì wúqióng|endless; endlessly memorable; endlessly charming
+4609|Unit 76|无权|wúquán|v.|have no right to|无权干涉；无权过问；政府无权阻止|wúquán gānshè; wúquán guòwèn; zhèngfǔ wúquán zǔzhǐ|have no right to interfere; have no right to inquire; the government has no right to stop it
+4610|Unit 76|无声无息|wúshēng-wúxī|idiom|silent; without a trace|无声无息地消失；无声无息地走；大雪无声无息地下了一夜|wúshēng-wúxī de xiāoshī; wúshēng-wúxī de zǒu; dàxuě wúshēng-wúxī de xià le yí yè|disappear without a sound; leave silently; snow fell silently all night
+4611|Unit 76|无师自通|wúshī-zìtōng|idiom|learn without a teacher|无师自通的天才；他无师自通；学习外语很难无师自通|wúshī-zìtōng de tiāncái; tā wúshī-zìtōng; xuéxí wàiyǔ hěn nán wúshī-zìtōng|a self-taught genius; he taught himself; it is difficult to learn a foreign language without a teacher
+4612|Unit 76|无视|wúshì|v.|ignore; disregard|无视危险；无视规定；无视他人的存在|wúshì wēixiǎn; wúshì guīdìng; wúshì tārén de cúnzài|ignore danger; disregard regulations; ignore the presence of others
+4613|Unit 76|无望|wúwàng|adj.|hopeless|感到无望；前途无望；胜利无望|gǎndào wúwàng; qiántú wúwàng; shènglì wúwàng|feel hopeless; the future is hopeless; there is no hope of victory
+4614|Unit 76|无效|wúxiào|adj.|invalid; ineffective|无效劳动；无效合同；治疗无效|wúxiào láodòng; wúxiào hétong; zhìliáo wúxiào|unproductive labor; an invalid contract; treatment is ineffective
