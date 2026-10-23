@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+5461|Unit 92|主宰|zhǔzǎi|v./n.|dominate; controlling power|主宰自己的命运；主宰一切；命运的主宰；未来工业的主宰|zhǔzǎi zìjǐ de mìngyùn; zhǔzǎi yíqiè; mìngyùn de zhǔzǎi; wèilái gōngyè de zhǔzǎi|control one's own destiny; dominate everything; master of fate; dominant force in future industry
+5462|Unit 92|拄|zhǔ|v.|lean on|拄着拐杖；把竹竿拄在地上|zhǔzhe guǎizhàng; bǎ zhúgān zhǔ zài dìshang|lean on a cane; prop the bamboo pole against the ground
+5463|Unit 92|嘱咐|zhǔfu|v.|enjoin; instruct|再三嘱咐；嘱咐他认真学习|zàisān zhǔfu; zhǔfu tā rènzhēn xuéxí|repeatedly instruct; urge him to study diligently
+5464|Unit 92|瞩目|zhǔmù|v.|attract attention|令世界瞩目；万众瞩目|lìng shìjiè zhǔmù; wànzhòng zhǔmù|attract the world's attention; attract everyone's attention
+5465|Unit 92|助威|zhùwēi|v.|cheer for|为中国队助威；呐喊助威|wèi Zhōngguó duì zhùwēi; nàhǎn zhùwēi|cheer for the Chinese team; shout encouragement
+5466|Unit 92|住处|zhùchù|n.|residence|找到他的住处；回到住处；固定的住处|zhǎodào tā de zhùchù; huídào zhùchù; gùdìng de zhùchù|find his residence; return to one's residence; a fixed residence
+5467|Unit 92|住户|zhùhù|n.|household; resident|这里有三家住户；老住户；住户不多|zhèlǐ yǒu sān jiā zhùhù; lǎo zhùhù; zhùhù bù duō|three households live here; long-time resident; not many residents
+5468|Unit 92|住宿|zhùsù|v.|stay; get accommodation|在校住宿；安排住宿|zài xiào zhùsù; ānpái zhùsù|live on campus; arrange accommodation
+5469|Unit 92|住址|zhùzhǐ|n.|address|填写住址；家庭住址；住址不定|tiánxiě zhùzhǐ; jiātíng zhùzhǐ; zhùzhǐ bú dìng|fill in an address; home address; no fixed address
+5470|Unit 92|贮藏|zhùcáng|v.|store up; lay in|贮藏在仓库里；把葡萄酒贮藏起来；易于贮藏|zhùcáng zài cāngkù lǐ; bǎ pútaojiǔ zhùcáng qǐlai; yìyú zhùcáng|store in a warehouse; store the wine away; easy to store
+5471|Unit 92|注|zhù|n./v.|stake; note; annotate|下注；下了300元的注；文末注；用注说明；批注；注得很详细|xià zhù; xià le sānbǎi yuán de zhù; wénmò zhù; yòng zhù shuōmíng; pīzhù; zhù de hěn xiángxì|place a bet; place a 300-yuan bet; endnote; explain with a note; annotate; annotate in great detail
+5472|Unit 92|注定|zhùdìng|v.|be doomed; be destined|命中注定；注定失败|mìngzhōng zhùdìng; zhùdìng shībài|predestined; destined to fail
+5473|Unit 92|注入|zhùrù|v.|inject; pour into|注入开水；注入血管；大量注入；注入了心血|zhùrù kāishuǐ; zhùrù xuèguǎn; dàliàng zhùrù; zhùrù le xīnxuè|pour in boiling water; inject into a blood vessel; inject in large quantities; devote great effort
+5474|Unit 92|铸造|zhùzào|v.|cast|铸造成型；铸造硬币；铸造工厂；大量铸造|zhùzào chéngxíng; zhùzào yìngbì; zhùzào gōngchǎng; dàliàng zhùzào|cast into shape; mint coins; foundry; cast in large quantities
+5475|Unit 92|筑|zhù|v.|build; construct|筑巢；修筑|zhù cháo; xiūzhù|build a nest; construct
+5476|Unit 92|爪子|zhuǎzi|n.|claw; paw|老虎的爪子；鸡爪子；伸出一只爪子|lǎohǔ de zhuǎzi; jī zhuǎzi; shēnchū yì zhī zhuǎzi|a tiger's claws; chicken feet; extend a paw
+5477|Unit 92|拽|zhuài|v.|pull; drag|拽了他一下儿；拽住衣服不放；拼命地拽|zhuài le tā yíxiàr; zhuàizhù yīfu bú fàng; pīnmìng de zhuài|give him a tug; hold on to the clothing and not let go; pull with all one's might
+5478|Unit 92|专长|zhuāncháng|n.|specialty|发挥专长；专长优势|fāhuī zhuāncháng; zhuāncháng yōushì|make use of one's specialty; advantage of a specialty
+5479|Unit 92|专程|zhuānchéng|adv.|specially; on a special trip|专程来看望您；专程上门感谢；专程为他们送行|zhuānchéng lái kànwàng nín; zhuānchéng shàngmén gǎnxiè; zhuānchéng wèi tāmen sòngxíng|come especially to visit you; make a special visit to express thanks; make a special trip to see them off
+5480|Unit 92|专柜|zhuānguì|n.|special counter|化妆品专柜；站在专柜前|huàzhuāngpǐn zhuānguì; zhàn zài zhuānguì qián|cosmetics counter; stand in front of the special counter
+5481|Unit 92|专栏|zhuānlán|n.|special column|报纸上的专栏；经济新闻专栏；向专栏投稿；开办一个新专栏|bàozhǐ shàng de zhuānlán; jīngjì xīnwén zhuānlán; xiàng zhuānlán tóugǎo; kāibàn yí ge xīn zhuānlán|a newspaper column; economic news column; submit an article to a column; start a new column
+5482|Unit 92|专卖店|zhuānmàidiàn|n.|exclusive agency; franchised store|品牌专卖店；新开了一个专卖店；官方授权专卖店|pǐnpái zhuānmàidiàn; xīn kāi le yí ge zhuānmàidiàn; guānfāng shòuquán zhuānmàidiàn|brand-exclusive store; a newly opened franchised store; officially authorized store
+5483|Unit 92|专人|zhuānrén|n.|specially assigned person|专人负责；派专人处理；安排专人前往|zhuānrén fùzé; pài zhuānrén chǔlǐ; ānpái zhuānrén qiánwǎng|assign a specific person to be responsible; send a designated person to handle it; arrange for a designated person to go
+5484|Unit 92|专职|zhuānzhí|n./adj.|full-time job; full-time|专职教师；专职工作|zhuānzhí jiàoshī; zhuānzhí gōngzuò|full-time teacher; full-time work
+5485|Unit 92|专制|zhuānzhì|v./adj.|be autocratic; autocratic|专制的王朝；专制统治|zhuānzhì de wángcháo; zhuānzhì tǒngzhì|an autocratic dynasty; autocratic rule
+5486|Unit 92|专注|zhuānzhù|adj./v.|focused; absorbed|精神专注；专注科学研究；专注于工作|jīngshén zhuānzhù; zhuānzhù kēxué yánjiū; zhuānzhù yú gōngzuò|mentally focused; concentrate on scientific research; focus on work
+5487|Unit 92|专著|zhuānzhù|n.|monograph|历史学专著；出版专著|lìshǐxué zhuānzhù; chūbǎn zhuānzhù|a history monograph; publish a monograph
+5488|Unit 92|砖|zhuān|n.|brick; brick-shaped thing|砖头；砖瓦；冰砖|zhuāntou; zhuānwǎ; bīngzhuān|brick; bricks and tiles; block of ice
+5489|Unit 92|转播|zhuǎnbō|v.|relay a broadcast|转播这次比赛；电视转播；实况转播|zhuǎnbō zhè cì bǐsài; diànshì zhuǎnbō; shíkuàng zhuǎnbō|broadcast this match; television broadcast; live broadcast
+5490|Unit 92|转达|zhuǎndá|v.|pass on; convey|向他转达我的问候；请代为转达|xiàng tā zhuǎndá wǒ de wènhòu; qǐng dàiwéi zhuǎndá|convey my greetings to him; please convey it on my behalf
+5491|Unit 92|转机|zhuǎnjī|n.|favorable turn|出现了转机；重大转机；历史转机|chūxiàn le zhuǎnjī; zhòngdà zhuǎnjī; lìshǐ zhuǎnjī|a favorable turn appeared; major turning point; historical turning point
+5492|Unit 92|转交|zhuǎnjiāo|v.|pass on; transmit|请转交董事长；帮我转交一下儿；转交文件|qǐng zhuǎnjiāo dǒngshìzhǎng; bāng wǒ zhuǎnjiāo yíxiàr; zhuǎnjiāo wénjiàn|please pass it to the chairman; help me pass it on; forward a document
+5493|Unit 92|转型|zhuǎnxíng|v./n.|transform; transformation|社会转型；向市场经济转型；新一轮的转型；产品转型|shèhuì zhuǎnxíng; xiàng shìchǎng jīngjì zhuǎnxíng; xīn yì lún de zhuǎnxíng; chǎnpǐn zhuǎnxíng|social transformation; transition to a market economy; a new round of transformation; product transformation
+5494|Unit 92|转学|zhuǎn//xué|v.|transfer schools|转学去别的城市；从一中转学到二中|zhuǎnxué qù bié de chéngshì; cóng Yī Zhōng zhuǎnxué dào Èr Zhōng|transfer to a school in another city; transfer from No. 1 Middle School to No. 2 Middle School
+5495|Unit 92|转眼|zhuǎnyǎn|v./adv.|in the twinkling of an eye|转眼就不见了；转眼间|zhuǎnyǎn jiù bú jiàn le; zhuǎnyǎn jiān|disappear in the blink of an eye; in an instant
+5496|Unit 92|转载|zhuǎnzǎi|v.|reprint; republish|被转载；转载《人民日报》的文章|bèi zhuǎnzǎi; zhuǎnzǎi Rénmín Rìbào de wénzhāng|be reprinted; reprint an article from the People's Daily
+5497|Unit 92|转折|zhuǎnzhé|v./n.|turn; transition|发生转折；向好的趋势转折；重大的历史转折；转折句|fāshēng zhuǎnzhé; xiàng hǎo de qūshì zhuǎnzhé; zhòngdà de lìshǐ zhuǎnzhé; zhuǎnzhé jù|take a turn; turn toward a positive trend; major historical turning point; transitional sentence
+5498|Unit 92|转折点|zhuǎnzhédiǎn|n.|turning point|历史的转折点；重要的转折点|lìshǐ de zhuǎnzhédiǎn; zhòngyào de zhuǎnzhédiǎn|a historical turning point; an important turning point
+5499|Unit 92|传|zhuàn|n.|biography|名人传；自传|míngrén zhuàn; zìzhuàn|biography of a famous person; autobiography
+5500|Unit 92|传记|zhuànjì|n.|biography|写一个传记；传记文学；人物传记|xiě yí ge zhuànjì; zhuànjì wénxué; rénwù zhuànjì|write a biography; biographical literature; a person's biography
+5501|Unit 92|转悠|zhuànyou|v.|stroll; move about|眼睛一转悠就想出了一个主意；四处转悠；上街转悠一下儿|yǎnjing yí zhuànyou jiù xiǎngchū le yí ge zhǔyi; sìchù zhuànyou; shàng jiē zhuànyou yíxiàr|with a roll of the eyes, come up with an idea; stroll around; take a stroll along the street
+5502|Unit 92|撰写|zhuànxiě|v.|compose; write|撰写毕业论文；正在撰写一部专著|zhuànxiě bìyè lùnwén; zhèngzài zhuànxiě yí bù zhuānzhù|write a graduation thesis; be writing a monograph
+5503|Unit 92|庄稼|zhuāngjia|n.|crops|种庄稼；庄稼地|zhòng zhuāngjia; zhuāngjia dì|grow crops; cropland
+5504|Unit 92|庄严|zhuāngyán|adj.|solemn|庄严的国歌；场面庄严；庄严地宣誓|zhuāngyán de guógē; chǎngmiàn zhuāngyán; zhuāngyán de xuānshì|a solemn national anthem; a solemn scene; swear solemnly
+5505|Unit 92|庄园|zhuāngyuán|n.|manor|葡萄酒庄园；庄园主|pútaojiǔ zhuāngyuán; zhuāngyuánzhǔ|wine estate; manor owner
+5506|Unit 92|桩|zhuāng|n./m.|stake; pile; measure word|木桩；把船系在桥桩上；打一个桩；一桩往事；一桩心愿|mùzhuāng; bǎ chuán jì zài qiáozhuāng shàng; dǎ yí ge zhuāng; yì zhuāng wǎngshì; yì zhuāng xīnyuàn|wooden stake; tie the boat to a bridge pile; drive a stake; a past event; an aspiration
+5507|Unit 92|装扮|zhuāngbàn|v.|dress up; disguise|把广场装扮一新；装扮得十分漂亮；装扮成一个小贩|bǎ guǎngchǎng zhuāngbàn yì xīn; zhuāngbàn de shífēn piàoliang; zhuāngbàn chéng yí ge xiǎofàn|decorate the square until it looks brand-new; dress up beautifully; disguise oneself as a peddler
+5508|Unit 92|壮|zhuàng|adj./v.|strong; magnificent; strengthen|身体很壮；年轻力壮；壮志；理直气壮；以壮声势；壮壮胆子|shēntǐ hěn zhuàng; niánqīng lìzhuàng; zhuàngzhì; lǐzhí-qìzhuàng; yǐ zhuàng shēngshì; zhuàngzhuang dǎnzi|physically strong; young and strong; lofty aspiration; bold because one is in the right; bolster momentum; build up one's courage
+5509|Unit 92|壮大|zhuàngdà|v./adj.|strengthen; grow strong|壮大队伍；壮大实力；力量日益壮大|zhuàngdà duìwu; zhuàngdà shílì; lìliang rìyì zhuàngdà|expand the ranks; strengthen capabilities; grow stronger day by day
+5510|Unit 92|壮胆|zhuàng//dǎn|v.|build up courage|给自己壮胆；喝酒壮胆|gěi zìjǐ zhuàngdǎn; hē jiǔ zhuàngdǎn|build up one's courage; drink alcohol for courage
+5511|Unit 92|壮丽|zhuànglì|adj.|splendid; magnificent|壮丽的风光；风景壮丽|zhuànglì de fēngguāng; fēngjǐng zhuànglì|magnificent scenery; the scenery is magnificent
+5512|Unit 92|壮实|zhuàngshi|adj.|sturdy|长得壮实；壮实的小伙子|zhǎng de zhuàngshi; zhuàngshi de xiǎohuǒzi|be sturdily built; a sturdy young man
+5513|Unit 92|状元|zhuàngyuan|n.|top scorer; the very best|夺得状元；高考状元；养鸡状元；行行出状元|duódé zhuàngyuan; gāokǎo zhuàngyuan; yǎng jī zhuàngyuan; hángháng chū zhuàngyuan|win first place; top scorer on the college entrance examination; champion chicken farmer; every trade produces its master
+5514|Unit 92|撞击|zhuàngjī|v./n.|ram; strike; collision|海浪撞击岩石；猛烈地撞击；发生撞击|hǎilàng zhuàngjī yánshí; měngliè de zhuàngjī; fāshēng zhuàngjī|waves strike the rocks; strike violently; a collision occurs
+5515|Unit 92|幢|zhuàng|m.|measure word for buildings|一幢大楼|yí zhuàng dàlóu|a large building
+5516|Unit 92|追悼会|zhuīdàohuì|n.|memorial meeting|为牺牲的警察开追悼会；庄严肃穆的追悼会|wèi xīshēng de jǐngchá kāi zhuīdàohuì; zhuāngyán-sùmù de zhuīdàohuì|hold a memorial service for the fallen police officer; a solemn memorial service
+5517|Unit 92|追赶|zhuīgǎn|v.|pursue; catch up with|追赶敌人；追赶世界潮流|zhuīgǎn dírén; zhuīgǎn shìjiè cháoliú|pursue the enemy; catch up with global trends
+5518|Unit 92|追溯|zhuīsù|v.|trace back; date from|追溯历史；追溯到史前时代；对农产品进行产地追溯|zhuīsù lìshǐ; zhuīsù dào shǐqián shídài; duì nóngchǎnpǐn jìnxíng chǎndì zhuīsù|trace history; trace back to prehistoric times; trace agricultural products to their place of origin
+5519|Unit 92|追随|zhuīsuí|v.|follow|追随领袖；有很多追随者；追随潮流；追随不舍|zhuīsuí lǐngxiù; yǒu hěn duō zhuīsuízhě; zhuīsuí cháoliú; zhuīsuí bù shě|follow a leader; have many followers; follow the trend; follow without giving up
+5520|Unit 92|追尾|zhuī//wěi|v./n.|rear-end; rear-end collision|汽车追尾了；发生了追尾事故；防止追尾|qìchē zhuīwěi le; fāshēng le zhuīwěi shìgù; fángzhǐ zhuīwěi|the car rear-ended another vehicle; a rear-end collision occurred; prevent rear-end collisions
