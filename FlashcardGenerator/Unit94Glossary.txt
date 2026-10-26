@@ -1,0 +1,57 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+5581|Unit 94|宗旨|zōngzhǐ|n.|aim; purpose|以介绍中华文化为宗旨；教育的宗旨；明确的宗旨；宗旨鲜明|yǐ jièshào Zhōnghuá wénhuà wéi zōngzhǐ; jiàoyù de zōngzhǐ; míngquè de zōngzhǐ; zōngzhǐ xiānmíng|to aim to introduce Chinese culture; the purpose of education; a clear purpose; a clearly defined purpose
+5582|Unit 94|综上所述|zōngshàng-suǒshù|phrase|in summary; to sum up|综上所述，应该施行积极稳健的经济政策。|zōngshàng-suǒshù, yīnggāi shīxíng jījí wěnjiàn de jīngjì zhèngcè.|In summary, proactive and prudent economic policies should be implemented.
+5583|Unit 94|总的来说|zǒngde lái shuō|phrase|in general; in a word|总的来说，今年的经济形势还是不错的。|zǒngde lái shuō, jīnnián de jīngjì xíngshì háishi búcuò de.|Generally speaking, this year's economic situation is still quite good.
+5584|Unit 94|总额|zǒng'é|n.|total amount|存款总额；总额为一千元；总额不足万元|cúnkuǎn zǒng'é; zǒng'é wéi yìqiān yuán; zǒng'é bùzú wàn yuán|total deposits; the total is 1,000 yuan; the total is less than 10,000 yuan
+5585|Unit 94|总而言之|zǒng'éryánzhī|phrase|in short; in a word|总而言之，这个电影值得一看。|zǒng'éryánzhī, zhège diànyǐng zhíde yí kàn.|In short, this movie is worth seeing.
+5586|Unit 94|总计|zǒngjì|v.|amount to; total|总计十万元；总计有一千人；总计将近三个月|zǒngjì shí wàn yuán; zǒngjì yǒu yìqiān rén; zǒngjì jiāngjìn sān ge yuè|totaling 100,000 yuan; 1,000 people in total; nearly three months in total
+5587|Unit 94|纵观|zòngguān|v.|take a sweeping view; make a general survey|纵观全局；纵观世界历史|zòngguān quánjú; zòngguān shìjiè lìshǐ|take an overall view; survey world history
+5588|Unit 94|纵横交错|zònghéng-jiāocuò|adj.|crisscross|这里的道路纵横交错，容易让人迷路。|zhèlǐ de dàolù zònghéng-jiāocuò, róngyì ràng rén mílù.|The roads here crisscross, making it easy to get lost.
+5589|Unit 94|纵然|zòngrán|conj.|even if; even though|纵然你不同意，我也一定要这样做。|zòngrán nǐ bù tóngyì, wǒ yě yídìng yào zhèyàng zuò.|Even if you disagree, I will still do it this way.
+5590|Unit 94|纵容|zòngróng|v.|connive at; indulge|纵容坏人做坏事；不能纵容孩子|zòngróng huàirén zuò huàishì; bù néng zòngróng háizi|indulge bad people in doing bad things; must not indulge children
+5591|Unit 94|纵深|zòngshēn|n.|depth|向纵深推进；历史的纵深|xiàng zòngshēn tuījìn; lìshǐ de zòngshēn|advance in depth; the depth of history
+5592|Unit 94|粽子|zòngzi|n.|zongzi; traditional Chinese rice dumpling|一个粽子；包粽子；粽子里包着红枣|yí ge zòngzi; bāo zòngzi; zòngzi lǐ bāo zhe hóngzǎo|a zongzi; make zongzi; red dates are wrapped inside the zongzi
+5593|Unit 94|走过场|zǒu guòchǎng|v.|go through the motions; do something as a formality|这些作业你根本没用心做，只是走过场，完全就是在浪费时间。|zhèxiē zuòyè nǐ gēnběn méi yòngxīn zuò, zhǐshì zǒu guòchǎng, wánquán jiùshì zài làngfèi shíjiān.|You did not put any effort into this homework; you merely went through the motions and completely wasted time.
+5594|Unit 94|走后门|zǒu hòumén|v.|use connections; get something done through the back door|托关系、走后门是一种不正之风。|tuō guānxi, zǒu hòumén shì yì zhǒng bùzhèng zhī fēng.|Using connections and going through the back door are unhealthy practices.
+5595|Unit 94|走近|zǒujìn|v.|approach; draw near|走近大自然；向他走近；走近一步|zǒujìn dàzìrán; xiàng tā zǒujìn; zǒujìn yí bù|draw near to nature; walk toward him; move one step closer
+5596|Unit 94|走廊|zǒuláng|n.|corridor; passage|一条走廊；穿过走廊；国际贸易走廊|yì tiáo zǒuláng; chuānguò zǒuláng; guójì màoyì zǒuláng|a corridor; pass through the corridor; international trade corridor
+5597|Unit 94|走投无路|zǒutóu-wúlù|phrase|have no way out; be at an impasse|他最后走投无路了，只好放弃了这个计划。|tā zuìhòu zǒutóu-wúlù le, zhǐhǎo fàngqì le zhège jìhuà.|In the end he had no way out and had to abandon the plan.
+5598|Unit 94|走弯路|zǒu wānlù|v.|take a detour; take a wrong path|少走弯路；没人指引，他走了很多弯路|shǎo zǒu wānlù; méi rén zhǐyǐn, tā zǒu le hěn duō wānlù|take fewer detours; without anyone to guide him, he took many wrong turns
+5599|Unit 94|奏效|zòu//xiào|v.|prove effective; be successful|这个药奏效了；迅速奏效；难以奏效|zhège yào zòuxiào le; xùnsù zòuxiào; nányǐ zòuxiào|this medicine worked; take effect quickly; be unlikely to work
+5600|Unit 94|揍|zòu|v.|beat; punch|揍了他一顿；挨了揍|zòu le tā yí dùn; ái le zòu|gave him a beating; got beaten up
+5601|Unit 94|租赁|zūlìn|v.|rent; rent out|租赁了一辆汽车；向外租赁设备；租赁合同；汽车租赁公司|zūlìn le yí liàng qìchē; xiàngwài zūlìn shèbèi; zūlìn hétong; qìchē zūlìn gōngsī|rented a car; rent equipment out; rental contract; car rental company
+5602|Unit 94|足迹|zújì|n.|footmark; footprint|雪地上的足迹；留下了足迹；足迹清晰|xuědì shàng de zújì; liúxià le zújì; zújì qīngxī|footprints in the snow; left footprints; the footprints are clear
+5603|Unit 94|足智多谋|zúzhì-duōmóu|adj.|wise and resourceful; full of stratagems|他是个足智多谋的指挥官，打了不少胜仗。|tā shì ge zúzhì-duōmóu de zhǐhuīguān, dǎ le bù shǎo shèngzhàng.|He is a wise and resourceful commander who has won many battles.
+5604|Unit 94|阻挡|zǔdǎng|v.|stop; block|不可阻挡；阻挡洪水|bùkě zǔdǎng; zǔdǎng hóngshuǐ|unstoppable; hold back floodwaters
+5605|Unit 94|阻拦|zǔlán|v.|stop; obstruct|无人阻拦；阻拦不住；阻拦行人|wú rén zǔlán; zǔlán bú zhù; zǔlán xíngrén|no one stops them; unable to stop; stop pedestrians
+5606|Unit 94|阻力|zǔlì|n.|obstruction; resistance|空气阻力；克服重重阻力|kōngqì zǔlì; kèfú chóngchóng zǔlì|air resistance; overcome numerous obstacles
+5607|Unit 94|阻挠|zǔnáo|v.|obstruct; thwart|阻挠改革计划；受到阻挠；以各种方式进行阻挠|zǔnáo gǎigé jìhuà; shòudào zǔnáo; yǐ gè zhǒng fāngshì jìnxíng zǔnáo|obstruct the reform plan; encounter obstruction; obstruct in various ways
+5608|Unit 94|组建|zǔjiàn|v.|form; organize|组建军队；迅速组建了一家公司|zǔjiàn jūnduì; xùnsù zǔjiàn le yì jiā gōngsī|form an army; quickly established a company
+5609|Unit 94|组装|zǔzhuāng|v.|put together; assemble|组装电脑；组装车间|zǔzhuāng diànnǎo; zǔzhuāng chējiān|assemble a computer; assembly workshop
+5610|Unit 94|祖传|zǔchuán|v.|be handed down from one's ancestors|祖传秘方；祖传三代；祖传的宝石|zǔchuán mìfāng; zǔchuán sān dài; zǔchuán de bǎoshí|an ancestral secret recipe; handed down for three generations; an heirloom gemstone
+5611|Unit 94|祖籍|zǔjí|n.|original family home; ancestral home|祖籍在湖南；他祖籍浙江杭州|zǔjí zài Húnán; tā zǔjí Zhèjiāng Hángzhōu|one's ancestral home is in Hunan; his ancestral home is Hangzhou, Zhejiang
+5612|Unit 94|祖先|zǔxiān|n.|ancestor; progenitor|祖先崇拜；中华民族的祖先；共同的祖先；鸟类的祖先|zǔxiān chóngbài; Zhōnghuá mínzú de zǔxiān; gòngtóng de zǔxiān; niǎolèi de zǔxiān|ancestor worship; the ancestors of the Chinese nation; a common ancestor; the ancestors of birds
+5613|Unit 94|祖宗|zǔzong|n.|forefathers; ancestry|对得起祖宗；祖宗家法|duìdeqǐ zǔzong; zǔzong jiāfǎ|be worthy of one's ancestors; ancestral family rules
+5614|Unit 94|钻空子|zuān kòngzi|v.|exploit a loophole; take advantage|不让对方钻空子；被人钻了空子；钻了法律的空子|bú ràng duìfāng zuān kòngzi; bèi rén zuān le kòngzi; zuān le fǎlǜ de kòngzi|not let the other side exploit a loophole; have a loophole exploited by someone; exploited a legal loophole
+5615|Unit 94|钻研|zuānyán|v.|study intensively; dig into|钻研技术；钻研精神；一辈子钻研科学|zuānyán jìshù; zuānyán jīngshén; yíbèizi zuānyán kēxué|study technology intensively; a spirit of dedicated study; devote a lifetime to scientific research
+5616|Unit 94|钻石|zuànshí|n.|diamond|一颗钻石；钻石戒指；耀眼的钻石|yì kē zuànshí; zuànshí jièzhi; yàoyǎn de zuànshí|a diamond; diamond ring; dazzling diamond
+5617|Unit 94|嘴唇|zuǐchún|n.|lip|上嘴唇；红嘴唇；嘴唇紧闭；咬嘴唇|shàng zuǐchún; hóng zuǐchún; zuǐchún jǐnbì; yǎo zuǐchún|upper lip; red lips; lips tightly closed; bite one's lip
+5618|Unit 94|罪犯|zuìfàn|n.|criminal|狡猾的罪犯；成为罪犯|jiǎohuá de zuìfàn; chéngwéi zuìfàn|a cunning criminal; become a criminal
+5619|Unit 94|罪魁祸首|zuìkuí-huòshǒu|n.|chief culprit; arch-criminal|这起交通事故的罪魁祸首是疲劳驾驶。|zhè qǐ jiāotōng shìgù de zuìkuí-huòshǒu shì píláo jiàshǐ.|The chief culprit in this traffic accident was fatigued driving.
+5620|Unit 94|尊贵|zūnguì|adj.|honorable; distinguished|尊贵的客人；地位尊贵|zūnguì de kèrén; dìwèi zūnguì|an honored guest; of distinguished status
+5621|Unit 94|尊严|zūnyán|n.|dignity|失去了尊严；国家的尊严|shīqù le zūnyán; guójiā de zūnyán|lost one's dignity; national dignity
+5622|Unit 94|遵循|zūnxún|v.|follow; abide by|遵循习俗；没有先例可以遵循|zūnxún xísú; méiyǒu xiānlì kěyǐ zūnxún|follow customs; there is no precedent to follow
+5623|Unit 94|遵照|zūnzhào|v.|obey; conform to|遵照上级的命令执行；遵照政策办事；严格遵照|zūnzhào shàngjí de mìnglìng zhíxíng; zūnzhào zhèngcè bànshì; yángé zūnzhào|carry out orders from superiors; act in accordance with policy; comply strictly
+5624|Unit 94|琢磨|zhuómo|v.|think over; ponder|仔细琢磨一下儿；琢磨出了一个办法；琢磨了很久|zǐxì zhuómo yíxiàr; zhuómo chū le yí ge bànfǎ; zhuómo le hěn jiǔ|think it over carefully; thought of a solution; pondered for a long time
+5625|Unit 94|左顾右盼|zuǒgù-yòupàn|v.|glance right and left; look around|考试时不许左顾右盼；他左顾右盼的，像是在找人|kǎoshì shí bù xǔ zuǒgù-yòupàn; tā zuǒgù-yòupàn de, xiàng shì zài zhǎo rén|do not look around during an exam; he kept looking around as if searching for someone
+5626|Unit 94|佐料|zuǒliào|n.|condiment; seasoning|盐、醋等佐料；加一点儿佐料|yán, cù děng zuǒliào; jiā yìdiǎnr zuǒliào|seasonings such as salt and vinegar; add a little seasoning
+5627|Unit 94|作弊|zuò//bì|v.|practise fraud; cheat|考试作弊；严禁作弊|kǎoshì zuòbì; yánjìn zuòbì|cheat on an exam; cheating is strictly prohibited
+5628|Unit 94|作对|zuò//duì|v.|set oneself against; oppose|和他作对；故意跟我作对|hé tā zuòduì; gùyì gēn wǒ zuòduì|oppose him; deliberately act against me
+5629|Unit 94|作风|zuòfēng|n.|style; style of work|作风优良；作风正派；工作作风和生活作风；作风问题|zuòfēng yōuliáng; zuòfēng zhèngpài; gōngzuò zuòfēng hé shēnghuó zuòfēng; zuòfēng wèntí|an excellent work style; an upright style; work style and lifestyle; a problem of conduct
+5630|Unit 94|作客|zuò//kè|v.|live away from home; sojourn|作客他乡|zuòkè tāxiāng|live as a guest away from home
+5631|Unit 94|作物|zuòwù|n.|crop|水稻、玉米、大豆等作物；农作物；经济作物|shuǐdào, yùmǐ, dàdòu děng zuòwù; nóngzuòwù; jīngjì zuòwù|crops such as rice, corn, and soybeans; agricultural crops; cash crops
+5632|Unit 94|坐落|zuòluò|v.|be situated; be located|坐落在两山之间；坐落于沿海地区|zuòluò zài liǎng shān zhī jiān; zuòluò yú yánhǎi dìqū|be situated between two mountains; be located in a coastal region
+5633|Unit 94|座谈|zuòtán|v.|have an informal discussion|学术座谈；开一个座谈会；进行座谈|xuéshù zuòtán; kāi yí ge zuòtánhuì; jìnxíng zuòtán|academic discussion; hold a symposium; have an informal discussion
+5634|Unit 94|座右铭|zuòyòumíng|n.|motto|一句座右铭；我的座右铭；把这句名言作为座右铭|yí jù zuòyòumíng; wǒ de zuòyòumíng; bǎ zhè jù míngyán zuòwéi zuòyòumíng|a motto; my motto; use this famous saying as a motto
+5635|Unit 94|做生意|zuò shēngyi|v.|do business|在武汉做生意；做什么生意；和美国公司做了一笔生意|zài Wǔhàn zuò shēngyi; zuò shénme shēngyi; hé Měiguó gōngsī zuò le yì bǐ shēngyi|do business in Wuhan; what kind of business to do; completed a business deal with an American company
+5636|Unit 94|做证|zuò//zhèng|v.|testify|不愿做证；为他做证；可以做证|bú yuàn zuòzhèng; wèi tā zuòzhèng; kěyǐ zuòzhèng|be unwilling to testify; testify for him; can testify
