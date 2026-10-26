@@ -1,0 +1,61 @@
+Number|Unit|Chinese|Pinyin|Part of Speech|English|Chinese Example|Example Pinyin|English Translation
+4921|Unit 83|一干二净|yìgān-èrjìng|adv.|thoroughly; completely|他把房间打扫得一干二净。|Tā bǎ fángjiān dǎsǎo de yìgān-èrjìng.|He cleaned the room completely.
+4922|Unit 83|一鼓作气|yìgǔ-zuòqì|idiom|press on without letup|我们要一鼓作气完成任务。|Wǒmen yào yìgǔ-zuòqì wánchéng rènwu.|We should press on and finish the task.
+4923|Unit 83|一锅粥|yìguōzhōu|n.|a complete mess|事情闹得一锅粥。|Shìqing nào de yìguōzhōu.|Things became a complete mess.
+4924|Unit 83|一回事|yìhuíshì|n.|the same thing|这不是一回事。|Zhè bú shì yìhuíshì.|These are not the same thing.
+4925|Unit 83|一家人|yìjiārén|n.|whole family|我们像一家人一样。|Wǒmen xiàng yìjiārén yíyàng.|We are like one family.
+4926|Unit 83|一经|yìjīng|adv.|once; as soon as|消息一经证实，就会公布。|Xiāoxi yìjīng zhèngshí, jiù huì gōngbù.|Once confirmed, the news will be announced.
+4927|Unit 83|一举|yìjǔ|adv.|in one stroke|她一举夺得冠军。|Tā yìjǔ duódé guànjūn.|She won the championship in one stroke.
+4928|Unit 83|一举一动|yìjǔ-yídòng|idiom|every move|大家关注他的一举一动。|Dàjiā guānzhù tā de yìjǔ-yídòng.|Everyone watches his every move.
+4929|Unit 83|一卡通|yìkǎtōng|n.|multipurpose card|我用一卡通坐公交车。|Wǒ yòng yìkǎtōng zuò gōngjiāochē.|I use a multipurpose card to take the bus.
+4930|Unit 83|一揽子|yìlǎnzi|adj.|comprehensive; package|他们提出了一揽子计划。|Tāmen tíchū le yìlǎnzi jìhuà.|They proposed a comprehensive package of plans.
+4931|Unit 83|一连|yìlián|adv.|in succession|他一连工作了三天。|Tā yìlián gōngzuò le sān tiān.|He worked for three days in a row.
+4932|Unit 83|一连串|yìliánchuàn|adj.|a series of|她问了一连串问题。|Tā wèn le yìliánchuàn wèntí.|She asked a series of questions.
+4933|Unit 83|一毛不拔|yìmáo-bùbá|idiom|extremely stingy|他对自己一毛不拔。|Tā duì zìjǐ yìmáo-bùbá.|He is extremely stingy with himself.
+4934|Unit 83|一年到头|yìnián-dàotóu|adv.|all year round|他一年到头都很忙。|Tā yìnián-dàotóu dōu hěn máng.|He is busy all year round.
+4935|Unit 83|一旁|yìpáng|n.|one side; nearby|她站在一旁等候。|Tā zhàn zài yìpáng děnghòu.|She stood nearby waiting.
+4936|Unit 83|一如既往|yìrú-jìwǎng|idiom|as always|我们会一如既往地支持你。|Wǒmen huì yìrú-jìwǎng de zhīchí nǐ.|We will support you as always.
+4937|Unit 83|一声不吭|yìshēng-bùkēng|idiom|not say a word|他一声不吭地离开了。|Tā yìshēng-bùkēng de líkāi le.|He left without saying a word.
+4938|Unit 83|一手|yìshǒu|n.; adv.|skill; single-handedly|这件事是他一手安排的。|Zhè jiàn shì shì tā yìshǒu ānpái de.|He arranged this entirely on his own.
+4939|Unit 83|一塌糊涂|yìtā-hútú|idiom|a complete mess|考试考得一塌糊涂。|Kǎoshì kǎo de yìtā-hútú.|The exam went terribly.
+4940|Unit 83|一体|yìtǐ|n.|integrated whole|建筑与环境融为一体。|Jiànzhù yǔ huánjìng róng wéi yìtǐ.|The building and surroundings blend into one.
+4941|Unit 83|一天到晚|yìtiān-dàowǎn|adv.|all day long|他一天到晚都在学习。|Tā yìtiān-dàowǎn dōu zài xuéxí.|He studies all day long.
+4942|Unit 83|一头|yìtóu|adv.; n.|headfirst; one end|他一头扎进水里。|Tā yìtóu zhā jìn shuǐ lǐ.|He plunged headfirst into the water.
+4943|Unit 83|一无所有|yìwú-suǒyǒu|idiom|have nothing|当时他一无所有。|Dāngshí tā yìwú-suǒyǒu.|At that time he had nothing.
+4944|Unit 83|一无所知|yìwú-suǒzhī|idiom|know nothing|我对此一无所知。|Wǒ duì cǐ yìwú-suǒzhī.|I know nothing about this.
+4945|Unit 83|一心|yìxīn|adv.|wholeheartedly|她一心想帮助别人。|Tā yìxīn xiǎng bāngzhù biérén.|She wholeheartedly wants to help others.
+4946|Unit 83|一心一意|yìxīn-yíyì|idiom|with one's whole heart|他一心一意地工作。|Tā yìxīn-yíyì de gōngzuò.|He works wholeheartedly.
+4947|Unit 83|一言不发|yìyán-bùfā|idiom|say not a word|经理一言不发。|Jīnglǐ yìyán-bùfā.|The manager said nothing.
+4948|Unit 83|一言一行|yìyán-yìxíng|idiom|every word and deed|老师注意学生的一言一行。|Lǎoshī zhùyì xuésheng de yìyán-yìxíng.|The teacher pays attention to students' every word and deed.
+4949|Unit 83|一眼|yìyǎn|n.|a glance|我一眼就认出了她。|Wǒ yìyǎn jiù rènchū le tā.|I recognized her at a glance.
+4950|Unit 83|一应俱全|yíyìng-jùquán|idiom|everything needed is available|商店里商品一应俱全。|Shāngdiàn lǐ shāngpǐn yíyìng-jùquán.|The shop has everything one needs.
+4951|Unit 83|一早|yìzǎo|n.|early morning|奶奶一早就出门了。|Nǎinai yìzǎo jiù chūmén le.|Grandma went out early in the morning.
+4952|Unit 83|义工|yìgōng|n.|volunteer|他周末去做义工。|Tā zhōumò qù zuò yìgōng.|He volunteers on weekends.
+4953|Unit 83|议|yì|v.|discuss|我们明天再议这件事。|Wǒmen míngtiān zài yì zhè jiàn shì.|We will discuss this tomorrow.
+4954|Unit 83|议程|yìchéng|n.|agenda|会议议程已经确定。|Huìyì yìchéng yǐjīng quèdìng.|The meeting agenda has been set.
+4955|Unit 83|议会|yìhuì|n.|parliament|议会正在讨论新法律。|Yìhuì zhèngzài tǎolùn xīn fǎlǜ.|Parliament is discussing a new law.
+4956|Unit 83|议员|yìyuán|n.|legislator|这位议员提出了建议。|Zhè wèi yìyuán tíchū le jiànyì.|This legislator made a proposal.
+4957|Unit 83|屹立|yìlì|v.|stand tall|古塔屹立在山顶。|Gǔtǎ yìlì zài shāndǐng.|The ancient pagoda stands tall on the mountaintop.
+4958|Unit 83|亦|yì|adv.|also; too|他是老师，亦是作家。|Tā shì lǎoshī, yì shì zuòjiā.|He is a teacher and also a writer.
+4959|Unit 83|异口同声|yìkǒu-tóngshēng|idiom|in unison|大家异口同声地说好。|Dàjiā yìkǒu-tóngshēng de shuō hǎo.|Everyone said yes in unison.
+4960|Unit 83|异想天开|yìxiǎng-tiānkāi|idiom|wildly fanciful|别异想天开了。|Bié yìxiǎng-tiānkāi le.|Stop indulging in unrealistic fantasies.
+4961|Unit 83|异性|yìxìng|n.; adj.|opposite sex; heterosexual|她有很多异性朋友。|Tā yǒu hěn duō yìxìng péngyou.|She has many friends of the opposite sex.
+4962|Unit 83|异议|yìyì|n.|objection|如果没有异议，我们就开始。|Rúguǒ méiyǒu yìyì, wǒmen jiù kāishǐ.|If there are no objections, we will begin.
+4963|Unit 83|抑扬顿挫|yìyáng-dùncuò|idiom|rhythmic rise and fall|他说话抑扬顿挫。|Tā shuōhuà yìyáng-dùncuò.|His speech has a rhythmic rise and fall.
+4964|Unit 83|抑郁|yìyù|adj.|depressed|他最近有点儿抑郁。|Tā zuìjìn yǒudiǎnr yìyù.|He has felt somewhat depressed lately.
+4965|Unit 83|抑郁症|yìyùzhèng|n.|depression|抑郁症需要专业评估。|Yìyùzhèng xūyào zhuānyè pínggū.|Depression requires professional assessment.
+4966|Unit 83|抑制|yìzhì|v.|restrain; suppress|她努力抑制怒火。|Tā nǔlì yìzhì nùhuǒ.|She tried hard to suppress her anger.
+4967|Unit 83|译|yì|v.|translate|这本书被译成英语。|Zhè běn shū bèi yì chéng Yīngyǔ.|This book was translated into English.
+4968|Unit 83|易拉罐|yìlāguàn|n.|ring-pull can|请把易拉罐放进回收箱。|Qǐng bǎ yìlāguàn fàng jìn huíshōuxiāng.|Please put the can in the recycling bin.
+4969|Unit 83|疫苗|yìmiáo|n.|vaccine|科学家正在研发疫苗。|Kēxuéjiā zhèngzài yánfā yìmiáo.|Scientists are developing a vaccine.
+4970|Unit 83|益处|yìchù|n.|benefit|运动对健康有益处。|Yùndòng duì jiànkāng yǒu yìchù.|Exercise benefits health.
+4971|Unit 83|意料|yìliào|v.|expect; anticipate|这个结果在我的意料之中。|Zhège jiéguǒ zài wǒ de yìliào zhī zhōng.|This result was within my expectations.
+4972|Unit 83|意料之外|yìliào zhī wài|phrase|unexpectedly|结果完全在意料之外。|Jiéguǒ wánquán zài yìliào zhī wài.|The outcome was completely unexpected.
+4973|Unit 83|意图|yìtú|n.|intention|我不明白他的意图。|Wǒ bù míngbai tā de yìtú.|I do not understand his intention.
+4974|Unit 83|意向|yìxiàng|n.|intention; inclination|双方表达了合作意向。|Shuāngfāng biǎodá le hézuò yìxiàng.|Both sides expressed an intention to cooperate.
+4975|Unit 83|溢|yì|v.|overflow|水快从杯子里溢出来了。|Shuǐ kuài cóng bēizi lǐ yì chūlái le.|The water is about to overflow from the cup.
+4976|Unit 83|毅力|yìlì|n.|willpower; perseverance|她靠毅力坚持下来。|Tā kào yìlì jiānchí xiàlái.|She persevered through willpower.
+4977|Unit 83|毅然|yìrán|adv.|resolutely|他毅然决定留下来。|Tā yìrán juédìng liú xiàlái.|He resolutely decided to stay.
+4978|Unit 83|因人而异|yīnrén'éryì|idiom|vary from person to person|学习方法因人而异。|Xuéxí fāngfǎ yīnrén'éryì.|Learning methods vary from person to person.
+4979|Unit 83|阴暗|yīn'àn|adj.|dark; gloomy|房间有些阴暗。|Fángjiān yǒuxiē yīn'àn.|The room is somewhat gloomy.
+4980|Unit 83|阴性|yīnxìng|n.; adj.|negative test result; feminine gender|检测结果是阴性。|Jiǎncè jiéguǒ shì yīnxìng.|The test result was negative.
